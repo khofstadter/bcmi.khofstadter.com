@@ -3,10 +3,10 @@ repository:
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Brain Computer Music Interfacing Blog
+topnav_title: Brain Computer Music Interfacing
 # this appears on the top navigation bar next to the home button
 
-site_title: Brain Computer Music Interfacing Blog
+site_title: Brain Computer Music Interfacing
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: tEdör
