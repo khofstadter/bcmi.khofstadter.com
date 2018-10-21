@@ -1,0 +1,22 @@
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
+{% assign sorted_posts = category[1] | reversed %}
+<h3 id="{{category[0] | uri_escape | downcase }}">{{category[0]}}</h3>
+<ul>
+  {% for post in sorted_posts %}
+
+  {% capture url_to_use %}{{ post.url }}{% endcapture %}
+  {% if post.redirect_url %}
+    {% capture url_to_use %}{{ post.redirect_url }}{% endcapture %}
+  {% endif %}
+
+    <ul>
+      <a href="{{ url_to_use }}">{{ post.title }}</a>
+      {{ post.date | date: "%F" }}
+      <br>
+      {{ post.tags | join: ", "  }}
+    </ul>
+
+  {% endfor %}
+</ul>
+{% endfor %}

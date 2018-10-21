@@ -1,11 +1,15 @@
 ---
-title: "BCMI Home page"
-keywords: bcmi
-tags: [getting_started]
-sidebar: mydoc_sidebar
-permalink: index.html
-summary: nothing yet
+title: home
+layout: default
 ---
-Hello! 
 
-{% include links.html %}
+//under development;
+
+<br>
+
+Hello, my name is Krisztián Hofstädter. This website archives my work and interest in relation to Brain Computer Music Interfacing. I have just started adding things... 
+
+
+## research blog
+...
+{% include index-cron.html %}
