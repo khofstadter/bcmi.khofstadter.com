@@ -13,5 +13,3 @@ Hello, my name is Krisztián Hofstädter. This website archives my work and inte
 ## research blog
 ...
 {% include index-cron.html %}
-
-Bye for now. Again... test.

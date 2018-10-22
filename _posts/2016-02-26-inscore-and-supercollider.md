@@ -8,4 +8,4 @@ author: tEdör
 comment: true
 ---
 <br>
-I started experimenting with Richard Hoadley's [InScore](http://rhoadley.net/software/index.php) class for SuperCollider. [Code](../assets/doc/code/focusToInScore08.scd).
+Experimenting with Richard Hoadley's [InScore](http://rhoadley.net/software/index.php) class for SuperCollider. [Code](../assets/doc/code/focusToInScore08.scd).
