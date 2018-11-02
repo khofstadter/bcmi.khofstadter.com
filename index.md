@@ -3,9 +3,6 @@ title: BCMI
 layout: default
 ---
 ## archive of Krisztián Hofstädter
-
-<br>
-
 //under development;
 
 <br>
