@@ -1,7 +1,7 @@
 ---
 layout: post
-title: developing neuro-feedback music software for academic stress management and well being
-permalink: /developing-neuro-feedback-music-software-for-academic-stress-management-and-well-being/
+title: talk at Music Therapy Clinic
+permalink: /talk-at-music-therapy-clinic/
 categories: talk
 tags: [talk, music therapy clinic, ARU]
 author: tEdör

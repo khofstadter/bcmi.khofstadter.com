@@ -1,14 +1,14 @@
 ---
 layout: post
-title: developing BCMI software
-permalink: /developing-bcmi-software/
+title: sonic art lecture
+permalink: /sonic-art-lecture/
 categories: talk
 tags: [talk, demonstration, ARU]
 author: tEdör
 comment: true
 ---
 <br>
-General introduction to brain computer interfacing and demonstration of own research to a classroom of Sonic Art students.
+Sonic Art lecture introducing brain computer interfacing.
 <br>
 <br>
 ![](../assets/images/2016-03-demonstration-slide.jpg)

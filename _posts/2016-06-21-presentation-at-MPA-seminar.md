@@ -1,7 +1,7 @@
 ---
 layout: post
-title: BCMI software development for well-being
-permalink: /bcmi-software-development-for-well-being/
+title: presentation at MPA seminar
+permalink: /presentation-at-MPA-seminar/
 categories: talk
 tags: [talk, music therapy clinic, ARU]
 author: tEdör

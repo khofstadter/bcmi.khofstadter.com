@@ -1,7 +1,7 @@
 ---
 layout: post
-title: start of phd
-permalink: /start-of-phd/
+title: start of research
+permalink: /start-of-research/
 categories: event
 tags: [event]
 author: tEdör

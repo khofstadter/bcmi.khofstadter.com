@@ -8,7 +8,9 @@ author: tEdör
 comment: true
 ---
 <br>
-Standalone apps from SuperCollider code with Platypus. [Download](https://www.dropbox.com/sh/e0t9s2multmghgn/AACHhW9klylmyFcBixBAa0Ewa?dl=0).
+SuperCollider code exported into a standalone application with Platypus.
 <br>
 <br>
 ![](../assets/images/2016-03-04-standalone-with-platypus.jpg)
+<br><br>
+[Download](https://www.dropbox.com/sh/e0t9s2multmghgn/AACHhW9klylmyFcBixBAa0Ewa?dl=0).

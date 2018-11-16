@@ -1,7 +1,7 @@
 ---
 layout: post
-title: BCMI software development
-permalink: /bcmi-software-development/
+title: demo at musedelica symposium
+permalink: /demo-at-musedelica-symposium/
 categories: talk
 tags: [talk, musedelica symposium, sussex]
 author: tEdör

@@ -2,7 +2,7 @@
 title: BCMI
 layout: default
 ---
-## archive of Krisztián Hofstädter
+## research archive by [me](https://khofstadter.info)
 //under development;
 
 <br>
