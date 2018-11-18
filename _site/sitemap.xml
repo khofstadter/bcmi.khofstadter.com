@@ -61,6 +61,14 @@
 <lastmod>2018-07-09T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/openbci-and-greentek-cap/</loc>
+<lastmod>2018-07-19T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/festival-of-ideas/</loc>
+<lastmod>2018-10-24T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -110,5 +118,9 @@
 <url>
 <loc>http://localhost:4000/assets/doc/k_hofstadter_phd_2018_04_presentation.pdf</loc>
 <lastmod>2018-11-18T10:30:13+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/doc/k_hofstadter_php_2018_10_presentation.pdf</loc>
+<lastmod>2018-11-18T20:47:22+00:00</lastmod>
 </url>
 </urlset>
