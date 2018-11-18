@@ -11,6 +11,9 @@ comment: true
 I presented at the [Musedelica Symposium](http://musedelica.wixsite.com/symposium), University of Sussex.
 <br>
 <br>
+One slide:
+<br>
+<br>
 ![](../assets/images/2016-06-musedelica-presentation-slide.jpg)
 <br>
 <br>

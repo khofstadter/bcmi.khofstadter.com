@@ -1,6 +1,6 @@
 ---
 layout: post
-title: sonic art lecture
+title: guest talk to sonic art class
 permalink: /sonic-art-lecture/
 categories: talk
 tags: [talk, demonstration, ARU]
@@ -8,7 +8,10 @@ author: tEdör
 comment: true
 ---
 <br>
-Sonic Art lecture introducing brain computer interfacing.
+Talk introducing BCI in general to sonic art (CMT/ARU) students with some examples from my work.
+<br>
+<br>
+One slide:
 <br>
 <br>
 ![](../assets/images/2016-03-demonstration-slide.jpg)

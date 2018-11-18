@@ -8,7 +8,7 @@ author: tEdör
 comment: true
 ---
 <br>
-SuperCollider code exported into a standalone application with Platypus.
+I exported my SuperCollider code into a standalone application with Platypus.
 <br>
 <br>
 ![](../assets/images/2016-03-04-standalone-with-platypus.jpg)

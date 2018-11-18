@@ -1,6 +1,6 @@
 # Site settings
-title: "Brain Computer Music Interfacing"
-description: "Brain Computer Music Interfacing Blog"
+title: "Brain-Computer Music Interfacing"
+description: "Brain-Computer Music Interfacing Blog"
 baseurl: "" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
 
 # Build settings

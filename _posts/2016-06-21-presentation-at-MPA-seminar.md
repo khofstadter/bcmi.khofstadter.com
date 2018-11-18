@@ -11,6 +11,9 @@ comment: true
 I presented at the Music and Performing Arts Seminar in ARU.
 <br>
 <br>
+One slide:
+<br>
+<br>
 ![](../assets/images/2016-06-presentation-slide5.jpg)
 <br>
 <br>
