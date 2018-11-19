@@ -20,7 +20,5 @@ This interdisciplinary, practice-based research develops a Brain-Computer Music 
 <br>
 
 ## research blog
-I have just started adding the past... more to come soon.
 <br><br>
-...
 {% include index-cron.html %}
