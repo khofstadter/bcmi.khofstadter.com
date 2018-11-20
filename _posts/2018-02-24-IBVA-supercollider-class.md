@@ -3,7 +3,7 @@ layout: post
 title: IBVA supercollider class
 permalink: /ibva-supercollider-class/
 categories: programming
-tags: [talk, SuperCollider, GitHub]
+tags: [talk, SuperCollider, IBVA, GitHub]
 author: tEdör
 comment: true
 ---
