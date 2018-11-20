@@ -4,7 +4,7 @@ layout: default
 ---
 ## research archive by [me](https://khofstadter.info)
 //under development;
-<br>
+<br><br>
 Hello, my name is Krisztián Hofstädter. This website archives my work and interest in relation to Brain Computer Music Interfacing. I'm currently doing a PhD in Music at the Anglia Ruskin University, Cambridge.
 <br><br>
 ![](https://khofstadter.info/assets/images/khofstadter-by-marques-harding.jpg) photo by [Marques Hardin](https://www.facebook.com/mjhardin?fref=ts)
