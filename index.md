@@ -7,7 +7,7 @@ layout: default
 <br><br>
 Hello, my name is Krisztián Hofstädter. This website archives my work and interest in relation to Brain Computer Music Interfacing. I'm currently doing a PhD in Music at the Anglia Ruskin University, Cambridge.
 <br><br>
-![](https://khofstadter.info/assets/images/khofstadter_by_joo_hong.jpg) drawing by Joo Hong Low
+![](https://khofstadter.info/assets/images/khofstadter_by_joo_hong.jpg) drawing by [Joo Hong Low](https://www.coroflot.com/funcoco)
 <br><br>
 _PhD abstract:_
 <br>
