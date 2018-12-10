@@ -5,10 +5,6 @@
 <lastmod>2015-09-01T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/bci-udemy-course/</loc>
-<lastmod>2015-10-01T00:00:00+01:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/talk-at-music-therapy-clinic/</loc>
 <lastmod>2016-01-18T00:00:00+00:00</lastmod>
 </url>
@@ -71,6 +67,14 @@
 <url>
 <loc>http://localhost:4000/festival-of-ideas/</loc>
 <lastmod>2018-10-24T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/tibetan-singing-bowls-eeg/</loc>
+<lastmod>2018-11-21T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/asmr-eeg-tests/</loc>
+<lastmod>2018-11-28T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>

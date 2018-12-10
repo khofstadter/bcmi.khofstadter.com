@@ -9,5 +9,5 @@ comment: true
 ---
 <br>
 [Fredik Olofsson] made a SuperCollider class that reads the OpenBCI on the serial port.
-<br>
+<br><br>
 GitHub repo [here](https://github.com/krisztian-hofstadter-tedor/OpenBCI-SuperCollider).
