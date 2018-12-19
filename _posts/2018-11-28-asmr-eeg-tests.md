@@ -23,9 +23,9 @@ _Objectives:_
 _First analysis:_   
 By simply revisiting the data in the 3D waterfall visualization of the FFT I can reveal that:   
 1) participants' left hemispheres were more active, especially in the normal stage;   
-2) in the ASMR part, the overall activity of the EEGs was reduced compared to the first, normal stages;   
-3) this reduced activity continued to be in the EEG in the active listening stage;   
-4) there were no significant signs in the EEG that I could (at the moment) consider to be effects of the ASMR;
+2) in the ASMR part, the overall activity of the EEGs were reduced compared to the first, normal stages;   
+3) this reduced activity continued to be in the EEGs in the active listening stage;   
+4) there were no significant signs in the EEGs that I could (at the moment) consider to be effects of the ASMR;
 <br>
 <br>
 The study is part of a documentary about ASMR and hasn't been conducted with strict scientific guidelines. It has helped me to align and compare ideas behind how ASMR is thought to shift awareness with the ideas on how sound connected to meditation can help shift awareness in my BCMI research.
