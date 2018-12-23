@@ -14,7 +14,6 @@
   <h2>OpenBCI and Greentek gelfree cap</h2>
     Jul 19, 2018
 </header>
-
 <p><br />
  Video archives for the work with <a href="https://openbci.com/">OpenBCI</a> and the <a href="http://www.greenteksensor.com/eeg-caps/gel-free-eeg-electrode-cap/">Greentek Gelfree S EEG cap</a>.
 <br />
@@ -23,11 +22,46 @@
 <p><br /><br />
 OpenBCI forum discussion <a href="http://openbci.com/forum/index.php?p=/discussion/1663/greentek-gelfree-s-eeg-cap">here</a>.</p>
 
-<hr>
 
-  
+<br><br>
+  <div class="show-comments">
+    <button id="show-comments-button" onclick="disqus();return false;">show discussion</button>
+</div>
+
+<div id="disqus_thread"></div>
+
+<script>
+var disqus_loaded = false;
+var disqus_shortname  = 'bcmi-khofstadter';
+function disqus() {
+    if (!disqus_loaded)  {
+        disqus_loaded = true;
+        var e = document.createElement("script");
+        e.type = "text/javascript";
+        e.async = true;
+        e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+        (document.getElementsByTagName("head")[0] ||
+        document.getElementsByTagName("body")[0])
+        .appendChild(e);
+        //Hide the button after opening
+        document.getElementById("show-comments-button").style.display = "none";
+    }
+}
+//Opens comments when linked to directly
+var hash = window.location.hash.substr(1);
+if (hash.length > 8) {
+    if (hash.substring(0, 8) == "comment-") {
+        disqus();
+    }
+}
+//Remove this if you don't want to load comments for search engines
+if(/bot|google|baidu|bing|msn|duckduckgo|slurp|yandex/i.test(navigator.userAgent)) {
+   disqus();
+}
+</script>
 
 
+<br><br><br>
 
     
 <script>
