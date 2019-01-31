@@ -8,33 +8,40 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ## todo:
 
-* Conference:
-	* book train (Thursday afternoon -  Friday late evening)
-	* book conference
+AES Conference:
+* book ~~accommodation~~, ~~conference~~, train
 
-* did I register on E-vision?
-* earl clips and y cable - emailed Tony, check GreenTek site;
+
+ARU
+* did i register?
+
+Hardware
+* earl clips and y cable - ~~emailed Tony~~, check GreenTek site;
+* ~~new cap~~, emailed Greentek
 * borrow a router from uni;
 * how to test iPhone as a hotspot;
-* need to find out what others think about the softAP idea on forum and github;
+* what does openbci forum and github say about wifi-issues?
 
-* test sc;
-* test open_bci_gui_SDK (impedance issue);
+Software
+* test impedance with new electrodes; 
+* test sc files from Fredrik;
+* ~~test open_bci_gui_SDK (impedance issue)~~ working again;
+* redesign sequencer;
 
+Writting
 * organise literature folder;
 * check where the paper could be submitted;
 
 ## diary
 
 ### 2019 01 31 (Thu)
-- testing new, the softAP option doesn’t seem to be usable;
-- need to get a router to use for this project;
-- need to test iPhone as a hotspot
-- need to find out what others think about the softAP idea;
+- tested new softAP from Fredrik, doesn’t seem to be usable as there are too many lost packages;
+- tested new OpenBCI_GUI for [impedance issue](https://github.com/OpenBCI/OpenBCI_GUI/issues/427), they updated it, now it work.
+- there might be a problem with [EEG corrosion](assets/images/2019-01-31-eeg-corrosion.JPG), hence the high impedance I've been measuring;
 
 
 ### 2019 01 30 (Wed)
-- firmware update, quark update - test;
+- firmware [update](assets/images/2019-01-30-openbci-wifi-shield-update.JPG) with FTDI cable, quark update - test;
 - issues with distance and connection between shield/router/computer
 
 ### 2019 01 28 (Mon)
