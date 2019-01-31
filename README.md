@@ -1,8 +1,4 @@
----
-title: bcmi log
-layout: post
-permalink: /log/
----
+# Logbook
 
 This README.md acts as the logbook for the project.
 
