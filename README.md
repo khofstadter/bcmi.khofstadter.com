@@ -4,6 +4,10 @@ layout: post
 permalink: /log/
 ---
 
+This README.md acts as the logbook for the project.
+
+## todo:
+
 * Conference:
 	* book train (Thursday afternoon -  Friday late evening)
 	* book conference
@@ -23,6 +27,7 @@ fredrik stuff needs more testing (wifi helpful);
 
 openbci stuff needs testing;
 
+## diary
 
 2019 01 31
 testing new - the softAP option doesn’t seem to be usable;
