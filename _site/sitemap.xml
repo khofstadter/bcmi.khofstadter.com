@@ -80,6 +80,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/log/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/assets/doc/k_hofstadter_phd_2015_09_research_proposal_v07.pdf</loc>
 <lastmod>2015-03-12T11:50:13+00:00</lastmod>
 </url>

@@ -1,8 +1,7 @@
-
-/* @import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500'; */
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
 
 html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, blockquote, pre,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -14,7 +13,7 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-  /* margin: 0; */
+  margin: 0;
   padding: 0;
   border: 0;
   font-weight:normal;
@@ -31,13 +30,9 @@ footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
-ul, li {
-  list-style: circle;
-  padding-left: 16px;
-  margin: 10px 0;
+ol, ul {
+  list-style: none;
 }
-
-
 blockquote, q {
   quotes: none;
 }
@@ -57,7 +52,6 @@ body {
   max-width: 35em;
   padding: 0.5em 0.5em;
   color: #566b78;
-  line-height: 1.3;
 }
 
 h1 {
@@ -72,7 +66,7 @@ h2 {
 }
 
 h3 {
-    font-size: 105%;
+    font-size: 120%;
     margin-top: 1em;
     margin-bottom: 0.2em;
     color: #333;
@@ -91,9 +85,6 @@ em {
   font-style: italic;
 }
 
-.date {
-color: #333;
-}
 
 /* responsive images */
 img {
@@ -105,53 +96,4 @@ img {
 ul {
   list-style: none;
   margin-bottom: 0.5em;
-}
-
-/* iframe */
-.myIframe {
-     position: relative;
-     padding-bottom: 65.25%;
-     padding-top: 30px;
-     height: 0;
-     overflow: auto;
-     -webkit-overflow-scrolling:touch; //<<--- THIS IS THE KEY
-     border: solid black 1px;
-}
-.myIframe iframe {
-     position: absolute;
-     top: 0;
-     left: 0;
-     width: 100%;
-     height: 100%;
-}
-
-/* collapsible from http://bernholdtech.blogspot.com/2013/04/very-simple-pure-css-collapsible-list.html */
-
-.collapsibleList li > input + * {
-display: none;
-padding: 0.3em;
-}
-
-.collapsibleList li > input:checked + * {
-display: block;
-}
-
-.collapsibleList li > input {
-display: none;
-}
-
-.collapsibleList label {
-cursor: pointer;
-}
-
-
-code,
-pre {
-  background: #f5f7f9;
-  border-bottom: 1px solid #d8dee9;
-  color: #a7adba;
-}
-
-pre {
-  border-left: 2px solid #69c;
 }
