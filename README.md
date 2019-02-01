@@ -8,14 +8,14 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ## todo:
 
+often:
+- check news on open bci forum and github
+
 AES Conference:
 * book ~~accommodation~~, ~~conference~~, train
 
-
-ARU
-* did i register?
-
 Hardware
+* understand UDP, TCP and OSC; 
 * earl clips and y cable - ~~emailed Tony~~, check GreenTek site;
 * ~~new cap~~, emailed Greentek
 * borrow a router from uni;
@@ -23,7 +23,7 @@ Hardware
 * what does openbci forum and github say about wifi-issues?
 
 Software
-* test impedance with new electrodes; 
+* test impedance with new electrodes;
 * test sc files from Fredrik;
 * ~~test open_bci_gui_SDK (impedance issue)~~ working again;
 * redesign sequencer;
@@ -31,8 +31,19 @@ Software
 Writting
 * organise literature folder;
 * check where the paper could be submitted;
+* organise resources page;
+
+ARU
+* did i register?
+* 3d printing
 
 ## diary
+
+### 2019 02 01 (Fri)
+
+- conversations about corrosion on EEG electrodes;
+
+
 
 ### 2019 01 31 (Thu)
 - tested new softAP from Fredrik, doesn’t seem to be usable as there are too many lost packages;
