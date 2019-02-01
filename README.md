@@ -15,7 +15,7 @@ AES Conference:
 * book ~~accommodation~~, ~~conference~~, train
 
 Hardware
-* understand UDP, TCP and OSC; 
+* understand UDP, TCP and OSC;
 * earl clips and y cable - ~~emailed Tony~~, check GreenTek site;
 * ~~new cap~~, emailed Greentek
 * borrow a router from uni;
@@ -33,6 +33,9 @@ Writting
 * check where the paper could be submitted;
 * organise resources page;
 
+Website
+* add menu: resources, link to github
+
 ARU
 * did i register?
 * 3d printing
@@ -42,6 +45,7 @@ ARU
 ### 2019 02 01 (Fri)
 
 - conversations about corrosion on EEG electrodes;
+- checking forum and github issues;
 
 
 
