@@ -1,4 +1,4 @@
-# Logbook
+accelerometer# Logbook
 
 This README.md acts as the logbook for the project.
 
@@ -15,23 +15,41 @@ AES Conference:
 * book ~~accommodation~~, ~~conference~~, train
 
 Hardware
-* understand UDP, TCP and OSC;
-* earl clips and y cable - ~~emailed Tony~~, check GreenTek site;
-* ~~new cap~~, emailed Greentek
-* borrow a router from uni;
+* ~~earl clips~~ find y cable - ~~emailed Tony, check GreenTek site~~, ask Ian, can one side be OK as well? - [amazon](https://www.amazon.com/DGSUS-Single-Splitter-Workstation-Motherboard/dp/B07KQQGPG7/ref=sr_1_3?ie=UTF8&qid=1549643543&sr=8-3&keywords=jumper+wire+splitter);
+* ~~new cap, emailed Greentek~~ invoice asked for;
+* ~~borrow~~ <mark>get a router</mark> ~~from uni~~;
 * how to test iPhone as a hotspot;
 * what does openbci forum and github say about wifi-issues?
+* <mark> research battery</mark>; buy one on amazon?
+* how to involve the accelerometer in the measurements?;
+* can an external accelerometer be used for feedback like in Daly paper - or perhaps just a simple pot meter, buttons;
+
+Headware
+* get water that is needed <mark> - is filtered or normal water better? </mark>
+* how to clean the shell?
+* does anything in the shell corrode?
+* print enclosure - which is good for cyton+wifi+battery?
+* print old model;
+
 
 Software
-* test impedance with new electrodes;
+* ~~test impedance with new electrodes~~;
 * test sc files from Fredrik;
 * ~~test open_bci_gui_SDK (impedance issue)~~ working again;
-* redesign sequencer;
+* <mark>redesign sequencer</mark>;
 
-Writting
+NF / soundscapes
+* shall we add deep meditation to focus and mindfulness?
+* how does Jeff Strong know the accurate BPS?
+* check what HemySync used in their training e.g what sounds they add, what BPS/hz they use, how it is shifted;
+* do we ask the listener to 'listen' to the music, or shall it be in the background ([like when problem solving](https://www.youtube.com/watch?v=whYGDvNohzo))?
+* polymetre vs polyrhythm;
+
+Writing
 * organise literature folder;
 * check where the paper could be submitted;
 * organise resources page;
+* compare jeff, binaural, isotropic, ...
 
 Website
 * add menu: resources, link to github
@@ -42,10 +60,32 @@ ARU
 
 ## diary
 
+### 2019 02 07 (Fri)
+continue with Jeff Strong videos and notes;
+thinking about odd meters and tempo changes (speed up or down) in SC;
+
+### 2019 02 07 (Thu)
+research on Jeff Strong and his drumming techniques;   
+more on coming blog post 'jeff strong';
+testing new sc widgets that look like OpenBCI GUI widgets;
+
+### 2019 02 06 (Wed)
+started redesigning the TempoClock part of the seq;
+
+### 2019 02 04 (Mon)
+Test new code from Fredrik.
+
+### 2019 02 03 (Sun)
+OpenBCI-SuperCollider update test (bcmi diary 11 video:https://youtu.be/hjnweAmfmm0)
+
 ### 2019 02 01 (Fri)
 
 - conversations about corrosion on EEG electrodes;
 - checking forum and github issues;
+- tested impedence with openbci_gui and greentek, i expected a difference between the electrode heads with the black flap and the once which seem to look brand new with the silver part, but after having experimented for a while, they delivered similar results. now.
+	- I move the reference electrode back to REF from CZ, and it seemed to reduce the impedance (WHY?);
+	- let's try brand new sponges;
+	- let's check the water, i've used normal water;
 
 
 
