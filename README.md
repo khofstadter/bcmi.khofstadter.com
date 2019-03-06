@@ -16,20 +16,20 @@ AES Conference:
 
 Hardware
 * ~~earl clips~~ find y cable - ~~emailed Tony, check GreenTek site~~, ask Ian, can one side be OK as well? - [amazon](https://www.amazon.com/DGSUS-Single-Splitter-Workstation-Motherboard/dp/B07KQQGPG7/ref=sr_1_3?ie=UTF8&qid=1549643543&sr=8-3&keywords=jumper+wire+splitter);
-* ~~new cap, emailed Greentek~~ invoice asked for;
-* ~~borrow~~ <mark>get a router</mark> ~~from uni~~;
+* ~~new cap, emailed Greentek~~ invoice asked for, how much would be saved with shipping to Yunnan~~;
+* ~~wifi router ordered~~
 * how to test iPhone as a hotspot;
 * what does openbci forum and github say about wifi-issues?
 * <mark> research battery</mark>; buy one on amazon?
 * how to involve the accelerometer in the measurements?;
-* can an external accelerometer be used for feedback like in Daly paper - or perhaps just a simple pot meter, buttons;
+* can the accelerometer on board be used instead of FEELTRACE? probably not, there should be an external system for this, as the head movement might make use feel different - ask Daly;
 
 Headware
 * get water that is needed <mark> - is filtered or normal water better? </mark>
 * how to clean the shell?
 * does anything in the shell corrode?
 * print enclosure - which is good for cyton+wifi+battery?
-* print old model;
+* print rest of the old model?;
 
 
 Software
@@ -37,6 +37,7 @@ Software
 * test sc files from Fredrik;
 * ~~test open_bci_gui_SDK (impedance issue)~~ working again;
 * <mark>redesign sequencer</mark>;
+* visualisation like spectral data for pace of live drumming 
 
 NF / soundscapes
 * shall we add deep meditation to focus and mindfulness?
@@ -44,6 +45,7 @@ NF / soundscapes
 * check what HemySync used in their training e.g what sounds they add, what BPS/hz they use, how it is shifted;
 * do we ask the listener to 'listen' to the music, or shall it be in the background ([like when problem solving](https://www.youtube.com/watch?v=whYGDvNohzo))?
 * polymetre vs polyrhythm;
+* Sufi music;
 
 Writing
 * organise literature folder;
@@ -59,6 +61,25 @@ ARU
 * 3d printing
 
 ## diary
+
+### 2019 02 26 (Wed)
+Experimenting with auto trim/split in Reaper. Fine adjustments to this tool are needed in order to do loads of manual tasks.
+
+- todo: need to find out how to record this instrument (get in touch with Gareth, Matt and Mark);
+- discussion [here](https://www.gearslutz.com/board/so-much-gear-so-little-time/183935-mic-selection-bodhran.html);
+
+### 2019 02 26 (Tue)
+Recordings of frame drum in ARU studio. 
+
+### 2019 02 11-14 (Tue-Thu)
+Jeff Strong's Drumming course: pre course and first week done, frame drum ordered, practicing basic patterns;  
+rewriting tempoClock in new software;
+ideas for listening test (more in email to Fredik subject: quick update)
+
+Read on AI and D R Hofstadter: https://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/
+
+### 2019 02 10 (Mon)
+Enrolled on Jeff Strong's Drumming Course. Trying to ask them to make it all available.
 
 ### 2019 02 07 (Fri)
 continue with Jeff Strong videos and notes;

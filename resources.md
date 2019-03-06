@@ -23,3 +23,7 @@ Search for more on [1](https://www.thingiverse.com/search?q=openbci&dwh=225c5b03
 ## Brain entrainment
 
 Reddit ([1](https://www.reddit.com/r/Nootropics/comments/agfzbb/your_thoughts_on_brain_entrainment_the_digital/))
+
+## Online courses
+
+* Fundamentals of Neuroscience, [Part 1: The Electrical Properties of the Neuron] (https://online-learning.harvard.edu/course/fundamentals-neuroscience-part-1-electrical-properties-neuron?utm_campaign=harvardx-email-campaign&utm_medium=email&utm_source=harvardx&delta=0&_ke=eyJrbF9lbWFpbCI6ICJ0ZWRvcjJAZ21haWwuY29tIiwgImtsX2NvbXBhbnlfaWQiOiAiQVBXTnU0In0%3D), [part 2](https://online-learning.harvard.edu/course/fundamentals-neuroscience-part-2-neurons-and-networks?delta=0), [part 3](https://online-learning.harvard.edu/course/fundamentals-neuroscience-part-3-brain?delta=0)
