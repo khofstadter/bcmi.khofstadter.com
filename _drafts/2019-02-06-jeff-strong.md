@@ -279,6 +279,12 @@ maybe 4 loops of each;
 ### Week 3 video 3-4
 #### Trance Drumming Rhythm 2-3
 
+#### Trance Meditation video 1
+9/8 
+
+#### Trance Meditation video 2
+
+
 check pdf; 
 
 ---

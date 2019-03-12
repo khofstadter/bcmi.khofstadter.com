@@ -1,4 +1,4 @@
-accelerometer# Logbook
+# Logbook
 
 This README.md acts as the logbook for the project.
 
@@ -8,38 +8,40 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ## todo:
 
-often:
+often
+
 - check news on open bci forum and github
 
-AES Conference:
-* book ~~accommodation~~, ~~conference~~, train
+AES Conference
+
+* book train;
 
 Hardware
-* ~~earl clips~~ find y cable - ~~emailed Tony, check GreenTek site~~, ask Ian, can one side be OK as well? - [amazon](https://www.amazon.com/DGSUS-Single-Splitter-Workstation-Motherboard/dp/B07KQQGPG7/ref=sr_1_3?ie=UTF8&qid=1549643543&sr=8-3&keywords=jumper+wire+splitter);
-* ~~new cap, emailed Greentek~~ invoice asked for, how much would be saved with shipping to Yunnan~~;
-* ~~wifi router ordered~~
+
+* find y cable, ask Ian, can one side be OK as well? - [amazon](https://www.amazon.com/DGSUS-Single-Splitter-Workstation-Motherboard/dp/B07KQQGPG7/ref=sr_1_3?ie=UTF8&qid=1549643543&sr=8-3&keywords=jumper+wire+splitter);
+* Greentek cap - ship to Yunnan?
 * how to test iPhone as a hotspot;
 * what does openbci forum and github say about wifi-issues?
-* <mark> research battery</mark>; buy one on amazon?
+* research battery,  buy one on amazon?
 * how to involve the accelerometer in the measurements?;
-* can the accelerometer on board be used instead of FEELTRACE? probably not, there should be an external system for this, as the head movement might make use feel different - ask Daly;
+* can the accelerometer on board be used instead of FEELTRACE? probably not, there should be an external system for this, as the head movement might make use feel different;
 
 Headware
-* get water that is needed <mark> - is filtered or normal water better? </mark>
+
+* what water is best (normal, filtered)?
 * how to clean the shell?
 * does anything in the shell corrode?
 * print enclosure - which is good for cyton+wifi+battery?
-* print rest of the old model?;
 
 
 Software
-* ~~test impedance with new electrodes~~;
-* test sc files from Fredrik;
-* ~~test open_bci_gui_SDK (impedance issue)~~ working again;
-* <mark>redesign sequencer</mark>;
-* visualisation like spectral data for pace of live drumming 
+
+* experiment with impedence (new shell/sponge, diff locations, etc.)
+* redesign sequencer;
+* visualisation like spectral data for pace of live drumming;
 
 NF / soundscapes
+
 * shall we add deep meditation to focus and mindfulness?
 * how does Jeff Strong know the accurate BPS?
 * check what HemySync used in their training e.g what sounds they add, what BPS/hz they use, how it is shifted;
@@ -48,25 +50,37 @@ NF / soundscapes
 * Sufi music;
 
 Writing
+
 * organise literature folder;
 * check where the paper could be submitted;
 * organise resources page;
 * compare jeff, binaural, isotropic, ...
 
 Website
+
 * add menu: resources, link to github
 
 ARU
+
 * did i register?
 * 3d printing
 
 ## diary
+
+### 2019 03 10-11
+- tested new code from fredrik ([youtube](https://youtu.be/RCZW0JGjzWI));
+- fine tuned order of execution with OpenBCI_GUI ([youtube](https://youtu.be/RTf_jXjlWbM));
+- fine tuning designated OS;
+
+### 2019 03 7 (Thu)
+- making sample pack;
 
 ### 2019 02 26 (Wed)
 Experimenting with auto trim/split in Reaper. Fine adjustments to this tool are needed in order to do loads of manual tasks.
 
 - todo: need to find out how to record this instrument (get in touch with Gareth, Matt and Mark);
 - discussion [here](https://www.gearslutz.com/board/so-much-gear-so-little-time/183935-mic-selection-bodhran.html);
+
 
 ### 2019 02 26 (Tue)
 Recordings of frame drum in ARU studio. 
