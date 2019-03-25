@@ -20,7 +20,8 @@ LR (perhaps coded as 0 and 1)
 
 
 todo:
-- ~~make/buy a frame drum : 16'' Remo Frame drum;~~
+- is there a map/doc for the rhythms associated with the spirits; 
+- how do BPMs fit with the entrainment reagee to drum and bass; 
 - theta state, alpha state - is there a state where there is both or more present and perhaps there is an EEG shape;
 - who is his second teacher (the shaman drummer?)
 - Buddhist monks can go in deep theta and high delta (REF?)
@@ -28,6 +29,7 @@ todo:
 - How to go in the lower and the upper world?
 - trance music and trance drumming? what is the relationship?
 - make a diagram that shows 0 - 14 hz, devides it into brain rhythms, and illustrates what these brainwaves are for, more internal, more external, more self, less self, ... << not black and white, it's like jin and jang >>>
+- Hi Jeff. What difficulties can we face when drumming in our heads [internally] in order to shift awareness - similarly to how you do with the REI program/drum healing?﻿
 
 ## summary
 
@@ -47,6 +49,9 @@ In connection to the two neuroMeditation techniques investigated in my PhD I hav
 - higher, we need to add more variations;
 - same temp, same rhythm with some accents is already more complex;
 - think about [polymetre](https://www.youtube.com/watch?v=spTQa6q4nxU) (polymetre vs polyrhythm (https://music.stackexchange.com/questions/10488/polymeter-vs-polyrhythm)?)
+
+3) ambient sounds
+- why are there ambient sounds? does drumming overstimulate? https://www.youtube.com/watch?v=B6hu6oXaau8  It tones down the intensitity of the drumming. 
 
 beat per second (BPS)= Herz in EEG   
 6 BPS = mid-theta   
@@ -283,9 +288,17 @@ maybe 4 loops of each;
 9/8 
 
 #### Trance Meditation video 2
-
-
 check pdf; 
+
+
+### Week 3 Community and Ceremonial Drumming
+- most healing drumming uses theta, sometimes they go into alpha a bit, but not for long, usually mid theta; 
+- in a healing ceremony, you need to get the cool/heat balance right; if it's too hot, people get possessed. 
+- archetypes of certain spirits; 
+- start cool, add 'orchestration' i.e. different notes, later some more variety; 
+
+#### Ceremonial Ensemble Rhythm in 4/4
+
 
 ---
 
