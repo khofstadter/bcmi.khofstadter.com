@@ -1,7 +1,7 @@
 ---
 layout: post
-title: IBVA supercollider class
-permalink: /ibva-supercollider-class/
+title: IBVA SuperCollider
+permalink: /ibva-supercollider/
 categories: programming
 tags: [talk, SuperCollider, IBVA, GitHub]
 author: tEdör
