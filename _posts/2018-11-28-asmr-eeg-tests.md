@@ -16,7 +16,9 @@ I used two [IBVA](http://ibva.co.uk/) hardware to record EEG of six participants
 5 min active listening - eyes open   
 5 min active listening - eyes closed   
 <br><br>
-_Objectives:_  
+![](../assets/images/2018-11-28-asmr-eeg-01.jpg)
+<br><br>
+_Objectives:_   
 1) Can we see effects of the ASMR soundtrack in the EEG?   
 2) Can these effects be sustained in the the active listening part?
 <br><br>
@@ -30,7 +32,4 @@ By simply revisiting the data in the 3D waterfall visualization of the FFT I can
 <br>
 The study is part of a documentary about ASMR and hasn't been conducted with strict scientific guidelines. It has helped me to align and compare ideas behind how ASMR is thought to shift awareness with the ideas on how sound connected to meditation can help shift awareness in my BCMI research.
 <br><br>
-![](../assets/images/2018-11-28-asmr-eeg-01.jpg)
-<br>
-<br>
 ![](../assets/images/2018-11-28-asmr-eeg-02.jpg)
