@@ -1,4 +1,4 @@
-variability---
+---
 layout: post
 title: jeff strong
 permalink: jeff strong
@@ -8,20 +8,19 @@ author: tEdör
 comment: true
 ---
 
-system: 
+system:
 0 - muted tone   
 1 - open tone   
 2 - bass tone   
 3 - slap tone
 
-LR (perhaps coded as 0 and 1) 
-
+LR (perhaps coded as 0 and 1)
 
 
 
 todo:
-- is there a map/doc for the rhythms associated with the spirits; 
-- how do BPMs fit with the entrainment reagee to drum and bass; 
+- is there a map/doc for the rhythms associated with the spirits;
+- how do BPMs fit with the entrainment reagee to drum and bass;
 - theta state, alpha state - is there a state where there is both or more present and perhaps there is an EEG shape;
 - who is his second teacher (the shaman drummer?)
 - Buddhist monks can go in deep theta and high delta (REF?)
@@ -51,7 +50,7 @@ In connection to the two neuroMeditation techniques investigated in my PhD I hav
 - think about [polymetre](https://www.youtube.com/watch?v=spTQa6q4nxU) (polymetre vs polyrhythm (https://music.stackexchange.com/questions/10488/polymeter-vs-polyrhythm)?)
 
 3) ambient sounds
-- why are there ambient sounds? does drumming overstimulate? https://www.youtube.com/watch?v=B6hu6oXaau8  It tones down the intensitity of the drumming. 
+- why are there ambient sounds? does drumming overstimulate? https://www.youtube.com/watch?v=B6hu6oXaau8  It tones down the intensitity of the drumming.
 
 beat per second (BPS)= Herz in EEG   
 6 BPS = mid-theta   
@@ -252,29 +251,29 @@ RLL RRL RLL RRL (10 01 10 01)
 ---
 
 ### Week 3 video 1
-Trance drumming has some more variability than shamanic drumming. Maybe it has the same tempo, but the rhythm changes. Many times dance go with it. The tempo can be between 2 - 8hz. A lot of odd meter. As with the shamanic journeying we need at least 10 minutes for an effect, with trance drumming at least 5 minutes. Here with Jeff it's a little bit faster than shamanic drumming. Theta is an internally directed, here is healing, therapy happening. Intuition, creative, problem solving. 
+Trance drumming has some more variability than shamanic drumming. Maybe it has the same tempo, but the rhythm changes. Many times dance go with it. The tempo can be between 2 - 8hz. A lot of odd meter. As with the shamanic journeying we need at least 10 minutes for an effect, with trance drumming at least 5 minutes. Here with Jeff it's a little bit faster than shamanic drumming. Theta is an internally directed, here is healing, therapy happening. Intuition, creative, problem solving.
 
-Some people don't play the muted tones. Jeff likes to include them, because it helps to create the pattern. 
+Some people don't play the muted tones. Jeff likes to include them, because it helps to create the pattern.
 
-Most basic pattern: 
+Most basic pattern:
 
 200 1010 100
 RLL RLRL RLL
 
 * may seem boring, but it's not;
-* don't change the tempo and the rhythm much; 
-* It needs to be repetitive; 
-* stick to the pattern for 5-10 minutes, for max 6bps; 
+* don't change the tempo and the rhythm much;
+* It needs to be repetitive;
+* stick to the pattern for 5-10 minutes, for max 6bps;
 
 ### Week 3 video 2
 #### Trance Drumming Rhythm 1
 Ancient trance drumming used frame drums.
 
-5/8 
+5/8
 RLL RLRL RLL
 200 1010 100
 
-varied with: 
+varied with:
 
 RLL RRRL RLL
 200 1100 100
@@ -285,17 +284,17 @@ maybe 4 loops of each;
 #### Trance Drumming Rhythm 2-3
 
 #### Trance Meditation video 1
-9/8 
+9/8
 
 #### Trance Meditation video 2
-check pdf; 
+check pdf;
 
 
 ### Week 3 Community and Ceremonial Drumming
-- most healing drumming uses theta, sometimes they go into alpha a bit, but not for long, usually mid theta; 
-- in a healing ceremony, you need to get the cool/heat balance right; if it's too hot, people get possessed. 
-- archetypes of certain spirits; 
-- start cool, add 'orchestration' i.e. different notes, later some more variety; 
+- most healing drumming uses theta, sometimes they go into alpha a bit, but not for long, usually mid theta;
+- in a healing ceremony, you need to get the cool/heat balance right; if it's too hot, people get possessed.
+- archetypes of certain spirits;
+- start cool, add 'orchestration' i.e. different notes, later some more variety;
 
 #### Ceremonial Ensemble Rhythm in 4/4
 

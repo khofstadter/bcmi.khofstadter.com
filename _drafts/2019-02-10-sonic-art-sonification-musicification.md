@@ -1,4 +1,4 @@
-variability---
+---
 layout: post
 title: sonic art, sonification and musification, art and science
 permalink: sonic art,
