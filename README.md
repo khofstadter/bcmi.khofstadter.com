@@ -9,7 +9,8 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ## todo:
 
 - test wifi with new sc code;
-- understand sc code; 
+- understand sc code;
+- write a questionnaire for 1) NF 2) meditators 3)
 
 often
 - check news on open bci forum and github
@@ -17,7 +18,6 @@ often
 Hardware
 
 * find y cable, ask Ian, can one side be OK as well? - [amazon](https://www.amazon.com/DGSUS-Single-Splitter-Workstation-Motherboard/dp/B07KQQGPG7/ref=sr_1_3?ie=UTF8&qid=1549643543&sr=8-3&keywords=jumper+wire+splitter);
-* Greentek cap - ship to Yunnan?
 * how to test iPhone as a hotspot;
 * what does openbci forum and github say about wifi-issues?
 * research battery,  buy one on amazon?
@@ -65,9 +65,16 @@ ARU
 
 ## diary
 
-### 2019 03 18-25
-- testing code from Fredrik (bcmi diary 18-21); mainly comparing fft plots in OpenBCI and SuperCollider; 
-- brainstorming about the idea of having our own bci kit (that we sell); 
+### 2019 04 01
+- testing new code;
+- writing business proposal for Andy Wilson Application;
+
+### 2019 03 29
+- demonstration at [AES Immersive and Interactive Media Conference](http://www.aes.org/conferences/2019/immersive/), York
+
+### 2019 03 18-28
+- testing code from Fredrik (bcmi diary 18-21); mainly comparing fft plots in OpenBCI and SuperCollider;
+- brainstorming about the idea of having our own bci kit (that we sell);
 
 ### 2019 03 10-11
 - tested new code from fredrik ([youtube](https://youtu.be/RCZW0JGjzWI));
@@ -85,8 +92,8 @@ Experimenting with auto trim/split in Reaper. Fine adjustments to this tool are 
 
 
 ### 2019 02 26 (Tue)
-- Recordings of frame drum in ARU studio. 
-- Checking 3d printer in the ARU. 
+- Recordings of frame drum in ARU studio.
+- Checking 3d printer in the ARU.
 - thinking about the accelerometer on board be used instead of FEELTRACE? probably not, there should be an external system for this, as the head movement might make use feel different;
 
 ### 2019 02 11-14 (Tue-Thu)
