@@ -27,3 +27,13 @@ Reddit ([1](https://www.reddit.com/r/Nootropics/comments/agfzbb/your_thoughts_on
 ## Online courses
 
 * Fundamentals of Neuroscience, [Part 1: The Electrical Properties of the Neuron] (https://online-learning.harvard.edu/course/fundamentals-neuroscience-part-1-electrical-properties-neuron?utm_campaign=harvardx-email-campaign&utm_medium=email&utm_source=harvardx&delta=0&_ke=eyJrbF9lbWFpbCI6ICJ0ZWRvcjJAZ21haWwuY29tIiwgImtsX2NvbXBhbnlfaWQiOiAiQVBXTnU0In0%3D), [part 2](https://online-learning.harvard.edu/course/fundamentals-neuroscience-part-2-neurons-and-networks?delta=0), [part 3](https://online-learning.harvard.edu/course/fundamentals-neuroscience-part-3-brain?delta=0)
+
+## companies
+
+* https://brainboost.de/
+
+
+## books
+* https://www.amazon.co.uk/Fundamentals-Brain-Network-Analysis-Fornito/dp/0124079083/ref=sr_1_fkmrnull_1?keywords=fundamentals+of+brain+network+analysis&qid=1554375110&s=gateway&sr=8-1-fkmrnull
+* 
+
