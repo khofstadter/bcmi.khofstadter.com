@@ -8,12 +8,14 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ## todo:
 
-- test wifi with new sc code;
-- understand sc code;
-- write a questionnaire for 1) NF 2) meditators 3)
+- crisscross data between sc and processing;
+- try to play a large file back in sc;
+- experiment with new Wifi shield; 
+- finish REI and implement more in sequencers; 
+- write a questionnaire for 1) NF 2) meditators 3);
 
 often
-- check news on open bci forum and github
+- check news on open bci forum and github; 
 
 Hardware
 
@@ -64,6 +66,18 @@ ARU
 ---
 
 ## diary
+
+### 2019 05 10 
+Rehearsing Aphorisms in Recital Hall:  
+- Wireless Router cannot be next to the wall. 
+- Frame drum might not work here with the style;
+- tried REF on ear, seems to work; 
+- question: what sounds, when? 
+
+### 2019 04 14
+- testing new wifi firmware (osc); 
+- testing new code that comes with it;    
+// all works; 
 
 ### 2019 04 01
 - testing new code;

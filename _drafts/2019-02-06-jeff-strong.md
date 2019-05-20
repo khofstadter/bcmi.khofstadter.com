@@ -48,6 +48,7 @@ In connection to the two neuroMeditation techniques investigated in my PhD I hav
 - higher, we need to add more variations;
 - same temp, same rhythm with some accents is already more complex;
 - think about [polymetre](https://www.youtube.com/watch?v=spTQa6q4nxU) (polymetre vs polyrhythm (https://music.stackexchange.com/questions/10488/polymeter-vs-polyrhythm)?)
+- unpredictable patterns help focus, it helps the brain to be engaged (week 6 - focus rhythm study); 
 
 3) ambient sounds
 - why are there ambient sounds? does drumming overstimulate? https://www.youtube.com/watch?v=B6hu6oXaau8  It tones down the intensitity of the drumming.
@@ -297,6 +298,15 @@ check pdf;
 - start cool, add 'orchestration' i.e. different notes, later some more variety;
 
 #### Ceremonial Ensemble Rhythm in 4/4
+
+### Week 4 
+#### Ceremonial Ensemble Rhythm in 12/8
+#### 12/8 Bell Pattern and Clave
+- religious vs secular music?
+
+
+
+
 
 
 ---
