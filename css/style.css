@@ -22,6 +22,10 @@ time, mark, audio, video {
   font-size: 100%;
   line-height:1;
   /* font-family:inherit; */
+  /*
+  Web safe fonts: https://www.cssfontstack.com/
+  Thin about readility and fallbacks.
+  */
   font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
   vertical-align: baseline;
 }
@@ -34,8 +38,9 @@ footer, header, hgroup, menu, nav, section {
 
 ul, li {
   list-style: circle;
-  padding-left: 16px;
-  margin: 10px 0;
+  padding-left: 5px;
+  margin: 3px 0;
+  overflow: hidden;
 }
 
 blockquote {
@@ -121,13 +126,6 @@ img.noresize {
 }
 
 
-
-/* lists */
-ul {
-  list-style: none;
-  margin-bottom: 0.5em;
-}
-
 /* iframe */
 .myIframe {
      position: relative;
@@ -146,26 +144,6 @@ ul {
      height: 100%;
 }
 
-/* collapsible from http://bernholdtech.blogspot.com/2013/04/very-simple-pure-css-collapsible-list.html */
-
-.collapsibleList li > input + * {
-display: none;
-padding: 0.3em;
-}
-
-.collapsibleList li > input:checked + * {
-display: block;
-}
-
-.collapsibleList li > input {
-display: none;
-}
-
-.collapsibleList label {
-cursor: pointer;
-}
-
-
 code,
 pre {
   background: #f5f7f9;
@@ -175,4 +153,36 @@ pre {
 
 pre {
   border-left: 2px solid #69c;
+}
+
+/* collapsible radio list
+https://stackoverflow.com/questions/56241046/checking-one-checkbox-closes-all-other-checkboxes-in-html-css/56243376#56243376
+*/
+
+.node {
+  display: none
+}
+
+label {
+  cursor: pointer
+}
+
+
+.node+label+ul li {
+  visibility: collapse;
+  max-height: 0;
+  transition: 2s; //amended by khofstadter
+  list-style: none; //added by khofstadter
+  padding-left: 0;
+}
+
+
+.node:checked+label+ul li {
+  visibility: visible;
+  max-height: 500px;
+  transition: 1s;
+  list-style: none; //added by khofstadter
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
 }
