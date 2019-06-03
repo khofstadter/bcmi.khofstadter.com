@@ -8,6 +8,22 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ## todo:
 
+### Aphorisms project
+- 3D sound
+	- decide on how to spatialise e.g. ambisonic; 
+	- test 2D slider?
+- sound texture:
+	- organise assets;
+	- make short excerpts; 
+		- voice;
+		- instrument; 
+- connect BCMI 
+- perhaps a GUI for the whole projects (BCMI control + mixer type + 2D slider); 
+- how to control all output with one MOTU knob?
+- do we need a better 15V power supply?
+
+
+### general
 - crisscross data between sc and processing;
 - try to play a large file back in sc;
 - experiment with new Wifi shield; 
@@ -62,10 +78,54 @@ Website
 ARU
 
 * did i register?
+* external examiner deadline?
 
 ---
 
 ## diary
+
+#### 2019 05 31 
+Aphorisms:   
+- 3 short voice samples selected and repaired in RX: 	- Mouth De-click: 
+	- De-click (if anything left to remove);
+	- De-ess
+	- De-plosive
+	- Direct Sample Editing (if needed)
+
+![remove low frequency rumble](assets/images/2019-05-31-aphorism-RX-manual.jpg)
+
+- - EQ to remove low freq artifact (if needed)
+
+![remove low frequency rumble](assets/images/2019-05-31-aphorism-RX-remove-low-freq-artifact.jpg)
+
+- 
+	- EQ (remove low energy from 45Hz)
+	- Light Voice Denoise; 
+
+- what's best for recital hall - Gavin emailed;
+
+#### 2019 05 30
+- setting up MOTU with designated OS in living room + 4 speakers; 
+- trying Pan4 with Slider2D; 
+- use 'Server.default.options.numOutputBusChannels= 4;'
+
+#### 2019 05 29 
+- tested MOTU 4 channel with SuperCollider (3h); 
+- new Pulse arrived: probably as loud as the one before; 
+
+#### 2019 05 28
+- Skype with David (1h);
+
+#### 2019 05 24
+- new Pulse is sent; 
+- working on Exodus (include methodology/plan) in thesis; 
+
+
+### 2019 05 23
+Studio recording with Pulse and Frame Drum
+- even with two sound proofing foam, the pulse is too loud in the recordings; 
+- it is ver difficult (for me) to follow the metronome (the pulse) and dive into an improvisation: not good recordings; 
+- the binaural recordings with the Roland didn't work out as we couldn't connect both sides of the headphones to the sound card; 
 
 ### 2019 05 10 
 Rehearsing Aphorisms in Recital Hall:  
