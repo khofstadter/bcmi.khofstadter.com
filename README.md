@@ -17,6 +17,7 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 	- make short excerpts; 
 		- voice;
 		- instrument; 
+- todo: check Bus/Grouping related tutorial to have control over modules e.g. delay; 
 - connect BCMI 
 - perhaps a GUI for the whole projects (BCMI control + mixer type + 2D slider); 
 - how to control all output with one MOTU knob?
@@ -83,6 +84,20 @@ ARU
 ---
 
 ## diary
+#### 2019 06 04
+- brief from David received, I am expected to trigger sound samples throughout the concert. I probably need to make some of these sounds and bounce them as mono wave files. I am also probably live sound engineer. This means I have to touch the computer often and have more responsibilities than expected. Due to this I was suggested to consider ditching the EEG idea for another time. This suggestion is reasonable, however changes the whole method needed. I am still prepared to carry on using SuperCollider so at the moment (with Fredrik's) help I am trying to refine how to use Ndef to trigger and free sound samples. I also would like 
+- to carry on using 4 speakers; 
+- feed in the life sound from the mixer and process it; 
+- perhaps use a nano controller; 
+
+#### 2019 06 04
+- thinking about having a static composition on a separate player feed in the mixer (SC on the top); 
+- moving into JITLib with Fredrik's guidance; 
+
+#### 2019 06 03
+Aphorisms
+- based on Eli's [SuperCollider Tutorial: 20. Microphones and SoundIn](https://www.youtube.com/watch?v=3vu4UbS2NMw), a SoundIn Synth draft with delay was made; 
+	- todo: check Bus/Grouping related tutorial to have control over modules e.g. delay; 
 
 #### 2019 05 31 
 Aphorisms:   

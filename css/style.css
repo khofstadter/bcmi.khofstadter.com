@@ -175,7 +175,7 @@ label {
 .node+label+ul li {
   visibility: collapse;
   max-height: 0;
-  transition: 2s; //amended by khofstadter
+  transition: 0.2s; //amended by khofstadter
   list-style: none; //added by khofstadter
   padding-left: 0;
   margin-left: 0;
@@ -185,7 +185,7 @@ label {
 .node:checked+label+ul li {
   visibility: visible;
   max-height: 500px;
-  transition: 1s;
+  transition: 0.5s;
   list-style: none; //added by khofstadter
   padding-left: 0;
   margin-left: 0;
