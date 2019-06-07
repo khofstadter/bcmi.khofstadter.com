@@ -4,22 +4,22 @@ This README.md acts as the logbook for the project.
 
 This github repository is setup to archive my PhD work titled 'Brain Computer Music Interfacing with Meditation'. The website [https://bcmi.khofstadter.info](https://bcmi.khofstadter.info) is an archive of the main outcomes. This README.md file is the more detailed log, that keeps me focused.
 
-The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik). He does magic with the machines.  
+The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik). 
 
 ## todo:
 
 ### Aphorisms project
 - 3D sound
-	- decide on how to spatialise e.g. ambisonic; 
+	- decide on how to spatialise e.g. ambisonic;
 	- test 2D slider?
 - sound texture:
 	- organise assets;
-	- make short excerpts; 
+	- make short excerpts;
 		- voice;
-		- instrument; 
-- todo: check Bus/Grouping related tutorial to have control over modules e.g. delay; 
-- connect BCMI 
-- perhaps a GUI for the whole projects (BCMI control + mixer type + 2D slider); 
+		- instrument;
+- todo: check Bus/Grouping related tutorial to have control over modules e.g. delay;
+- connect BCMI
+- perhaps a GUI for the whole projects (BCMI control + mixer type + 2D slider);
 - how to control all output with one MOTU knob?
 - do we need a better 15V power supply?
 
@@ -27,12 +27,12 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ### general
 - crisscross data between sc and processing;
 - try to play a large file back in sc;
-- experiment with new Wifi shield; 
-- finish REI and implement more in sequencers; 
+- experiment with new Wifi shield;
+- finish REI and implement more in sequencers;
 - write a questionnaire for 1) NF 2) meditators 3);
 
 often
-- check news on open bci forum and github; 
+- check news on open bci forum and github;
 
 Hardware
 
@@ -84,24 +84,29 @@ ARU
 ---
 
 ## diary
-#### 2019 06 04
-- brief from David received, I am expected to trigger sound samples throughout the concert. I probably need to make some of these sounds and bounce them as mono wave files. I am also probably live sound engineer. This means I have to touch the computer often and have more responsibilities than expected. Due to this I was suggested to consider ditching the EEG idea for another time. This suggestion is reasonable, however changes the whole method needed. I am still prepared to carry on using SuperCollider so at the moment (with Fredrik's) help I am trying to refine how to use Ndef to trigger and free sound samples. I also would like 
-- to carry on using 4 speakers; 
-- feed in the life sound from the mixer and process it; 
-- perhaps use a nano controller; 
+
+#### 2019 06 05
+- whole day in the recital hall, tested mixer, busing of quad speaker setup;
+- changed a few things in the SuperCollider code: now with a function the Ndef stops when the loop gets to the end; 
+
+#### 2019 06 05
+- brief from David received, I am expected to trigger sound samples throughout the concert. I probably need to make some of these sounds and bounce them as mono wave files. I am also probably live sound engineer. This means I have to touch the computer often and have more responsibilities than expected. Due to this I was suggested to consider ditching the EEG idea for another time. This suggestion is reasonable, however changes the whole method needed. I am still prepared to carry on using SuperCollider so at the moment (with Fredrik's) help I am trying to refine how to use Ndef to trigger and free sound samples. I also would like
+- to carry on using 4 speakers;
+- feed in the life sound from the mixer and process it;
+- perhaps use a nano controller;
 
 #### 2019 06 04
-- thinking about having a static composition on a separate player feed in the mixer (SC on the top); 
-- moving into JITLib with Fredrik's guidance; 
+- thinking about having a static composition on a separate player feed in the mixer (SC on the top);
+- moving into JITLib with Fredrik's guidance;
 
 #### 2019 06 03
 Aphorisms
-- based on Eli's [SuperCollider Tutorial: 20. Microphones and SoundIn](https://www.youtube.com/watch?v=3vu4UbS2NMw), a SoundIn Synth draft with delay was made; 
-	- todo: check Bus/Grouping related tutorial to have control over modules e.g. delay; 
+- based on Eli's [SuperCollider Tutorial: 20. Microphones and SoundIn](https://www.youtube.com/watch?v=3vu4UbS2NMw), a SoundIn Synth draft with delay was made;
+	- todo: check Bus/Grouping related tutorial to have control over modules e.g. delay;
 
-#### 2019 05 31 
+#### 2019 05 31
 Aphorisms:   
-- 3 short voice samples selected and repaired in RX: 	- Mouth De-click: 
+- 3 short voice samples selected and repaired in RX: 	- Mouth De-click:
 	- De-click (if anything left to remove);
 	- De-ess
 	- De-plosive
@@ -113,46 +118,46 @@ Aphorisms:
 
 ![remove low frequency rumble](assets/images/2019-05-31-aphorism-RX-remove-low-freq-artifact.jpg)
 
-- 
+-
 	- EQ (remove low energy from 45Hz)
-	- Light Voice Denoise; 
+	- Light Voice Denoise;
 
 - what's best for recital hall - Gavin emailed;
 
 #### 2019 05 30
-- setting up MOTU with designated OS in living room + 4 speakers; 
-- trying Pan4 with Slider2D; 
+- setting up MOTU with designated OS in living room + 4 speakers;
+- trying Pan4 with Slider2D;
 - use 'Server.default.options.numOutputBusChannels= 4;'
 
-#### 2019 05 29 
-- tested MOTU 4 channel with SuperCollider (3h); 
-- new Pulse arrived: probably as loud as the one before; 
+#### 2019 05 29
+- tested MOTU 4 channel with SuperCollider (3h);
+- new Pulse arrived: probably as loud as the one before;
 
 #### 2019 05 28
 - Skype with David (1h);
 
 #### 2019 05 24
-- new Pulse is sent; 
-- working on Exodus (include methodology/plan) in thesis; 
+- new Pulse is sent;
+- working on Exodus (include methodology/plan) in thesis;
 
 
 ### 2019 05 23
 Studio recording with Pulse and Frame Drum
-- even with two sound proofing foam, the pulse is too loud in the recordings; 
-- it is ver difficult (for me) to follow the metronome (the pulse) and dive into an improvisation: not good recordings; 
-- the binaural recordings with the Roland didn't work out as we couldn't connect both sides of the headphones to the sound card; 
+- even with two sound proofing foam, the pulse is too loud in the recordings;
+- it is ver difficult (for me) to follow the metronome (the pulse) and dive into an improvisation: not good recordings;
+- the binaural recordings with the Roland didn't work out as we couldn't connect both sides of the headphones to the sound card;
 
-### 2019 05 10 
+### 2019 05 10
 Rehearsing Aphorisms in Recital Hall:  
-- Wireless Router cannot be next to the wall. 
+- Wireless Router cannot be next to the wall.
 - Frame drum might not work here with the style;
-- tried REF on ear, seems to work; 
-- question: what sounds, when? 
+- tried REF on ear, seems to work;
+- question: what sounds, when?
 
 ### 2019 04 14
-- testing new wifi firmware (osc); 
+- testing new wifi firmware (osc);
 - testing new code that comes with it;    
-// all works; 
+// all works;
 
 ### 2019 04 01
 - testing new code;
