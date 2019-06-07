@@ -28,3 +28,4 @@ brain-computer music interfacing, brainwave entrainment, consciousness, consumer
 ## past
 {% include index-cron.html %}
 <br><br>
+A detailed logbook can be found in the README.md file of the relevant GitHub repository: https://github.com/krisztian-hofstadter-tedor/bcmi
