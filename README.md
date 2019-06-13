@@ -85,6 +85,14 @@ ARU
 
 ## diary
 
+#### 2019 06 10
+- compose two soundscapes with tibetan bowls and the idea of EEG 
+- read 'An electro-acoustic implementation ofTibetan bowls: Acoustics and perception'
+- purchased a Kontakt sample pack; 
+- http://musicproductionhq.com/tibetan-singing-bowl/
+
+
+
 #### 2019 06 05
 - whole day in the recital hall, tested mixer, busing of quad speaker setup;
 - changed a few things in the SuperCollider code: now with a function the Ndef stops when the loop gets to the end; 
