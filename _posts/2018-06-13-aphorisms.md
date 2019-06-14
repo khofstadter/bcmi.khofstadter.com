@@ -3,7 +3,7 @@ layout: post
 title: aphorisms
 permalink: /aphorisms/
 categories: event
-tags: [ongoing, event, composition ]
+tags: [event, composition ]
 author: tEdör
 comment: true
 ---
@@ -12,6 +12,8 @@ I have been working on connecting the BCMI idea in the research to a piece by Da
 <br>
 
 ![](../assets/images/2019-06-13-aphorisms-poster.jpg)
+
+![](../assets/images/2019-06-13-aphorisms-01-k-rehearsal.jpg)
 
 <br>
 
