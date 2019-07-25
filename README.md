@@ -6,55 +6,40 @@ This github repository is setup to archive my PhD work titled 'Brain Computer Mu
 
 The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik). 
 
+---
+
 ## todo:
 
-### Aphorisms project
-- 3D sound
-	- decide on how to spatialise e.g. ambisonic;
-	- test 2D slider?
-- sound texture:
-	- organise assets;
-	- make short excerpts;
-		- voice;
-		- instrument;
-- todo: check Bus/Grouping related tutorial to have control over modules e.g. delay;
-- connect BCMI
-- perhaps a GUI for the whole projects (BCMI control + mixer type + 2D slider);
-- how to control all output with one MOTU knob?
-- do we need a better 15V power supply?
+- continue gateway experience with eeg; 
+- update JAVA on mojave - test openbci; 
+- try wifi with virgin modem and Direct mode;  
+- learn frame drum sounds from youtube (find course);
+- refine druming with EEG > studio record and screenrecord; 
+- get impedence measurment into sc; 
+- understand ~energy; 
+- make a soundscape for NF (REI)
+- print normal box and higher with laser cutting, glue old; 
+- get a new battery; 
+- connect roland to MOTU; 
+- connect Zoom to mac withouth extra soundcard (maybe another adapter?) 
+- Brian Eno: https://www.youtube.com/watch?v=cv7epY75Wa0
+- how to monitor impedence (ask openbci gui >> this will help stream line work >> no need for openbci_gui? 
+- does motu need to run all the time?
+- test saving eeg data to file, while recording (send to Clemence)
+- write survey for each test group; 
+- test with 5 people (3 soundscapes in 1 h session);
+	1. two computers - two people? 
+- make EDM with knowledged, test with eeg? - portfolio item;
+- record more music with frame drum; 
+- visualize bmp/cpm of live frame drumming; 
 
-
-### general
-- crisscross data between sc and processing;
-- try to play a large file back in sc;
-- experiment with new Wifi shield;
-- finish REI and implement more in sequencers;
-- write a questionnaire for 1) NF 2) meditators 3);
-
-often
-- check news on open bci forum and github;
-
-Hardware
-
-* find y cable, ask Ian, can one side be OK as well? - [amazon](https://www.amazon.com/DGSUS-Single-Splitter-Workstation-Motherboard/dp/B07KQQGPG7/ref=sr_1_3?ie=UTF8&qid=1549643543&sr=8-3&keywords=jumper+wire+splitter);
-* how to test iPhone as a hotspot;
-* what does openbci forum and github say about wifi-issues?
-* research battery,  buy one on amazon?
-* how to involve the accelerometer in the measurements?;
-
-Headware
-
-* what water is best (normal, filtered)?
-* how to clean the shell?
-* does anything in the shell corrode?
-* print enclosure - which is good for cyton+wifi+battery?
-
-
-Software
-
-* experiment with impedance (new shell/sponge, diff locations, etc.)
-* redesign sequencer;
-* visualisation like spectral data for pace of live drumming;
+### Soundscapes: 
+1. REI (frame drum sounds are triggered and changing with EEG) 
+2. Tibetain Bowls ??
+3. 3D - something 3d is moving
+4. isotropic ??
+5. binaural (how to test?, can I copy a protocol of Hemi Sync?)
+6. recorded frame drums to listen to > EEG changes ambient sounds; 
 
 NF / soundscapes
 
@@ -72,26 +57,175 @@ Writing
 * organise resources page;
 * compare jeff, binaural, isotropic, ...
 
-Website
-
-* add menu: resources, link to github
-
-ARU
-
-* did i register?
-* external examiner deadline?
+### frame drum studio recordings
+? how to record it properly in studio? ([1](https://www.gearslutz.com/board/so-much-gear-so-little-time/183935-mic-selection-bodhran.html))
+?? what is a proximity effect when recording? 
+?? how to record this - asked, Gareth, Matt and Mark; 
+- maybe record in another place with some interesting reverb: 
+	- ? can interesting reverb add to altering the state of mind; 
 
 ---
 
 ## diary
+
+### 2019 07 22
+1. new S3 arrived; 
+2. tried to write code for impedance check in sc - help needed; 
+3. started: [Beginners guide to the Frame Drum](https://www.youtube.com/watch?v=DuzrQKUyzKQ) by Pete Lockett
+
+### 2019 07 19
+1. have been communication with Ivan about the S3 and other NF related issues. 
+2. S3 is on the way from China; 
+3. managed to make a subclass of DataRecord.sc; 
+4. emailed Clemens the raw file to test in Matlab; 
+5. replied to Andrej
+6. suggesting Goldsmith music&mind Msc to choose 2nd supervisor from; 
+7. made a screenrecording with eeg and frame drum, asked Clemens to check it, I am looking for artifacts induced by drumming (movement) and increased theta and gamma; 
+8. i have requested Matlab to be on my computer; 
+
+### 2019 07 18
+1. experiment with last studio recording's phase; 
+2. open_bci gui issues (impedence) 
+3. sc - experimenting with sc DataRecord - trying to write a class; 
+4. got in touch with hemi-sync about metamusic.  how to make music for them?  checking their store (https://hemi-sync.com/): andrej hrvatin is very interesting: https://hemi-sync.com/product/heros-journey/; https://nimetu.org/shamanic-drumming-the-percussionists-perspective/ - the idea is to make minimal dub techno style that is not pre composed but with their guidence; 
+5. andrej hrvatin. breathe in breathe out performs in the dark - sent him an email, he sent a long reply; 
+
+### 2019 07 17
+1. 3d printing of raised encloser 
+2. studio recording aru frame drum (no pulse, freestyle, AKG414 and SM57, + binaural with Zoom, some iphone video recordings): 
+	- not really good music, recordings might be good; 
+	- needs to practiec meditation to be able to focus and stay a bit more repetetive, at the moment the music is too random, thoughts are not settled, so this is probably a good representation of a not focused mind; 
+	- information on phase issues: https://www.uaudio.com/blog/understanding-audio-phase; https://www.youtube.com/watch?v=rXQcjaXnhG0, https://www.youtube.com/watch?v=JH0ByODyd3o
+
+### 2019 07 16
+- testing wifi in openbci-gui, jumps without filters as well: probably a programming issue;
+- testing sc fft plot with 'first trip' music, also tested dataRecord and playback, matching screen recording, all good.
+
+### 2019 07 11
+- double checking that signal is OK or not in openbci gui, AND it is not OK.  so problem is not in sc code; 
+- fine tuned wifi-setup when firmware updates: no need to remove the shield from the cyton; 
+
+### 2019 07 10
+- openbci_gui test for github issue; 
+- openbci_sc_wifi_still_jumping; 
+
+### 2019 07 09
+- rewrote fftplot sound example code, now thresholds seems to work again; 
+- learnt some tinkercad to amend some openbci enclosers, hope to print next week; 
+
+### 2019 07 08
+learnt: 
+- lanscan needs to be restarted when new scanning; 
+- serial communication works, when having wifi shield on: 
+1. make sure wifi shield has osc firmware and is paired to linksys (no need to take wifi shield off the openbci board, just make sure the external switch is powered off; after pairing Lanscan needs to see it (if it was running before, Lanscan needs restarting); 
+2. serial in openbci_gui (check impedence) 
+3. serial in supercollider
+4. wifi in supercollider 
+
+### 2019 07 05
+- wifi shield firmware setup for open_bci_gui, working with linksys modem; 
+- signal in open_bci_gui not jumping; 
+
+### 2019 07 04
+- soldering antenna, working; 
+
+### 2019 07 03
+- in studio recording frame drum with 3 mics; 
+- pulse sensor is too loud, started using only light; 
+
+### 2019 07 02
+
+- tested wifi shield jumping signal again, and broke the antenna off; 
+- tested impedance measurements in sc: 
+? ask openbci forum; 
+
+### 2019 07 01
+- added more salt in the water, earlier it was much less; 
+- tested more salt, maybe better, not sure; 
+- impedence test in sc - not sure how it works; 
+? is there a way to continuously monitor impedence and save in a file with eeg data?
+- wifi shield tested again - data jumping; 
+
+### 2019 06 28
+1. test default Wifi firmware (2.0.5) with OpenBCIGUI (OpenBCI_GUI-v4.1.0-beta.1); 
+- test eeg with serial - all good; 
+- test eeg with wifi - could not connect; 
+2. test custom OSC Wifi firmware with sc; 
+- test f's code - in relevant youtube video; 
+3. organising faq; 
+4. getting in touch with Greentek - no reply; 
+
+### 2019 06 26
+buy new EEG cap. 
+	- get in touch with people who bought the S3 cap; 
+	- get touch on skype with Greentek 
+		- is Bennie still there?
+		- can they still do the same deal or perhaps cheaper? 
+		- why did you go back to not sintered electrodes with this cap?
+
+### 2019 06 26
+- IP is mine - confirmed by ARU; 
+- IADS sounds enquiry sent to Emily; 
+
+### 2019 06 25
+- broken antenna on RDF chip re-soldered, maybe only 3 legs, not lost packages in sc;
+? clearing both electrodes, cap? 
+? how does low battery effect the signal?  
+
+
+### 2019 06 24
+Testing Jumping signal: 
+- little thing that broke off might be the issue, but why would this effect the wifi signal? 
+- was the wifi working properly after the AES talk, did I use it after the AES talk? 
+- there are little green corrosions in the electrode base (rost?); 
+todo: 
+- need to check whether wifiOSC was ever working in sc? 
+- put OpenBCI's firmware back on wifi (original) to test wifi in OpenBCI GUI; 
+- talk to Istvan about healing the cap; 
+- buy a new cap; 
+- is there a gel cap in the Music Therepy clinic that I could borrow? 
+
+
+
+
+### 2019 06 21
+- testing with distilled water, no difference to jumping signal in Wifi; 
+- little thing broke off the OpenBCI board (next to RFD chip);   
+conlusion: 
+- wifi is worse than serial, why? 
+- new electrodes better than old ones; 
+- is the wifi shield damaged as well?
+
+
+
+### 2019 06 20 
+- testing wifi/sc with cap: couldn't get good signal in sc in 2 hours;
+- meeting with Ian;
+
+### 2019 06 19
+Questions for Ian: 
+- how many samples do I need? 
+- is it a good idea to record two people simultaneously?
+- what does he think about the soundscape ideas?
+- what does he think about the NeuroMeditation protocols? which one could be used best with which soundscape? 
+- demo in September in Hex?
+- y cable;
+- feeltrace (trackball mouse) vs accelerometer (not on head?)
+
+
+### 2019 16 17 
+- organise thoughts; 
+- drive: after phd (dmt); 
+
+#### 2019 06 11-12-13
+* aphorisms prep/concert
+* no EEG used; 
 
 #### 2019 06 10
 - compose two soundscapes with tibetan bowls and the idea of EEG 
 - read 'An electro-acoustic implementation ofTibetan bowls: Acoustics and perception'
 - purchased a Kontakt sample pack; 
 - http://musicproductionhq.com/tibetan-singing-bowl/
-
-
 
 #### 2019 06 05
 - whole day in the recital hall, tested mixer, busing of quad speaker setup;

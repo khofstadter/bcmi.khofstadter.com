@@ -17,4 +17,6 @@ I have been working on connecting the BCMI idea in the research to a piece by Da
 
 <br>
 
-archives soon.
+Performance Mixdown (Part 3) by David: 
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/638145756&color=%23161611&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>

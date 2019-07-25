@@ -30,7 +30,8 @@ Reddit ([1](https://www.reddit.com/r/Nootropics/comments/agfzbb/your_thoughts_on
 
 ## companies
 
-* https://brainboost.de/
+* https://brainboost.de/   
+* https://wearablesensing.com/   
 
 
 ## books
