@@ -10,8 +10,10 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ## todo:
 
+- with 8 channel fft + sequencer was having hickups - try 2 channels, or fft, but without all the visual plotting (sound is more important); 
+- signal in time series very small, but in fft it is OK, why? (yanxi catnap)
 - continue gateway experience with eeg; 
-- update JAVA on mojave - test openbci; 
+- noise: Cutmore & James,  International Journal of Psychophysiology 32 1999 129-150
 - try wifi with virgin modem and Direct mode;  
 - learn frame drum sounds from youtube (find course);
 - refine druming with EEG > studio record and screenrecord; 
@@ -20,7 +22,6 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 - make a soundscape for NF (REI)
 - print normal box and higher with laser cutting, glue old; 
 - get a new battery; 
-- connect roland to MOTU; 
 - connect Zoom to mac withouth extra soundcard (maybe another adapter?) 
 - Brian Eno: https://www.youtube.com/watch?v=cv7epY75Wa0
 - how to monitor impedence (ask openbci gui >> this will help stream line work >> no need for openbci_gui? 
@@ -67,6 +68,58 @@ Writing
 ---
 
 ## diary
+
+### 2019 08 18, 19
+- battery connectors too big for OpenBCI
+- adding generator, panning, ... 
+- refining of sequencer; 
+- washed old cap;
+...
+
+### 2019 08 14
+- Ian Walker on practice research and how it is archived (ARRO, figshare), Simon Smith emailed with question on this topic; 
+
+### 2019 08 13
+- tests with other fft plots and energy variables
+- testing pausing openbci fft;
+...
+
+### 2019 08 09
+- new cap: 8 channel, sequencer with drumming, slowed down by plotting; 
+- new cap: yanxi - catnap (hair is a problem, time series was too low, but then fft window was fine: interesting)
+- new greentek cap tested quickly with supercollider and live frame drumming;
+
+### 2019 08 05
+- new tempoClock and varieties Function started; 
+
+### 2019 08 02
+- impedance in sc fixed with fredrik, new repo, downloaded; 
+
+### 2019 08 01
+- installed Matlab and EEG Lab, currently looking at [this](https://openbci.com/community/eeglab-tutorial-import-data/) and waiting to see Clemens for help; 
+
+### 2019 07 31
+- further impedence checks in sc >> getting somewhere; 
+
+### 2019 07 30
+- wrote to Roland about adapter for soundcard use; 
+
+### 2019 07 30 studio work
+- roland mic needs adapters (with phantom - XLR) - writing to Roland for help; 
+- recording with new technique (2 AKG 414, 2 SM58) 
+
+![20190730-studio-mic-setup](assets/images/20190730-studio-mic-setup.jpg)
+
+### 2019 07 29
+- testing OpenBCI_GUI_v4.1.3.app > works; 
+- readings:
+	- bcmi-diary-hemi-sync-advanced-focus-10
+	- bcmi-diary-impedance-code-sc
+
+### 2019 07 25
+- readings:
+	- bcmi-diary-hemi-sync-advanced-focus-10
+	- bcmi-diary-impedance-code-sc
 
 ### 2019 07 22
 1. new S3 arrived; 
