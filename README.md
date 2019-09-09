@@ -69,6 +69,20 @@ Writing
 
 ## diary
 
+### w.c. 2019 09 02
+- help for reaper file [organising](https://forum.cockos.com/showthread.php?p=2178859)
+- have been working on the sequencer mainly in sc; 
+
+### w.c. 2019 08 26
+- consulted sc forum for paradiddle code and started working on it; 
+- asked mathematics.stackoverflow for guidence on mathematics used (nor answer)
+
+### 2019 08 23
+BABA01 (pretest)
+- no questionaire, i kinda know what he is like, he touched the eeg while tests, he couldn't concertrate on the drumming (maybe needs to be made more explicit, maybe 30 min of the most minimal shamanic drumming is to much if they are not interested in this, he asked about the smudge scent, he was told it will be max 1h with some sounds, i don't think he was focusing on the music, do people actually want to change something in them (differentiate between people who like the idea and and the ones who don't seem to be interested), after 15 minutes he was told to focus on the breething and the music (as he was not focusing on anything really, he was looking at the fft plot often, he is clever, wanted to understand (maybe we need to make sure people understand the agenda >> you will understand if you let go of understanding, there were small noises from the outside, after the test he said he was not tired when we started (altough was jawning constantly), he said he only got tired towards the very end, he said he could differentiate between the wide and the narrow sound (probably different timbre)
+
+
+
 ### 2019 08 18, 19
 - battery connectors too big for OpenBCI
 - adding generator, panning, ... 
@@ -248,8 +262,6 @@ conlusion:
 - wifi is worse than serial, why? 
 - new electrodes better than old ones; 
 - is the wifi shield damaged as well?
-
-
 
 ### 2019 06 20 
 - testing wifi/sc with cap: couldn't get good signal in sc in 2 hours;

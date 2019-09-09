@@ -36,5 +36,12 @@ Reddit ([1](https://www.reddit.com/r/Nootropics/comments/agfzbb/your_thoughts_on
 
 ## books
 * https://www.amazon.co.uk/Fundamentals-Brain-Network-Analysis-Fornito/dp/0124079083/ref=sr_1_fkmrnull_1?keywords=fundamentals+of+brain+network+analysis&qid=1554375110&s=gateway&sr=8-1-fkmrnull
-* 
 
+## forums
+* https://openbci.com/forum/
+* https://psychology.stackexchange.com/
+* https://music.stackexchange.com/
+* https://stackoverflow.com/
+* https://neurobb.com/
+* https://www.facebook.com/groups/13204325203/
+* 
