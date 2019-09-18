@@ -50,6 +50,7 @@ NF / soundscapes
 * do we ask the listener to 'listen' to the music, or shall it be in the background ([like when problem solving](https://www.youtube.com/watch?v=whYGDvNohzo))?
 * polymetre vs polyrhythm;
 * Sufi music;
+* juxtaposing complexity with simplicity - who writes about this? 
 
 Writing
 
@@ -68,6 +69,12 @@ Writing
 ---
 
 ## diary
+
+### w.c. 2019 09 09
+- meeting with PR: 
+	- university of bristol - interdisciplinary people; 
+	- nominating ex. sup. - call Brigitta;
+- working on timer/reward/soundscape in sc; 
 
 ### w.c. 2019 09 02
 - help for reaper file [organising](https://forum.cockos.com/showthread.php?p=2178859)

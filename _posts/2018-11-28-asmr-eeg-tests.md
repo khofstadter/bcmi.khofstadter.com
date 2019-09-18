@@ -20,7 +20,7 @@ I used two [IBVA](http://ibva.co.uk/) hardware to record EEG of six participants
 <br><br>
 _Objectives:_   
 1) Can we see effects of the ASMR soundtrack in the EEG?   
-2) Can these effects be sustained in the the active listening part?
+2) Can these effects be sustained in the active listening part?
 <br><br>
 _First analysis:_   
 By simply revisiting the data in the 3D waterfall visualization of the FFT I can reveal that:   
