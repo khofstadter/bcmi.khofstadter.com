@@ -8,6 +8,81 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ---
 
+## shamanic soundscape 03
+- real time test with yanxi;
+- off-line test with people online (questionaire, etc.)
+
+## shamanic soundscape 02
+### for cambridge festival of ideas 2019
+#### learn
+- find math for phase coherence;
+- understand difference between syncrony/coherence/overall/covariance (papers, etc.);
+- more in sc file; 
+
+#### apply
+- map Fz theta median to sound > imediate response (very subtle);
+- map Pz gamma median to sound > imediate response (very subtle);
+- map theta syncrony/coherence... to sound;
+- (maybe) make new sound samples from newer recordings (perhaps having two different drums (recorded and live) creates a nice feeling;  
+
+
+## shamanic soundscape 01
+- write post questionaire (English / Chinese);
+- adjust all recorded data to new convention;
+- analyse eeg and qualitative data; 
+
+
+## raw file recording in sc
+- adjusting recorded raw data to new convention;
+	- shall we add all theta median to file? 
+- make sure new DataRecord is up to new convention; 
+- `!` do we need accel data? - test not recording and play back with OpenBCI gui; 
+
+## analysis
+### in supercollider
+- plot what we have in raw data (times, theta and gamma (median and thresholds), maybe all theta and coherence);
+- `!` how to overlay different types of plots? (sc forum could not answer it); 
+
+### in matlab
+- how is location file used? 
+- continue mike x cohen [course](http://www.mikexcohen.com/#courses)
+- OpenBCI & Matlab ([resource](https://docs.openbci.com/docs/06Software/02-CompatibleThirdPartySoftware/Matlab));
+
+#### 01 clemens
+- learn some EEGLab and try to understand script from clemens;
+
+#### 02 ian 
+- how to do coherence? 
+
+
+## shoulder recorder
+- is there a better mic to h1 I should use? 
+
+## study room for recording
+- where to start? 
+- how to drill in the wall? ... 
+
+## practice research
+- check practice phd works; 
+
+## read
+- the oxford handbook of music and the brain; 
+- Dave Elman
+- Technical Foundations of Neurofeedback (Routledge Monograph Series on Neurotherapy and Qeeg Neuroscience, Techniques, and Treatments) Hardcover – 20 Sep 2013
+- Walter Grey
+- Hyper and Hypo Frontality (Arnold Betrix, creativity)
+- https://www.tomcampbell.info/
+- roy ascott
+	- https://www.intellectbooks.com/technoetic-arts-a-journal-of-speculative-research
+- digital shamanism - search again; 
+
+download (syncronisation)
+- https://www.sciencedirect.com/science/article/pii/0022519367900513
+- https://press.princeton.edu/titles/4308.html
+- https://www.semanticscholar.org/paper/Synchronization-and-rhythmic-processes-in-Glass/506f28c2b01560a6b459df9e459c986255897f61
+- running and breathing: https://www.ncbi.nlm.nih.gov/pubmed/6849136
+
+
 ## todo:
 
 - with 8 channel fft + sequencer was having hickups - try 2 channels, or fft, but without all the visual plotting (sound is more important); 
@@ -34,7 +109,7 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 - record more music with frame drum; 
 - visualize bmp/cpm of live frame drumming; 
 
-### Soundscapes: 
+## soundscapes ideas: 
 1. REI (frame drum sounds are triggered and changing with EEG) 
 2. Tibetain Bowls ??
 3. 3D - something 3d is moving
@@ -69,6 +144,31 @@ Writing
 ---
 
 ## diary
+
+### 2019 10 18
+- experimenting with code; 
+- - Ian has introduced some functions in Matlab (some his, some from BioSig);
+
+### w.c. 2019 10 07
+- having difficulties with reading raw file in matlab;
+- playing back sc raw files with added data is OK in openbci 4.1.3;
+
+### w.c. 2019 10 03
+- amending raw eeg text files
+	1. drag & drop file in open office with the following settings:  
+![title](assets/images/2019-10-03-openoffice-import-raw-eeg-1.jpg)
+
+	2. add column where needed
+	3. fill in column info (watch video)
+	4. remove [ and ]
+	5. add ` '` where needed with find & replace ([help](https://forum.openoffice.org/en/forum/viewtopic.php?t=26830))
+	
+	![title](assets/images/2019-10-03-openoffice-import-raw-eeg-2.jpg)
+	
+	6. don't save as other format, save as current format.
+	7. make sure header is exaclty the same as before (remove extra commas)
+	7. check with eye some rows. 
+	8. check back in sc... 
 
 ### w.c. 2019 09 09
 - meeting with PR: 
