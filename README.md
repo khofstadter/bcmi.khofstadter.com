@@ -8,45 +8,64 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ---
 
-## shamanic soundscape 03
-- real time test with yanxi;
-- off-line test with people online (questionaire, etc.)
+## priority todo:
+### raw file convention
+- do we need Accel?
+- we need to have different versions as ss01 and ss02 are different; 
 
-## shamanic soundscape 02
-### for cambridge festival of ideas 2019
-#### learn
-- find math for phase coherence;
-- understand difference between syncrony/coherence/overall/covariance (papers, etc.);
-- more in sc file; 
+## projects: 
 
-#### apply
+### Fredrik's soundscap 
+- set date; 
+- how to do? 
+- where to do - university library with camera on books as well?
+
+### shamanic soundscape 03
+off-line test with people online (questionaire, etc.)
+
+
+- render new audio samples
+- make music (20min)
+- make survey online
+- find people (email people who attended the last events)
+- check what HemySync used in their training e.g what sounds they add, what BPS/hz they use, how it is shifted;
+
+### shamanic soundscape 02
+talk and quad performance (2 rehearsals and show)
+
+- edit audio/video in Premier and Reaper;
+- analyse EEG data; 
+
+#### later work
+- better phase and coherence measurements;
 - map Fz theta median to sound > imediate response (very subtle);
 - map Pz gamma median to sound > imediate response (very subtle);
 - map theta syncrony/coherence... to sound;
 - (maybe) make new sound samples from newer recordings (perhaps having two different drums (recorded and live) creates a nice feeling;  
+- find ref to where Monroe rerecords his voice several times until he is happy with it - am I happy with my voice quoting numbers?  
 
-
-## shamanic soundscape 01
+### shamanic soundscape 01
 - write post questionaire (English / Chinese);
-- adjust all recorded data to new convention;
+- adjust all recorded data to new convention - what is the convention?
 - analyse eeg and qualitative data; 
 
+### binaural beats
+#### gateway experience
+- continue listening and recording EEG;
 
-## raw file recording in sc
-- adjusting recorded raw data to new convention;
-	- shall we add all theta median to file? 
-- make sure new DataRecord is up to new convention; 
-- `!` do we need accel data? - test not recording and play back with OpenBCI gui; 
+---
 
 ## analysis
 ### in supercollider
 - plot what we have in raw data (times, theta and gamma (median and thresholds), maybe all theta and coherence);
 - `!` how to overlay different types of plots? (sc forum could not answer it); 
 
+
 ### in matlab
 - how is location file used? 
 - continue mike x cohen [course](http://www.mikexcohen.com/#courses)
 - OpenBCI & Matlab ([resource](https://docs.openbci.com/docs/06Software/02-CompatibleThirdPartySoftware/Matlab));
+- EEG Lab course maybe to start? 
 
 #### 01 clemens
 - learn some EEGLab and try to understand script from clemens;
@@ -54,18 +73,91 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 #### 02 ian 
 - how to do coherence? 
 
+---
+## artwork for releases
+- john
+- mine
+- other's on the internet
+
+## frame drumming for lucas
+- can some of these be use for a release?
+- can we create a little story with the forest and rabbit idea;
+- learn new frame drum techiques on youtube; 
+
+## frame drumming in studio
+- find best recordings, mix, master; 
+- record more (not EEG - do much hassle); 
+- shall I write about the proximity effect?
+
+## frame drumming in home studio
+- how to record it properly in studio? ([1](https://www.gearslutz.com/board/so-much-gear-so-little-time/183935-mic-selection-bodhran.html));
+- how to drill in the wall? 
+
+## frame drumming in the forest 
+- take drum, camera and zoom h1 in the forest; 
+
+## frame drumming where there is reverb
+- can reverb add the help with altering the state of mind? how is it used in psychedelic music? 
+
+## opebbci wifi
+- try new openbci gui, if works, adapt sc code; 
 
 ## shoulder recorder
 - is there a better mic to h1 I should use? 
 
-## study room for recording
-- where to start? 
-- how to drill in the wall? ... 
-
 ## practice research
 - check practice phd works; 
 
-## read
+## understand Fredrik's code
+- dive into it; 
+
+## openbci enclosure
+- amended one, printed, using; 
+- it could be better; 
+- with new battery (+charger)
+
+## two EEGs simultaniously
+- two computers;
+
+## new soundscape ideas 
+- minimal techno
+- tibetain bowls
+- more 3D - something 3d is moving and focus is on it; 
+- isotropic/monotropic/binaural;
+
+## Ndef instead of normal SC
+- as the idea is to learn how to live code as well; 
+
+## aphorisms 
+- shoudl have used live EEG; 
+
+## tempo of drumming
+- the Pulse sensor didn't work out really; 
+- how to visualize bmp of live frame drumming in sc? 
+
+## screen/audio recording
+- screenflow issues: can't record 4 channel audio, can only do 48kz; 
+
+## neuroMediation protocol
+- who to mix protocols for shamanic journeying - can we add deep meditation to focus and mindfulness?
+
+## what to listen to?
+* do we ask the listener to 'listen' to the music, or shall it be in the background ([like when problem solving](https://www.youtube.com/watch?v=whYGDvNohzo))?
+
+## polymetre vs polyrhythm;
+- breakbeat, dnb - is that in line with the polyrhythmic paper? 
+- 
+## juxtaposing complexity with simplicity - who writes about this? 
+
+## writing papers
+* make a list of journals where I could submit; 
+* shall I write something for Medium? 
+
+
+---
+
+## reading
+- sort literature with BookNote and Mellel;
 - the oxford handbook of music and the brain; 
 - Dave Elman
 - Technical Foundations of Neurofeedback (Routledge Monograph Series on Neurotherapy and Qeeg Neuroscience, Techniques, and Treatments) Hardcover – 20 Sep 2013
@@ -81,69 +173,29 @@ download (syncronisation)
 - https://press.princeton.edu/titles/4308.html
 - https://www.semanticscholar.org/paper/Synchronization-and-rhythmic-processes-in-Glass/506f28c2b01560a6b459df9e459c986255897f61
 - running and breathing: https://www.ncbi.nlm.nih.gov/pubmed/6849136
-
-
-## todo:
-
-- with 8 channel fft + sequencer was having hickups - try 2 channels, or fft, but without all the visual plotting (sound is more important); 
-- signal in time series very small, but in fft it is OK, why? (yanxi catnap)
-- continue gateway experience with eeg; 
 - noise: Cutmore & James,  International Journal of Psychophysiology 32 1999 129-150
-- try wifi with virgin modem and Direct mode;  
-- learn frame drum sounds from youtube (find course);
-- refine druming with EEG > studio record and screenrecord; 
-- get impedence measurment into sc; 
-- understand ~energy; 
-- make a soundscape for NF (REI)
-- print normal box and higher with laser cutting, glue old; 
-- get a new battery; 
-- connect Zoom to mac withouth extra soundcard (maybe another adapter?) 
 - Brian Eno: https://www.youtube.com/watch?v=cv7epY75Wa0
-- how to monitor impedence (ask openbci gui >> this will help stream line work >> no need for openbci_gui? 
-- does motu need to run all the time?
-- test saving eeg data to file, while recording (send to Clemence)
-- write survey for each test group; 
-- test with 5 people (3 soundscapes in 1 h session);
-	1. two computers - two people? 
-- make EDM with knowledged, test with eeg? - portfolio item;
-- record more music with frame drum; 
-- visualize bmp/cpm of live frame drumming; 
-
-## soundscapes ideas: 
-1. REI (frame drum sounds are triggered and changing with EEG) 
-2. Tibetain Bowls ??
-3. 3D - something 3d is moving
-4. isotropic ??
-5. binaural (how to test?, can I copy a protocol of Hemi Sync?)
-6. recorded frame drums to listen to > EEG changes ambient sounds; 
-
-NF / soundscapes
-
-* shall we add deep meditation to focus and mindfulness?
-* how does Jeff Strong know the accurate BPS?
-* check what HemySync used in their training e.g what sounds they add, what BPS/hz they use, how it is shifted;
-* do we ask the listener to 'listen' to the music, or shall it be in the background ([like when problem solving](https://www.youtube.com/watch?v=whYGDvNohzo))?
-* polymetre vs polyrhythm;
-* Sufi music;
-* juxtaposing complexity with simplicity - who writes about this? 
-
-Writing
-
-* organise literature folder;
-* check where the paper could be submitted;
-* organise resources page;
-* compare jeff, binaural, isotropic, ...
-
-### frame drum studio recordings
-? how to record it properly in studio? ([1](https://www.gearslutz.com/board/so-much-gear-so-little-time/183935-mic-selection-bodhran.html))
-?? what is a proximity effect when recording? 
-?? how to record this - asked, Gareth, Matt and Mark; 
-- maybe record in another place with some interesting reverb: 
-	- ? can interesting reverb add to altering the state of mind; 
 
 ---
 
 ## diary
+
+###2019 10 28-29
+- organising notes; 
+- organising assets;
+
+### 2019 10 26
+- cambridge festival of ideas (50-60) people, archived, ... 
+
+### 2019 10 25
+- final coding to use phase sync in performance; 
+- setup for demo/performance; 
+
+### 2019 10 21
+- 4 channel at home + 1 live (instead of SM57 Zoom H1 is used); 
+
+### 2019 10 19
+- feedback on coherance on openbci forum;
 
 ### 2019 10 18
 - experimenting with code; 
@@ -214,7 +266,7 @@ BABA01 (pretest)
 - new tempoClock and varieties Function started; 
 
 ### 2019 08 02
-- impedance in sc fixed with fredrik, new repo, downloaded; 
+- impedance in sc fixed with fredrik, new repo, downloaded (having impedance measuring in sc has streamlined work as now we don't need to open the openbci gui to start with);
 
 ### 2019 08 01
 - installed Matlab and EEG Lab, currently looking at [this](https://openbci.com/community/eeglab-tutorial-import-data/) and waiting to see Clemens for help; 

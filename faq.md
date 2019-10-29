@@ -45,4 +45,7 @@ Why is the order of brainwaves not labelled alphabetically?'
 
 ## screenrecord
 - screenflow: would writing on an SD card or external SSD help the computer?
+FAQ
 
+## what is RAID and near RAID?
+-  http://openbci.com/forum/index.php?p=/discussion/1481/how-to-become-de-railed
