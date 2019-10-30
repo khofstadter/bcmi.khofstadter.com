@@ -15,14 +15,13 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ## projects: 
 
-### Fredrik's soundscap 
+### Fredrik's soundscape
 - set date; 
 - how to do? 
 - where to do - university library with camera on books as well?
 
 ### shamanic soundscape 03
 off-line test with people online (questionaire, etc.)
-
 
 - render new audio samples
 - make music (20min)
@@ -33,8 +32,22 @@ off-line test with people online (questionaire, etc.)
 ### shamanic soundscape 02
 talk and quad performance (2 rehearsals and show)
 
-- edit audio/video in Premier and Reaper;
+todo: 
+
+- edit video in Premier
 - analyse EEG data; 
+
+edit audio: 
+
+**20191026-2**
+
+workflow:
+
+- 2 mixes (spatial): LL + RR (simple) and with using VST RheaSound;
+- manually allign (sync) zoom recording to sc recording; 
+- remove 4ch file, pan [0,3] to left, [1,2] to right;
+- Menu/Item/Item Processing/Explode multichannel audio or MIDI items to new one-channel items;
+- add zoom and 4ch recording;
 
 #### later work
 - better phase and coherence measurements;
@@ -74,10 +87,12 @@ talk and quad performance (2 rehearsals and show)
 - how to do coherence? 
 
 ---
-## artwork for releases
-- john
-- mine
-- other's on the internet
+## how to include visual art
+- john's shaman drawings
+- my early paintings
+- storylab interpret (2 interpretations)
+- people's drawings on after cambridge festival of ideas; 
+
 
 ## frame drumming for lucas
 - can some of these be use for a release?
