@@ -18,6 +18,7 @@ This interdisciplinary, practice-based research develops a Brain-Computer Music 
 
 brain-computer music interfacing, brainwave entrainment, consciousness, consumer EEG, generative music, immersion, interactive soundscapes, learning, meditation, neurofeedback, neurogaming, OpenBCI, SuperCollider.
 
+
 <br>
 <br>
 

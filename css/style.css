@@ -71,11 +71,13 @@ body {
   padding: 0.5em 0.5em;
   color: #566b78;
   line-height: 1.3;
+  font-size: 110%
 }
 
 h1 {
   font-size: 180%;
   margin-top: 0.5em;
+  color: #333;
 }
 
 h2 {
@@ -84,7 +86,7 @@ h2 {
 }
 
 h3 {
-    font-size: 105%;
+    font-size: 120%;
     margin-top: 1em;
     margin-bottom: 0.2em;
     color: #333;
@@ -103,11 +105,10 @@ em {
   font-style: italic;
 }
 
-
 /* https://color.adobe.com/Ocean-Sunset-color-theme-10006414/edit/?copy=true&base=0&rule=Custom&selected=1&name=Copy%20of%20Ocean%20Sunset&mode=rgb&rgbvalues=0.25098,0.34902,0.321569,0.611765,0.607843,0.478431,1,0.827451,0.576471,1,0.592157,0.309804,0.960784,0.309804,0.160784&swatchOrder=0,1,2,3,4 */
 
 .date {
-color: #333;
+color: #888888;
 padding: 0.5em 10px;
 }
 
@@ -115,11 +116,10 @@ padding: 0.5em 10px;
 color: #6E6E60;
 }
 
-/*
 .short {
-color: #9C9B7A;
+line-height:1.3;
 }
-*/
+
 
 /* responsive images */
 img {

@@ -23,8 +23,8 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ### shamanic soundscape 03
 off-line test with people online (questionaire, etc.)
 
-- render new audio samples
-- make music (20min)
+- render new audio samples and make new 20 min file or
+- use binaural render from 20191026 demo; 
 - make survey online
 - find people (email people who attended the last events)
 - check what HemySync used in their training e.g what sounds they add, what BPS/hz they use, how it is shifted;
@@ -37,13 +37,18 @@ todo:
 - edit video in Premier
 - analyse EEG data; 
 
-edit audio: 
+**edit audio workflow:**
 
 **20191026-2**
 
-workflow:
+todo: 
+- how to do binarual (stereo) better?
+- make 4 channel mix as well; 
 
-- 2 mixes (spatial): LL + RR (simple) and with using VST RheaSound;
+- 2 mixes (spatial): LL + RR (simple) and with using VST RheaSourround: 
+
+![surround setting](assets/images/20191031-reaper-reasurround.jpg)
+
 - manually allign (sync) zoom recording to sc recording; 
 - remove 4ch file, pan [0,3] to left, [1,2] to right;
 - Menu/Item/Item Processing/Explode multichannel audio or MIDI items to new one-channel items;
@@ -87,6 +92,7 @@ workflow:
 - how to do coherence? 
 
 ---
+
 ## how to include visual art
 - john's shaman drawings
 - my early paintings
@@ -194,6 +200,9 @@ download (syncronisation)
 ---
 
 ## diary
+
+### 2019 10 30
+- mixing in Reaper;
 
 ### 2019 10 28-29
 - organising notes; 
