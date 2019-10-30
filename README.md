@@ -161,7 +161,7 @@ workflow:
 
 ## polymetre vs polyrhythm;
 - breakbeat, dnb - is that in line with the polyrhythmic paper? 
-- 
+
 ## juxtaposing complexity with simplicity - who writes about this? 
 
 ## writing papers
@@ -195,7 +195,7 @@ download (syncronisation)
 
 ## diary
 
-###2019 10 28-29
+### 2019 10 28-29
 - organising notes; 
 - organising assets;
 
