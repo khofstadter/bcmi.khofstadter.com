@@ -5,8 +5,6 @@ layout: default
 
 Hello, my name is Krisztián Hofstädter. This subdomain archives my PhD at the Anglia Ruskin University, Cambridge. More about me [here](https://khofstadter.info), more about the research below.
 
-![](https://khofstadter.info/assets/images/khofstadter_by_joo_hong.jpg) drawing by [Joo Hong Low](https://www.coroflot.com/funcoco)
-
 <br>
 <br>
 
