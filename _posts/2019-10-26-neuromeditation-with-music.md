@@ -20,9 +20,9 @@ Presentation, performance and drawing, Q/A
 ### Presentation
 - orientation
 
-- first choice for soudscape style was shamanic drumming
+- the first choice for soundscape style was shamanic drumming
 
-- explaination of 30 minute tests
+- explanation of 30-minute tests
 
 - what is different between the tests and this performance?
 
@@ -30,13 +30,13 @@ Presentation, performance and drawing, Q/A
 
 - why is the performance shorter (20 min) than the tests?
 
-- how shall you listen to the soundscape? Shall you listen to the digital shamans (drums annd chakapa) or my live drumming or the other sounds?
+- how shall you listen to the soundscape? Shall you listen to the digital shamans (drums and chakapa) or my live drumming or the other sounds?
 
 - shall you watch the screen or not?
 
-- how much would you like me to explain before the performance about the mapping between EEG and sounds? If I explain everything, would that effect the way you listen? Perhaps it won't help you to let go.
+- how much would you like me to explain before the performance about the mapping between EEG and sounds? If I explain everything, would that affect the way you listen? Perhaps it won't help you to let go.
 
-- to deepen the meditation, I think you should focus you listenning on the static/monotone elements of the soundscape, the digital shaman drumming (speakers).
+- to deepen the meditation, I think you should focus you listening on the static/monotone elements of the soundscape, the digital shaman drumming (speakers).
 
 - eyes closed is prefered
 
