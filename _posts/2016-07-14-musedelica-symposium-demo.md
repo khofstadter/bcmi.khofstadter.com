@@ -1,7 +1,7 @@
 ---
 layout: post
-title: demo at musedelica symposium
-permalink: /demo-at-musedelica-symposium/
+title: musedelica symposium demo
+permalink: /musedelica-symposium-demo/
 categories: talk
 tags: [talk, musedelica symposium, sussex]
 author: tEdör

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: talk at StoryLab symposium
-permalink: /talk-at-storyLab-symposium/
+title: StoryLab symposium talk
+permalink: /storylab-symposium-talk/
 categories: talk
 tags: [talk, storylab, aru]
 author: tEdör

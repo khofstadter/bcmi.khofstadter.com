@@ -1,7 +1,7 @@
 ---
 layout: post
-title: IBVA SuperCollider
-permalink: /ibva-supercollider/
+title: IBVA SuperCollider Quark
+permalink: /ibva-supercollider-quark/
 categories: programming
 tags: [talk, SuperCollider, IBVA, GitHub]
 author: tEdör

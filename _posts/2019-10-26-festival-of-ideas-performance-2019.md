@@ -1,7 +1,7 @@
 ---
 layout: post
-title: performance at festival of ideas 2019
-permalink: /performance-at-festival-of-ideas-2019/
+title: festival of ideas performance 2019
+permalink: /festival-of-ideas-performance-2019/
 categories: talk
 tags: [talk, performance]
 author: tEdör

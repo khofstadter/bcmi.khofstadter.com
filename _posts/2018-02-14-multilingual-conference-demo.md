@@ -1,7 +1,7 @@
 ---
 layout: post
-title: demo at multilingual conference
-permalink: /demo-at-multilingual-conference/
+title: multilingual conference demo
+permalink: /multilingual-conference-demo/
 categories: talk
 tags: [talk, multilingual conference, essex]
 author: tEdör

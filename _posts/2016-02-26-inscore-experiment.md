@@ -1,7 +1,7 @@
 ---
 layout: post
-title: experimenting with inScore
-permalink: /experimenting-with-inScore/
+title: inScore experiment
+permalink: /inscore-experiment/
 categories: code
 tags: [code, inscore, supercollider]
 author: tEdör

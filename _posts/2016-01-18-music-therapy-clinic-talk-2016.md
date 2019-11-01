@@ -1,7 +1,7 @@
 ---
 layout: post
-title: talk at Music Therapy Clinic
-permalink: /talk-at-music-therapy-clinic/
+title: music therapy clinic talk
+permalink: /music-therapy-clinic-talk/
 categories: talk
 tags: [talk, music therapy clinic, ARU]
 author: tEdör

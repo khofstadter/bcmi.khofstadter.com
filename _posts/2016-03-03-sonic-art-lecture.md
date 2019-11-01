@@ -1,6 +1,6 @@
 ---
 layout: post
-title: guest talk to sonic art class
+title: sonic art class guest talk
 permalink: /sonic-art-lecture/
 categories: talk
 tags: [talk, demonstration, ARU]

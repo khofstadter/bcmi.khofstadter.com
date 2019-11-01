@@ -1,7 +1,7 @@
 ---
 layout: post
-title: poster at ARU research conference
-permalink: /poster-at-ARU-research-conference/
+title: ARU research conference poster
+permalink: /aru-research-conference-poster/
 categories: talk
 tags: [talk, conference, poster, aru]
 author: tEdör

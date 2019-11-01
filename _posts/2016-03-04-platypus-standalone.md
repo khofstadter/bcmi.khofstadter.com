@@ -1,7 +1,7 @@
 ---
 layout: post
-title: standalone with platypus
-permalink: /standalone-with-platypus/
+title: platypus standalone
+permalink: /platypus-standalone/
 categories: code
 tags: [code, supercollider, platypus]
 author: tEdör
