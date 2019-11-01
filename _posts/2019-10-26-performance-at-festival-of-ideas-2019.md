@@ -1,12 +1,14 @@
 ---
 layout: post
-title: neuromeditation with music
-permalink: /neuromeditation-with-music/
+title: performance at festival of ideas 2019
+permalink: /performance-at-festival-of-ideas-2019/
 categories: talk
 tags: [talk, performance]
 author: tEdör
 comment: true
 ---
+
+Title: NeuroMeditation with Music
 
 Presentation, performance and drawing, Q/A
 
