@@ -18,7 +18,7 @@
 </head>
 <body>
 <p>
-  This demo shows how to load external data via an ajax call. Working? 
+  This demo shows how to load external data via an ajax call. Working?
 </p>
 <div id="visualization"></div>
 <div id="loading">loading...</div>
@@ -26,13 +26,13 @@
 <script type="text/javascript">
   // load data via an ajax request. When the data is in, load the timeline
   $.ajax({
-    url: 'assets/visjs/data/basic.json',
-    success: function (data) {
+    url: "assets/visjs/data/basic.json",
+    success: function(data) {
       // hide the "loading..." message
-      document.getElementById('loading').style.display = 'none';
+      document.getElementById("loading").style.display = "none";
 
       // DOM element where the Timeline will be attached
-      var container = document.getElementById('visualization');
+      var container = document.getElementById("visualization");
 
       // Create a DataSet (allows two way data-binding)
       var items = new vis.DataSet(data);
@@ -43,16 +43,18 @@
       // Create a Timeline
       var timeline = new vis.Timeline(container, items, options);
     },
-    error: function (err) {
-      console.log('Error', err);
+    error: function(err) {
+      console.log("Error", err);
       if (err.status === 0) {
-        alert('Failed to load data/basic.json.\nPlease run this example on a server.');
-      }
-      else {
-        alert('Failed to load data/basic.json.');
+        alert(
+          "Failed to load data/basic.json.\nPlease run this example on a server."
+        );
+      } else {
+        alert("Failed to load data/basic.json.");
       }
     }
   });
+
 </script>
 </body>
 </html>
