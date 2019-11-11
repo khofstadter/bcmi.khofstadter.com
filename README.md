@@ -16,26 +16,27 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ## projects: 
 
 ### Fredrik's soundscape
-- set date; 
-- how to do? 
-- where to do - university library with camera on books as well?
+- set date, location: at home (perhaps with small in-ear headphones - can sc record?)
 
 ### shamanic soundscape 03
 off-line test with people online (questionaire, etc.)
 
 - render new audio samples and make new 20 min file or
 - use binaural render from 20191026 demo; 
-- make survey online
+- make survey online;
 - find people (email people who attended the last events)
-- check what HemySync used in their training e.g what sounds they add, what BPS/hz they use, how it is shifted;
 
 ### shamanic soundscape 02
 talk and quad performance (2 rehearsals and show)
 
 todo: 
-
 - edit video in Premier
 - analyse EEG data; 
+- perhaps add visualisation with seperate drums tracks triggering visual stimulus (for deaf people); 
+
+INSPIRATION
+- first for a remix 'fairytale evolution remix'
+
 
 **edit audio workflow:**
 
@@ -174,6 +175,13 @@ todo:
 * make a list of journals where I could submit; 
 * shall I write something for Medium? 
 
+## vis.js
+* link: https://visjs.github.io/vis-timeline/examples/timeline/items/htmlContents.html
+* tooltip when hover: https://visjs.github.io/vis-timeline/examples/timeline/items/tooltip.html (might not work when using phone)
+* select groups: 
+
+todo: best would be if when clicking on the item, the new pop up brings in some info, and in that infor there is a link/anchor to more info; 
+
 
 ---
 
@@ -200,6 +208,28 @@ download (syncronisation)
 ---
 
 ## diary
+
+### 2019 11 09-10
+- investigating alternatives to Premier for video editing. Blender is fast, but could not work out right video format and it takes time to learn (later). iMovie only has two video channels. Screenflow for editing this large multi cam project is too slow. 
+
+### 2019 11 07-08
+- listening to Cave and Cosmos (good if your eyes are tired)    
+- mixing three performances in Reaper; 
+- working on phase coherance code; 
+- creating interest in drawing after shamanic journeying (facebook group);
+
+### 2019 11 05 
+- demo at ARU, music students, recorded music;
+- 30min setup is tight; 
+
+
+### 2019 11 04
+- bennie and ivan asked about new S3 corrosion
+- survey issue - how do people attache their images? Can they get an ID after the survey that they can refer to?
+- prep for Wed 6 Nov ARU demo (tripods, tech, ..) 
+
+### 2019 11 03
+- reply from JH on SC forum re phase coherence; 
 
 ### 2019 10 30
 - mixing in Reaper;

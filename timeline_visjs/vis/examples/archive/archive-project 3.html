@@ -1,0 +1,132 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>Timeline | Nested Groups example</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <style>
+    body, html {
+      font-family: arial, sans-serif;
+      font-size: 11pt;
+    }
+
+    #visualization {
+      box-sizing: border-box;
+      width: 100%;
+      height: 300px;
+    }
+  </style>
+
+  <!-- note: moment.js must be loaded before vis.js, else vis.js uses its embedded version of moment.js -->
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js"></script>
+
+  <script src="../../dist/vis.js"></script>
+  <link href="../../dist/vis.min.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<p>
+  This example demonstrate using groups. Note that a DataSet is used for both
+  items and groups, allowing to dynamically add, update or remove both items
+  and groups via the DataSet. <i class="fa fa-chain"></i>
+</p>
+<div id="visualization"></div>
+
+<script>;
+
+  // create a data set with groups
+  var groups = new vis.DataSet();
+
+  groups.add([
+    {
+      id: 0,
+      content: "Generations",
+    },
+    {
+      id: 1,
+      content: "Uncategorised",
+      //visible: false,
+      nestedGroups: [10,11]
+    },
+    {
+      id: 2,
+      content: "Wars"
+    },
+
+  ]);
+
+  groups.add([
+    {
+      id: 10,
+      content: "Personal",
+    },
+    {
+      id: 11,
+      content: "All"
+    }
+  ]);
+
+  // create a dataset with items
+  var items = new vis.DataSet();
+  var groupIds = groups.getIds();
+
+  //   var types = [ 'box', 'point', 'range', 'background']
+  // for (var i = 0; i < itemCount; i++) {
+  //   var start = now.clone().add(Math.random() * 200, 'hours');
+  //   var end = start.clone().add(2, 'hours');
+  //   var randomGroupId = groupIds[Math.floor(Math.random() * groupIds.length)];
+  //   var type = types[Math.floor(4 * Math.random())]
+  //
+  //   items.add({
+  //     id: i,
+  //     group: randomGroupId,
+  //     content: 'item ' + i,
+  //     start: start,
+  //     end: end,
+  //     type: type
+  //   });
+  // }
+
+  items.add([
+
+      {id: 1, content: 'GEN1 <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1950-01-01', end: '1955-01-01',group:0},
+      {id: 2, content: 'GEN2 <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1960-01-01', end: '1980-01-01',group:0},
+      {id: 3, content: 'GEN2.5 <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1960-01-01', end: '1990-01-01',group:0},
+      {id: 4, content: 'GEN3 <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1980-09-01', end: '2000-01-01',group:0},
+      {id: 5, content: 'GEN4 <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '2000-01-01', end: '2018-01-01',group:0},
+      {id: 6, content: 'WW1', start: '1914-07-28', end: '1918-11-11',group:2},
+      {id: 7, content: 'WW2', start: '1939-09-01', end: '1945-05-08',group:2},
+
+      {id: 10, content: 'Indian Mutiny <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1857',group:11, type: 'point'},
+      {id: 11, content: 'Queen Vic Empress of India <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1877',group:11, type: 'point'},
+      {id: 12, content: 'Foundation of the Indian Institute <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1885',group:11, type: 'point'},
+      {id: 13, content: 'Libertys Display of 42 Indian Villagers <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1883',group:11, type: 'point'},
+      {id: 14, content: 'British sphere of influence established <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1883',group:11, type: 'point'},
+      {id: 15, content: 'William Mackinnon formed BEAA <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1888',group:11, type: 'point'},
+      {id: 16, content: 'Corneilius Sorbji <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1889',group:11, type: 'point'},
+      {id: 17, content: 'Dadabhai Naoroji <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1892',group:11, type: 'point'},
+      {id: 18, content: 'Empire of India Exhibition <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1895',group:11, type: 'point'},
+      {id: 19, content: 'British protectorate established and admin transferred to colonial office <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1895',group:11, type: 'point'},
+      {id: 20, content: 'Ugandan railway <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1896', end: '2018-01-01', group:11, type: 'point'},
+      {id: 21, content: 'Indian immigrants travelled to the Protectorate <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1896',group:11, type: 'point'},
+      {id: 22, content: 'Pankurst and Sophie Duleep Singh <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1910',group:11, type: 'point'},
+      {id: 23, content: 'Universal Races Congress <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1911',group:11, type: 'point'},
+      {id: 24, content: 'India sent 1 million soldiers to fight in the war <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1918',group:11, type: 'point'},
+      {id: 25, content: 'Indians double the number of Europeans in Uganda <a href="http://visjs.org" target="_blank"><i class="fa fa-chain"></i></a>', start: '1919',group:11, type: 'point'},
+
+
+
+    ]);
+
+
+  // create visualization
+  var container = document.getElementById('visualization');
+  var options = {
+    groupOrder: 'content'  // groupOrder can be a property name or a sorting function
+  };
+
+  var timeline = new vis.Timeline(container, items, groups, options);
+
+</script>
+</body>
+</html>

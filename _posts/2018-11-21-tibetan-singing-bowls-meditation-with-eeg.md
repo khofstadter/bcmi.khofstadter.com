@@ -1,7 +1,7 @@
 ---
 layout: post
-title: tibetan singing bowls and eeg
-permalink: /tibetan-singing-bowls-eeg/
+title: tibetan singing bowls meditation with eeg
+permalink: /tibetan-singing-bowls-meditation-with-eeg/
 categories: measurements
 tags: [measurements, sound healing, OpenBCI]
 author: tEdör
