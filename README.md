@@ -181,7 +181,8 @@ workflow:
 - convert CSV to JSON
 - upload JSON; 
 
-have managed to include vis.js (only html, not md) in jekyll website bcmi.khofstadter.info/timeline.html (todo: use some styling from default css in the vis.js so that they look similar a bit)
+- have managed to include vis.js (only html, not md) in jekyll website bcmi.khofstadter.info/timeline.html (todo: use some styling from default css in the vis.js so that they look similar a bit) BUT only working locally: https://github.com/visjs/vis-timeline/issues/179
+
 * link: https://visjs.github.io/vis-timeline/examples/timeline/items/htmlContents.html
 * tooltip when hover: https://visjs.github.io/vis-timeline/examples/timeline/items/tooltip.html (might not work when using phone)
 * select groups: 
