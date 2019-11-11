@@ -1,8 +1,12 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title>Timeline | groups | Groups ordering</title>
-
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="{{ site.description }}">
+  <title>{{ page.title }} - {{site.title}}</title>
+  <h1><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title }}</a></h1>
   <style>
     body, html {
       font-family: arial, sans-serif;
@@ -15,13 +19,14 @@
       height: 300px;
     }
   </style>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style-visjs.css" />
  <link rel="stylesheet" href="{{ site.baseurl }}/assets/visjs/vis-timeline-graph2d.min.css" />
   <script src="{{ site.baseurl }}/assets/visjs/vis-timeline-graph2d.min.js"></script>
 
 </head>
 <body>
 <p>
-  This example demonstrates custom ordering of groups.
+  In this post I experiment with vis.js to make a timeline.
 </p>
 <div id="visualization"></div>
 
