@@ -1,11 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>Timeline with JSON data</title>
 
+  <style type="text/css">
+    body, html {
+      font-family: sans-serif;
+    }
+  </style>
+
+  <!-- Load jquery for ajax support -->
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+  <script src="assets/visjs/vis.js"></script>
+  <link href="assets/visjs/vis-timeline-graph2d.min.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+<p>
+  This demo shows how to load external data via an ajax call.
+</p>
 <div id="visualization"></div>
 <div id="loading">loading...</div>
 
 <script type="text/javascript">
   // load data via an ajax request. When the data is in, load the timeline
   $.ajax({
-    url: 'resources/data/basic.json',
+    url: 'assets/visjs/data/basic.json',
     success: function (data) {
       // hide the "loading..." message
       document.getElementById('loading').style.display = 'none';
@@ -33,3 +54,5 @@
     }
   });
 </script>
+</body>
+</html>
