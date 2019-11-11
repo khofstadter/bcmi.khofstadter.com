@@ -5,7 +5,7 @@
 <script type="text/javascript">
   // load data via an ajax request. When the data is in, load the timeline
   $.ajax({
-    url: '../_data/basic.json',
+    url: 'resources/data/basic.json',
     success: function (data) {
       // hide the "loading..." message
       document.getElementById('loading').style.display = 'none';
@@ -25,10 +25,10 @@
     error: function (err) {
       console.log('Error', err);
       if (err.status === 0) {
-        alert('Failed to load _data/basic.json.\nPlease run this example on a server.');
+        alert('Failed to load data/basic.json.\nPlease run this example on a server.');
       }
       else {
-        alert('Failed to load _data/basic.json.');
+        alert('Failed to load data/basic.json.');
       }
     }
   });
