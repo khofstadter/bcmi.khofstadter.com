@@ -34,23 +34,47 @@
   var groups = new vis.DataSet([
     {id: 0, content: 'Training', value: 1},
     {id: 1, content: 'ARU Admin', value: 2},
-    {id: 2, content: 'Presentations', value: 3},
+    {id: 2, content: 'Public engagement', value: 3},
     {id: 3, content: 'Experiments', value: 4}
   ]);
 
   // create a dataset with items
   // note that months are zero-based in the JavaScript Date object, so month 3 is April
   var items = new vis.DataSet([
-    {	id: 0	,	group: 0	,	content: 'BCI @ <a href="https://www.udemy.com/course/brain-computer-interface/" target="_blank">Udemy</a>'	,	type: 'point'	,	start: new Date(2015,10,26)	,	end: new Date(2015,10,28)	},
-    {	id: 1	,	group: 1	,	content: 'Approval of Research Proposal'	,	type: 'point'	,	start: new Date(2015,12,22)	,		},
-    {	id: 2	,	group: 2	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,1,18)	,		},
-    {	id: 3	,	group: 3	,	content: '3D printing OpenBCI'	,	type: 'point'	,	start: new Date(2016,2,01)	,	end: new Date(2016,2,07)	},
-    {	id: 4	,	group: 3	,	content: 'external midi device'	,	type: 'point'	,	start: new Date(2016,2,25)	,		},
-    {	id: 5	,	group: 3	,	content: 'INScore'	,	type: 'point'	,	start: new Date(2016,3,01)	,	end: new Date(2016,3,07)	},
-    {	id: 6	,	group: 3	,	content: 'OpenVibe and Emotiv'	,	type: 'point'	,	start: new Date(2016,3,04)	,		},
-    {	id: 7	,	group: 1	,	content: 'ARU 500 bursary'	,	type: 'point'	,	start: new Date(2016,3,25)	,		},
-    {	id: 8	,	group: 2	,	content: 'ARU Reseach Conference – poster'	,	type: 'point'	,	start: new Date(2016,6,17)	,		},
-    {	id: 9	,	group: 2	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,3,23)	,		},
+    {	id: 0	,	group: 2	,			type: 'background'	,	start: new Date(2017,09,26)	,	end: new Date(2018,9,28)	},
+{	id: 1	,					type: 'background'	,	start: new Date(2015,09,26)	,	end: new Date(2016,9,28)	},
+{	id: 2	,	group: 0	,	content: 'BCI @ <a href="https://www.udemy.com/course/brain-computer-interface/" target="_blank">Udemy</a>'	,	type: 'point'	,	start: new Date(2015,09,26)	,	end: new Date(2015,9,28)	,	title: 'Introduction to BCI.'	},
+{	id: 3	,	group: 1	,	content: 'Approval of Research Proposal'	,	type: 'point'	,	start: new Date(2015,11,22)	,		},
+{	id: 4	,	group: 2	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,0,18)	,		},
+{	id: 5	,	group: 3	,	content: '3D printing OpenBCI'	,	type: 'point'	,	start: new Date(2016,1,01)	,	end: new Date(2016,1,07)	},
+{	id: 6	,	group: 3	,	content: 'external midi device'	,	type: 'point'	,	start: new Date(2016,1,25)	,		},
+{	id: 7	,	group: 3	,	content: 'INScore experiment'	,	type: 'point'	,	start: new Date(2016,1,26)	,	end: new Date(2016,2,07)	},
+{	id: 8	,	group: 2	,	content: 'Sonic Art guest talk'	,	type: 'point'	,	start: new Date(2016,0,18)	,		},
+{	id: 9	,	group: 3	,	content: 'OpenVibe and Emotiv'	,	type: 'point'	,	start: new Date(2016,2,04)	,		},
+{	id: 10	,	group: 3	,	content: 'Platypus standalone'	,	type: 'point'	,	start: new Date(2016,2,04)	,		},
+{	id: 11	,	group: 1	,	content: 'unsuccessful: 2500 Andy Wilson bursary'	,	type: 'point'	,	start: new Date(2016,2,18)	,		},
+{	id: 12	,	group: 1	,	content: 'Department Research Group bursary: £500'	,	type: 'point'	,	start: new Date(2016,2,25)	,		},
+{	id: 13	,	group: 2	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,2,23)	,		},
+{	id: 14	,	group: 3	,	content: 'SuperCollider class for sequencer'	,	type: 'point'	,	start: new Date(2016,2,05)	,		},
+{	id: 15	,	group: 2	,	content: 'Pint of Science – installation'	,	type: 'point'	,	start: new Date(2016,4,24)	,		},
+{	id: 16	,	group: 2	,	content: 'ARU Research Conference – poster'	,	type: 'point'	,	start: new Date(2016,5,06)	,		},
+{	id: 17	,	group: 2	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,5,21)	,		},
+{	id: 18	,	group: 2	,	content: 'Musedelica Symposium – demo'	,	type: 'point'	,	start: new Date(2016,6,14)	,		},
+{	id: 19	,	group: 1	,	content: 'Change of title and type of research'	,	type: 'point'	,	start: new Date(2016,10,30)	,	end: new Date(2017,0,07)	},
+{	id: 20	,	group: 0	,	content: 'Serious Gaming @ <a href="https://www.coursera.org/learn/serious-gaming/" target="_blank">Coursera</a>'	,	type: 'point'	,	start: new Date(2016,11,12)	,	end: new Date(2017,0,18)	},
+{	id: 21	,	group: 2	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2017,0,17)	,		},
+{	id: 22	,	group: 2	,	content: 'First Sight – demonstration'	,	type: 'point'	,	start: new Date(2017,0,17)	,		},
+{	id: 23	,	group: 1	,	content: 'Confirmation of Candidature Presentation'	,	type: 'point'	,	start: new Date(2017,1,09)	,		},
+{	id: 24	,	group: 0	,	content: 'Music as Biology @ <a href="https://www.coursera.org/learn/music-as-biology/" target="_blank">Coursera</a>'	,	type: 'point'	,	start: new Date(2017,2,13)	,	end: new Date(2017,2,20)	},
+{	id: 25	,	group: 0	,	content: 'Quantitative EEG, event related potentials and neurotherapy Workshop With Jury D. Kropotov <a href="http://qeeg.co.uk/qeeg-workshop/" target="_blank">QEEG</a>'	,	type: 'point'	,	start: new Date(2017,3,11)	,		},
+{	id: 26	,	group: 1	,	content: 'Department Research Group bursary: £500'	,	type: 'point'	,	start: new Date(2016,3,11)	,		},
+{	id: 27	,	group: 1	,	content: '2nd Annual Review'	,	type: 'point'	,	start: new Date(2017,6,26)	,		},
+{	id: 28	,	group: 3	,	content: 'Greentek Headset S1'	,	type: 'point'	,	start: new Date(2017,6,20)	,		},
+{	id: 29	,	group: 2	,	content: 'Multilingual Conference, Essex – presentation'	,	type: 'point'	,	start: new Date(2017,1,14)	,		},
+{	id: 30	,	group: 3	,	content: 'IBVA SuperCollider Quark <a href="https://bcmi.khofstadter.info/ibva-supercollider-quark/">&#128279</a>'	,	type: 'point'	,	start: new Date(2017,1,24)	,		},
+{	id: 31	,	group: 1	,	content: 'Department Research Group bursary: £250'	,	type: 'point'	,	start: new Date(2018,4,25)	,		},
+{	id: 32	,	group: 1	,	content: 'Intermitting'	,			start: new Date(2018,3,01)	,	end: new Date(2018,8,01)	,	title: 'I was intermitting for 6 months as I was not sure what is happening with supervision.'	},
+
   ]);
 
   // create visualization

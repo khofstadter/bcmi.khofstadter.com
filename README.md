@@ -179,7 +179,7 @@ todo:
 * shall I write something for Medium? 
 
 ## vis.js
-
+- https://www.fileformat.info/index.htm for html characters; 
 - cannot convert to JSON atm, will use CSV file, copy and past from there into script (does not look extactly how it should (some extra spaced_) 
 
 - have managed to include vis.js (only html, not md) in jekyll website bcmi.khofstadter.info/timeline.html (todo: use some styling from default css in the vis.js so that they look similar a bit) BUT only working locally: https://github.com/visjs/vis-timeline/issues/179
@@ -218,7 +218,8 @@ download (syncronisation)
 ## diary
 
 ### 2019 11 09-12
--  sent eeg to Will, he helps with Matlab too; 
+- added more data to timeline; 
+-  Will sent some Matlab code for theta plotting; 
 - marcy, what carrier freq. to use in survery for BB version? 
 - CD samples ordered for shamanic soundscape physical copy (the idea is to gain interest by telling people that their artwork will go on the CD artwork and the website - free advertisment); 
 
