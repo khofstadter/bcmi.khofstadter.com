@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CIMTRE networking event
-permalink: /cimtre-networking-kelcydavenport/
+permalink: /cimtre-networking/
 categories: talk
 tags: [talk, cimtre, ARU]
 author: tEdör
