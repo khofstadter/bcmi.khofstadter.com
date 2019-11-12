@@ -32,22 +32,25 @@
 
 <script>
   var groups = new vis.DataSet([
-    {id: 0, content: 'First', value: 1},
-    {id: 1, content: 'Third', value: 3},
-    {id: 2, content: 'Second', value: 2}
+    {id: 0, content: 'Training', value: 1},
+    {id: 1, content: 'ARU Admin', value: 2},
+    {id: 2, content: 'Presentations', value: 3},
+    {id: 3, content: 'Experiments', value: 4}
   ]);
 
   // create a dataset with items
   // note that months are zero-based in the JavaScript Date object, so month 3 is April
   var items = new vis.DataSet([
-    {id: 0,group: 0,content: 'item bg',type: 'background',start: new Date(2015, 9, 01),end: new Date(2016, 8, 31)},
-    {id: 1,group: 1,content: 'item 0',type: 'point',start: new Date(2014, 3, 17),end: new Date(2014, 4, 21)},
-    {id: 2,group: 1,content: 'item 1',type: 'point',start: new Date(2014, 4, 17),end: new Date(2014, 4, 21)},
-    {id: 3,group: 1,content: 'item bg',type: 'background',start: new Date(2016, 9, 01),end: new Date(2017, 8, 31)},
-    {id: 4,group: 1,content: 'item 2',type: 'point',start: new Date(2014, 5, 17),end: new Date(2014, 5, 21)},
-    {id: 5,group: 1,content: 'item 3',type: 'point',start: new Date(2014, 6, 17),end: new Date(2014, 6, 21)},
-
-
+    {	id: 0	,	group: 0	,	content: 'BCI @ <a href="https://www.udemy.com/course/brain-computer-interface/" target="_blank">Udemy</a>'	,	type: 'point'	,	start: new Date(2015,10,26)	,	end: new Date(2015,10,28)	},
+    {	id: 1	,	group: 1	,	content: 'Approval of Research Proposal'	,	type: 'point'	,	start: new Date(2015,12,22)	,		},
+    {	id: 2	,	group: 2	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,1,18)	,		},
+    {	id: 3	,	group: 3	,	content: '3D printing OpenBCI'	,	type: 'point'	,	start: new Date(2016,2,01)	,	end: new Date(2016,2,07)	},
+    {	id: 4	,	group: 3	,	content: 'external midi device'	,	type: 'point'	,	start: new Date(2016,2,25)	,		},
+    {	id: 5	,	group: 3	,	content: 'INScore'	,	type: 'point'	,	start: new Date(2016,3,01)	,	end: new Date(2016,3,07)	},
+    {	id: 6	,	group: 3	,	content: 'OpenVibe and Emotiv'	,	type: 'point'	,	start: new Date(2016,3,04)	,		},
+    {	id: 7	,	group: 1	,	content: 'ARU 500 bursary'	,	type: 'point'	,	start: new Date(2016,3,25)	,		},
+    {	id: 8	,	group: 2	,	content: 'ARU Reseach Conference – poster'	,	type: 'point'	,	start: new Date(2016,6,17)	,		},
+    {	id: 9	,	group: 2	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,3,23)	,		},
   ]);
 
   // create visualization
@@ -70,6 +73,6 @@
   timeline.setItems(items);
 
 </script>
-{{ content }}
 </body>
+<!-- {{ content }} -->
 </html>

@@ -92,6 +92,9 @@ todo:
 #### 02 ian 
 - how to do coherence? 
 
+### 03 will
+- meetup? 
+
 ---
 
 ## how to include visual art
@@ -176,10 +179,8 @@ todo:
 * shall I write something for Medium? 
 
 ## vis.js
-workflow: 
-- create CSV file with data;
-- convert CSV to JSON
-- upload JSON; 
+
+- cannot convert to JSON atm, will use CSV file, copy and past from there into script (does not look extactly how it should (some extra spaced_) 
 
 - have managed to include vis.js (only html, not md) in jekyll website bcmi.khofstadter.info/timeline.html (todo: use some styling from default css in the vis.js so that they look similar a bit) BUT only working locally: https://github.com/visjs/vis-timeline/issues/179
 
@@ -215,6 +216,14 @@ download (syncronisation)
 ---
 
 ## diary
+
+### 2019 11 09-12
+-  sent eeg to Will, he helps with Matlab too; 
+- marcy, what carrier freq. to use in survery for BB version? 
+- CD samples ordered for shamanic soundscape physical copy (the idea is to gain interest by telling people that their artwork will go on the CD artwork and the website - free advertisment); 
+
+### 2019 11 09-11
+- investigating options for vis.js to be used for phd timeline, narrowd workflow done; 
 
 ### 2019 11 09-10
 - investigating alternatives to Premier for video editing. Blender is fast, but could not work out right video format and it takes time to learn (later). iMovie only has two video channels. Screenflow for editing this large multi cam project is too slow. 
@@ -369,6 +378,7 @@ BABA01 (pretest)
 6. suggesting Goldsmith music&mind Msc to choose 2nd supervisor from; 
 7. made a screenrecording with eeg and frame drum, asked Clemens to check it, I am looking for artifacts induced by drumming (movement) and increased theta and gamma; 
 8. i have requested Matlab to be on my computer; 
+
 
 ### 2019 07 18
 1. experiment with last studio recording's phase; 
