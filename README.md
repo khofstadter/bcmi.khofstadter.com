@@ -2,47 +2,53 @@
 
 This README.md acts as the logbook for the project.
 
-This github repository is setup to archive my PhD work titled 'Brain Computer Music Interfacing with Meditation'. The website [https://bcmi.khofstadter.info](https://bcmi.khofstadter.info) is an archive of the main outcomes. This README.md file is the more detailed log, that keeps me focused.
+This github repository is setup to archive my PhD work titled 'Developing a Brain Computer Music Interface for Meditation'. The website [https://bcmi.khofstadter.info](https://bcmi.khofstadter.info) is an archive of the main outcomes. This README.md file is the more detailed log, that keeps me focused.
 
-The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik). 
+The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik). Others who have helped: Jörg Fachner, Clemens, Tom Hall, Richard Hoadley, Paul Rhys, Clemens Maidhof, Ian Daly, Ryan Rogers, Matt Skidmore, Yanxi Wu, 
 
 ---
 
 ## priority todo:
+- sc phase coherence (check openbci doc, code in sc)
+- sc posting (stack layer? ... )
+- matlab (start EEGLab tutorials)
+- writing comentary (find saved Bookends file and start)
+- posters out and more dissemination; 
+- email attendies through David Cambridge Fest I - organisers; 
+
 ### raw file convention
 - do we need Accel?
 - we need to have different versions as ss01 and ss02 are different; 
+- maybe they will all need manual removal in OpenOffice?
+- check reading with OpenBCI GUI; 
 
 ## projects: 
-
 ### Fredrik's soundscape
+- fix sc coherence; 
 - set date, location: at home (perhaps with small in-ear headphones - can sc record?)
 
 ### shamanic soundscape 03
-off-line test with people online (questionaire, etc.)
+(off-line test with drawing)
 
-- render new audio samples and make new 20 min file or
-- use binaural render from 20191026 demo; 
-- make survey online;
-- find people (email people who attended the last events)
+- creative dissemination list (FB done, one more tagging list needed);
+- Matt mix redo in Reaper (try binarual);
+
 
 ### shamanic soundscape 02
 talk and quad performance (2 rehearsals and show)
 
-todo: 
-- edit video in Premier
-- analyse EEG data; 
-- perhaps add visualisation with seperate drums tracks triggering visual stimulus (for deaf people); 
+
+**video**
+- analyse EEG data (maybe could feed in);
+- edit video in Premier;
+- another version: perhaps add visualisation with seperate drums tracks triggering visual stimulus (for deaf people); 
 
 INSPIRATION
 - first for a remix 'fairytale evolution remix'
 
+### audio:
 
-**edit audio workflow:**
-
-**20191026-2**
-
-todo: 
+- learn from Matt's mix; 
 - how to do binarual (stereo) better?
 - make 4 channel mix as well; 
 
@@ -55,7 +61,7 @@ todo:
 - Menu/Item/Item Processing/Explode multichannel audio or MIDI items to new one-channel items;
 - add zoom and 4ch recording;
 
-#### later work
+#### later musicfication work: 
 - better phase and coherence measurements;
 - map Fz theta median to sound > imediate response (very subtle);
 - map Pz gamma median to sound > imediate response (very subtle);
@@ -104,8 +110,9 @@ todo:
 - people's drawings on after cambridge festival of ideas; 
 
 
-## frame drumming for lucas
-- can some of these be use for a release?
+## frame drumming for lucas ('the forest of the blue rabbit')
+- make bass to go in the middle (mono)
+- experiment for each track with different plugins; 
 - can we create a little story with the forest and rabbit idea;
 - learn new frame drum techiques on youtube; 
 
@@ -117,6 +124,7 @@ todo:
 ## frame drumming in home studio
 - how to record it properly in studio? ([1](https://www.gearslutz.com/board/so-much-gear-so-little-time/183935-mic-selection-bodhran.html));
 - how to drill in the wall? 
+
 
 ## frame drumming in the forest 
 - take drum, camera and zoom h1 in the forest; 
@@ -190,32 +198,45 @@ todo:
 
 todo: best would be if when clicking on the item, the new pop up brings in some info, and in that infor there is a link/anchor to more info; 
 
-
----
-
-## reading
-- sort literature with BookNote and Mellel;
-- the oxford handbook of music and the brain; 
-- Dave Elman
-- Technical Foundations of Neurofeedback (Routledge Monograph Series on Neurotherapy and Qeeg Neuroscience, Techniques, and Treatments) Hardcover – 20 Sep 2013
-- Walter Grey
-- Hyper and Hypo Frontality (Arnold Betrix, creativity)
-- https://www.tomcampbell.info/
-- roy ascott
-	- https://www.intellectbooks.com/technoetic-arts-a-journal-of-speculative-research
-- digital shamanism - search again; 
-
-download (syncronisation)
-- https://www.sciencedirect.com/science/article/pii/0022519367900513
-- https://press.princeton.edu/titles/4308.html
-- https://www.semanticscholar.org/paper/Synchronization-and-rhythmic-processes-in-Glass/506f28c2b01560a6b459df9e459c986255897f61
-- running and breathing: https://www.ncbi.nlm.nih.gov/pubmed/6849136
-- noise: Cutmore & James,  International Journal of Psychophysiology 32 1999 129-150
-- Brian Eno: https://www.youtube.com/watch?v=cv7epY75Wa0
-
 ---
 
 ## diary
+
+### 2019 11 22
+- meeting with india and invitation to talk in london
+- meeting with g and nick (surprise) - discussing shadow and general things; 
+- poster printed (bit cut off!) - some put out; 
+- sc: communication between berlin-cambridge via sc tested; 
+
+### 2019 11 21
+- difficulties with obtaining rights to use the original version of the shaman image; 
+- Mat sends details for mix (probably need to do together at one point); 
+- survey final - disseminated via Facebook post (+tags), psy music group, 
+- survey changes based on FSS feedback. 
+
+### 2019 11 20
+- checking Mat's mix, asking for plugin setups so I can duplicate for other recordings and experiment further with binaural for this recording; 
+- survey amendments: making arousal-valance map in Ilustrator (Gimp would be the choice- but can work faster in AI atm).
+- 
+
+### 2019 11 19
+- mix back from Mat, very good, perhaps bass from sc file needs to be more centred; 
+- phase syncronisation in sc;
+- editing in Premier; 
+- survey amendments (remove file upload as too expensive), add setting conditions, emphasise question making; 
+
+### 2019 11 18
+- phase syncronisation in sc;
+- discussing website submission with doctoral school; 
+
+### 2019 11 15-17
+- working on shamanic meditation survey: received feedback from shamanic fb group, 2nd supervisor, waiting for Gavin and FSS; 
+
+### 2019 11 09-14
+- discussing mix of FI performance with Matt Skitmore; 
+
+### 2019 11 09-13
+- working on shamanic soundscape survey; 
 
 ### 2019 11 09-12
 - added more data to timeline; 
@@ -714,3 +735,7 @@ http://openbci.com/forum/index.php?p=/discussion/1663/greentek-gelfree-s-eeg-cap
 * for the last few weeks I have been pre-soaking the electrode shells and sponges for around 30 mintutes, when I add them to the cap, they are very wet - seems to help;
 
 earlier outcomes on the [project website](https://bcmi.khofstadter.info)
+
+
+## do do differently
+- each subproject another another repo (or at least logbook); 
