@@ -125,13 +125,6 @@ INSPIRATION
 - how to record it properly in studio? ([1](https://www.gearslutz.com/board/so-much-gear-so-little-time/183935-mic-selection-bodhran.html));
 - how to drill in the wall? 
 
-
-## frame drumming in the forest 
-- take drum, camera and zoom h1 in the forest; 
-
-## frame drumming where there is reverb
-- can reverb add the help with altering the state of mind? how is it used in psychedelic music? 
-
 ## opebbci wifi
 - try new openbci gui, if works, adapt sc code; 
 
@@ -201,6 +194,20 @@ todo: best would be if when clicking on the item, the new pop up brings in some 
 ---
 
 ## diary
+
+### 2019 11 26
+- update on sc forum - phase coherence; 
+- migrate mix settings from protools to reaper - not good sound; 
+- dissemination of survey link; 
+
+### 2019 11 25
+- tunnelblink vpn not working out today; 
+- communicating with shamanism group admin about issues related to posting/commenting with external link; 
+- uploading paintings to earn trust of facebook shamanism group; 
+- difficulties with sending out more messages on FB to people I am not friends with; 
+- uploading painting to khofstadter.info and linking to shamanism group; 
+- more dissemination via facebook messages and email (asked Shamanism group admin to allow messaging group members privately); 
+- testing tunnelblink and sc messaging between uk-germany with fredrik
 
 ### 2019 11 22
 - meeting with india and invitation to talk in london

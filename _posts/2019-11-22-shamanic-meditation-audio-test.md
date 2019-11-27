@@ -1,7 +1,7 @@
 ---
 layout: post
-title: shamanic mediation audio test
-permalink: /shamanic-mediation-audio-test/
+title: shamanic meditation audio test
+permalink: /shamanic-meditation-audio-test/
 categories: test
 tags: [ongoing, test]
 author: tEdör
