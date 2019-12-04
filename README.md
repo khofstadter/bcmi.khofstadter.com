@@ -33,7 +33,6 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 - creative dissemination list (FB done, one more tagging list needed);
 - Matt mix redo in Reaper (try binarual);
 
-
 ### shamanic soundscape 02
 talk and quad performance (2 rehearsals and show)
 
@@ -195,6 +194,25 @@ todo: best would be if when clicking on the item, the new pop up brings in some 
 
 ## diary
 
+### 2019 12 03
+- plotting date in sc; there is an issue with some of the files and a routine that downscales info. plotting works, but there is an error message; 
+- raw text file amendments (for now removing '['s is enough) :
+	- using BBEdit_12.6.7 (see updated workflow below)
+- survey dissemination
+
+### 2019 12 02
+- more discemination of survey via emails and new traditional shamanism facebook group; 
+- looking at Will's Matlab script; 
+
+### 2019 11 29
+- meeting with Martin and co. (survey feedback) and Alex; 
+- meetin with Will and Szilvia (Matlab learning)
+- mixing with Matt (needs more time, there seem to be differences between software)
+
+### 2019 11 27-28
+- more posters in Essex; 
+- followup email to CFI event bookers (through David C.)
+
 ### 2019 11 26
 - update on sc forum - phase coherence; 
 - migrate mix settings from protools to reaper - not good sound; 
@@ -305,8 +323,11 @@ todo: best would be if when clicking on the item, the new pop up brings in some 
 - playing back sc raw files with added data is OK in openbci 4.1.3;
 
 ### w.c. 2019 10 03
-- amending raw eeg text files
-	1. drag & drop file in open office with the following settings:  
+
+how to amend the raw files? We need to amend the raw files as some softare does not like the extra '[' characters. Also, I was thinking of adding the thresholds (theta, gamma) the the raw file, however these values were only changed ones at the beginning and remained the same throughout - so no real need to keep them in the files. Later, once there is an automatic thresholding code, these threshold values should be recorded in the raw file as well. 
+
+- amending raw eeg text files in OpenOffice (if addition is needed)
+	1. drag & drop raw eeg text file on an emtpy spreed sheet in open office with the following settings:  
 ![title](assets/images/2019-10-03-openoffice-import-raw-eeg-1.jpg)
 
 	2. add column where needed
@@ -320,6 +341,23 @@ todo: best would be if when clicking on the item, the new pop up brings in some 
 	7. make sure header is exaclty the same as before (remove extra commas)
 	7. check with eye some rows. 
 	8. check back in sc... 
+	
+- if we only need to remove:
+	- amending files in Atom is very slow:
+	
+![title](assets/images/2019-10-03-atom-import-raw-eeg.jpg)
+	
+	
+	- amending files in BBEdit (TextWrangler) is superfast; 
+	
+![title](assets/images/2019-10-03-bbedit-import-raw-eeg.jpg)
+
+- final: 
+
+![title](assets/images/2019-10-03-amend-raw-eeg-0.jpg)
+
+![title](assets/images/2019-10-03-amend-raw-eeg-1.jpg)
+	
 
 ### w.c. 2019 09 09
 - meeting with PR: 
