@@ -194,6 +194,21 @@ todo: best would be if when clicking on the item, the new pop up brings in some 
 
 ## diary
 
+
+### 2019 12 06-09
+- spotted mistake in 'forest' files, levels numbers were not saved correctly; files in all projects ameneded; 
+- raw files need to be changed manually in the last level - should be done with fine/replace in BBEdit:
+
+
+![forest level mistake](assets/images/20191209-forest-level-saved-incorrectly.jpg)
+
+
+### 2019 12 05
+- getting an extension might be more difficult than thought; 
+
+### 2019 12 04
+- refining plotting in sc;
+
 ### 2019 12 03
 - plotting date in sc; there is an issue with some of the files and a routine that downscales info. plotting works, but there is an error message; 
 - raw text file amendments (for now removing '['s is enough) :
