@@ -13,172 +13,22 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 - sc posting (stack layer? ... )
 - matlab (start EEGLab tutorials)
 - writing comentary (find saved Bookends file and start)
-- posters out and more dissemination; 
-- email attendies through David Cambridge Fest I - organisers; 
-
-### raw file convention
-- do we need Accel?
-- we need to have different versions as ss01 and ss02 are different; 
-- maybe they will all need manual removal in OpenOffice?
-- check reading with OpenBCI GUI; 
-
-## projects: 
-### Fredrik's soundscape
-- fix sc coherence; 
-- set date, location: at home (perhaps with small in-ear headphones - can sc record?)
-
-### shamanic soundscape 03
-(off-line test with drawing)
-
-- creative dissemination list (FB done, one more tagging list needed);
-- Matt mix redo in Reaper (try binarual);
-
-### shamanic soundscape 02
-talk and quad performance (2 rehearsals and show)
-
-
-**video**
-- analyse EEG data (maybe could feed in);
-- edit video in Premier;
-- another version: perhaps add visualisation with seperate drums tracks triggering visual stimulus (for deaf people); 
-
-INSPIRATION
-- first for a remix 'fairytale evolution remix'
-
-### audio:
-
-- learn from Matt's mix; 
-- how to do binarual (stereo) better?
-- make 4 channel mix as well; 
-
-- 2 mixes (spatial): LL + RR (simple) and with using VST RheaSourround: 
-
-![surround setting](assets/images/20191031-reaper-reasurround.jpg)
-
-- manually allign (sync) zoom recording to sc recording; 
-- remove 4ch file, pan [0,3] to left, [1,2] to right;
-- Menu/Item/Item Processing/Explode multichannel audio or MIDI items to new one-channel items;
-- add zoom and 4ch recording;
-
-#### later musicfication work: 
-- better phase and coherence measurements;
-- map Fz theta median to sound > imediate response (very subtle);
-- map Pz gamma median to sound > imediate response (very subtle);
-- map theta syncrony/coherence... to sound;
-- (maybe) make new sound samples from newer recordings (perhaps having two different drums (recorded and live) creates a nice feeling;  
-- find ref to where Monroe rerecords his voice several times until he is happy with it - am I happy with my voice quoting numbers?  
-
-### shamanic soundscape 01
-- write post questionaire (English / Chinese);
-- adjust all recorded data to new convention - what is the convention?
-- analyse eeg and qualitative data; 
-
-### binaural beats
-#### gateway experience
-- continue listening and recording EEG;
+- survey dissemination; 
 
 ---
 
-## analysis
-### in supercollider
-- plot what we have in raw data (times, theta and gamma (median and thresholds), maybe all theta and coherence);
-- `!` how to overlay different types of plots? (sc forum could not answer it); 
 
 
-### in matlab
-- how is location file used? 
-- continue mike x cohen [course](http://www.mikexcohen.com/#courses)
-- OpenBCI & Matlab ([resource](https://docs.openbci.com/docs/06Software/02-CompatibleThirdPartySoftware/Matlab));
-- EEG Lab course maybe to start? 
+## thesis:
 
-#### 01 clemens
-- learn some EEGLab and try to understand script from clemens;
+## (1) commentary
 
-#### 02 ian 
-- how to do coherence? 
+### mellel file
+- refine portfolio below and add to commentary
+- create the story (with timeline, bcmi subdomain, etc. )
+- read other practice (based, lead) research
 
-### 03 will
-- meetup? 
-
----
-
-## how to include visual art
-- john's shaman drawings
-- my early paintings
-- storylab interpret (2 interpretations)
-- people's drawings on after cambridge festival of ideas; 
-
-
-## frame drumming for lucas ('the forest of the blue rabbit')
-- make bass to go in the middle (mono)
-- experiment for each track with different plugins; 
-- can we create a little story with the forest and rabbit idea;
-- learn new frame drum techiques on youtube; 
-
-## frame drumming in studio
-- find best recordings, mix, master; 
-- record more (not EEG - do much hassle); 
-- shall I write about the proximity effect?
-
-## frame drumming in home studio
-- how to record it properly in studio? ([1](https://www.gearslutz.com/board/so-much-gear-so-little-time/183935-mic-selection-bodhran.html));
-- how to drill in the wall? 
-
-## opebbci wifi
-- try new openbci gui, if works, adapt sc code; 
-
-## shoulder recorder
-- is there a better mic to h1 I should use? 
-
-## practice research
-- check practice phd works; 
-
-## understand Fredrik's code
-- dive into it; 
-
-## openbci enclosure
-- amended one, printed, using; 
-- it could be better; 
-- with new battery (+charger)
-
-## two EEGs simultaniously
-- two computers;
-
-## new soundscape ideas 
-- minimal techno
-- tibetain bowls
-- more 3D - something 3d is moving and focus is on it; 
-- isotropic/monotropic/binaural;
-
-## Ndef instead of normal SC
-- as the idea is to learn how to live code as well; 
-
-## aphorisms 
-- shoudl have used live EEG; 
-
-## tempo of drumming
-- the Pulse sensor didn't work out really; 
-- how to visualize bmp of live frame drumming in sc? 
-
-## screen/audio recording
-- screenflow issues: can't record 4 channel audio, can only do 48kz; 
-
-## neuroMediation protocol
-- who to mix protocols for shamanic journeying - can we add deep meditation to focus and mindfulness?
-
-## what to listen to?
-* do we ask the listener to 'listen' to the music, or shall it be in the background ([like when problem solving](https://www.youtube.com/watch?v=whYGDvNohzo))?
-
-## polymetre vs polyrhythm;
-- breakbeat, dnb - is that in line with the polyrhythmic paper? 
-
-## juxtaposing complexity with simplicity - who writes about this? 
-
-## writing papers
-* make a list of journals where I could submit; 
-* shall I write something for Medium? 
-
-## vis.js
+### vis.js
 - https://www.fileformat.info/index.htm for html characters; 
 - cannot convert to JSON atm, will use CSV file, copy and past from there into script (does not look extactly how it should (some extra spaced_) 
 
@@ -188,12 +38,201 @@ INSPIRATION
 * tooltip when hover: https://visjs.github.io/vis-timeline/examples/timeline/items/tooltip.html (might not work when using phone)
 * select groups: 
 
-todo: best would be if when clicking on the item, the new pop up brings in some info, and in that infor there is a link/anchor to more info; 
+todo: best would be if when clicking on the item, the new pop up brings in some info, and in that infor there is a link/anchor to more info;
+
+### papers
+- how to submit parts of the phd to papers, do I need to rewrite?
+- sum up research experience for Medium
+
+### ideas
+- what to listen to? do we ask the listener to 'listen' to the music, or shall it be in the background ([like when problem solving](https://www.youtube.com/watch?v=whYGDvNohzo))?
+- polymetre vs polyrhythm (breakbeat, dnb - is that in line with the polyrhythmic paper?)
+- juxtaposing complexity with simplicity - who writes about this? 
+ 
+
+
+## (2) creative work
+
+### frame drumming
+- learn new techniques
+
+---
+
+### audio releases
+#### 1. Cambridge Festival of Ideas (3 recordings)
+- centre bass
+- add binaural mix, current setup: 
+
+![surround setting](assets/images/20191031-reaper-reasurround.jpg)
+
+- make 4 channel mix in studio
+- apply Matty Moon mix settings to all other recordings
+- make physical CD
+- visuals in Gimp:
+	- mine, participants, John Williams, find online, storylab interpretations, participants drawing at event or for survey
+	- take photo of me and the frame drum
+- release on BandCamp and give physical copy to people in acknowledgement
+
+#### 2. Recital Hall (MPA)
+- same as above for mix; 
+
+#### 3. Blue Forest
+(Lucas’s bed time drumming)
+
+- noise reduction
+- centre bass
+- experimental reverbs (each track different)
+- write story (characters, locations)
+- illustration by Yanxi and k and lucas
+
+#### 4. Studio recordings
+- find best recordings, mix, master; 
+- record more (not EEG - do much hassle); 
+- shall I write about the proximity effect?
+
+#### 5. frame drumming in home studio
+- how to record it properly in studio? ([1](https://www.gearslutz.com/board/so-much-gear-so-little-time/183935-mic-selection-bodhran.html));
+- how to drill in the wall? 
+
+#### notes:  
+- reaper tip: Menu/Item/Item Processing/Explode multichannel audio or MIDI items to new one-channel items;
+
+---
+
+### videos
+#### 1. Cambridge Festival of Ideas (3 recordings)
+
+- ask someone to look at grading (John Renney?)
+- make a few versions
+
+#### 2. Video tutorials
+- finish all code
+- understand f's code
+- make videos tutorials
+
+#### 3. Experimental Visuals 
+- use audio and eeg together
+- inclusivity: for hard hearing people
+
+#### notes
+- screenflow issues: can't record 4 channel audio, can only do 48kz; 
+
+---
+
+### eeg analysis
+#### 1. shamanic soundscape 01 (mama, baba, k)
+- write post questionaire (English / Chinese)
+- analyse eeg and qualitative data
+
+#### 2. shamanic soundscape 02 (k performances)
+- analyse eeg and qualitative data
+
+#### 3. binaural beats (k)
+- continue listening and recording EEG (gateway experience and catnapper)
+
+#### 4. other k ?
+#### 5. advanced meditator
+#### 6. uk-germany gig ?
+
+#### IN SC
+- refine plotting code;
+- plot all projects;
+- refine ~recorder.extra in 'main.scd' accordingly; 
+
+#### IN MATLAB
+- EEG Lab course maybe to start;
+- how is location file used? 
+- continue mike x cohen [course](http://www.mikexcohen.com/#courses)
+- OpenBCI & Matlab ([resource](https://docs.openbci.com/docs/06Software/02-CompatibleThirdPartySoftware/Matlab));
+
+#### notes: asked for help from Ian, Clemens, Will. Their code is too advanced for me at the moment.  
+
+---
+
+### hardware
+#### 1. enclosure
+- amended one, printed, using; 
+- it could be better; 
+- with new battery (+charger)
+
+#### 2. caps
+#### 3. shoulder recorder velcrov
+- is there a better mic to use at home to the h1?
+
+#### 4. pulse sensor
+- summarise trials, not working
+- how to visualize bmp of live frame drumming in sc? 
+
+#### 5. openbci wifi
+#### 6. soldering
+
+---
+
+## supercollider code
+#### 1. IBVA-supercollider
+(dev: Fredik, tester: k)
+
+- make a video demo;
+
+#### 2. openBCI-supercollider
+(dev: Fredik, k; tester: k)
+
+- refine raw file saving convention (do we need accelerometer - check openbci gui)
+- sum why neuromediation was dropped; 
+- refine and add phase coherence examples
+- refine and add plotting examples
+- push to GitHub
+- check new wifi settings in openbci gui, migrate to sc code
+
+#### 3. aphorisms 
+- refine code (why: to learn live coding)
+- shoudl have used live EEG; 
+	
+#### 4. shamanic-meditation soundscape
+- refine and push to GitHub
+
+---
+
+### survey
+#### 1. Shamanic meditation 
+- further disseminate on FB and email;
+— Hungarian version
+
+#### 2. NF survey?
+— sum up research 
+— is Tony in? 
+— write survey and disseminate
+
+#### 3. traditional vs core shamanism
+
+---
+
+### ideas: 
+- inspiration for adding live drums to shamanic soundscape at performance: first for a remix 'fairytale evolution remix'
+- two EEG's together (for Cambridge Science Festical)
+- new soundscape ideas:
+	- minimal techno (extend on what was learn from shamanic soundscape)
+	- Tibetan bowls
+	- more 3D - something 3d is moving and focus is on it; 
+	- isotropic/monotropic/binaural;
+
+
+#### later musicfication work: 
+- better phase and coherence measurements;
+- map Fz theta median to sound > imediate response (very subtle);
+- map Pz gamma median to sound > imediate response (very subtle);
+- map theta syncrony/coherence... to sound;
+- (maybe) make new sound samples from newer recordings (perhaps having two different drums (recorded and live) creates a nice feeling;  
+- find ref to where Monroe rerecords his voice several times until he is happy with it - am I happy with my voice quoting numbers?  
+
 
 ---
 
 ## diary
 
+### 2019 12 10
+- more survey dissemination and personal messages (issue with survey not submitting on Safari);
+- will stick to plotting as it is, not looking into other ways; 
 
 ### 2019 12 06-09
 - spotted mistake in 'forest' files, levels numbers were not saved correctly; files in all projects ameneded; 
@@ -202,6 +241,8 @@ todo: best would be if when clicking on the item, the new pop up brings in some 
 
 ![forest level mistake](assets/images/20191209-forest-level-saved-incorrectly.jpg)
 
+
+- issues with survey, not submitted (earlier not working on some browsers)
 
 ### 2019 12 05
 - getting an extension might be more difficult than thought; 
