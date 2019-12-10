@@ -4,22 +4,21 @@ This README.md acts as the logbook for the project.
 
 This github repository is setup to archive my PhD work titled 'Developing a Brain Computer Music Interface for Meditation'. The website [https://bcmi.khofstadter.info](https://bcmi.khofstadter.info) is an archive of the main outcomes. This README.md file is the more detailed log, that keeps me focused.
 
-The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik). Others who have helped: Jörg Fachner, Tom Hall, Richard Hoadley, Paul Rhys, Clemens Maidhof, Ian Daly, Ryan Rogers, Matt Skidmore, Yanxi Wu, Will Schneider. ...
+The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik). Others who have helped: Jörg Fachner, Tom Hall, Richard Hoadley, Paul Rhys, Clemens Maidhof, Ian Daly, Ryan Rogers, Matt Skidmore, Yanxi Wu, Will Schneider, etc.
 
 ---
 
 ## priority todo:
-- sc phase coherence test with EEG and refinement with [Tatcher paper] (https://pdfs.semanticscholar.org/2bb5/53438cd587bc8b0a8d53f6aa493dcb8b7f35.pdf)
+- sc phase coherence test with EEG and refinement with [Tatcher paper](https://pdfs.semanticscholar.org/2bb5/53438cd587bc8b0a8d53f6aa493dcb8b7f35.pdf)
 - finish sc plotting code
 - matlab (start EEGLab tutorials)
 - based on this logbook refine commentary in mellel
 - survey dissemination
+- 2nd paper from Max;
 
 ---
 
-
-
-## thesis:
+## thesis todo:
 
 ## (1) commentary
 
@@ -32,7 +31,7 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 - how to submit parts of the phd to papers, do I need to rewrite?
 - sum up research experience for Medium
 
-### ideas
+### ideas to add to main doc: 
 - what to listen to? do we ask the listener to 'listen' to the music, or shall it be in the background ([like when problem solving](https://www.youtube.com/watch?v=whYGDvNohzo))?
 - polymetre vs polyrhythm (breakbeat, dnb - is that in line with the polyrhythmic paper?)
 - juxtaposing complexity with simplicity - who writes about this? 
@@ -839,5 +838,5 @@ http://openbci.com/forum/index.php?p=/discussion/1663/greentek-gelfree-s-eeg-cap
 earlier outcomes on the [project website](https://bcmi.khofstadter.info)
 
 
-## do do differently
+## to do differently
 - each subproject another another repo (or at least logbook); 
