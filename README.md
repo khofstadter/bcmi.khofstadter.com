@@ -4,16 +4,16 @@ This README.md acts as the logbook for the project.
 
 This github repository is setup to archive my PhD work titled 'Developing a Brain Computer Music Interface for Meditation'. The website [https://bcmi.khofstadter.info](https://bcmi.khofstadter.info) is an archive of the main outcomes. This README.md file is the more detailed log, that keeps me focused.
 
-The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik). Others who have helped: Jörg Fachner, Clemens, Tom Hall, Richard Hoadley, Paul Rhys, Clemens Maidhof, Ian Daly, Ryan Rogers, Matt Skidmore, Yanxi Wu, 
+The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik). Others who have helped: Jörg Fachner, Tom Hall, Richard Hoadley, Paul Rhys, Clemens Maidhof, Ian Daly, Ryan Rogers, Matt Skidmore, Yanxi Wu, Will Schneider. ...
 
 ---
 
 ## priority todo:
-- sc phase coherence (check openbci doc, code in sc)
-- sc posting (stack layer? ... )
+- sc phase coherence test with EEG and refinement with [Tatcher paper] (https://pdfs.semanticscholar.org/2bb5/53438cd587bc8b0a8d53f6aa493dcb8b7f35.pdf)
+- finish sc plotting code
 - matlab (start EEGLab tutorials)
-- writing comentary (find saved Bookends file and start)
-- survey dissemination; 
+- based on this logbook refine commentary in mellel
+- survey dissemination
 
 ---
 
@@ -27,18 +27,6 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 - refine portfolio below and add to commentary
 - create the story (with timeline, bcmi subdomain, etc. )
 - read other practice (based, lead) research
-
-### vis.js
-- https://www.fileformat.info/index.htm for html characters; 
-- cannot convert to JSON atm, will use CSV file, copy and past from there into script (does not look extactly how it should (some extra spaced_) 
-
-- have managed to include vis.js (only html, not md) in jekyll website bcmi.khofstadter.info/timeline.html (todo: use some styling from default css in the vis.js so that they look similar a bit) BUT only working locally: https://github.com/visjs/vis-timeline/issues/179
-
-* link: https://visjs.github.io/vis-timeline/examples/timeline/items/htmlContents.html
-* tooltip when hover: https://visjs.github.io/vis-timeline/examples/timeline/items/tooltip.html (might not work when using phone)
-* select groups: 
-
-todo: best would be if when clicking on the item, the new pop up brings in some info, and in that infor there is a link/anchor to more info;
 
 ### papers
 - how to submit parts of the phd to papers, do I need to rewrite?
@@ -204,6 +192,19 @@ todo: best would be if when clicking on the item, the new pop up brings in some 
 — write survey and disseminate
 
 #### 3. traditional vs core shamanism
+
+---
+
+### vis.js
+- best would be if when clicking on the item, the new pop up brings in some info, and in that infor there is a link/anchor to more info;
+- https://www.fileformat.info/index.htm for html characters; 
+- cannot convert to JSON atm, will use CSV file, copy and past from there into script (does not look extactly how it should (some extra spaced_) 
+
+- have managed to include vis.js (only html, not md) in jekyll website bcmi.khofstadter.info/timeline.html (todo: use some styling from default css in the vis.js so that they look similar a bit) BUT only working locally: https://github.com/visjs/vis-timeline/issues/179
+
+* link: https://visjs.github.io/vis-timeline/examples/timeline/items/htmlContents.html
+* tooltip when hover: https://visjs.github.io/vis-timeline/examples/timeline/items/tooltip.html (might not work when using phone)
+* select groups: 
 
 ---
 
