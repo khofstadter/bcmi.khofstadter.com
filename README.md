@@ -9,13 +9,14 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 # Logbook
 
+// priority <mark>marked</mark>
+
 ## thesis todo:
 
 ## (1) commentary
 
 ### mellel file
 - <mark>read on NF thresholds in Collura;</mark>
-- read 2nd paper from Max;
 - can we skip mellel and only use markdown? If yes, how to turn markdown into pdf easy?
 - refine portfolio below and add to commentary
 - decide on what text should go with markdown in the github repo
@@ -25,6 +26,7 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ### papers
 - how to submit parts of the phd to papers, do I need to rewrite?
 - sum up research experience for Medium
+- how to write a book chapter proposal?
 
 ### ideas to add to main doc: 
 - what to listen to? do we ask the listener to 'listen' to the music, or shall it be in the background ([like when problem solving](https://www.youtube.com/watch?v=whYGDvNohzo))?
