@@ -21,15 +21,13 @@ Presentation, performance and drawing, Q/A
 ### Presentation
 - orientation
 
-- the first choice for soundscape style was shamanic drumming
+- shamanic methods to explore for first bcmi soundscape
 
 - explanation of 30-minute tests
 
-- what is different between the tests and this performance?
+- what is different between the 30 min tests and this 20 min performance?
 
 - why are the gaming elements absent in this performance?
-
-- why is the performance shorter (20 min) than the tests?
 
 - how shall you listen to the soundscape? Shall you listen to the digital shamans (drums and chakapa) or my live drumming or the other sounds?
 
@@ -45,7 +43,7 @@ Presentation, performance and drawing, Q/A
 
 - would be great if you can draw your 'visions' after the performance
 
-// video to be added later
+( video asap )
 
 <br>
 <br>
@@ -64,7 +62,7 @@ Presentation, performance and drawing, Q/A
 <br>
 <br>
 
-row 1: theta median FZ (grey)with threshold on 1.5 microVolts (black)
+row 1: theta median FZ (grey) with threshold on 1.5 microVolts (black)
 
 row 2: levels (blue triangles), theta median above threshold (green going down)
 
