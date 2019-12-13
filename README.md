@@ -1,29 +1,24 @@
-# Logbook
+This repository archives my PhD  titled 'Developing a Brain Computer Music Interface for Meditation'. It has two main parts: 
 
-This README.md acts as the logbook for the project.
-
-This github repository is setup to archive my PhD work titled 'Developing a Brain Computer Music Interface for Meditation'. The website [https://bcmi.khofstadter.info](https://bcmi.khofstadter.info) is an archive of the main outcomes. This README.md file is the more detailed log, that keeps me focused.
+1. Logbook, a detailed diary in this README.md file.
+2. [Website](https://bcmi.khofstadter.info), a Jekyll website with the main outcomes. 
 
 The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik). Others who have helped: Jörg Fachner, Tom Hall, Richard Hoadley, Paul Rhys, Clemens Maidhof, Ian Daly, Ryan Rogers, Matt Skidmore, Yanxi Wu, Will Schneider, etc.
 
 ---
 
-## priority todo:
-- sc phase coherence test with EEG and refinement with [Tatcher paper](https://pdfs.semanticscholar.org/2bb5/53438cd587bc8b0a8d53f6aa493dcb8b7f35.pdf)
-- finish sc plotting code
-- matlab (start EEGLab tutorials)
-- based on this logbook refine commentary in mellel
-- survey dissemination
-- 2nd paper from Max;
-
----
+# Logbook
 
 ## thesis todo:
 
 ## (1) commentary
 
 ### mellel file
+- <mark>read on NF thresholds in Collura;</mark>
+- read 2nd paper from Max;
+- can we skip mellel and only use markdown? If yes, how to turn markdown into pdf easy?
 - refine portfolio below and add to commentary
+- decide on what text should go with markdown in the github repo
 - create the story (with timeline, bcmi subdomain, etc. )
 - read other practice (based, lead) research
 
@@ -35,10 +30,10 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 - what to listen to? do we ask the listener to 'listen' to the music, or shall it be in the background ([like when problem solving](https://www.youtube.com/watch?v=whYGDvNohzo))?
 - polymetre vs polyrhythm (breakbeat, dnb - is that in line with the polyrhythmic paper?)
 - juxtaposing complexity with simplicity - who writes about this? 
+
+---
  
-
-
-## (2) creative work
+## (2) creative work todo:
 
 ### frame drumming
 - learn new techniques
@@ -108,8 +103,9 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ### eeg analysis
 #### 1. shamanic soundscape 01 (mama, baba, k)
-- write post questionaire (English / Chinese)
-- analyse eeg and qualitative data
+- digitalise, translate post questionaire (English / Chinese)
+- analyse eeg and qualitative data from questionnaires in Matrix;
+- add soundfile player to plot GUI; 
 
 #### 2. shamanic soundscape 02 (k performances)
 - analyse eeg and qualitative data
@@ -171,12 +167,21 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 - push to GitHub
 - check new wifi settings in openbci gui, migrate to sc code
 
-#### 3. aphorisms 
+#### 3. supercollider-quad-live
+ndefs for live performance   
+[github](https://github.com/krisztian-hofstadter-tedor/supercollider-quad-live)
+
 - refine code (why: to learn live coding)
 - shoudl have used live EEG; 
 	
-#### 4. shamanic-meditation soundscape
+#### 4. bcmi-soundscape-01
+shamanic meditation soundscape   
+[github](https://github.com/krisztian-hofstadter-tedor/bcmi-soundscape-01)
+
 - refine and push to GitHub
+
+#### 5. music making gui
+gui to make flex time music
 
 ---
 
@@ -232,7 +237,15 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ### 2019 12 10
 - more survey dissemination and personal messages (issue with survey not submitting on Safari);
-- will stick to plotting as it is, not looking into other ways; 
+- will stick to plotting as it is, not looking into other ways, still issues: 
+
+![cased by bad code](assets/images/20191210-plotting01.jpg)
+
+![level number manual change](assets/images/2019-12-10-bbedit-import-raw-eeg-2.jpg)
+
+- but most look OK: 
+
+![most](assets/images/20191210-plotting02.jpg)
 
 ### 2019 12 06-09
 - spotted mistake in 'forest' files, levels numbers were not saved correctly; files in all projects ameneded; 
@@ -406,7 +419,7 @@ how to amend the raw files? We need to amend the raw files as some softare does 
 	
 	- amending files in BBEdit (TextWrangler) is superfast; 
 	
-![title](assets/images/2019-10-03-bbedit-import-raw-eeg.jpg)
+![title](assets/images/2019-10-03-bbedit-import-raw-eeg-1.jpg)
 
 - final: 
 
