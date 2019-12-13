@@ -1,46 +1,32 @@
 This repository archives my PhD  titled 'Developing a Brain Computer Music Interface for Meditation'. It has two main parts: 
 
-1. Logbook, a detailed diary in this README.md file.
-2. [Website](https://bcmi.khofstadter.info), a Jekyll website with the main outcomes. 
+1. thesis to-do list (work left to do)
+2. logbook (a detailed diary)
+3. [Website](https://bcmi.khofstadter.info) (a Jekyll website with the main outcomes)
 
-The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik). Others who have helped: Jörg Fachner, Tom Hall, Richard Hoadley, Paul Rhys, Clemens Maidhof, Ian Daly, Ryan Rogers, Matt Skidmore, Yanxi Wu, Will Schneider, etc.
+The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik), my external advisor. Others who have helped: Jörg Fachner (2nd supervisor), Tom Hall (first 1st supervisor), Richard Hoadley (2nd first supervisor), Paul Rhys (3rd first supervisor), Clemens Maidhof, Ian Daly, Ryan Rogers, Matt Skidmore, Yanxi Wu, Will Schneider, etc.
 
 ---
 
-# Logbook
-
-// priority <mark>marked</mark>
-
-## thesis todo:
+## thesis to-do list:
 
 ## (1) commentary
 
 ### mellel file
-- <mark>read on NF thresholds in Collura;</mark>
+- <mark>read on NF thresholds in Collura</mark>
 - can we skip mellel and only use markdown? If yes, how to turn markdown into pdf easy?
-- refine portfolio below and add to commentary
-- decide on what text should go with markdown in the github repo
-- create the story (with timeline, bcmi subdomain, etc. )
 - read other practice (based, lead) research
-
-### papers
-- how to submit parts of the phd to papers, do I need to rewrite?
-- sum up research experience for Medium
-- how to write a book chapter proposal?
-
-### ideas to add to main doc: 
-- what to listen to? do we ask the listener to 'listen' to the music, or shall it be in the background ([like when problem solving](https://www.youtube.com/watch?v=whYGDvNohzo))?
-- polymetre vs polyrhythm (breakbeat, dnb - is that in line with the polyrhythmic paper?)
 - juxtaposing complexity with simplicity - who writes about this? 
+- find more REF for polyrhythm and brainwaves
+- find REF for remembering and steady stimulus
+
+### external
+- sum up research experience for Medium
+- <mark>submit book chapter proposal by mid Jan</mark>
 
 ---
  
 ## (2) creative work todo:
-
-### frame drumming
-- learn new techniques
-
----
 
 ### audio releases
 #### 1. Cambridge Festival of Ideas (3 recordings)
@@ -52,31 +38,30 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 - make 4 channel mix in studio
 - apply Matty Moon mix settings to all other recordings
 - make physical CD
-- visuals in Gimp:
+- visuals in Gimp for each release:
 	- mine, participants, John Williams, find online, storylab interpretations, participants drawing at event or for survey
-	- take photo of me and the frame drum
+	- take photo of me and the frame drum and blue rabbit
 - release on BandCamp and give physical copy to people in acknowledgement
 
 #### 2. Recital Hall (MPA)
 - same as above for mix; 
 
 #### 3. Blue Forest
-(Lucas’s bed time drumming)
+(bed time drumming)
 
 - noise reduction
 - centre bass
 - experimental reverbs (each track different)
 - write story (characters, locations)
-- illustration by Yanxi and k and lucas
+- illustration by ykl
 
 #### 4. Studio recordings
 - find best recordings, mix, master; 
-- record more (not EEG - do much hassle); 
-- shall I write about the proximity effect?
+- record more (not EEG - too much hassle); 
+- proximity effect?
 
 #### 5. frame drumming in home studio
-- how to record it properly in studio? ([1](https://www.gearslutz.com/board/so-much-gear-so-little-time/183935-mic-selection-bodhran.html));
-- how to drill in the wall? 
+- make studio e.g. drill wall ([1](https://www.gearslutz.com/board/so-much-gear-so-little-time/183935-mic-selection-bodhran.html))
 
 #### notes:  
 - reaper tip: Menu/Item/Item Processing/Explode multichannel audio or MIDI items to new one-channel items;
@@ -87,16 +72,16 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 #### 1. Cambridge Festival of Ideas (3 recordings)
 
 - ask someone to look at grading (John Renney?)
-- make a few versions
+- new performance, separate talk
 
 #### 2. Video tutorials
-- finish all code
+- finish all code, push
 - understand f's code
 - make videos tutorials
 
 #### 3. Experimental Visuals 
-- use audio and eeg together
-- inclusivity: for hard hearing people
+- use audio and eeg together to trigger visuals
+- inclusivity: for hard hearing people (visual stimulation)
 
 #### notes
 - screenflow issues: can't record 4 channel audio, can only do 48kz; 
@@ -105,9 +90,9 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ### eeg analysis
 #### 1. shamanic soundscape 01 (mama, baba, k)
-- digitalise, translate post questionaire (English / Chinese)
-- analyse eeg and qualitative data from questionnaires in Matrix;
-- add soundfile player to plot GUI; 
+- <mark>digitalise, translate post questionaire (English / Chinese)</mark>
+- analyse eeg and qualitative data from questionnaires in EAD type matrix
+- <mark>add soundfile player to plot GUI</mark>
 
 #### 2. shamanic soundscape 02 (k performances)
 - analyse eeg and qualitative data
@@ -115,14 +100,21 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 #### 3. binaural beats (k)
 - continue listening and recording EEG (gateway experience and catnapper)
 
-#### 4. other k ?
+#### 4. k coherence test
+- apply new coherence in code, test with 8 channels via soundscape and/or drumming
+
 #### 5. advanced meditator
+- find IBVA file of Tim A and invite him for another test; 
+- buddhists in colchester
+
 #### 6. uk-germany gig ?
+- delayed
 
 #### IN SC
-- refine plotting code;
+- <mark>refine plotting code;</mark>
 - plot all projects;
 - refine ~recorder.extra in 'main.scd' accordingly; 
+
 
 #### IN MATLAB
 - EEG Lab course maybe to start;
@@ -130,26 +122,25 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 - continue mike x cohen [course](http://www.mikexcohen.com/#courses)
 - OpenBCI & Matlab ([resource](https://docs.openbci.com/docs/06Software/02-CompatibleThirdPartySoftware/Matlab));
 
-#### notes: asked for help from Ian, Clemens, Will. Their code is too advanced for me at the moment.  
+#### notes: 
+- asked for help from Ian, Clemens, Will. Their code is too advanced for me at the moment.  
 
 ---
 
 ### hardware
 #### 1. enclosure
-- amended one, printed, using; 
-- it could be better; 
-- with new battery (+charger)
+- amended one, printed, using (should be improved)
 
 #### 2. caps
 #### 3. shoulder recorder velcrov
-- is there a better mic to use at home to the h1?
+- contact mic, recorder with phantom + new mic
 
 #### 4. pulse sensor
 - summarise trials, not working
 - how to visualize bmp of live frame drumming in sc? 
 
 #### 5. openbci wifi
-#### 6. soldering
+- try new openbci gui
 
 ---
 
@@ -157,14 +148,15 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 #### 1. IBVA-supercollider
 (dev: Fredik, tester: k)
 
-- make a video demo;
+- make a video demo
+- send to Lu and Masahiro
 
 #### 2. openBCI-supercollider
 (dev: Fredik, k; tester: k)
 
-- refine raw file saving convention (do we need accelerometer - check openbci gui)
+- refine raw file saving convention (do we need accelerometer - <mark>check openbci gui<\mark>)
 - sum why neuromediation was dropped; 
-- refine and add phase coherence examples
+- <mark>refine and add phase coherence examples</mark>
 - refine and add plotting examples
 - push to GitHub
 - check new wifi settings in openbci gui, migrate to sc code
@@ -185,23 +177,28 @@ shamanic meditation soundscape
 #### 5. music making gui
 gui to make flex time music
 
+- refine and push to GitHub
+
 ---
 
 ### survey
-#### 1. Shamanic meditation 
-- further disseminate on FB and email;
-— Hungarian version
+#### 1. Shamanic meditation
 
-#### 2. NF survey?
-— sum up research 
-— is Tony in? 
-— write survey and disseminate
+- <mark>further disseminate on FB and email</mark>
+- <mark>Hungarian version </mark>
+
+#### 2. NF survey
+- sum up research
+- is Tony in?
+- write survey and disseminate
+
 
 #### 3. traditional vs core shamanism
 
 ---
 
 ### vis.js
+<mark>sum up</mark>
 - best would be if when clicking on the item, the new pop up brings in some info, and in that infor there is a link/anchor to more info;
 - https://www.fileformat.info/index.htm for html characters; 
 - cannot convert to JSON atm, will use CSV file, copy and past from there into script (does not look extactly how it should (some extra spaced_) 
@@ -211,6 +208,11 @@ gui to make flex time music
 * link: https://visjs.github.io/vis-timeline/examples/timeline/items/htmlContents.html
 * tooltip when hover: https://visjs.github.io/vis-timeline/examples/timeline/items/tooltip.html (might not work when using phone)
 * select groups: 
+
+---
+
+### frame drumming
+- learn new techniques
 
 ---
 
@@ -235,7 +237,11 @@ gui to make flex time music
 
 ---
 
-## diary
+## logbook
+
+### 2019 12 13
+- sc plotting performance
+- realised that forest.scd level (14,16) mistake has effected the soundscape as well - voice for level 2 is missing - is this really a problem?  turn it into an opportunity! it was gone in another universe - haha = again, a unique thing, that helps to stay awake!
 
 ### 2019 12 10
 - more survey dissemination and personal messages (issue with survey not submitting on Safari);
@@ -356,7 +362,6 @@ gui to make flex time music
 - demo at ARU, music students, recorded music;
 - 30min setup is tight; 
 
-
 ### 2019 11 04
 - bennie and ivan asked about new S3 corrosion
 - survey issue - how do people attache their images? Can they get an ID after the survey that they can refer to?
@@ -429,7 +434,6 @@ how to amend the raw files? We need to amend the raw files as some softare does 
 
 ![title](assets/images/2019-10-03-amend-raw-eeg-1.jpg)
 	
-
 ### w.c. 2019 09 09
 - meeting with PR: 
 	- university of bristol - interdisciplinary people; 
@@ -447,8 +451,6 @@ how to amend the raw files? We need to amend the raw files as some softare does 
 ### 2019 08 23
 BABA01 (pretest)
 - no questionaire, i kinda know what he is like, he touched the eeg while tests, he couldn't concertrate on the drumming (maybe needs to be made more explicit, maybe 30 min of the most minimal shamanic drumming is to much if they are not interested in this, he asked about the smudge scent, he was told it will be max 1h with some sounds, i don't think he was focusing on the music, do people actually want to change something in them (differentiate between people who like the idea and and the ones who don't seem to be interested), after 15 minutes he was told to focus on the breething and the music (as he was not focusing on anything really, he was looking at the fft plot often, he is clever, wanted to understand (maybe we need to make sure people understand the agenda >> you will understand if you let go of understanding, there were small noises from the outside, after the test he said he was not tired when we started (altough was jawning constantly), he said he only got tired towards the very end, he said he could differentiate between the wide and the narrow sound (probably different timbre)
-
-
 
 ### 2019 08 18, 19
 - battery connectors too big for OpenBCI
@@ -607,7 +609,6 @@ buy new EEG cap.
 ? clearing both electrodes, cap? 
 ? how does low battery effect the signal?  
 
-
 ### 2019 06 24
 Testing Jumping signal: 
 - little thing that broke off might be the issue, but why would this effect the wifi signal? 
@@ -619,9 +620,6 @@ todo:
 - talk to Istvan about healing the cap; 
 - buy a new cap; 
 - is there a gel cap in the Music Therepy clinic that I could borrow? 
-
-
-
 
 ### 2019 06 21
 - testing with distilled water, no difference to jumping signal in Wifi; 
@@ -645,12 +643,11 @@ Questions for Ian:
 - y cable;
 - feeltrace (trackball mouse) vs accelerometer (not on head?)
 
-
 ### 2019 16 17 
 - organise thoughts; 
 - drive: after phd (dmt); 
 
-#### 2019 06 11-12-13
+#### 2019 06 11-13
 * aphorisms prep/concert
 * no EEG used; 
 
@@ -715,7 +712,6 @@ Aphorisms:
 - new Pulse is sent;
 - working on Exodus (include methodology/plan) in thesis;
 
-
 ### 2019 05 23
 Studio recording with Pulse and Frame Drum
 - even with two sound proofing foam, the pulse is too loud in the recordings;
@@ -750,50 +746,48 @@ Rehearsing Aphorisms in Recital Hall:
 - fine tuned order of execution with OpenBCI_GUI ([youtube](https://youtu.be/RTf_jXjlWbM));
 - fine tuning designated OS;
 
-### 2019 03 7 (Thu)
+### 2019 03 7 
 - making sample pack;
 
-### 2019 02 26 (Wed)
+### 2019 02 26 
 Experimenting with auto trim/split in Reaper. Fine adjustments to this tool are needed in order to do loads of manual tasks.
-
 - todo: need to find out how to record this instrument (get in touch with Gareth, Matt and Mark);
 - discussion [here](https://www.gearslutz.com/board/so-much-gear-so-little-time/183935-mic-selection-bodhran.html);
 
-
-### 2019 02 26 (Tue)
+### 2019 02 26
 - Recordings of frame drum in ARU studio.
 - Checking 3d printer in the ARU.
 - thinking about the accelerometer on board be used instead of FEELTRACE? probably not, there should be an external system for this, as the head movement might make use feel different;
 
-### 2019 02 11-14 (Tue-Thu)
+### 2019 02 11-14
 Jeff Strong's Drumming course: pre course and first week done, frame drum ordered, practicing basic patterns;  
 rewriting tempoClock in new software;
 ideas for listening test (more in email to Fredik subject: quick update)
 
 Read on AI and D R Hofstadter: https://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/
 
-### 2019 02 10 (Mon)
+### 2019 02 10 
 Enrolled on Jeff Strong's Drumming Course. Trying to ask them to make it all available.
 
-### 2019 02 07 (Fri)
+### 2019 02 07 
 continue with Jeff Strong videos and notes;
 thinking about odd meters and tempo changes (speed up or down) in SC;
 
-### 2019 02 07 (Thu)
+### 2019 02 07 
 research on Jeff Strong and his drumming techniques;   
 more on coming blog post 'jeff strong';
 testing new sc widgets that look like OpenBCI GUI widgets;
 
-### 2019 02 06 (Wed)
+### 2019 02 06 
 started redesigning the TempoClock part of the seq;
 
-### 2019 02 04 (Mon)
+### 2019 02 04 
 Test new code from Fredrik.
 
-### 2019 02 03 (Sun)
+### 2019 02 03 
 OpenBCI-SuperCollider update test (bcmi diary 11 video:https://youtu.be/hjnweAmfmm0)
 
-### 2019 02 01 (Fri)
+### 2019 02 01 
 
 - conversations about corrosion on EEG electrodes;
 - checking forum and github issues;
@@ -802,48 +796,41 @@ OpenBCI-SuperCollider update test (bcmi diary 11 video:https://youtu.be/hjnweAmf
 	- let's try brand new sponges;
 	- let's check the water, i've used normal water;
 
-
-
-### 2019 01 31 (Thu)
+### 2019 01 31 
 - tested new softAP from Fredrik, doesn’t seem to be usable as there are too many lost packages;
 - tested new OpenBCI_GUI for [impedance issue](https://github.com/OpenBCI/OpenBCI_GUI/issues/427), they updated it, now it work.
 - there might be a problem with [EEG corrosion](assets/images/2019-01-31-eeg-corrosion.JPG), hence the high impedance I've been measuring;
 
-
-### 2019 01 30 (Wed)
+### 2019 01 30 
 - firmware [update](assets/images/2019-01-30-openbci-wifi-shield-update.JPG) with FTDI cable, quark update - test;
 - issues with distance and connection between shield/router/computer
 
-### 2019 01 28 (Mon)
+### 2019 01 28 
 - fresh Sierra install;
 - following Fredik’s Wifi install guide:
 - uploading basic firmware in programming mode;
 - had slight issue with connecting wifi shield to home wifi/computer wifi (wifi manager) solution might be to get close to the router;
 now sc streams data from wifi;
 
-
-
-### 2019 01 24-25 (Thu-Fri)
+### 2019 01 24-25
 - Fredrik shared info on how to setup the Wifi OSC;
 - needs testing;
 
-### 2019 01 27-28 (Thu-Fri)
+### 2019 01 27-28
 - installed Mojave next to Safari, same problem;
 - the impedance issue with the GUI has been attended, now I need to test it:
 - https://github.com/OpenBCI/OpenBCI_GUI/issues/427#issuecomment-457956993.
 - no answer for the FTDI question yet.
 
-
-### 2019 01 21 (Mon)
-- get 3v ftdi adapter for uploading;
+### 2019 01 21 
+- get 3v ftdi er for uploading;
 - asked questions:
 	- https://openbci.com/index.php/forum/#/discussion/1960/which-osx-and-ftdi-version-is-best-to-use-with-the-standalone-openbci-gui
-
 	- https://openbci.com/index.php/forum/#/discussion/1961/impedance-measuring-issue-with-openbci-gui-4-0-3-standalone-osx
 
 - reorganised literature folders and BookEnds ref to files;
 
-### 2019 01 10 (Sun)
+### 2019 01 10 
 * changed REF from REF to Cz after talking to William Croft:
 http://openbci.com/forum/index.php?p=/discussion/1663/greentek-gelfree-s-eeg-cap#latest
 * need to find a way to use ear-clips for REF with y cable;
@@ -852,6 +839,5 @@ http://openbci.com/forum/index.php?p=/discussion/1663/greentek-gelfree-s-eeg-cap
 
 earlier outcomes on the [project website](https://bcmi.khofstadter.info)
 
-
-## to do differently
-- each subproject another another repo (or at least logbook); 
+## extra notes:
+- next time each subproject another another repo (or at least logbook). But, projects grow into sub-projects, so, .. 

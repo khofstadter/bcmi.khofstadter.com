@@ -18,7 +18,6 @@ Presentation, performance and drawing, Q/A
 
 <br><br>
 
-
 ### Presentation
 - orientation
 
@@ -46,12 +45,36 @@ Presentation, performance and drawing, Q/A
 
 - would be great if you can draw your 'visions' after the performance
 
+// video to be added later
+
 <br>
 <br>
 
 ### Performance
 
-// audio and video archive asap
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/lFVzwZtmecc?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
+
+<br>
+<br>
+
+### Plotting my EEG data
+
+![](../assets/images/20191026-cambridge-festival-of-ideas-03.jpg)
+
+<br>
+<br>
+
+row 1: theta median FZ (grey)with threshold on 1.5 microVolts (black)
+
+row 2: levels (blue triangles), theta median above threshold (green going down)
+
+row 3: theta median above threshold in % (green steps)
+
+row 4: theta median on P3 and P4 and their coherence below (green)
+
+row 5: theta median on F4 and P4 and their coherence below (green)
+
+these parameters controlled certain aspects of the music in real time
 
 <br>
 <br>
@@ -61,8 +84,6 @@ Presentation, performance and drawing, Q/A
 Some interpretations of the journey:
 
 ![](../assets/images/20191026-cambridge-festival-of-ideas-02.jpg)
-
-
 
 
 <br><br>
