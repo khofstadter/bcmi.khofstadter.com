@@ -8,7 +8,14 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ---
 
+- send a short Premier project of Cambridge gig to John Renney
+- continue writing
+- Hungarian survey;
+- meet Mat for new mix; 
+- add audio player to plotting;
+
 ## thesis to-do list:
+- work on book chapter draft
 
 ## (1) commentary
 
@@ -19,6 +26,7 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 - juxtaposing complexity with simplicity - who writes about this? 
 - find more REF for polyrhythm and brainwaves
 - find REF for remembering and steady stimulus
+- is it a PhD in Music or a PhD in Creative Practices?
 
 ### external
 - sum up research experience for Medium
@@ -30,6 +38,7 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ### audio releases
 #### 1. Cambridge Festival of Ideas (3 recordings)
+- use classic render of 4 channels to 2 instead of fancy decoders; 
 - centre bass
 - add binaural mix, current setup: 
 
@@ -39,7 +48,7 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 - apply Matty Moon mix settings to all other recordings
 - make physical CD
 - visuals in Gimp for each release:
-	- mine, participants, John Williams, find online, storylab interpretations, participants drawing at event or for survey
+	- mine, participants, find online, storylab interpretations, participants drawing at event or for survey
 	- take photo of me and the frame drum and blue rabbit
 - release on BandCamp and give physical copy to people in acknowledgement
 
@@ -71,7 +80,7 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ### videos
 #### 1. Cambridge Festival of Ideas (3 recordings)
 
-- ask someone to look at grading (John Renney?)
+- send John a short cut of the videos (premier project)
 - new performance, separate talk
 
 #### 2. Video tutorials
@@ -79,7 +88,7 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 - understand f's code
 - make videos tutorials
 
-#### 3. Experimental Visuals 
+#### 3. Experimental Visuals (not important)
 - use audio and eeg together to trigger visuals
 - inclusivity: for hard hearing people (visual stimulation)
 
@@ -238,6 +247,40 @@ gui to make flex time music
 ---
 
 ## logbook
+
+### 2020 01 10
+- mixing in reaper - two things to look at: 
+1. tighter bass; 
+2. louder effects without changing drum sounds (how!?)
+- testing fredrik's sound player;
+- contacting shaman group admins; 
+
+
+### 2020 01 08
+- asked for feedback on hungarian survey, joined two facebook group;
+- what are the most difficult parts: analyse EEG data, rewrite thesis, read more EEG, code coherence test for two EEGs
+
+### 2020 01 07
+Máté Imre riport (Yotengrit) 2. rész
+- rábaközi tudó emberek nem használtak drogokat, értelmetlen szavakat ismételtek, ettől estek transzba. 
+
+### 2020 01 06
+- due to 'popular demand', the 'shamanic meditation' survey is translated to hungarian, currently being checked;
+
+### 2019 12 17
+- mixing in studio: some effect sounds are missing with the 4 to 2 channel VSTs (ReaSurround, ATK decoders), have experimented with binaural as well, conclusion: to achieve a similar mix to Mat's, I need to use the classic render again: frontL + rearL, frontR+rearR; 
+
+### 2019 12 15
+shamanic journey
+- i don't think it is very important to have a question;
+- more open way of communicating with our inner wisdom;
+- is it important to start visualising the environment at the beginning, while relaxing in the beginning.  
+- the word 'inspired' - inspiration - you and spirit (you are in the spirit)
+- the intelectual part needs to take part but more as vitnes, rather then something in control. 
+- ? inside/outside inspiration ? can it come from the outside? !!!
+- length: short if it is a specific questions, longer for information; 
+- callback: thanks the spirit;
+
 
 ### 2019 12 13
 - sc plotting performance
