@@ -7,14 +7,30 @@ This repository archives my PhD  titled 'Developing a Brain Computer Music Inter
 The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik), my external advisor. Others who have helped: Jörg Fachner (2nd supervisor), Tom Hall (first 1st supervisor), Richard Hoadley (2nd first supervisor), Paul Rhys (3rd first supervisor), Clemens Maidhof, Ian Daly, Ryan Rogers, Matt Skidmore, Yanxi Wu, Will Schneider, etc.
 
 ---
+## projects todo: 
+0. work on book chapter draft
 
-- send a short Premier project of Cambridge gig to John Renney
-- meet Mat for new mix; 
-- make 4 ch test audio;
+
+1. NF tests with B,M,K
+- finish new plotting code (it should have comments for allowing it to be used with different file formats)
+- render audio only from each screenrecording;
+- // can we have video somehow as well?
 - refine ~recorder.extra in 'main.scd' according to new plotting format; 
+- quantify qualitative data from questionnaires;
+- find a good way of exporting the plotting data in the post window (maybe simple text)
 
-## thesis to-do list:
-- work on book chapter draft
+2. talks & performances
+- send a short Premier project of Cambridge gig to John Renney
+- make 4 ch test audio in SC;
+- meet Mat for new mix;
+
+3. online survey
+- more personal dissemination
+
+
+
+
+## thesis to-do
 
 ## (1) commentary
 
