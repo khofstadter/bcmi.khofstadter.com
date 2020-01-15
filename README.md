@@ -7,8 +7,23 @@ This repository archives my PhD  titled 'Developing a Brain Computer Music Inter
 The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik), my external advisor. Others who have helped: Jörg Fachner (2nd supervisor), Tom Hall (first 1st supervisor), Richard Hoadley (2nd first supervisor), Paul Rhys (3rd first supervisor), Clemens Maidhof, Ian Daly, Ryan Rogers, Matt Skidmore, Yanxi Wu, Will Schneider, etc.
 
 ---
-## projects todo: 
-0. work on book chapter draft
+## 
+projects todo: 
+
+! work on book chapter draft
+
+
+0. BCMI code
+### plotting
+- refine
+	- merge code of plotting examples so that it can be universal; 
+	- or should there be only a universal one that I will use later?
+- push
+
+### coherence
+- refine, push
+
+ 
 
 
 1. NF tests with B,M,K
@@ -25,6 +40,7 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 - meet Mat for new mix;
 
 3. online survey
+- find drum circles (colchester and online)
 - more personal dissemination
 
 
@@ -33,6 +49,8 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ## thesis to-do
 
 ## (1) commentary
+
+- varga peter fb message
 
 ### mellel file
 - <mark>read on NF thresholds in Collura</mark>
