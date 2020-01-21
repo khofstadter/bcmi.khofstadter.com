@@ -8,22 +8,23 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ---
 ## 
-projects todo: 
-
-! work on book chapter draft
+- dissemination on FB;
+- sc
+	- finish plotting example for bcmi-soundscape-01 repo
+	- finish correlation code for OpenBCI-SuperCollider repo
+	
+	https://www.youtube.com/watch?v=ZWq-SG80lYg&feature=share
 
 
 0. BCMI code
 ### plotting
-- refine
-	- merge code of plotting examples so that it can be universal; 
-	- or should there be only a universal one that I will use later?
-- push
+- 2 files needed: 
+	1: in OpenBCI-SuperCollider (this needs to be much simpler and follow the basic DataRecord conventions - these conventions need also refining)
+	2: in bcmi-soundscape-01 (this is where the more complex plotting goes with the varieties I have: 1st tests with bmk, performance)
 
 ### coherence
-- refine, push
+- to add in OpenBCI-SuperCollider (not sure how yet)
 
- 
 
 
 1. NF tests with B,M,K
@@ -73,6 +74,12 @@ projects todo:
 ---
 
 ## logbook
+
+### 2020 01 20
+- supercollider work on bcmi-soundscape-01 repo
+
+### 2020 01 14-20
+- dissemination on FB
 
 ### 2020 01 10
 - mixing in reaper - two things to look at: 
