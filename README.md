@@ -10,7 +10,8 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ## 
 - dissemination on FB;
 - sc
-	- finish plotting example for bcmi-soundscape-01 repo
+	- refined bcmi-soundscape-01 repo
+	- add plotting example for bcmi-soundscape-01 repo
 	- finish correlation code for OpenBCI-SuperCollider repo
 	
 	https://www.youtube.com/watch?v=ZWq-SG80lYg&feature=share
