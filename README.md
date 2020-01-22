@@ -9,13 +9,7 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ---
 ## 
 - dissemination on FB;
-- sc
-	- refined bcmi-soundscape-01 repo
-	- add plotting example for bcmi-soundscape-01 repo
-	- finish correlation code for OpenBCI-SuperCollider repo
-	
-	https://www.youtube.com/watch?v=ZWq-SG80lYg&feature=share
-
+- bcmi-soundscape-01 repo
 
 0. BCMI code
 ### plotting
@@ -76,7 +70,11 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ## logbook
 
-### 2020 01 20
+### 2020 01 22
+- decided to merge nf-test and performance code for repo;
+- refined bcmi-soundscape-01
+
+### 2020 01 20-21
 - supercollider work on bcmi-soundscape-01 repo
 
 ### 2020 01 14-20
