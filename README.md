@@ -64,11 +64,14 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ### external
 - sum up research experience for Medium
 - <mark>submit book chapter proposal by mid Jan</mark>
-
-
 ---
 
 ## logbook
+
+### 2020 01 23
+- 8ch coherence code added to repo
+- experimenting with bcmi-soundscape-01 plotting (new format, new file needed, it does not seem to plot unfinished soundscapes, ... )
+- merged types (test & performance) - started working on flexible code for 2-4ch differences;
 
 ### 2020 01 22
 - decided to merge nf-test and performance code for repo;
