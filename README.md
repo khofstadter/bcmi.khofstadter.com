@@ -9,21 +9,19 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ---
 ## 
 - dissemination on FB;
-- bcmi-soundscape-01 repo
+- bcmi-soundscape-01 repo (need to test plotting with real EEG)
+	- shall I change the forest depth numbers in main.scd schedule part?
+
+## release
+- artwork 
 
 0. BCMI code
 ### plotting
-- 2 files needed: 
-	1: in OpenBCI-SuperCollider (this needs to be much simpler and follow the basic DataRecord conventions - these conventions need also refining)
-	2: in bcmi-soundscape-01 (this is where the more complex plotting goes with the varieties I have: 1st tests with bmk, performance)
-
-### coherence
-- to add in OpenBCI-SuperCollider (not sure how yet)
-
+- bcmi-soundscape-01
 
 
 1. NF tests with B,M,K
-- finish new plotting code (it should have comments for allowing it to be used with different file formats)
+- 
 - render audio only from each screenrecording;
 - // can we have video somehow as well?
 - refine ~recorder.extra in 'main.scd' according to new plotting format; 
@@ -38,7 +36,6 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 3. online survey
 - find drum circles (colchester and online)
 - more personal dissemination
-
 
 
 
@@ -67,6 +64,13 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ---
 
 ## logbook
+
+### 2020 01 27
+- release: shamanic soundscape - level two; artwork template cannot be run in GIMP, downloading Krita to format file 
+- plotter in bcmi-soundscape-01 is working, but needs refinements; 
+
+### 2020 01 24
+- mixing tutorial with Mat. Managed to make fx louder by lowering the vol. of rear channels (3-4). Dum is also tighter due to the wider eq cut. One remaining issue to address now the bass sound is not bassy enough sometimes (~17:20Ö - now addressed with adjusting compression and EG. Listened two two examples, OK. Ready to upload to Bandcamp. Bandcamp upload limit sorted out with purchasing own music. Uploading and naming the album 'shamanic soundscape - l.2' (as this is the missing level) - need work on artwork for digipack
 
 ### 2020 01 23
 - 8ch coherence code added to repo
