@@ -19,7 +19,6 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ### plotting
 - bcmi-soundscape-01
 
-
 1. NF tests with B,M,K
 - 
 - render audio only from each screenrecording;
@@ -64,6 +63,9 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ---
 
 ## logbook
+
+### 2020 01 28
+- refinement of bcmi-soundscape-01 (plotter and main)
 
 ### 2020 01 27
 - release: shamanic soundscape - level two; artwork template cannot be run in GIMP, downloading Krita to format file 
