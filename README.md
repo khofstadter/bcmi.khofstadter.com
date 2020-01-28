@@ -16,8 +16,12 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 - artwork 
 
 0. BCMI code
-### plotting
-- bcmi-soundscape-01
+### bcmi-soundscape-01
+- test with EEG, .. see main.scd;
+
+### OPENBCI-SuperCollider
+- refine 'simpler' plotter e.g. add raw data plot to one plot, ... 
+- how to calculate more than one phase coherence live?
 
 1. NF tests with B,M,K
 - 
