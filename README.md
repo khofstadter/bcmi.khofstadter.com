@@ -1,4 +1,4 @@
-This repository archives my PhD  titled 'Developing a Brain Computer Music Interface for Meditation'. It has two main parts: 
+This repository archives my PhD titled 'Developing a Brain Computer Music Interface for Meditation'. It has two main parts: 
 
 1. thesis to-do list (work left to do)
 2. logbook (a detailed diary)
@@ -7,38 +7,36 @@ This repository archives my PhD  titled 'Developing a Brain Computer Music Inter
 The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik), my external advisor. Others who have helped: Jörg Fachner (2nd supervisor), Tom Hall (first 1st supervisor), Richard Hoadley (2nd first supervisor), Paul Rhys (3rd first supervisor), Clemens Maidhof, Ian Daly, Ryan Rogers, Matt Skidmore, Yanxi Wu, Will Schneider, etc.
 
 ---
-## 
-- dissemination on FB;
-- bcmi-soundscape-01 repo (need to test plotting with real EEG)
-	- shall I change the forest depth numbers in main.scd schedule part?
+## now: 
+test plotter with live EEG: 
+- bcmi-soundscape-01
+- openbci-supercollider
 
-## release
-- artwork 
+test EEG with Andrej's music;
+
+test ganglion with openbci-supercollider
+
+release artwork (format file)
+
+## general
 
 0. BCMI code
-### bcmi-soundscape-01
-- test with EEG, .. see main.scd;
-
 ### OPENBCI-SuperCollider
-- refine 'simpler' plotter e.g. add raw data plot to one plot, ... 
-- how to calculate more than one phase coherence live?
+- 8ch+coherence: calculate more than one coherence live
 
 1. NF tests with B,M,K
-- 
-- render audio only from each screenrecording;
-- // can we have video somehow as well?
-- refine ~recorder.extra in 'main.scd' according to new plotting format; 
-- quantify qualitative data from questionnaires;
-- find a good way of exporting the plotting data in the post window (maybe simple text)
+- render audio only from each screen-recording
+- // can we have video somehow as well? 
+- quantify qualitative data from questionnaires
 
 2. talks & performances
 - send a short Premier project of Cambridge gig to John Renney
-- make 4 ch test audio in SC;
-- meet Mat for new mix;
+- make 4 ch test audio in SC
 
 3. online survey
 - find drum circles (colchester and online)
-- more personal dissemination
+- Marianna's EEG student
+- check emails for people
 
 
 
@@ -67,6 +65,15 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ---
 
 ## logbook
+
+### 2020 01 20
+- conversation with peter about a possible collaboration; 
+- open-bci-supercollider/plotter_example.scd plots raw data; 
+- involvement in xenophobe comment on corona virus, chinese people - applied method, FFR, post then taken down;
+- developed the idea for the artwork SM-L2;
+
+### 2020 01 29
+- test Monolit with EEG (impedance, start EEG, wim hof breathing, music in VLC, impedance), interrupted, so need to reschedule test.  asked nimetu to provide his own breathing techniques. 
 
 ### 2020 01 28
 - refinement of bcmi-soundscape-01 (plotter and main)
