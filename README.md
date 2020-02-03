@@ -8,21 +8,24 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 ---
 ## now: 
-test plotter with live EEG: 
-- bcmi-soundscape-01
-- openbci-supercollider
+- last round of personal dissemination
+- survey (k)
+- EEG session: 
+	- shamanic meditation survey;
+	- just frame drumming;
+	- MONOLIT (with A's breathing)
+	- hemi-sync
 
-test EEG with Andrej's music;
 
-test ganglion with openbci-supercollider
-
-release artwork (format file)
+- ganglion test
+- artwork for release
+- add code for two coherence measures (FP1-FP2, FP1-P3)
 
 ## general
 
 0. BCMI code
+
 ### OPENBCI-SuperCollider
-- 8ch+coherence: calculate more than one coherence live
 
 1. NF tests with B,M,K
 - render audio only from each screen-recording
@@ -34,9 +37,7 @@ release artwork (format file)
 - make 4 ch test audio in SC
 
 3. online survey
-- find drum circles (colchester and online)
-- Marianna's EEG student
-- check emails for people
+- pre analysis
 
 
 
@@ -66,7 +67,18 @@ release artwork (format file)
 
 ## logbook
 
-### 2020 01 20
+### 2020 02 02
+- last round of personal dissemination
+
+### 2020 01 31
+- TM (object referral vs self referral), https://www.youtube.com/watch?v=WgXUxQJcmFw
+- local coherence (https://youtu.be/eGijME2caEM?t=268) and global coherence;
+- syncing front of the brain (CEO) and back of the brain (world) is good; 
+- first create local coherence then global
+(https://theleadersbrain.org/about.html)
+- threshold calculation in bcmi-soundscap plotter not correct, perhaps issue is in soundscape code- check!
+
+### 2020 01 30
 - conversation with peter about a possible collaboration; 
 - open-bci-supercollider/plotter_example.scd plots raw data; 
 - involvement in xenophobe comment on corona virus, chinese people - applied method, FFR, post then taken down;
