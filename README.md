@@ -7,25 +7,55 @@ This repository archives my PhD titled 'Developing a Brain Computer Music Interf
 The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik), my external advisor. Others who have helped: Jörg Fachner (2nd supervisor), Tom Hall (first 1st supervisor), Richard Hoadley (2nd first supervisor), Paul Rhys (3rd first supervisor), Clemens Maidhof, Ian Daly, Ryan Rogers, Matt Skidmore, Yanxi Wu, Will Schneider, etc.
 
 ---
-## now: 
-- last round of personal dissemination
-- survey (k)
-- EEG session: 
-	- shamanic meditation survey;
-	- just frame drumming;
-	- MONOLIT (with A's breathing)
-	- hemi-sync
+## now:
 
+0 - revise shamanic paper (find EEG info in references as well)
+2 - how to do more passive or (hybrid) NFT?
+3 - adjust code
+4 - test
 
-- ganglion test
-- artwork for release
-- add code for two coherence measures (FP1-FP2, FP1-P3)
+https://youtu.be/Syy4MTHAfF4
+
+ 
+1. find paper/book, etc on 
+
+keywords: 
+	- EEG, shamanism, auditory driving, sonic driving, brainwaves;
+	- EEG, meditation, coherence, audiotory driving, sonic driving, brainwaves, ... EEG?
+	- EEG on shamanic journeying 
+		- https://www.une.edu.au/staff-profiles/psychology/arock
+	- EEG coherence (theta>) while meditating
+		- collura, NF book
+		- check ref on cave and cosmos; 
+		- keywords online
+		- ask FSS
+		- shamanism journal
+		- ask TM guy
+		- ask people who wrote the papers	
+		- The 25th International Conference on Auditory Display
+	
+2. adjust coherence code accordingly
+	- perhaps f3-f4-p3-p4 alpha coherence as suggested by TM
+	
+3. EEG test (k)
+	- shamanic meditation survey
+	- new performance 
+	- just frame drumming
+	- hemi-sync gateway
+	- monolit or hero's journey 
+	
+4. ganglion test
+
+5. artwork for release
+
 
 ## general
 
 0. BCMI code
 
 ### OPENBCI-SuperCollider
+
+real-time 4 way coherence 
 
 1. NF tests with B,M,K
 - render audio only from each screen-recording
@@ -38,7 +68,6 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 
 3. online survey
 - pre analysis
-
 
 
 ## thesis to-do
@@ -66,6 +95,14 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ---
 
 ## logbook
+
+### 2020 02 04-05
+- papers on meditation, shamanic journeying with EEG; 
+
+### 2020 02 03
+- 2nd phase coherence added, pushed to repo;
+- testing Monolit with breathing exercises and two phase coherence measurements: some ideas, would be good to plot raw EEG as well, but then how do I scroll in, perhaps the idea is to plot only parts of the the whole recording.  make sure you check the volume level before listening, try to have files used on the Desktop, etc. the EEG will need to be checked further in SC or (and) Matlab;
+- TM research: it is based on alpha, coherence, etc. (needs to be refines: https://theleadersbrain.org/about.html), https://www.youtube.com/watch?v=DYZM3-09ySE
 
 ### 2020 02 02
 - last round of personal dissemination
