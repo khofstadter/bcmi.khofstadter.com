@@ -9,13 +9,37 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ---
 ## now:
 
-0 - revise shamanic paper (find EEG info in references as well)
-2 - how to do more passive or (hybrid) NFT?
-3 - adjust code
-4 - test
+https://www.isars.org/shaman/ (2007 backwards)
+find:
+- Analogies, Variation, Chance: Comparing Local Shamanisms
+- How To Disappear Completely: Community Dynamics and Deindividuation in Neo-Shamanic Urban Practices in Colombia
+- The Felicitas D. Goodman Institute: Neo-shamanism or Religious Ecstatic Trance?
+- Shamans and Scholars: Constructing the Supernatural, Confronting the Enigmatic
+- ANDREI ZNAMENSKI (University of Memphis): Quest for Primal Knowledge: Mircea Eliade, Traditionalism, and “Archaic Techniques of Ecstasy”
+
+science festival (new!)
+0 - adjust code to shamanic paper;
+	- adjust phase coherence, etc.
+1 - add nf protocols to this
+2 - test 5 times (with survey, live drumming, andrey's music)
+
+bmk
+0 - find old soundscape code; 
+1 - do we need new plotting?
+2 - analyse quantitive data; 
+
+release
+1 - artworks; 
+2 - yanxi? 
+3 - 4 channel mix (friday)
+
+
+
+ 
 
 https://youtu.be/Syy4MTHAfF4
 
+5 - another Monolit test; 
  
 1. find paper/book, etc on 
 
@@ -48,7 +72,6 @@ keywords:
 
 5. artwork for release
 
-
 ## general
 
 0. BCMI code
@@ -64,7 +87,7 @@ real-time 4 way coherence
 
 2. talks & performances
 - send a short Premier project of Cambridge gig to John Renney
-- make 4 ch test audio in SC
+- make 4 ch test audio in SC (https://forum.cockos.com/showthread.php?t=231260)
 
 3. online survey
 - pre analysis
@@ -74,7 +97,6 @@ real-time 4 way coherence
 
 ## (1) commentary
 
-- varga peter fb message
 
 ### mellel file
 - <mark>read on NF thresholds in Collura</mark>
@@ -95,6 +117,27 @@ real-time 4 way coherence
 ---
 
 ## logbook
+
+### 2020 02 10
+- finding it difficult to get back into the tasks.  trying music.  maybe only breathing helps.   
+
+### 2020 02 07
+- 4 channel mix in Reaper, tricky: https://forum.cockos.com/showthread.php?t=231260
+
+### 2020 02 06
+Neurophysiological markers ub diverse trance states including yoga and shamanic practices; Zen Buddhist and transcendental meditation; psychedelic experiences as- sociated with hallucinogenic drugs; mediumship/psychography; hypnosis; and shamanic states. These include:
+- shift towards right hemisphere
+- greater alpha and anterior–posteriorsyn- synchronisation
+- increase theta power and and short, synchronous bursts of high-voltage theta waves (4–7 Hz)
+- Increased gamma power 
+- Synchronization of EEG activity between left and right frontal lobes, which may be accompa- nied by progressive frontal hypoactivation in deeper forms of trance
+
+qEEG in the study:
+- In the trance state, the subject shows reduced coherence in the right hemisphere and increased coherence in the left hemisphere in the low beta band compared to the controls
+- In the high beta band, the pattern is of increased anterior–posterior coherence;
+- Of particular interest is the presence of two symmetrical foci of increased power bilaterally in the centro-temporal regions, which is completely absent in the control condition (for this I would need to remove REF from C and use electrodes next to ear. )
+
+
 
 ### 2020 02 04-05
 - papers on meditation, shamanic journeying with EEG; 
