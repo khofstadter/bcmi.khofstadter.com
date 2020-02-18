@@ -9,114 +9,61 @@ The main contributor to this research is [Fredik Olofsson](https://github.com/re
 ---
 ## now:
 
-https://www.isars.org/shaman/ (2007 backwards)
-find:
-- Analogies, Variation, Chance: Comparing Local Shamanisms
-- How To Disappear Completely: Community Dynamics and Deindividuation in Neo-Shamanic Urban Practices in Colombia
-- The Felicitas D. Goodman Institute: Neo-shamanism or Religious Ecstatic Trance?
-- Shamans and Scholars: Constructing the Supernatural, Confronting the Enigmatic
-- ANDREI ZNAMENSKI (University of Memphis): Quest for Primal Knowledge: Mircea Eliade, Traditionalism, and “Archaic Techniques of Ecstasy”
 
-science festival (new!)
-0 - adjust code to shamanic paper;
-	- adjust phase coherence, etc.
-1 - add nf protocols to this
-2 - test 5 times (with survey, live drumming, andrey's music)
-
-bmk
-0 - find old soundscape code; 
-1 - do we need new plotting?
-2 - analyse quantitive data; 
+bmk 
+- render audio only from each screen-recording
+- plot what you can;
+- analyse quantitive data; 
 
 release
-1 - artworks; 
-2 - yanxi? 
-3 - 4 channel mix (friday)
+- test print and order; 
+- 4 channel mix (friday)-choose the new Dropbox folder for them; 
 
-
-
- 
-
-https://youtu.be/Syy4MTHAfF4
-
-5 - another Monolit test; 
- 
-1. find paper/book, etc on 
-
-keywords: 
-	- EEG, shamanism, auditory driving, sonic driving, brainwaves;
-	- EEG, meditation, coherence, audiotory driving, sonic driving, brainwaves, ... EEG?
-	- EEG on shamanic journeying 
-		- https://www.une.edu.au/staff-profiles/psychology/arock
-	- EEG coherence (theta>) while meditating
-		- collura, NF book
-		- check ref on cave and cosmos; 
-		- keywords online
-		- ask FSS
-		- shamanism journal
-		- ask TM guy
-		- ask people who wrote the papers	
-		- The 25th International Conference on Auditory Display
 	
-2. adjust coherence code accordingly
-	- perhaps f3-f4-p3-p4 alpha coherence as suggested by TM
-	
-3. EEG test (k)
+- map nf to sound
+- test
 	- shamanic meditation survey
-	- new performance 
 	- just frame drumming
 	- hemi-sync gateway
 	- monolit or hero's journey 
 	
-4. ganglion test
 
-5. artwork for release
+premier presentation
+- edit talk
 
-## general
-
-0. BCMI code
-
-### OPENBCI-SuperCollider
-
-real-time 4 way coherence 
-
-1. NF tests with B,M,K
-- render audio only from each screen-recording
-- // can we have video somehow as well? 
-- quantify qualitative data from questionnaires
-
-2. talks & performances
-- send a short Premier project of Cambridge gig to John Renney
-- make 4 ch test audio in SC (https://forum.cockos.com/showthread.php?t=231260)
-
-3. online survey
-- pre analysis
+reading
+- collura
 
 
-## thesis to-do
-
-## (1) commentary
-
-
-### mellel file
-- <mark>read on NF thresholds in Collura</mark>
-- can we skip mellel and only use markdown? If yes, how to turn markdown into pdf easy?
-- read other practice (based, lead) research
-- juxtaposing complexity with simplicity - who writes about this? 
-- find more REF for polyrhythm and brainwaves
-- find REF for remembering and steady stimulus
-- is it a PhD in Music or a PhD in Creative Practices?
-- could NF work without the computer, with someone explaining, practicing meditation and highlighting the differences between states of minds;
-- <mark>digitalise, translate post questionaire (English / Chinese)</mark>
-- analyse that eeg and qualitative data from questionnaires in EAD type matrix
-
-
-### external
-- sum up research experience for Medium
-- <mark>submit book chapter proposal by mid Jan</mark>
----
 
 ## logbook
+
+### 2020 02 18
+- shamanic protocol cap draft incorporates as much as possible from:
+	- Jeff Strong (shamanic journey starts with alpha peak, if you are experienced, there is also higher theta activity, theta increases with drumming at 4 bps in shamanic journeying, also increase delta, complexity increases gamma activity, the basetones can also be seen in the raw data)
+	- TM: front and back synchronised (high alpha)
+	- Jovanov and Maxfiled - total theta band power gradual increas in 20 min; 
+	- NeuroMeditation: Quiet Mind needs Pz (alpha increase)
+	- NeuroMeditation: Mindfulness (1) Thoughtless Awareness (FZ - increase fmTheta; PZ - decrease Gamma)
+- finding it frustrating to work with Gimp, so installed Illustrator; 
+- finished first draft for CD release, sent for test copy; 
+
+### 2020 02 14
+- finished quad mix of jester; 
+- need to do quad mix of playing; 
+
+### 2020 02 13
+- testing new setup, with new sponges and shamanic soundscape l2
+- testing fredrik's new examples
+
+### 2020 02 12
+- first test with shamanic protocol:  impedance is hard to lower on the side; 
+- release artwork (based on SHAMAN journal) - considering CD (again);
+
+### 2020 02 11
+- Fredrik adds new feature to fft plot example; 
+- searching shaman papers
+- meeting with Ian, discussing plan for new shamanic neuro-feedback;
 
 ### 2020 02 10
 - finding it difficult to get back into the tasks.  trying music.  maybe only breathing helps.   
