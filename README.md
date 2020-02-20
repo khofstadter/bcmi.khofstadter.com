@@ -1,42 +1,69 @@
 This repository archives my PhD titled 'Developing a Brain Computer Music Interface for Meditation'. It has two main parts: 
 
-1. thesis to-do list (work left to do)
-2. logbook (a detailed diary)
-3. [Website](https://bcmi.khofstadter.info) (a Jekyll website with the main outcomes)
+1. logbook (a detailed diary)
+2. [Website](https://bcmi.khofstadter.info) (a Jekyll website with the main outcomes)
 
-The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik), my external advisor. Others who have helped: Jörg Fachner (2nd supervisor), Tom Hall (first 1st supervisor), Richard Hoadley (2nd first supervisor), Paul Rhys (3rd first supervisor), Clemens Maidhof, Ian Daly, Ryan Rogers, Matt Skidmore, Yanxi Wu, Will Schneider, etc.
+The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik), my external advisor. Others who have helped: Jörg Fachner (2nd supervisor), Tom Hall (first 1st supervisor), Richard Hoadley (2nd first supervisor), Paul Rhys (3rd first supervisor), Clemens Maidhof, Ian Daly, Ryan Rogers, Matt Skidmore, Yanxi Wu, Luvas Hofstadter-Wu, ill Schneider, Andrej Hrvatin, etc.
 
 ---
 ## now:
 
-
 bmk 
-- render audio only from each screen-recording
-- plot what you can;
-- analyse quantitive data; 
+- export answers questions to each participation folder;
+- export relevant audio file from screen recording;
+- change plotter so that it plays audio file as well;
+- analyse quantitive data (with plot, video, text)
+	- make notes for each session (in markdown or mellel?)
+	- sum up each participant; 
+	- compare participants; 
+- get some ethics paper done; 
+- M to do survey a few times (extended case study)
+	- give m the previous questionnaires answers; 
+
 
 release
-- test print and order; 
+- check test and order all; 
 - 4 channel mix (friday)-choose the new Dropbox folder for them; 
 
-	
-- map nf to sound
+
+science festival
+
+[ openbci_gui_fftplot_with_neurofeedback-8ch+coherence + bcmi-soundscape-01 ]
+
+- change channel related bits in fft code; 
+- add NF calculations to bcmi-soundscape code
+ 1. strong/jovanov: create a window that averages the last x seconds of all channel's theta; 
+ 2. corine1: create a window that averages the last x seconds of mean difference between left and right; 
+ 3. corine2: if correlation window is large enough maybe this can already be used; 
+ 4. corine3: compare power or raw and beta between beginning of session with current part of session (will need some window)
+ 5. nM QuietM: window for alpha on PZ (do not reward as some papers say gamma increases, so just sonify intelligently)
+ 6. nM Mindf1: window for FZ an PZ
+ 7. TM: alpha coherence between front and back, and left and right (sonify)
+ 
+sonification: 
+
+- map Fz theta median to sound > imediate response (very subtle);
+- map Pz gamma median to sound > imediate response (very subtle);
+
 - test
 	- shamanic meditation survey
 	- just frame drumming
 	- hemi-sync gateway
 	- monolit or hero's journey 
 	
-
+	
 premier presentation
 - edit talk
+
 
 reading
 - collura
 
 
-
 ## logbook
+
+### 2020 02 19
+- bmk (plotted again, exported level data, merged questionars in one spreedsheet)
 
 ### 2020 02 18
 - shamanic protocol cap draft incorporates as much as possible from:
@@ -45,6 +72,11 @@ reading
 	- Jovanov and Maxfiled - total theta band power gradual increas in 20 min; 
 	- NeuroMeditation: Quiet Mind needs Pz (alpha increase)
 	- NeuroMeditation: Mindfulness (1) Thoughtless Awareness (FZ - increase fmTheta; PZ - decrease Gamma)
+	
+![cased by bad code](assets/images/20200218-shamanic_nf-protocol-1.jpg)
+
+![cased by bad code](assets/images/20200218-shamanic_nf-protocol-2.jpg)
+	
 - finding it frustrating to work with Gimp, so installed Illustrator; 
 - finished first draft for CD release, sent for test copy; 
 
