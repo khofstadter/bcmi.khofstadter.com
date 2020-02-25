@@ -3,28 +3,23 @@ This repository archives my PhD titled 'Developing a Brain Computer Music Interf
 1. logbook (a detailed diary)
 2. [Website](https://bcmi.khofstadter.info) (a Jekyll website with the main outcomes)
 
-The main contributor to this research is [Fredik Olofsson](https://github.com/redFrik), my external advisor. Others who have helped: Jörg Fachner (2nd supervisor), Tom Hall (first 1st supervisor), Richard Hoadley (2nd first supervisor), Paul Rhys (3rd first supervisor), Clemens Maidhof, Ian Daly, Ryan Rogers, Matt Skidmore, Yanxi Wu, Luvas Hofstadter-Wu, ill Schneider, Andrej Hrvatin, etc.
-
 ---
 ## now:
 
 bmk 
-- export answers questions to each participation folder;
-- export relevant audio file from screen recording;
-- change plotter so that it plays audio file as well;
 - analyse quantitive data (with plot, video, text)
-	- make notes for each session (in markdown or mellel?)
+	- make notes for each session
+	- make timeline for all (bmk)
+	- find trip in studio (0) - lyncs, and jester
+	- find first trip (1) k (jester, one side of the story)
 	- sum up each participant; 
 	- compare participants; 
 - get some ethics paper done; 
-- M to do survey a few times (extended case study)
-	- give m the previous questionnaires answers; 
-
 
 release
-- check test and order all; 
-- 4 channel mix (friday)-choose the new Dropbox folder for them; 
-
+- waiting for new proof; 
+- surround: Involve Audio?
+- find more places for quad releases; 
 
 science festival
 
@@ -61,6 +56,17 @@ reading
 
 
 ## logbook
+
+### 2020 02 22
+- arwork for physical copy adjusted, asked for new proof; 
+
+### 2020 02 21
+- finished 'playing' quad mix; 
+- registered to quadraphonic forum; 
+
+### 2020 02 20 
+- bmk analysis; 
+- waiting for CD example; 
 
 ### 2020 02 19
 - bmk (plotted again, exported level data, merged questionars in one spreedsheet)
