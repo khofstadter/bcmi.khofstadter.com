@@ -6,6 +6,8 @@ This repository archives my PhD titled 'Developing a Brain Computer Music Interf
 ---
 ## now:
 
+- write introduction, methodology and short lit review (with the help of the point of dept. part in methodology)
+
 bmk 
 - analyse quantitive data (with plot, video, text)
 	- make notes for each session
@@ -17,6 +19,7 @@ bmk
 - get some ethics paper done; 
 
 release
+- send BandCamp link to people who did the survey; 
 - waiting for new proof; 
 - surround: Involve Audio?
 - find more places for quad releases; 
@@ -56,6 +59,12 @@ reading
 
 
 ## logbook
+
+### 2020 02 22-26
+- new shamanic paper (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0049360) also indicates lower left brain activity; 
+- writing commentary: methodology needs help from timeline, timeline helps methodology and will help lit.rev;
+- idea of adding wim hof practice to commentary as it should be tested with eeg as well (how long have I been doing it? do I really think it is better then what I do - well, it's different, relaxation, focus is achieved faster, but with the shamanic journeying I get deeper)
+- subtracting in the outside word help, for instance trimming the trees in the garden; 
 
 ### 2020 02 22
 - arwork for physical copy adjusted, asked for new proof; 
