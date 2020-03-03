@@ -430,7 +430,12 @@ how to amend the raw files? We need to amend the raw files as some softare does 
 
 ### 2019 09 30
 b03
-- check how laud they hear it with a decibel meter; 
+- check how laud they hear it with a decibel meter;
+
+m02
+- the last level didn't fade in, had to stop manually;
+- too much noise at the beginning;
+- how to help relax when measuring impedance.
 
 ### 2019 09 27
 b02
