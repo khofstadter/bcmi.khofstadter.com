@@ -71,8 +71,6 @@ sonification:
 - new proof ordered;
 - learnt the difference between duplication (CD-R) and replication (normal) - is it worth replicating? 500 min.
 
-
-
 ### 2020 02 22-26
 - new shamanic paper (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0049360) also indicates lower left brain activity;
 - writing commentary: methodology needs help from timeline, timeline helps methodology and will help lit.rev;
@@ -111,6 +109,7 @@ sonification:
 ### 2020 02 14
 - finished quad mix of jester;
 - need to do quad mix of playing;
+- deep listening and shamanism - what's the connection? 
 
 ### 2020 02 13
 - testing new setup, with new sponges and shamanic soundscape l2
@@ -364,6 +363,9 @@ shamanic journey
 ### 2019 11 03
 - reply from JH on SC forum re phase coherence;
 
+### 2019 11
+- started listening to metal music again (nostalgia, or some kind shadow work?)
+
 ### 2019 10 30
 - mixing in Reaper;
 
@@ -427,6 +429,19 @@ how to amend the raw files? We need to amend the raw files as some softare does 
 ![title](assets/images/2019-10-03-amend-raw-eeg-0.jpg)
 
 ![title](assets/images/2019-10-03-amend-raw-eeg-1.jpg)
+
+### 2019 10 02
+bm general feedback needed:
+1. what was the most plesant in the session?
+2. what was the most unpleasent in the session?
+3. was the environment suitable for the test?
+4. did the drawing at the end help remembering the visions?
+
+
+### 2019 10 01
+m03
+- connection issues (soft restart didn't help, needed to unplug, etc. )
+- does the sage smoke help? if yes, how do I do this in a building with a smoke detector?
 
 ### 2019 09 30
 b03
