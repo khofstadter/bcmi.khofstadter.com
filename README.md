@@ -1,74 +1,62 @@
-This repository archives my PhD titled 'Developing a Brain Computer Music Interface for Meditation'. It has two main parts:
+This repository archives my PhD research.
 
-1. logbook (a detailed diary)
-2. [Website](https://bcmi.khofstadter.info) (a Jekyll website with the main outcomes)
+It has two main parts:
+
+1. logbook (this README.md file)
+2. [website](https://bcmi.khofstadter.info) (main research outcomes contextualised in individual web pages)
 
 ---
-## now:
+## currently doing
 
-1.writing up
-- sum notes in last notebook and start new note book;
-- need to extend the exploritary LitRev as I was reading general stuff much longer. Perhaps focused could start where NeuroFeedback and Strong was discovered. The Refined is when checking shamanism with EEG, spirits, etc.
-- each project, chapter should be illustrated with some drawing - this I could start making in the new notebook, then design in illustrator. Having these drawings will help writing about the projects.
+### online science festival
+- new music: flex time + shamanic (strong);
+- survey or disqus?
+- indicate that the music maker test is coming;
+- indicate that the bcmi test is coming;
 
-2. bmk
-- analyse quantitive data (with plot, video, text)
-	- make notes for each session
-	- make timeline for all (bmk)
-	- find trip in studio (0) - lyncs, and jester
-	- find first trip (1) k (jester, one side of the story)
-	- sum up each participant;
-	- compare participants;
-- get some ethics paper done;
+### march application
+- discussion with Marcy;
 
-3. release
-- send BandCamp link to people who did the survey;
-- add surround streaming link to BandCamp and other
-- waiting for new proof;
-- surround: Involve Audio?
-- find more places for quad releases;
+### writing
+- projects
 
-4. science festival
-
-[ openbci_gui_fftplot_with_neurofeedback-8ch+coherence + bcmi-soundscape-01 ]
-
-- change channel related bits in fft code;
-- add NF calculations to bcmi-soundscape code
- 1. strong/jovanov: create a window that averages the last x seconds of all channel's theta;
- 2. corine1: create a window that averages the last x seconds of mean difference between left and right;
- 3. corine2: if correlation window is large enough maybe this can already be used;
- 4. corine3: compare power or raw and beta between beginning of session with current part of session (will need some window)
- 5. nM QuietM: window for alpha on PZ (do not reward as some papers say gamma increases, so just sonify intelligently)
- 6. nM Mindf1: window for FZ an PZ
- 7. TM: alpha coherence between front and back, and left and right (sonify)
-
-sonification:
-
-- map Fz theta median to sound > imediate response (very subtle);
-- map Pz gamma median to sound > imediate response (very subtle);
-
-- test
-	- shamanic meditation survey
-	- just frame drumming
-	- hemi-sync gateway
-	- monolit or hero's journey
-
-
-5. premier presentation
-- edit talk
-
-6. reading
-- collura
-
+---
 
 ## logbook
 
-### 2020 03 02
-- does mindfulness help with looking at things fromr a different perspectice e.g. putting ourselves in other's shoes?
-- meditation related: everyone tells us to 1) concentrate, but not many people tell us how to do it. We need to practice (every day). Practice doing one think at the time --> this will help become better at concentration. Concentrate on something you already have a conversation, job, etc. - and do not introduce something new in your life (e.g. meditation?). 2) develop your will power: a) finish what you begin. b) finish beyond your expectation c) do more than what you think you are able to do. Again, do this with things you already do: bed, breakfast, start finish.
+### 2020 05 08
+- migrating tasks from this file to commentary;
+- first commentary draft sent to supervisors;
+- thinking about MARCH funding with Marcy;
 
-### 2020 02 28-01
-- new proof ordered;
+### 2020 03 - 2020 05
+
+- Science Festival cancelled > thinking about something online;
+- pandemic: applied for intermitting;
+- writing up
+  - sum notes in last notebook and start new note book;
+  - need to extend the exploritary LitRev as I was reading general stuff much longer. Perhaps focused could start where NeuroFeedback and Strong was discovered. The Refined is when checking shamanism with EEG, spirits, etc.
+  - each project, chapter should be illustrated with some drawing - this I could start making in the new notebook, then design in illustrator. Having these drawings will help writing about the projects.
+
+
+### wc. 2020 03 15
+- CDs arrived:
+
+![](assets/images/20200318-shamanic-soundscape-cd.JPG)
+
+- conversations with Collura;
+- have been finding it difficult to work due to COVID
+
+### wc. 2020 03 09
+- issue with printing has to do with RGB to CYMK conversion, so used Photoshop to convert GIMP project and experted pdf for 4th proof.
+
+### wc. 2020 03 02
+- writing;
+- 3rd proof for CD hasn't got the right colour:
+
+![3 proofs](assets/images/20200304-shamanic-soundscape-3rd-proof.jpg)
+
+### 2020 02 28
 - learnt the difference between duplication (CD-R) and replication (normal) - is it worth replicating? 500 min.
 
 ### 2020 02 22-26
@@ -109,7 +97,6 @@ sonification:
 ### 2020 02 14
 - finished quad mix of jester;
 - need to do quad mix of playing;
-- deep listening and shamanism - what's the connection? 
 
 ### 2020 02 13
 - testing new setup, with new sponges and shamanic soundscape l2
@@ -363,9 +350,6 @@ shamanic journey
 ### 2019 11 03
 - reply from JH on SC forum re phase coherence;
 
-### 2019 11
-- started listening to metal music again (nostalgia, or some kind shadow work?)
-
 ### 2019 10 30
 - mixing in Reaper;
 
@@ -430,47 +414,6 @@ how to amend the raw files? We need to amend the raw files as some softare does 
 
 ![title](assets/images/2019-10-03-amend-raw-eeg-1.jpg)
 
-### 2019 10 02
-bm general feedback needed:
-1. what was the most plesant in the session?
-2. what was the most unpleasent in the session?
-3. was the environment suitable for the test?
-4. did the drawing at the end help remembering the visions?
-
-
-### 2019 10 01
-m03
-- connection issues (soft restart didn't help, needed to unplug, etc. )
-- does the sage smoke help? if yes, how do I do this in a building with a smoke detector?
-
-### 2019 09 30
-b03
-- check how laud they hear it with a decibel meter;
-
-m02
-- the last level didn't fade in, had to stop manually;
-- too much noise at the beginning;
-- how to help relax when measuring impedance.
-
-### 2019 09 27
-b02
-- have something to do while swiching off, setting up electrodes (maybe a movie on shamanism), when drawing play the music back perhaps it helps to remember?
-
-m01
-- apart from loud noise comming from downstairs, all good.
-- hair much longer (more difficult) - maybe helped increase impedance;
-
-### 2019 09 24
-b01 test:
-- restless, eyes not closed, moving, reading, I should not write with a loud pen, make sure you are calm, welcoming, relaxed, not watching screen helps (was turned away), transformation of the room to something more relaxed, smoke much earlier;
-- as b was not focusing, we had a talk, next time b will try harder to relax and not move.
-- what do i tell them? that i believe in it?
-
-
-### 2019 09 18
-- need more EEG data to analyse;
-- should myBCMI be more interactive instead of simply responsive?
-
 ### w.c. 2019 09 09
 - meeting with PR:
 	- university of bristol - interdisciplinary people;
@@ -485,16 +428,9 @@ b01 test:
 - consulted sc forum for paradiddle code and started working on it;
 - asked mathematics.stackoverflow for guidence on mathematics used (nor answer)
 
-### 2019 08 25
-Two drumming books read on archive.org. Can we make a sc function out of these?
-
-### 2019 08 24
-- revising Simon Holland paper about polyrhythm (need to find another reference to this)
-
 ### 2019 08 23
-b (pretest not b01)
+BABA01 (pretest)
 - no questionaire, i kinda know what he is like, he touched the eeg while tests, he couldn't concertrate on the drumming (maybe needs to be made more explicit, maybe 30 min of the most minimal shamanic drumming is to much if they are not interested in this, he asked about the smudge scent, he was told it will be max 1h with some sounds, i don't think he was focusing on the music, do people actually want to change something in them (differentiate between people who like the idea and and the ones who don't seem to be interested), after 15 minutes he was told to focus on the breething and the music (as he was not focusing on anything really, he was looking at the fft plot often, he is clever, wanted to understand (maybe we need to make sure people understand the agenda >> you will understand if you let go of understanding, there were small noises from the outside, after the test he said he was not tired when we started (altough was jawning constantly), he said he only got tired towards the very end, he said he could differentiate between the wide and the narrow sound (probably different timbre)
--
 
 ### 2019 08 18, 19
 - battery connectors too big for OpenBCI
@@ -503,12 +439,7 @@ b (pretest not b01)
 - washed old cap;
 ...
 
-### 2019 08 16
-- core shamanism vs traditional shamanism
-- the brain uses information from reality to construct your world
-
 ### 2019 08 14
-- shamanic journey: white willow man (jester: jokerface/flat face), highway, house on the left (this was in the studio)
 - Ian Walker on practice research and how it is archived (ARRO, figshare), Simon Smith emailed with question on this topic;
 
 ### 2019 08 13
@@ -523,7 +454,6 @@ b (pretest not b01)
 
 ### 2019 08 05
 - new tempoClock and varieties Function started;
-- shamanic journey with drumming in study (Zoom recorded): Zsolti and his mum on the top of the hill
 
 ### 2019 08 02
 - impedance in sc fixed with fredrik, new repo, downloaded (having impedance measuring in sc has streamlined work as now we don't need to open the openbci gui to start with);
@@ -809,12 +739,6 @@ Experimenting with auto trim/split in Reaper. Fine adjustments to this tool are 
 - Checking 3d printer in the ARU.
 - thinking about the accelerometer on board be used instead of FEELTRACE? probably not, there should be an external system for this, as the head movement might make use feel different;
 
-### 2019 02 21
-- REI: 2nd jouney: fell asleep;
-
-### 2019 02 20
-- REI: first shamanic journey (i forgot about this one): animals, castenada's portal, ...
-
 ### 2019 02 11-14
 Jeff Strong's Drumming course: pre course and first week done, frame drum ordered, practicing basic patterns;
 rewriting tempoClock in new software;
@@ -891,208 +815,14 @@ now sc streams data from wifi;
 http://openbci.com/forum/index.php?p=/discussion/1663/greentek-gelfree-s-eeg-cap#latest
 * need to find a way to use ear-clips for REF with y cable;
 * experimented with positioning the board and cables next to me on a chair to reduce 50hz noise and reduce impedance: all worked out;
-* for the last few weeks I have been pre-soaking the electrode shells and sponges for around 30 mintutes, when I add them to the cap, they are very wet - seems to help;4
+* for the last few weeks I have been pre-soaking the electrode shells and sponges for around 30 mintutes, when I add them to the cap, they are very wet - seems to help;
+
 earlier outcomes on the [project website](https://bcmi.khofstadter.info)
 
-
-### 2018 11 28
-ASMR tests
-
-### 2018 11 5
-experimenting with remembering names by listening to a monotone internal rhythm
-
-### 2018 10 31
-working on AES Immersive and Interactive Audio paper
-
-### 2018 03 07
-concentrative vs mindulness meditation: does/can one become the other?  is it then stepping inwards outwards?
-
-### 2018 02 20
-
-### 2017 02 06
-**Horowitz, The Universal Sense**
-- loud sounds: biologically hard-wired: large predetors;
-- worms eating carcass sound might be percieved as beautiful if it's not seen;
-- silence can increase awareness (due to fear perhaps as well? )
-{{ to add }}
-- loudness (emphasis), low pitch (implication of size and dominance), faster tempo (urgency)
-- brain plasticity: dissonant sounds or atonal music can sound harmonics once exposed to it for long enough (perhaps involves learning as well)
-
-### 2017 02 05
-**Anna Wise, Awakening The Mind**
-
-> there are many complex and valid varieties of B/A/T/D combinations that represent a state of awakening. p8
-![anna wise](assets/images/201707-anna-wise-brain-images.jpg)
-
-- delta: unconsious, intuition, insight;
-- theta: deep, subconsious understangind and awareness;
-- alpha: wraps the lucidity of imagery around the content so that it can be experiences;
-- beta: adds conceptual interpretations, explanations and words;
-
-suggestions for music test:
-- music to be gentle, non invasive, non melodic, non familiar, no tunes, there shoudl be a balance between real environment and music (software) sounds (why?)
-- sitting or laying, provide glass of water, eyes open first, than closed, warm room
-- after the meditation: write doens words, symbols, colours, sensations, ...
-- breathing with own rhythm, don't follow a group, relax your tonge, relax your breathing
-- what do listen to: choose one (!) 1) sounds from the outside (environment), 2) sounds from the room (inside environment), 2) your body 3) your internal space 4) your thoughts - don't label them (~~ to deep listening ~~ reduced listening)
-
-
-### 2017 02 04
-**Stong, Different Drummer**
-- brain wave entrainment, auditory driving.
-- simple rhythms vs complex rhythms (the faster the more variation the brain needs, to keep the brain engages, vary the rhythm)
-- difference to BBFs
-- when to use odd meters?
-- examples: 7.4bps: deep, centred calm; 8.6: focused calm
-- would it be good to add some other natural sounds?
-- why are there ambient sounds in the REI program:
-
-### 2017 02 03
-- listening to music emotionally or intellectually?
-- Oliveros, reduced listening, etc. Schaefer, acousmatice listening (not looking for the cause),  ...
-- listening (active) vs hearing (passive);
-
-- active listening vs passive hearing :
-> Random sonic events keep the brain looking for patterns, whereas easliy indentifiable musical forms are quickly identified, and attention becomes habituated. ~Leeds, p 197?
-
-**Deep listening**
-Oliveros:
-
-Focal Listening  |  Inclusive Listening
---|--
-  focused, concentrated, linear, exlusive, moment to moment attention to details | open, global, inclusive, "all that can be heard in an ever expanding field of continious simultanious events perceived as a whole"
-
-> - balancing these two may bring hemeostasis. ~ Oliveros
-
-> Deep Listening is listening in every possible way to everything possible. This means one hears all sounds, no matter what one is doing. ~ Oliveros in Acoustic and virtual space as a dynamic element in music, p45.
-
-> listening is forgetting the name of the thing one hears ~Chion p460?
-
-> [when making music] learn to appreciate more than what your own species has attuned itself to hear. ... Make more then human music.  ~Rothernberg, p56 and p68
-
-> the real voyage of discovery consists not in seeking new landscapes but in having new eyes (Marcel Proust)
-
-> we want to listen more closely, but are rarely ottered (allowed) the opportunity by ourselves/others?
-
-> The challange in sustaining global attention is to remain open to all sounds, to resist th habitual filters, while remailnig explosed to a huge and confusing array of possibilities.  p227
-
-> Focul and global listening (attention) work together in expansion and contraction, bu the two are seldom experienced simultaniously. Seldom?? p227?
-
-Global listening involves including, rather than exluding sounds.
-
-DL produces alpha waves, which helps creativity and opens the bridge between the conscious and the subconscious mind. Relaxed, yet alert. Norman Lowry, p293
-
-> DL stimulates imagination, opens and heightens awareness, connects with the subconcsious and questions pre-conceptions and assumptions. p295
-
-- can lerning how to be mindful with deep listening help hearing ourselves? then, understand the self's deeper structures?
-
-Benefits of DL, we recognise the importance of quiet. Quiet Places. Skills developed to be selectice when bomboarded with sensory information. Hmm.. what about the shamanic journey? The ability to control attention.
-
-### 2017 02 02
-- extasy vs trance?
-- Judith Becker, 2004, Deep Listeners (near religious transcendental experiments, Oliveros
-
-Joshua Leeds, The Power of SoundIn
-1. Physics of sound
-
-### 2017 02 01
-Sound Healing Jonathan Goldman:
-1. everything is vibration;
-- hearing range is narrow.  if we cannot hear something (or measure something), that does not mean it does not exist.
-- everything has a resonant frequency: 1) free resonance (e.g tuning forks sharing the smae frequency), 2) forced resonance (vibrating, entraining, they may not share the same frequency)(http://www.creationsmagazine.com/articles/C174/Goldman.html)
-- human organs may have a specific frequency;
-- organs together create a personal resonance;
-- natural/healthy vibrations are restored when sound healing: removing crystalised minerals from the kidney, viruses distroyed with sound?
-- sound healing has two methods: 1) hear the body 2) destroy the invader
-- which one is the easiest to control: breathing, hearth, brainwaves - does it matter?   they seem to be all related :)
-
-2. Intent
-- how do I define this in scientific terms (attention?)
-
-3. We are all different
-> any time of music/sound depending on the time, place and needs of the individual cab be healing.
-
-Important
-
-1. the belief of the person receiving the healing in the healer;
-2. the belief of the healer believing int he medicine;
-3. the relationship?
-
-other ideas:
-
-- schumman resonance
-- low frequency elecromagnetic brainwaves
-- silence
-- singning
-- chakras (Valerie Hunt, Infinite Mind)
-  - each has a vowel
-- resonant frequency therapy (cymatheroapy, dr Peter Guy Manners, Royal Rife - visur killer)
-- sonic entrainment tech
-  - rober monroe (hemisync)
-  - kelly howell, joshua leeds, jeffrey thompson, anna wise, tom kenyon
-- binaural beats in traditional instruments
-  - tibetain bowls
-  - peruvian whistling vessel
-- aural enhancment technology
-  - electronic ear (Alfred Tomatis' filtered music - how is this related to brain.fm?
-  - voice analysis therapy (Sharpy Edwards) reintroduce the missing frequncies in the voice, reintroducing them into hearing is healing.
-  - bioacoustics;
-  - soundwave energy
-  - biowaves
-  - vibroacoustic therapy (table, beds, somatron, betar, genesis machine (Michael Breadford), dr jeffrey thompson )
-  - tunging for therapy (dr john beauliem)
-  - sound pucture (bio soinc / acutonics?)
-  - natural acoustic instruments (crystal bowls, tibetan bowls (not from tibet, peruvian whistling vesel, digeridoes, = they provide simplicity, anyone can do!))
-
-
-### 2017 01 15
-- have been listening to a lot of Alan Watts lectures and he started talking to me: when I have a question the answers often come with his voice;
-
-### 2018 01 12
-- habit changes haven't kicked in yet;
-
 ### 2017 01
+- Mindfullness Reinvented (M-Tracker, Smith J.C. 2016)
 
-music
-- no societies withough music (Ball, 2010)
-- seems to involve all of the brain (Ball, 2010)
-- major - minor (indicator of valance is musical key, Juslin, 2005, p173)
-- tempo is a prime indicator of arousal (fast -high A, slow, low A)
-- key progressions? simple >> complex (jazz?)
-- musical composition (from tonic to tonic (Alan Watts Hide and Seek))
-- sonification vs musification (sonification ex: music to debug programm,Vickers and Alty 2003, p173)
-- frequncy following response (BPM to HZ (bps): 60 BPM = 1 hz (1 bps))
-
-### 2017 01 04
-
-Why is it important that the user can make his/her own music?
-1. flow feeling can be strong when making music
-2. we are all different (user have different backgroundss, they should be able to choose their own temrs/musical)
-
-{{ image }}
-
-### 2017 01 03
-> the freedom of making mistakes
-- keep the rhythm, don't stop when you make a mistake (drumming)
-
-### 2017 01 02
-- generative music vs non generaive music (is it more live?  does it help immersion?)
-- does user experience need to be smooth?
-
-### 2017 01 01
-Notes for 'Mindfullness Reinvented' (M-Tracker, Smith J.C. 2016)
-- CEN - Central Executive Network + Left frontal cortex (attention direction, decision making, working memory, regulatory thoughts)
-- DMN - Default Mode Networking (mind wandering  mode, not focused)
-- SN salience network
-- mindulness is a progressive skill
-
-REF:
-- Kasamatsu, 1966 (alha waves)
-- Cahn and Polich, 2006 (brainwave sync)
-- gamma waves
-- Smith, 2016 (activity of the brain as a whole, instead of localised acticity)
-
-
+{{ to add info from notes and perhaps check book again }}
 
 ### 2016 03
 - research project objectives might chnge?: how and why?  new interest in deeper stuff than relaxation...

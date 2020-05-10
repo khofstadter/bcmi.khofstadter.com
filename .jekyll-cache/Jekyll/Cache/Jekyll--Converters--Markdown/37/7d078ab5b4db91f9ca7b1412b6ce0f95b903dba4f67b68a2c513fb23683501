@@ -1,0 +1,70 @@
+I"�<h2 id="impedance">impedance</h2>
+
+<h2 id="saline-water">saline water?</h2>
+<ul>
+  <li>Is distilled water better? Probably.</li>
+</ul>
+
+<h2 id="cleaning-eeg">cleaning EEG</h2>
+<ul>
+  <li>How to clean the cap?</li>
+  <li>How to clean the electrodes?</li>
+  <li>How to deal with corrosion?</li>
+</ul>
+
+<h2 id="signal">signal</h2>
+<ul>
+  <li>How does low battery effect the signal?</li>
+  <li>How are test signals used?</li>
+</ul>
+
+<h2 id="accelorometer">accelorometer?</h2>
+<ul>
+  <li>What do people use it for?</li>
+  <li>Can it be used instead of feeltrace?
+// maybe instead of feeltrace - they should make a sound e.g. shsss… ;</li>
+</ul>
+
+<h2 id="what-drivers-to-use">what drivers to use?</h2>
+<ul>
+  <li>FTDI or Apple?</li>
+</ul>
+
+<h2 id="cyton-switch-pc-and-ble">Cyton switch PC and BLE</h2>
+<ul>
+  <li>is it still the same?</li>
+</ul>
+
+<h2 id="storage">storage</h2>
+<ul>
+  <li>how to best store and travel with this kit?</li>
+</ul>
+
+<h2 id="serial-port-name">serial port name</h2>
+<ul>
+  <li>why is serial port sometimes called: “/dev/tty.OpenBCI-DM00DRM0” and other times “/dev/tty.usbserial-DM00DRM0” - can this be on the same computer, same software?</li>
+</ul>
+
+<h2 id="brain-wave-rhythm-names">brain wave rhythm names</h2>
+<p>Why is the order of brainwaves not labelled alphabetically?’</p>
+
+<ul>
+  <li>“They are ordered based on when they were discovered/named. Alpha and beta waves were among the first signals observed in EEG data.” <a href="https://psychology.stackexchange.com/questions/9202/why-is-the-order-of-brainwaves-not-labelled-alphabetically">source</a></li>
+</ul>
+
+<h2 id="adding-other-sensors">adding other sensors</h2>
+<ul>
+  <li>how do we add ECK or other sensors?</li>
+</ul>
+
+<h2 id="screenrecord">screenrecord</h2>
+<ul>
+  <li>screenflow: would writing on an SD card or external SSD help the computer?
+FAQ</li>
+</ul>
+
+<h2 id="what-is-raid-and-near-raid">what is RAID and near RAID?</h2>
+<ul>
+  <li>http://openbci.com/forum/index.php?p=/discussion/1481/how-to-become-de-railed</li>
+</ul>
+:ET
