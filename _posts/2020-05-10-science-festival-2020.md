@@ -9,4 +9,14 @@ comment: true
 ---
 <br>
 
-> Will be awailable between 08 - 12 June 2020 as part of the Cambridge Science Festival. 
+Material available between 08 - 12 June 2020 as part of the Cambridge Science Festival.
+
+<br>
+
+![](../assets/images/20200411-cambridge-science-festival.jpg)
+
+<br>
+
+Thanks for your patience.
+
+k
