@@ -18,11 +18,21 @@ It has two main parts:
 - discussion with Marcy;
 
 ### writing
-- projects
+- analysing shamanic meditation survey data
+
+
 
 ---
 
 ## logbook
+
+### 2020 05 13
+- todo:
+  - need to merge hun and eng and expreriment with plotting;
+  - what is most important to know?
+  - how important are collectors? 
+- experimenting with https://rawgraphs.io/
+- all data from surveymonkey download in as many formats as possible (not SPSS)
 
 ### 2020 05 08
 - migrating tasks from this file to commentary;
