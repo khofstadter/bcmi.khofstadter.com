@@ -15,10 +15,12 @@ My part in this performance was to create abstract textures by using six dynamic
 
 ![](../assets/images/2019-06-13-aphorisms-poster.jpg)
 
-![](../assets/images/2019-06-13-aphorisms-01-k-rehearsal.jpg)
+<br>
+
+## Performance
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/pyPkSN6rsUk?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
 
 <br>
 
-Performance Mixdown (Part 3) by David:
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/638145756&color=%23161611&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+![](../assets/images/2019-06-13-aphorisms-01-k-rehearsal.jpg)

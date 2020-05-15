@@ -26,11 +26,23 @@ It has two main parts:
 
 ## logbook
 
+### 2020 05 14
+https://app.rawgraphs.io/
+- merge eng and hun
+- maybe remove open ended questions?
+- maybe export with numbers instead of strings (as well);
+- they need manual editing;
+- simplifying: Spirituality: Nature, Spirit, Pagan
+- consistency: Christian > Christianity;
+- translate from hun to eng;
+- remove duplicates - perhaps software issue;
+- remove k - create new file for them;
+
 ### 2020 05 13
 - todo:
   - need to merge hun and eng and expreriment with plotting;
   - what is most important to know?
-  - how important are collectors? 
+  - how important are collectors?
 - experimenting with https://rawgraphs.io/
 - all data from surveymonkey download in as many formats as possible (not SPSS)
 
