@@ -18,3 +18,7 @@ disqus_shortname: bcmi-khofstadter
 exclude:
 - README.md
 - CNAME
+
+### include
+include:
+  - .htaccess
