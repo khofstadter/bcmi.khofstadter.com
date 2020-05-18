@@ -1,4 +1,4 @@
-I"�Y<p>Hello, my name is Krisztián Hofstädter. This subdomain archives my PhD at the Anglia Ruskin University, Cambridge. More about me <a href="https://khofstadter.info">here</a>, more about the research below.</p>
+I"<]<p>Hello, my name is Krisztián Hofstädter. This subdomain archives my PhD at the Anglia Ruskin University, Cambridge. More about me <a href="https://khofstadter.info">here</a>, more about the research below.</p>
 
 <p><br />
 <br /></p>
@@ -107,6 +107,23 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       
+      <li>
+        <input id="node2++2" name="node" class="node" type="radio" />
+        <label for="node2++2" data-idx="2++2">Science Festival 2020</label>
+        <ul>
+          <li>
+          <div class="date"> 2020-05-01</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/2020/05/01/science-festival-2020/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
       
       
       
@@ -116,8 +133,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++4" name="node" class="node" type="radio" />
-        <label for="node2++4" data-idx="2++4">festival of ideas performance 2019</label>
+        <input id="node2++5" name="node" class="node" type="radio" />
+        <label for="node2++5" data-idx="2++5">festival of ideas performance 2019</label>
         <ul>
           <li>
           <div class="date"> 2019-10-26</div>
@@ -133,8 +150,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++5" name="node" class="node" type="radio" />
-        <label for="node2++5" data-idx="2++5">aphorisms</label>
+        <input id="node2++6" name="node" class="node" type="radio" />
+        <label for="node2++6" data-idx="2++6">aphorisms</label>
         <ul>
           <li>
           <div class="date"> 2019-06-13</div>
@@ -150,8 +167,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++6" name="node" class="node" type="radio" />
-        <label for="node2++6" data-idx="2++6">AES York conference demo 2019</label>
+        <input id="node2++7" name="node" class="node" type="radio" />
+        <label for="node2++7" data-idx="2++7">AES York conference demo 2019</label>
         <ul>
           <li>
           <div class="date"> 2019-03-27</div>
@@ -167,8 +184,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++7" name="node" class="node" type="radio" />
-        <label for="node2++7" data-idx="2++7">asmr eeg tests</label>
+        <input id="node2++8" name="node" class="node" type="radio" />
+        <label for="node2++8" data-idx="2++8">asmr eeg tests</label>
         <ul>
           <li>
           <div class="date"> 2018-11-28</div>
@@ -184,8 +201,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++8" name="node" class="node" type="radio" />
-        <label for="node2++8" data-idx="2++8">tibetan singing bowls meditation with eeg</label>
+        <input id="node2++9" name="node" class="node" type="radio" />
+        <label for="node2++9" data-idx="2++9">tibetan singing bowls meditation with eeg</label>
         <ul>
           <li>
           <div class="date"> 2018-11-21</div>
@@ -201,8 +218,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++9" name="node" class="node" type="radio" />
-        <label for="node2++9" data-idx="2++9">festival of ideas talk 2018</label>
+        <input id="node2++10" name="node" class="node" type="radio" />
+        <label for="node2++10" data-idx="2++10">festival of ideas talk 2018</label>
         <ul>
           <li>
           <div class="date"> 2018-10-24</div>
@@ -218,8 +235,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++10" name="node" class="node" type="radio" />
-        <label for="node2++10" data-idx="2++10">OpenBCI and Greentek gelfree cap</label>
+        <input id="node2++11" name="node" class="node" type="radio" />
+        <label for="node2++11" data-idx="2++11">OpenBCI and Greentek gelfree cap</label>
         <ul>
           <li>
           <div class="date"> 2018-07-19</div>
@@ -235,8 +252,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++11" name="node" class="node" type="radio" />
-        <label for="node2++11" data-idx="2++11">CIMTRE networking event</label>
+        <input id="node2++12" name="node" class="node" type="radio" />
+        <label for="node2++12" data-idx="2++12">CIMTRE networking event</label>
         <ul>
           <li>
           <div class="date"> 2018-07-09</div>
@@ -256,8 +273,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++13" name="node" class="node" type="radio" />
-        <label for="node2++13" data-idx="2++13">Qujing University talk</label>
+        <input id="node2++14" name="node" class="node" type="radio" />
+        <label for="node2++14" data-idx="2++14">Qujing University talk</label>
         <ul>
           <li>
           <div class="date"> 2018-04-18</div>
@@ -273,8 +290,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++14" name="node" class="node" type="radio" />
-        <label for="node2++14" data-idx="2++14">StoryLab symposium talk</label>
+        <input id="node2++15" name="node" class="node" type="radio" />
+        <label for="node2++15" data-idx="2++15">StoryLab symposium talk</label>
         <ul>
           <li>
           <div class="date"> 2018-03-14</div>
@@ -290,8 +307,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++15" name="node" class="node" type="radio" />
-        <label for="node2++15" data-idx="2++15">IBVA SuperCollider Quark</label>
+        <input id="node2++16" name="node" class="node" type="radio" />
+        <label for="node2++16" data-idx="2++16">IBVA SuperCollider Quark</label>
         <ul>
           <li>
           <div class="date"> 2018-02-24</div>
@@ -307,8 +324,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++16" name="node" class="node" type="radio" />
-        <label for="node2++16" data-idx="2++16">multilingual conference demo</label>
+        <input id="node2++17" name="node" class="node" type="radio" />
+        <label for="node2++17" data-idx="2++17">multilingual conference demo</label>
         <ul>
           <li>
           <div class="date"> 2018-02-14</div>
@@ -324,8 +341,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++17" name="node" class="node" type="radio" />
-        <label for="node2++17" data-idx="2++17">musedelica symposium demo</label>
+        <input id="node2++18" name="node" class="node" type="radio" />
+        <label for="node2++18" data-idx="2++18">musedelica symposium demo</label>
         <ul>
           <li>
           <div class="date"> 2016-07-14</div>
@@ -341,8 +358,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++18" name="node" class="node" type="radio" />
-        <label for="node2++18" data-idx="2++18">MPA seminar talk</label>
+        <input id="node2++19" name="node" class="node" type="radio" />
+        <label for="node2++19" data-idx="2++19">MPA seminar talk</label>
         <ul>
           <li>
           <div class="date"> 2016-06-21</div>
@@ -358,8 +375,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++19" name="node" class="node" type="radio" />
-        <label for="node2++19" data-idx="2++19">ARU research conference poster</label>
+        <input id="node2++20" name="node" class="node" type="radio" />
+        <label for="node2++20" data-idx="2++20">ARU research conference poster</label>
         <ul>
           <li>
           <div class="date"> 2016-06-06</div>
@@ -375,8 +392,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++20" name="node" class="node" type="radio" />
-        <label for="node2++20" data-idx="2++20">pint of science installation</label>
+        <input id="node2++21" name="node" class="node" type="radio" />
+        <label for="node2++21" data-idx="2++21">pint of science installation</label>
         <ul>
           <li>
           <div class="date"> 2016-05-24</div>
@@ -392,8 +409,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++21" name="node" class="node" type="radio" />
-        <label for="node2++21" data-idx="2++21">platypus standalone</label>
+        <input id="node2++22" name="node" class="node" type="radio" />
+        <label for="node2++22" data-idx="2++22">platypus standalone</label>
         <ul>
           <li>
           <div class="date"> 2016-03-04</div>
@@ -409,8 +426,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++22" name="node" class="node" type="radio" />
-        <label for="node2++22" data-idx="2++22">sonic art class guest talk</label>
+        <input id="node2++23" name="node" class="node" type="radio" />
+        <label for="node2++23" data-idx="2++23">sonic art class guest talk</label>
         <ul>
           <li>
           <div class="date"> 2016-03-03</div>
@@ -426,8 +443,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++23" name="node" class="node" type="radio" />
-        <label for="node2++23" data-idx="2++23">inScore experiment</label>
+        <input id="node2++24" name="node" class="node" type="radio" />
+        <label for="node2++24" data-idx="2++24">inScore experiment</label>
         <ul>
           <li>
           <div class="date"> 2016-02-26</div>
@@ -443,8 +460,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++24" name="node" class="node" type="radio" />
-        <label for="node2++24" data-idx="2++24">music therapy clinic talk</label>
+        <input id="node2++25" name="node" class="node" type="radio" />
+        <label for="node2++25" data-idx="2++25">music therapy clinic talk</label>
         <ul>
           <li>
           <div class="date"> 2016-01-18</div>
@@ -460,8 +477,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++25" name="node" class="node" type="radio" />
-        <label for="node2++25" data-idx="2++25">start of research</label>
+        <input id="node2++26" name="node" class="node" type="radio" />
+        <label for="node2++26" data-idx="2++26">start of research</label>
         <ul>
           <li>
           <div class="date"> 2015-09-01</div>
