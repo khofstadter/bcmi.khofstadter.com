@@ -3,24 +3,28 @@ title: BCMI
 layout: default
 ---
 
-Hello, my name is Krisztián Hofstädter. This subdomain archives my PhD at the Anglia Ruskin University, Cambridge. More about me [here](https://khofstadter.info), more about the research below.
+Hello, my name is Krisztián Hofstädter. This subdomain archives my doctoral research at the [ARU](https://aru.ac.uk/), Cambridge.
+
+( More about other projects [here](https://khofstadter.info).)
 
 <br>
-<br>
 
-## PhD abstract
+## abstract
 
-This interdisciplinary, practice-based research develops a Brain-Computer Music Interface (BCMI) which reinforces brainwave patterns linked to meditative states of mind by giving auditory feedback. The proposed BCMI software employs the therapeutic benefits of neurofeedback (NF), gaming, music and meditation in order to be effective in helping users understand their cognition. The software’s effectiveness is investigated in training programmes and demonstrated in presentations and concerts with consumer-graded electroencephalography (EEG).
+This interdisciplinary research developed a brain-computer music interface and demonstrated its use for scientific and artistic purposes. It was developed for neurofeedback practitioners and creatives interested in the combined use of brain-computer interfacing and music for well-being and creative expressions linked to meditation. Its effectiveness is investigated in training programmes, surveys and demonstrated in presentations and performances with real-time electroencephalography (EEG).
 
-<br>
 <br>
 
 ## keywords
 
-brain-computer music interfacing, brainwave entrainment, consciousness, consumer EEG, generative music, immersion, interactive soundscapes, learning, meditation, neurofeedback, neurogaming, OpenBCI, SuperCollider.
-
+altered states of consciousness, brain-computer music interfacing, brainwave entrainment, EEG, generative music, immersion, interactive soundscapes, meditation, neurofeedback, OpenBCI, SuperCollider, synchronisation
 
 <br>
+
+## timeline
+
+A visual representation of progress can be seen [here](timeline).
+
 <br>
 
 ## ongoing

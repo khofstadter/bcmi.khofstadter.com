@@ -3,7 +3,7 @@ layout: post
 title: shamanic meditation audio test
 permalink: /shamanic-meditation-audio-test/
 categories: test
-tags: [ongoing, test]
+tags: [test]
 author: tEdör
 comment: true
 ---

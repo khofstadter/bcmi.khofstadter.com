@@ -8,23 +8,74 @@ It has two main parts:
 ---
 ## currently doing
 
-### online science festival
-- new music: flex time + shamanic (strong);
-- survey or disqus?
+### online talking science
+
+introduction video/text;
+- overview, what is this test;
+- work on prev. tests plotting;
 - indicate that the music maker test is coming;
 - indicate that the bcmi test is coming;
 
-### march application
-- discussion with Marcy;
+audio listening;
+- check ARU survey tool;
+- maybe surveymonkey again;
+- or can i build one?
+- can I randomly choose between two players normal and binaural audio player?
+- will i have time to add binaural 3d sound version?
 
 ### writing
 - analysing shamanic meditation survey data
 
+## survey plotting
+- write better locations
 
+## BandCamp release
+- add idTag and reupload binaural; 
 
 ---
 
 ## logbook
+
+### 2020 06 03
+shamanic meditation binaural version: added side-chain (mainly removes the laud sounds from zoom-h1).
+
+![](assets/images/20200501-binauralbeat-setting-in-reaper-2.jpg)
+
+![](assets/images/20200501-binauralbeat-setting-in-reaper-3.jpg)
+
+![](assets/images/20200501-binauralbeat-setting-in-reaper-4.jpg)
+
+![](assets/images/20200501-binauralbeat-setting-in-reaper-5.jpg)
+
+
+### 2020 06 02
+new survey changes: intro.  consent.  shamanic journey question moved to back (to make it sound less ezoteric).  removed focus on the most repetetive parts... (i would like them just to simply listen and let go).  "let it sink inwards. " (from Monroe).  can't change much when embedding into bcmi.khofstater.info website as the inframe is javascript.
+
+### 2020 06 01
+- binaural version: 1. tried build in tone generator, it cannot do decimal frequencies; 2. tried RheaSynth, i couldn't figure out how to do freq instea of notes on the MIDI score. 3. tried Vallhalla as one blog says it's cool and psychedelic, but it didn't sound convincing. 4. tried SuperCollider, but I didn't want to save file and then add them to Reaper. 5. ended up usin a free plugin, works:
+
+![](assets/images/20200501-binauralbeat-setting-in-reaper-1.jpg)
+
+- two versions to test: normal (my mix on release) and binaural.
+- have been thinking about simplifying talkin science event: new music? would be good, but not enough time.  would have been good to merge focus-synthesiser with bcmi-soundscape-01 shaman sequencer.  too much time.  will have to do later.
+
+### 2020 05 18-26
+- march application mistakes:
+
+1. When the co-investigator approached me about a month ago, I thought
+she needs help with a project that she wants to write an application
+for. Only much later did I realise that she wants me to apply and be a
+part of it. I will need to avoid ambiguity in the future.
+
+2. I drafted timelines with £15.38 per hour for myself and the
+co-investigator in the first two drafts. (I got this figure from the
+internet!) Only this week did I realise that the rate is much higher:
+£25.16 per hour for me and around the same for the co-investigator as
+she would have been employed through our employment bureau. This meant
+that my plans were over the 20K budget.
+
+### 2020 05 18
+- interpret values in cvs with the actual survey e.g. 0-100 focused-not focused, etc.
 
 ### 2020 05 14
 https://app.rawgraphs.io/
