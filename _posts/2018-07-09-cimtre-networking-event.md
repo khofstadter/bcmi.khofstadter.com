@@ -3,7 +3,7 @@ layout: post
 title: CIMTRE networking event
 permalink: /cimtre-networking/
 categories: talk
-tags: [talk, cimtre, ARU]
+tags: [public, cimtre, ARU]
 author: tEdör
 comment: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: MPA seminar talk
 permalink: /mpa-seminar-talk/
 categories: talk
-tags: [talk, music therapy clinic, ARU]
+tags: [public, music therapy clinic, ARU]
 author: tEdör
 comment: true
 ---

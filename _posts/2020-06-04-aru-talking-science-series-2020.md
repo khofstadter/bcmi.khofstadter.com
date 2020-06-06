@@ -3,7 +3,7 @@ layout: post
 title: aru talking science series 2020
 permalink: /aru-talking-science-series-2020/
 categories: test
-tags: [ongoing, test, talk]
+tags: [ongoing, project, test, talk]
 author: tEdör
 comment: true
 ---
@@ -19,10 +19,10 @@ It has two parts:
 <br><br><br>
 <h3>1. video introduction</h3>
 <br>
-The video introduces the current audio meditation study and my doctoral research in general:
+This video introduces the current audio meditation study and my doctoral research in general:
 <br><br>
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/SY9_JFntFoI?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/vaSoaY8fPV4?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
 
 <br><br><br>
 <h3>2. audio meditation study</h3>

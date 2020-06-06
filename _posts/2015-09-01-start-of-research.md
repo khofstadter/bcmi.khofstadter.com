@@ -3,7 +3,7 @@ layout: post
 title: start of research
 permalink: /start-of-research/
 categories: event
-tags: [event]
+tags: [stage]
 author: tEdör
 comment: true
 ---

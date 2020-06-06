@@ -3,7 +3,7 @@ layout: post
 title: festival of ideas talk 2018
 permalink: /festival-of-ideas-talk-2018/
 categories: talk
-tags: [festival of ideas, archive, contested Landscape]
+tags: [public, festival of ideas, archive, contested Landscape]
 author: tEdör
 comment: true
 ---

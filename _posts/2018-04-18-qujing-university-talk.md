@@ -3,7 +3,7 @@ layout: post
 title: Qujing University talk
 permalink: /qujing-university-talk/
 categories: talk
-tags: [talk, Qujing, China]
+tags: [public, Qujing, China]
 author: tEdör
 comment: true
 ---

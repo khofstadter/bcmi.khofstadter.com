@@ -3,7 +3,7 @@ layout: post
 title: StoryLab symposium talk
 permalink: /storylab-symposium-talk/
 categories: talk
-tags: [talk, storylab, aru]
+tags: [public, storylab, aru]
 author: tEdör
 comment: true
 ---

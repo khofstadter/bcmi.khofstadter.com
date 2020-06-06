@@ -3,7 +3,7 @@ layout: post
 title: IBVA SuperCollider Quark
 permalink: /ibva-supercollider-quark/
 categories: programming
-tags: [talk, SuperCollider, IBVA, GitHub]
+tags: [project, SuperCollider, IBVA, GitHub]
 author: tEdör
 comment: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: OpenBCI and Greentek gelfree cap
 permalink: /openbci-and-greentek-cap/
 categories: talk
-tags: [openbci, greentek EEG cap]
+tags: [project, openbci, greentek EEG cap]
 author: tEdör
 comment: true
 ---

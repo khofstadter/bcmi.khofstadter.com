@@ -3,7 +3,7 @@ layout: post
 title: musedelica symposium demo
 permalink: /musedelica-symposium-demo/
 categories: talk
-tags: [talk, musedelica symposium, sussex]
+tags: [public, musedelica symposium, sussex]
 author: tEdör
 comment: true
 ---

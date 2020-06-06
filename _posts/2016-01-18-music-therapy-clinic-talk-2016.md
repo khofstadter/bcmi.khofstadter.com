@@ -3,7 +3,7 @@ layout: post
 title: music therapy clinic talk
 permalink: /music-therapy-clinic-talk/
 categories: talk
-tags: [talk, music therapy clinic, ARU]
+tags: [public, music therapy clinic, ARU]
 author: tEdör
 comment: true
 ---

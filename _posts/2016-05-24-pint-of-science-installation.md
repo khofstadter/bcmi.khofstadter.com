@@ -3,7 +3,7 @@ layout: external
 redirect_url: https://khofstadter.info/pint-of-science/
 title: pint of science installation
 categories: installation
-tags: [installation, music, video]
+tags: [project, installation, music, video]
 author: tEdör
 comment: true
 ---

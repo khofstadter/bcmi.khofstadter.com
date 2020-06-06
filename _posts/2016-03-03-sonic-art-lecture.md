@@ -3,7 +3,7 @@ layout: post
 title: sonic art class guest talk
 permalink: /sonic-art-lecture/
 categories: talk
-tags: [talk, demonstration, ARU]
+tags: [public, demonstration, ARU]
 author: tEdör
 comment: true
 ---

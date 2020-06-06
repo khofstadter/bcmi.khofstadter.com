@@ -3,7 +3,7 @@ layout: post
 title: OpenBCI SuperCollider Quark
 permalink: /open-bci-supercollider-quark/
 categories: programming
-tags: [ongoing, talk, OpenBCI, SuperCollider, GitHub]
+tags: [ongoing, project, OpenBCI, SuperCollider, GitHub]
 author: tEdör
 comment: true
 ---

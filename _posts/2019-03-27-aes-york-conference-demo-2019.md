@@ -3,7 +3,7 @@ layout: post
 title: AES York conference demo 2019
 permalink: /aes-york-conference-demo-2019/
 categories: talk
-tags: [talk, demonstration]
+tags: [public, demonstration]
 author: tEdör
 comment: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: inScore experiment
 permalink: /inscore-experiment/
 categories: code
-tags: [code, inscore, supercollider]
+tags: [project, code, inscore, supercollider]
 author: tEdör
 comment: true
 ---

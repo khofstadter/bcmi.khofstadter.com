@@ -3,7 +3,7 @@ layout: post
 title: ARU research conference poster
 permalink: /aru-research-conference-poster/
 categories: talk
-tags: [talk, conference, poster, aru]
+tags: [public, conference, poster, aru]
 author: tEdör
 comment: true
 ---

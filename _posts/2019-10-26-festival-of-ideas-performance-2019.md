@@ -3,7 +3,7 @@ layout: post
 title: festival of ideas performance 2019
 permalink: /festival-of-ideas-performance-2019/
 categories: talk
-tags: [talk, performance]
+tags: [public, performance]
 author: tEdör
 comment: true
 ---

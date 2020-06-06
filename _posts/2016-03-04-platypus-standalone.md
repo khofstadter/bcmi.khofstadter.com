@@ -3,7 +3,7 @@ layout: post
 title: platypus standalone
 permalink: /platypus-standalone/
 categories: code
-tags: [code, supercollider, platypus]
+tags: [project, code, supercollider, platypus]
 author: tEdör
 comment: true
 ---

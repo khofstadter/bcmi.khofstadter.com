@@ -3,7 +3,7 @@ layout: post
 title: multilingual conference demo
 permalink: /multilingual-conference-demo/
 categories: talk
-tags: [talk, multilingual conference, essex]
+tags: [public, multilingual conference, essex]
 author: tEdör
 comment: true
 ---
