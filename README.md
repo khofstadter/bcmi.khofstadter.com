@@ -9,19 +9,10 @@ It has two main parts:
 ## currently doing
 
 ### online talking science
-
-introduction video/text;
-- overview, what is this test;
-- work on prev. tests plotting;
-- indicate that the music maker test is coming;
-- indicate that the bcmi test is coming;
-
-audio listening;
-- check ARU survey tool;
-- maybe surveymonkey again;
-- or can i build one?
-- can I randomly choose between two players normal and binaural audio player?
-- will i have time to add binaural 3d sound version?
+- maybe add categories to website like in khofstadter.info;
+- update website with projects in timeline (short summery);
+- update facebook posts;
+- update people who did the previous study;
 
 ### writing
 - analysing shamanic meditation survey data
@@ -30,11 +21,18 @@ audio listening;
 - write better locations
 
 ## BandCamp release
-- add idTag and reupload binaural; 
+- add idTag and reupload binaural;
 
 ---
 
 ## logbook
+
+### 2020 06 06
+- annotations added to video, reupload soon; 
+
+### 2020 06 04
+- video made (explain study and research) - pushed to github;
+- post on website made for talking science with survey embedded;
 
 ### 2020 06 03
 shamanic meditation binaural version: added side-chain (mainly removes the laud sounds from zoom-h1).
