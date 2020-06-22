@@ -8,27 +8,49 @@ It has two main parts:
 ---
 ## currently doing
 
-### online talking science
-- maybe add categories to website like in khofstadter.info;
-- update website with projects in timeline (short summery);
-- update facebook posts;
-- update people who did the previous study;
-
-### writing
-- analysing shamanic meditation survey data
-
 ## survey plotting
-- write better locations
+
+! BeliefSimp - quantify groups in sheet;
+
+What did I want to see in this survey?
+- did the music help them become more focused towards the end?
+- how did the music move their emotional state?
+- where did they feel the most focused?
+What else can I see?
+
+### 1. database processing
+- merge ENG and HUN surveys;
+- rename collectors;
+- add column: index
+- shorten description
+- add column: SIMPLIFICATION (hide original column) - needs to be exampled in commentary;
+- format cells: left, top alignment
+- format first row: wrap (line break long descriptions)
+- freeze (not .csv but open office format)
+- format: very long column widths needs adjusting
+- started adding columns with reversed order (hide original)
+- quantified below columns;
+
+
+### 2. database plotting
+- while preprocessing data I also test plotting for ideas;
+
+
 
 ## BandCamp release
-- add idTag and reupload binaural;
+- add idTag and re-upload binaural;
 
 ---
 
 ## logbook
 
+### 2020 06 15 - 19
+- while preprocessing data I also test plotting for ideas;
+- preprocess data;
+- play with rawgraphs: only 4 steps in flow, maybe extend the svg in AI, where colours could be added as well;
+
 ### 2020 06 06
-- annotations added to video, reupload soon; 
+- annotations added to video, re-upload soon;
 
 ### 2020 06 04
 - video made (explain study and research) - pushed to github;
