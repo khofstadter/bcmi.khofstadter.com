@@ -6,23 +6,23 @@ It has two main parts:
 2. [website](https://bcmi.khofstadter.info) (main research outcomes contextualised in individual web pages)
 
 ---
-## currently doing
+# currently doing
+
+## phd commentary
+- can i be brief in the project commentaries and after VIVA write papers (or before VIVA)?
 
 ## survey plotting
-
-! BeliefSimp - quantify groups in sheet;
-
-What did I want to see in this survey?
-- did the music help them become more focused towards the end?
-- how did the music move their emotional state?
-- where did they feel the most focused?
-What else can I see?
+- ! BeliefSimp - quantify groups in sheet;
+- can I come up with a nice looking interesting infograph, something worth printing (poster size?)
+- how to quantify feel(move)
+- how to quantify comments
 
 ### 1. database processing
+- download CSV, numeric, not extended (download others as well)
 - merge ENG and HUN surveys;
-- rename collectors;
-- add column: index
-- shorten description
+- add index column;
+- rename collectors from numbers to text;
+- shorten description in row1 add definition of numbers in row2
 - add column: SIMPLIFICATION (hide original column) - needs to be exampled in commentary;
 - format cells: left, top alignment
 - format first row: wrap (line break long descriptions)
@@ -30,7 +30,6 @@ What else can I see?
 - format: very long column widths needs adjusting
 - started adding columns with reversed order (hide original)
 - quantified below columns;
-
 
 ### 2. database plotting
 - while preprocessing data I also test plotting for ideas;
@@ -43,6 +42,13 @@ What else can I see?
 ---
 
 ## logbook
+
+### 2020 06 26
+- plotting tests;
+
+### 2020 06 22
+- clean local and online repositories;
+- reviewed how much is needed for project commentaries;
 
 ### 2020 06 15 - 19
 - while preprocessing data I also test plotting for ideas;
