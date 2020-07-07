@@ -10,6 +10,7 @@ It has two main parts:
 
 ## phd commentary
 - can i be brief in the project commentaries and after VIVA write papers (or before VIVA)?
+- merge md not working?
 
 ## survey plotting
 - ! BeliefSimp - quantify groups in sheet;
@@ -33,8 +34,6 @@ It has two main parts:
 
 ### 2. database plotting
 - while preprocessing data I also test plotting for ideas;
-
-
 
 ## BandCamp release
 - add idTag and re-upload binaural;
