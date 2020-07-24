@@ -6,41 +6,81 @@ It has two main parts:
 2. [website](https://bcmi.khofstadter.info) (main research outcomes contextualised in individual web pages)
 
 ---
-# currently doing
+# now
+writing up and polishing projects:
+- atm. a1;
+- change timeline according to new project groups;
 
-## phd commentary
-- can i be brief in the project commentaries and after VIVA write papers (or before VIVA)?
-- merge md not working?
+## LitRev
+- check notes
 
-## survey plotting
-- ! BeliefSimp - quantify groups in sheet;
-- can I come up with a nice looking interesting infograph, something worth printing (poster size?)
-- how to quantify feel(move)
-- how to quantify comments
+## focused litRev
+- mention shamanism (add summery in a3, more details in bookCh)
 
-### 1. database processing
-- download CSV, numeric, not extended (download others as well)
-- merge ENG and HUN surveys;
-- add index column;
-- rename collectors from numbers to text;
-- shorten description in row1 add definition of numbers in row2
-- add column: SIMPLIFICATION (hide original column) - needs to be exampled in commentary;
-- format cells: left, top alignment
-- format first row: wrap (line break long descriptions)
-- freeze (not .csv but open office format)
-- format: very long column widths needs adjusting
-- started adding columns with reversed order (hide original)
-- quantified below columns;
+## a1
+- design/development: write up 3 islets (maybe change islet codes accordingly)
+- testing and deployment (short)
+- conclusions & future
+  - (add persuasive gaming here and perhaps references in text above, which one is it soft/hard BCI, etc., add march funding idea)
+- video demo
+  - with EEG & no EEG (more control in demo)
+- test with Yanxi (video record?)
+- test sequencer's capability to make meditation music (testers e.g. Fredrik, Todd, Alex, ? should understand how patterns are used in the neurofeedback part)
 
-### 2. database plotting
-- while preprocessing data I also test plotting for ideas;
+## a2
+- write up
+- video demo (target: openBCI community)
 
-## BandCamp release
-- add idTag and re-upload binaural;
+## a3
+- write up (perhaps short, some details about shamanism)
+- video demo (target: openBCI community)
+
+### a3.1 (short, more in bookCh)
+- write up
+- ethics (+signature from M/B)
++ Matlab - check theta!
++ Mama catch up study?
+
+### a3.2 (short, more in bookCh)
+- write up
+- edit presentation;
+- make video version of jester (Ankit)
+- BandCamp: add idTag and re-upload binaural;
+
+## a3.3 (short, more in bookCh)
+- how to keep data source (add to GitHub)?
+- more survey analysis, more plotting:
+  - ! BeliefSimp - quantify groups in sheet;
+  - can I come up with a nice looking interesting infograph, something worth printing (poster size?)
+  - how to quantify feel (move)
+  - how to quantify comments
+- write up;
+
+## c1 (short, more in bookCh or paper)
+- summery;
+- more in book chapter;
+
+## c2 (short, more in bookCh or paper)
+- summery;
+- more in book chapter;
 
 ---
 
 ## logbook
+
+### 2020 07 09-24
+- a1 writing (islet1)
+- reorganise projects, think about what should go in commentary and what should go in book chapter;
+
+### 2020 07 09-23
+- writing a1;
+- revised code for a1, testing with two headsets;
+- asked about extending again (will need supervision as I don't know what's enough)
+- reinstalled merge;
+- checking code of last focus-neurofeedback and focus-sequencer;
+
+### 2020 07 27-08
+- have been writing the commentary: created template for APM framework, focusing on a1 now;
 
 ### 2020 06 26
 - plotting tests;
