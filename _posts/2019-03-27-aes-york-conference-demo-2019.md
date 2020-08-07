@@ -12,7 +12,7 @@ Demonstration of Brain-Computer Music Interfacing Soundscape - Generative Rhythm
 
 @ 2019 Audio Engineering Society International Conference on Immersive and Interactive Audio, York, UK ([<kbd>programme</kbd>](http://www.aes.org/conferences/2019/immersive/program.cfm))
 
-![](../assets/images/2019-03-27-aes-york-2019-khofstadter01.jpg)
+![](../assets/img//2019-03-27-aes-york-2019-khofstadter01.jpg)
 
 <br><br>
 
@@ -24,6 +24,6 @@ Demonstration of Brain-Computer Music Interfacing Soundscape - Generative Rhythm
 
 <br><br>
 
-![](../assets/images/2019-03-27-aes-york-2019-khofstadter02.jpg)
+![](../assets/img//2019-03-27-aes-york-2019-khofstadter02.jpg)
 
 picture by [Mariana Lopez](https://marianajlopez.com/)

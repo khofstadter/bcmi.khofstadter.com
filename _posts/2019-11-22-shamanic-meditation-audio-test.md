@@ -13,6 +13,6 @@ Currently being analysed with https://rawgraphs.io/.
 
 Preview:
 
-![](../assets/images/2019-11-22-shamanic-meditation-audio-test-02.jpg)
+![](../assets/img//2019-11-22-shamanic-meditation-audio-test-02.jpg)
 <br>
-![](../assets/images/2019-11-22-shamanic-meditation-audio-test-01.jpg)
+![](../assets/img//2019-11-22-shamanic-meditation-audio-test-01.jpg)

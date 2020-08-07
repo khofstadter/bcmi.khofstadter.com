@@ -16,7 +16,7 @@ Gave a presentation at [Kelcy Davenport](http://www.kelcydavenport.com/)'s ‘[T
 One slide:
 <br>
 <br>
-![](../assets/images/2018-10-festival-of-ideas.jpg)
+![](../assets/img//2018-10-festival-of-ideas.jpg)
 <br>
 <br>
 All slides [here](../assets/doc/k_hofstadter_php_2018_10_presentation.pdf).

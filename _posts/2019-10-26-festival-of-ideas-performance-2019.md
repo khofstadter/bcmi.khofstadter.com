@@ -14,7 +14,7 @@ Presentation, performance and drawing, Q/A
 
 @ 2019, Cambridge Festival of Ideas
 
-![](../assets/images/20191026-cambridge-festival-of-ideas-01.jpg)
+![](../assets/img//20191026-cambridge-festival-of-ideas-01.jpg)
 
 <br><br>
 
@@ -57,7 +57,7 @@ Presentation, performance and drawing, Q/A
 
 ### Plotting my EEG data
 
-![](../assets/images/20191026-cambridge-festival-of-ideas-03.jpg)
+![](../assets/img//20191026-cambridge-festival-of-ideas-03.jpg)
 
 <br>
 <br>
@@ -81,7 +81,7 @@ these parameters controlled certain aspects of the music in real time
 
 Some interpretations of the journey:
 
-![](../assets/images/20191026-cambridge-festival-of-ideas-02.jpg)
+![](../assets/img//20191026-cambridge-festival-of-ideas-02.jpg)
 
 
 <br><br>

@@ -14,7 +14,7 @@ Talk introducing BCI in general to sonic art (CMT/ARU) students with some exampl
 One slide:
 <br>
 <br>
-![](../assets/images/2016-03-demonstration-slide.jpg)
+![](../assets/img//2016-03-demonstration-slide.jpg)
 <br>
 <br>
 All slides [here](../assets/doc/k_hofstadter_phd_2016_03_demonstration.pdf).

@@ -14,7 +14,7 @@ I presented at the [Musedelica Symposium](http://musedelica.wixsite.com/symposiu
 One slide:
 <br>
 <br>
-![](../assets/images/2016-06-musedelica-presentation-slide.jpg)
+![](../assets/img//2016-06-musedelica-presentation-slide.jpg)
 <br>
 <br>
 All slides [here](../assets/doc/k_hofstadter_phd_2016_06_musedelica_presentation.pdf).

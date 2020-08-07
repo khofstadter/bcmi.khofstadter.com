@@ -7408,7 +7408,7 @@ var Node = function () {
    *                              {anytype} group A group name or number
    *
    * @param {Object} body               Shared state of current network instance
-   * @param {Network.Images} imagelist  A list with images. Only needed when the node has an image
+   * @param {Network./assets/img/} imagelist  A list with /assets/img/. Only needed when the node has an image
    * @param {Groups} grouplist          A list with groups. Needed for retrieving group options
    * @param {Object} globalOptions      Current global node options; these serve as defaults for the node instance
    * @param {Object} defaultOptions     Global default options for nodes; note that this is also the prototype
@@ -7526,7 +7526,7 @@ var Node = function () {
       var pile = [options, this.options, this.defaultOptions];
       this.chooser = ComponentUtil.choosify('node', pile);
 
-      this._load_images();
+      this._load_/assets/img/();
       this.updateLabelModule(options);
       this.updateShape(currentShape);
 
@@ -7534,7 +7534,7 @@ var Node = function () {
     }
 
     /**
-     * Load the images from the options, for the nodes that need them.
+     * Load the /assets/img/ from the options, for the nodes that need them.
      *
      * TODO: The imageObj members should be moved to CircularImageBase.
      *       It's the only place where they are required.
@@ -7543,9 +7543,9 @@ var Node = function () {
      */
 
   }, {
-    key: '_load_images',
-    value: function _load_images() {
-      // Don't bother loading for nodes without images
+    key: '_load_/assets/img/',
+    value: function _load_/assets/img/() {
+      // Don't bother loading for nodes without /assets/img/
       if (this.options.shape !== 'circularImage' && this.options.shape !== 'image') {
         return;
       }
@@ -7555,7 +7555,7 @@ var Node = function () {
       }
 
       if (this.imagelist === undefined) {
-        throw new Error("Internal Error: No images provided");
+        throw new Error("Internal Error: No /assets/img/ provided");
       }
 
       if (typeof this.options.image === 'string') {
@@ -14154,14 +14154,14 @@ var CircleImageBase = function (_NodeBase) {
       this.options = options;
 
       if (!(imageObj === undefined && imageObjAlt === undefined)) {
-        this.setImages(imageObj, imageObjAlt);
+        this.set/assets/img/(imageObj, imageObjAlt);
       }
     }
 
     /**
-     * Set the images for this node.
+     * Set the /assets/img/ for this node.
      *
-     * The images can be updated after the initial setting of options;
+     * The /assets/img/ can be updated after the initial setting of options;
      * therefore, this method needs to be reentrant. 
      *
      * For correct working in error cases, it is necessary to properly set
@@ -14172,8 +14172,8 @@ var CircleImageBase = function (_NodeBase) {
      */
 
   }, {
-    key: 'setImages',
-    value: function setImages(imageObj, imageObjAlt) {
+    key: 'set/assets/img/',
+    value: function set/assets/img/(imageObj, imageObjAlt) {
       if (imageObjAlt && this.selected) {
         this.imageObj = imageObjAlt;
         this.imageObjAlt = imageObj;
@@ -14192,8 +14192,8 @@ var CircleImageBase = function (_NodeBase) {
      */
 
   }, {
-    key: 'switchImages',
-    value: function switchImages(selected) {
+    key: 'switch/assets/img/',
+    value: function switch/assets/img/(selected) {
       var selection_changed = selected && !this.selected || !selected && this.selected;
       this.selected = selected; // Remember new selection
 
@@ -14215,7 +14215,7 @@ var CircleImageBase = function (_NodeBase) {
     value: function _resizeImage() {
       var width, height;
 
-      if (this.options.shapeProperties.useImageSize === false) {
+      if (this.options.shapeProperties.use/assets/img/ize === false) {
         // Use the size property
         var ratio_width = 1;
         var ratio_height = 1;
@@ -25634,18 +25634,18 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "d
  */
 
 /**
- * This class loads images and keeps them stored.
+ * This class loads /assets/img/ and keeps them stored.
  *
  * @param {ImageCallback} callback
  */
-var Images = function () {
+var /assets/img/ = function () {
     /**
      * @param {ImageCallback} callback
      */
-    function Images(callback) {
-        (0, _classCallCheck3["default"])(this, Images);
+    function /assets/img/(callback) {
+        (0, _classCallCheck3["default"])(this, /assets/img/);
 
-        this.images = {};
+        this./assets/img/ = {};
         this.imageBroken = {};
         this.callback = callback;
     }
@@ -25657,7 +25657,7 @@ var Images = function () {
      */
 
 
-    (0, _createClass3["default"])(Images, [{
+    (0, _createClass3["default"])(/assets/img/, [{
         key: "_tryloadBrokenUrl",
         value: function _tryloadBrokenUrl(url, brokenUrl, imageToLoadBrokenUrlOn) {
             //If these parameters aren't specified then exit the function because nothing constructive can be done
@@ -25703,7 +25703,7 @@ var Images = function () {
             var _this = this;
 
             //Try and get the image from the cache, if successful then return the cached image   
-            var cachedImage = this.images[url];
+            var cachedImage = this./assets/img/[url];
             if (cachedImage) return cachedImage;
 
             //Create a new image
@@ -25711,7 +25711,7 @@ var Images = function () {
 
             // Need to add to cache here, otherwise final return will spawn different copies of the same image,
             // Also, there will be multiple loads of the same image.
-            this.images[url] = img;
+            this./assets/img/[url] = img;
 
             //Subscribe to the event that is raised if the image loads successfully 
             img.image.onload = function () {
@@ -25754,10 +25754,10 @@ var Images = function () {
             }
         }
     }]);
-    return Images;
+    return /assets/img/;
 }();
 
-exports["default"] = Images;
+exports["default"] = /assets/img/;
 
 /***/ }),
 /* 117 */
@@ -28673,7 +28673,7 @@ var allOptions = {
       borderDashes: { boolean: bool, array: array },
       borderRadius: { number: number },
       interpolation: { boolean: bool },
-      useImageSize: { boolean: bool },
+      use/assets/img/ize: { boolean: bool },
       useBorderWithImage: { boolean: bool },
       __type__: { object: object }
     },
@@ -28819,7 +28819,7 @@ var configureOptions = {
       borderDashes: false,
       borderRadius: [6, 0, 20, 1],
       interpolation: true,
-      useImageSize: false
+      use/assets/img/ize: false
     },
     size: [25, 0, 200, 1]
   },
@@ -42394,7 +42394,7 @@ exports.Queue = __webpack_require__(43);
 // Network
 exports.Network = __webpack_require__(182);
 exports.network = {
-  Images: __webpack_require__(116),
+  /assets/img/: __webpack_require__(116),
   dotparser: __webpack_require__(114),
   gephiParser: __webpack_require__(115),
   allOptions: __webpack_require__(122)
@@ -42428,7 +42428,7 @@ var gephiParser = __webpack_require__(115);
 var Activator = __webpack_require__(97);
 var locales = __webpack_require__(184);
 
-var Images = __webpack_require__(116)['default'];
+var /assets/img/ = __webpack_require__(116)['default'];
 var Groups = __webpack_require__(186)['default'];
 var NodesHandler = __webpack_require__(187)['default'];
 var EdgesHandler = __webpack_require__(214)['default'];
@@ -42541,9 +42541,9 @@ function Network(container, data, options) {
   this.bindEventListeners();
 
   // setting up all modules
-  this.images = new Images(function () {
+  this./assets/img/ = new /assets/img/(function () {
     return _this.body.emitter.emit("_requestRedraw");
-  }); // object with images
+  }); // object with /assets/img/
   this.groups = new Groups(); // object with groups
   this.canvas = new Canvas(this.body); // DOM handler
   this.selectionHandler = new SelectionHandler(this.body, this.canvas); // Selection handler
@@ -42555,8 +42555,8 @@ function Network(container, data, options) {
   this.clustering = new ClusterEngine(this.body); // clustering api
   this.manipulation = new ManipulationSystem(this.body, this.canvas, this.selectionHandler); // data manipulation system
 
-  this.nodesHandler = new NodesHandler(this.body, this.images, this.groups, this.layoutEngine); // Handle adding, deleting and updating of nodes as well as global options
-  this.edgesHandler = new EdgesHandler(this.body, this.images, this.groups); // Handle adding, deleting and updating of edges as well as global options
+  this.nodesHandler = new NodesHandler(this.body, this./assets/img/, this.groups, this.layoutEngine); // Handle adding, deleting and updating of nodes as well as global options
+  this.edgesHandler = new EdgesHandler(this.body, this./assets/img/, this.groups); // Handle adding, deleting and updating of edges as well as global options
 
   this.body.modules["kamadaKawai"] = new KamadaKawai(this.body, 150, 0.05); // Layouting algorithm.
   this.body.modules["clustering"] = this.clustering;
@@ -42818,7 +42818,7 @@ Network.prototype.destroy = function () {
   delete this.nodesHandler;
   delete this.edgesHandler;
   delete this.configurator;
-  delete this.images;
+  delete this./assets/img/;
 
   for (var nodeId in this.body.nodes) {
     if (!this.body.nodes.hasOwnProperty(nodeId)) continue;
@@ -43524,7 +43524,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { 'd
  *
  * This technique is known as 'mipmapping'.
  *
- * NOTE: Images can also be of type 'data:svg+xml`. This code also works
+ * NOTE: /assets/img/ can also be of type 'data:svg+xml`. This code also works
  *       for svg, but the mipmapping may not be necessary.
  *
  * @param {Image} image
@@ -43574,7 +43574,7 @@ var CachedImage = function () {
       this.canvas.width = 3 * w4;
       this.canvas.height = h2;
 
-      // Coordinates and sizes of images contained in the canvas
+      // Coordinates and sizes of /assets/img/ contained in the canvas
       // Values per row:  [top x, left y, width, height]
 
       this.coordinates = [[0, 0, w2, h2], [w2, 0, w4, h4], [w2, h4, w8, h8], [5 * w8, h4, w16, h16]];
@@ -43873,17 +43873,17 @@ var Node = __webpack_require__(47)['default'];
 var NodesHandler = function () {
   /**
    * @param {Object} body
-   * @param {Images} images
+   * @param {/assets/img/} /assets/img/
    * @param {Array.<Group>} groups
    * @param {LayoutEngine} layoutEngine
    */
-  function NodesHandler(body, images, groups, layoutEngine) {
+  function NodesHandler(body, /assets/img/, groups, layoutEngine) {
     var _this = this;
 
     (0, _classCallCheck3['default'])(this, NodesHandler);
 
     this.body = body;
-    this.images = images;
+    this./assets/img/ = /assets/img/;
     this.groups = groups;
     this.layoutEngine = layoutEngine;
 
@@ -43999,7 +43999,7 @@ var NodesHandler = function () {
         borderDashes: false, // only for borders
         borderRadius: 6, // only for box shape
         interpolation: true, // only for image and circularImage shapes
-        useImageSize: false, // only for image and circularImage shapes
+        use/assets/img/ize: false, // only for image and circularImage shapes
         useBorderWithImage: false // only for image shape
       },
       size: 25,
@@ -44249,7 +44249,7 @@ var NodesHandler = function () {
     value: function create(properties) {
       var constructorClass = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : Node;
 
-      return new constructorClass(properties, this.body, this.images, this.groups, this.options, this.defaultOptions);
+      return new constructorClass(properties, this.body, this./assets/img/, this.groups, this.options, this.defaultOptions);
     }
 
     /**
@@ -45766,7 +45766,7 @@ var CircularImage = function (_CircleImageBase) {
 
     var _this = (0, _possibleConstructorReturn3['default'])(this, (CircularImage.__proto__ || (0, _getPrototypeOf2['default'])(CircularImage)).call(this, options, body, labelModule));
 
-    _this.setImages(imageObj, imageObjAlt);
+    _this.set/assets/img/(imageObj, imageObjAlt);
     return _this;
   }
 
@@ -45813,7 +45813,7 @@ var CircularImage = function (_CircleImageBase) {
   }, {
     key: 'draw',
     value: function draw(ctx, x, y, selected, hover, values) {
-      this.switchImages(selected);
+      this.switch/assets/img/(selected);
       this.resize();
       this.left = x - this.width / 2;
       this.top = y - this.height / 2;
@@ -46546,7 +46546,7 @@ var Image = function (_CircleImageBase) {
 
     var _this = (0, _possibleConstructorReturn3['default'])(this, (Image.__proto__ || (0, _getPrototypeOf2['default'])(Image)).call(this, options, body, labelModule));
 
-    _this.setImages(imageObj, imageObjAlt);
+    _this.set/assets/img/(imageObj, imageObjAlt);
     return _this;
   }
 
@@ -46591,7 +46591,7 @@ var Image = function (_CircleImageBase) {
   }, {
     key: 'draw',
     value: function draw(ctx, x, y, selected, hover, values) {
-      this.switchImages(selected);
+      this.switch/assets/img/(selected);
       this.resize();
       this.left = x - this.width / 2;
       this.top = y - this.height / 2;
@@ -47269,16 +47269,16 @@ var Edge = __webpack_require__(74)['default'];
 var EdgesHandler = function () {
   /**
    * @param {Object} body
-   * @param {Array.<Image>} images
+   * @param {Array.<Image>} /assets/img/
    * @param {Array.<Group>} groups
    */
-  function EdgesHandler(body, images, groups) {
+  function EdgesHandler(body, /assets/img/, groups) {
     var _this = this;
 
     (0, _classCallCheck3['default'])(this, EdgesHandler);
 
     this.body = body;
-    this.images = images;
+    this./assets/img/ = /assets/img/;
     this.groups = groups;
 
     // create the edge API in the body container
@@ -56419,14 +56419,14 @@ var LayoutEngine = function () {
           // Some options are explicitly disabled, because they may be set in group or default node options.
           // The clusters are never displayed, so most explicit settings here serve as performance optimizations.
           //
-          // The explicit setting of 'shape' is to avoid `shape: 'image'`; images are not passed to the hidden
+          // The explicit setting of 'shape' is to avoid `shape: 'image'`; /assets/img/ are not passed to the hidden
           // cluster nodes, leading to an exception on creation.
           //
           // All settings here are performance related, except when noted otherwise.
           //
           var clusterOptions = {
             clusterNodeProperties: {
-              shape: 'ellipse', // Bugfix: avoid type 'image', no images supplied
+              shape: 'ellipse', // Bugfix: avoid type 'image', no /assets/img/ supplied
               label: '', // avoid label handling
               group: '', // avoid group handling
               font: { multi: false } // avoid font propagation

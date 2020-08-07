@@ -13,7 +13,7 @@ My part in this performance was to create abstract textures by using six dynamic
 
 <br>
 
-![](../assets/images/2019-06-13-aphorisms-poster.jpg)
+![](../assets/img//2019-06-13-aphorisms-poster.jpg)
 
 <br>
 
@@ -23,4 +23,4 @@ My part in this performance was to create abstract textures by using six dynamic
 
 <br>
 
-![](../assets/images/2019-06-13-aphorisms-01-k-rehearsal.jpg)
+![](../assets/img//2019-06-13-aphorisms-01-k-rehearsal.jpg)

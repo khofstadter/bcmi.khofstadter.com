@@ -14,7 +14,7 @@ I presented at the Music and Performing Arts Seminar at the [Music Therapy Clini
 One slide:
 <br>
 <br>
-![](../assets/images/2016-01-presentation-slide5.jpg)
+![](../assets/img//2016-01-presentation-slide5.jpg)
 <br>
 <br>
 All slides [here](../assets/doc/k_hofstadter_phd_2016_01_presentation.pdf).

@@ -15,7 +15,7 @@ I presented at the Music and Performing Arts Seminar in ARU.
 One slide:
 <br>
 <br>
-![](../assets/images/2016-06-presentation-slide5.jpg)
+![](../assets/img//2016-06-presentation-slide5.jpg)
 <br>
 <br>
 All slides [here](../assets/doc/k_hofstadter_phd_2016_06_presentation.pdf).

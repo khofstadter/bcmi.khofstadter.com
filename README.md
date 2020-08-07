@@ -18,8 +18,6 @@ writing up and polishing projects:
 - mention shamanism (add summery in a3, more details in bookCh)
 
 ## a1
-- design/development: write up 3 islets (maybe change islet codes accordingly)
-- testing and deployment (short)
 - conclusions & future
   - (add persuasive gaming here and perhaps references in text above, which one is it soft/hard BCI, etc., add march funding idea)
 - video demo
@@ -68,7 +66,7 @@ writing up and polishing projects:
 
 ## logbook
 
-### 2020 07 09-24
+### 2020 07 09-31
 - a1 writing (islet1)
 - reorganise projects, think about what should go in commentary and what should go in book chapter;
 
@@ -104,13 +102,13 @@ writing up and polishing projects:
 ### 2020 06 03
 shamanic meditation binaural version: added side-chain (mainly removes the laud sounds from zoom-h1).
 
-![](assets/images/20200501-binauralbeat-setting-in-reaper-2.jpg)
+![](assets//assets/img//20200501-binauralbeat-setting-in-reaper-2.jpg)
 
-![](assets/images/20200501-binauralbeat-setting-in-reaper-3.jpg)
+![](assets//assets/img//20200501-binauralbeat-setting-in-reaper-3.jpg)
 
-![](assets/images/20200501-binauralbeat-setting-in-reaper-4.jpg)
+![](assets//assets/img//20200501-binauralbeat-setting-in-reaper-4.jpg)
 
-![](assets/images/20200501-binauralbeat-setting-in-reaper-5.jpg)
+![](assets//assets/img//20200501-binauralbeat-setting-in-reaper-5.jpg)
 
 
 ### 2020 06 02
@@ -119,7 +117,7 @@ new survey changes: intro.  consent.  shamanic journey question moved to back (t
 ### 2020 06 01
 - binaural version: 1. tried build in tone generator, it cannot do decimal frequencies; 2. tried RheaSynth, i couldn't figure out how to do freq instea of notes on the MIDI score. 3. tried Vallhalla as one blog says it's cool and psychedelic, but it didn't sound convincing. 4. tried SuperCollider, but I didn't want to save file and then add them to Reaper. 5. ended up usin a free plugin, works:
 
-![](assets/images/20200501-binauralbeat-setting-in-reaper-1.jpg)
+![](assets//assets/img//20200501-binauralbeat-setting-in-reaper-1.jpg)
 
 - two versions to test: normal (my mix on release) and binaural.
 - have been thinking about simplifying talkin science event: new music? would be good, but not enough time.  would have been good to merge focus-synthesiser with bcmi-soundscape-01 shaman sequencer.  too much time.  will have to do later.
@@ -180,7 +178,7 @@ https://app.rawgraphs.io/
 ### wc. 2020 03 15
 - CDs arrived:
 
-![](assets/images/20200318-shamanic-soundscape-cd.JPG)
+![](assets//assets/img//20200318-shamanic-soundscape-cd.JPG)
 
 - conversations with Collura;
 - have been finding it difficult to work due to COVID
@@ -192,7 +190,7 @@ https://app.rawgraphs.io/
 - writing;
 - 3rd proof for CD hasn't got the right colour:
 
-![3 proofs](assets/images/20200304-shamanic-soundscape-3rd-proof.jpg)
+![3 proofs](assets//assets/img//20200304-shamanic-soundscape-3rd-proof.jpg)
 
 ### 2020 02 28
 - learnt the difference between duplication (CD-R) and replication (normal) - is it worth replicating? 500 min.
@@ -225,9 +223,9 @@ https://app.rawgraphs.io/
 	- NeuroMeditation: Quiet Mind needs Pz (alpha increase)
 	- NeuroMeditation: Mindfulness (1) Thoughtless Awareness (FZ - increase fmTheta; PZ - decrease Gamma)
 
-![cased by bad code](assets/images/20200218-shamanic_nf-protocol-1.jpg)
+![cased by bad code](assets//assets/img//20200218-shamanic_nf-protocol-1.jpg)
 
-![cased by bad code](assets/images/20200218-shamanic_nf-protocol-2.jpg)
+![cased by bad code](assets//assets/img//20200218-shamanic_nf-protocol-2.jpg)
 
 - finding it frustrating to work with Gimp, so installed Illustrator;
 - finished first draft for CD release, sent for test copy;
@@ -365,20 +363,20 @@ shamanic journey
 - more survey dissemination and personal messages (issue with survey not submitting on Safari);
 - will stick to plotting as it is, not looking into other ways, still issues:
 
-![cased by bad code](assets/images/20191210-plotting01.jpg)
+![cased by bad code](assets//assets/img//20191210-plotting01.jpg)
 
-![level number manual change](assets/images/2019-12-10-bbedit-import-raw-eeg-2.jpg)
+![level number manual change](assets//assets/img//2019-12-10-bbedit-import-raw-eeg-2.jpg)
 
 - but most look OK:
 
-![most](assets/images/20191210-plotting02.jpg)
+![most](assets//assets/img//20191210-plotting02.jpg)
 
 ### 2019 12 06-09
 - spotted mistake in 'forest' files, levels numbers were not saved correctly; files in all projects ameneded;
 - raw files need to be changed manually in the last level - should be done with fine/replace in BBEdit:
 
 
-![forest level mistake](assets/images/20191209-forest-level-saved-incorrectly.jpg)
+![forest level mistake](assets//assets/img//20191209-forest-level-saved-incorrectly.jpg)
 
 
 - issues with survey, not submitted (earlier not working on some browsers)
@@ -482,7 +480,7 @@ shamanic journey
 
 ### 2019 11 04
 - bennie and ivan asked about new S3 corrosion
-- survey issue - how do people attache their images? Can they get an ID after the survey that they can refer to?
+- survey issue - how do people attache their /assets/img/? Can they get an ID after the survey that they can refer to?
 - prep for Wed 6 Nov ARU demo (tripods, tech, ..)
 
 ### 2019 11 03
@@ -522,14 +520,14 @@ how to amend the raw files? We need to amend the raw files as some softare does 
 
 - amending raw eeg text files in OpenOffice (if addition is needed)
 	1. drag & drop raw eeg text file on an emtpy spreed sheet in open office with the following settings:
-![title](assets/images/2019-10-03-openoffice-import-raw-eeg-1.jpg)
+![title](assets//assets/img//2019-10-03-openoffice-import-raw-eeg-1.jpg)
 
 	2. add column where needed
 	3. fill in column info (watch video)
 	4. remove [ and ]
 	5. add ` '` where needed with find & replace ([help](https://forum.openoffice.org/en/forum/viewtopic.php?t=26830))
 
-	![title](assets/images/2019-10-03-openoffice-import-raw-eeg-2.jpg)
+	![title](assets//assets/img//2019-10-03-openoffice-import-raw-eeg-2.jpg)
 
 	6. don't save as other format, save as current format.
 	7. make sure header is exaclty the same as before (remove extra commas)
@@ -539,18 +537,18 @@ how to amend the raw files? We need to amend the raw files as some softare does 
 - if we only need to remove:
 	- amending files in Atom is very slow:
 
-![title](assets/images/2019-10-03-atom-import-raw-eeg.jpg)
+![title](assets//assets/img//2019-10-03-atom-import-raw-eeg.jpg)
 
 
 	- amending files in BBEdit (TextWrangler) is superfast;
 
-![title](assets/images/2019-10-03-bbedit-import-raw-eeg-1.jpg)
+![title](assets//assets/img//2019-10-03-bbedit-import-raw-eeg-1.jpg)
 
 - final:
 
-![title](assets/images/2019-10-03-amend-raw-eeg-0.jpg)
+![title](assets//assets/img//2019-10-03-amend-raw-eeg-0.jpg)
 
-![title](assets/images/2019-10-03-amend-raw-eeg-1.jpg)
+![title](assets//assets/img//2019-10-03-amend-raw-eeg-1.jpg)
 
 ### w.c. 2019 09 09
 - meeting with PR:
@@ -609,7 +607,7 @@ BABA01 (pretest)
 - roland mic needs adapters (with phantom - XLR) - writing to Roland for help;
 - recording with new technique (2 AKG 414, 2 SM58)
 
-![20190730-studio-mic-setup](assets/images/20190730-studio-mic-setup.jpg)
+![20190730-studio-mic-setup](assets//assets/img//20190730-studio-mic-setup.jpg)
 
 ### 2019 07 29
 - testing OpenBCI_GUI_v4.1.3.app > works;
@@ -802,11 +800,11 @@ Aphorisms:
 	- De-plosive
 	- Direct Sample Editing (if needed)
 
-![remove low frequency rumble](assets/images/2019-05-31-aphorism-RX-manual.jpg)
+![remove low frequency rumble](assets//assets/img//2019-05-31-aphorism-RX-manual.jpg)
 
 - - EQ to remove low freq artifact (if needed)
 
-![remove low frequency rumble](assets/images/2019-05-31-aphorism-RX-remove-low-freq-artifact.jpg)
+![remove low frequency rumble](assets//assets/img//2019-05-31-aphorism-RX-remove-low-freq-artifact.jpg)
 
 -
 	- EQ (remove low energy from 45Hz)
@@ -917,10 +915,10 @@ OpenBCI-SuperCollider update test (bcmi diary 11 video:https://youtu.be/hjnweAmf
 ### 2019 01 31
 - tested new softAP from Fredrik, doesn’t seem to be usable as there are too many lost packages;
 - tested new OpenBCI_GUI for [impedance issue](https://github.com/OpenBCI/OpenBCI_GUI/issues/427), they updated it, now it work.
-- there might be a problem with [EEG corrosion](assets/images/2019-01-31-eeg-corrosion.JPG), hence the high impedance I've been measuring;
+- there might be a problem with [EEG corrosion](assets//assets/img//2019-01-31-eeg-corrosion.JPG), hence the high impedance I've been measuring;
 
 ### 2019 01 30
-- firmware [update](assets/images/2019-01-30-openbci-wifi-shield-update.JPG) with FTDI cable, quark update - test;
+- firmware [update](assets//assets/img//2019-01-30-openbci-wifi-shield-update.JPG) with FTDI cable, quark update - test;
 - issues with distance and connection between shield/router/computer
 
 ### 2019 01 28
@@ -965,12 +963,12 @@ earlier outcomes on the [project website](https://bcmi.khofstadter.info)
 ### 2016 03
 - research project objectives might chnge?: how and why?  new interest in deeper stuff than relaxation...
 
-![refining research project objectives](assets/images/2016-03-refining-research-project-objectives.jpg)
+![refining research project objectives](assets//assets/img//2016-03-refining-research-project-objectives.jpg)
 
 ### 2016 03
 preparing for young street presentation:
 
-![presentation ideas](assets/images/2016-03-preparing-mpa-presentation.jpg)
+![presentation ideas](assets//assets/img//2016-03-preparing-mpa-presentation.jpg)
 
 - algorithmic/random (always changing). the buddhist idea of destroying/erasing the artwork.  to keep in mind that it's temporary.
 - how does 'playing' with the boundaries/limits/opposites help understanding.  what is 'understanding'
@@ -983,22 +981,22 @@ preparing for young street presentation:
 ### 2016 01 29
 - how could i sonify/musify the water around the islets?  also, perhaps the top of the islet (the land) has another sound as the bottom (the one underneat the water) - why is this important?
 
-![water around islets](assets/images/2016-01-29-islet-idea02.jpg)
+![water around islets](assets//assets/img//2016-01-29-islet-idea02.jpg)
 
-![islet under water](assets/images/2016-01-29-islet-idea03.jpg)
+![islet under water](assets//assets/img//2016-01-29-islet-idea03.jpg)
 
 
 
 ### 2016 01 08
 - how to visually represent the islets?
 
-![visual islet idea 01](assets/images/2016-01-08-islet-idea01.jpg)
+![visual islet idea 01](assets//assets/img//2016-01-08-islet-idea01.jpg)
 
 
 ### 2016 01 01
 - how do i move sound in a 3d space that can be used to imagine 'something' moving around the human body, fast?
 
-![binaural sound around body](assets/images/2016-01-01-binaural-3d-sound-around-body.jpg)
+![binaural sound around body](assets//assets/img//2016-01-01-binaural-3d-sound-around-body.jpg)
 
 ### 2015 10 09
 

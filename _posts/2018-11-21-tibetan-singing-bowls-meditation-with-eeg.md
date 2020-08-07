@@ -13,7 +13,7 @@ I used the [OpenBCI](https://openbci.com/) with a gelfree [Greentek](http://www.
 The participant after the session said that she fell asleep, which for me was interesting as I didn't see an indication of this in the EEG. After around 15 minutes into the session until the end high beta and gamma were the strongest bandwidths. Further analysis of the OpenBCI dataset will be done with another software, later.
 <br>
 <br>
-![](../assets/images/2018-11-21-tibetan-singing-bowls-01.jpg)
+![](../assets/img//2018-11-21-tibetan-singing-bowls-01.jpg)
 <br>
 <br>
-![](../assets/images/2018-11-21-tibetan-singing-bowls-02.jpg)
+![](../assets/img//2018-11-21-tibetan-singing-bowls-02.jpg)
