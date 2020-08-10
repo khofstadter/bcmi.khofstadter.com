@@ -6,65 +6,14 @@ It has two main parts:
 2. [website](https://bcmi.khofstadter.info) (main research outcomes contextualised in individual web pages)
 
 ---
-# now
-writing up and polishing projects:
-- atm. a1;
-- change timeline according to new project groups;
-
-## LitRev
-- check notes
-
-## focused litRev
-- mention shamanism (add summery in a3, more details in bookCh)
-
-## a1
-- conclusions & future
-  - (add persuasive gaming here and perhaps references in text above, which one is it soft/hard BCI, etc., add march funding idea)
-- video demo
-  - with EEG & no EEG (more control in demo)
-- test with Yanxi (video record?)
-- test sequencer's capability to make meditation music (testers e.g. Fredrik, Todd, Alex, ? should understand how patterns are used in the neurofeedback part)
-
-## a2
-- write up
-- video demo (target: openBCI community)
-
-## a3
-- write up (perhaps short, some details about shamanism)
-- video demo (target: openBCI community)
-
-### a3.1 (short, more in bookCh)
-- write up
-- ethics (+signature from M/B)
-+ Matlab - check theta!
-+ Mama catch up study?
-
-### a3.2 (short, more in bookCh)
-- write up
-- edit presentation;
-- make video version of jester (Ankit)
-- BandCamp: add idTag and re-upload binaural;
-
-## a3.3 (short, more in bookCh)
-- how to keep data source (add to GitHub)?
-- more survey analysis, more plotting:
-  - ! BeliefSimp - quantify groups in sheet;
-  - can I come up with a nice looking interesting infograph, something worth printing (poster size?)
-  - how to quantify feel (move)
-  - how to quantify comments
-- write up;
-
-## c1 (short, more in bookCh or paper)
-- summery;
-- more in book chapter;
-
-## c2 (short, more in bookCh or paper)
-- summery;
-- more in book chapter;
-
----
 
 ## logbook
+
+### 2020 08 10
+- a1 (conclusion)
+
+### 2020 08 01-09
+- writing up, rewriting, etc.
 
 ### 2020 07 09-31
 - a1 writing (islet1)
