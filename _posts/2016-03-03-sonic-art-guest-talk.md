@@ -1,7 +1,7 @@
 ---
 layout: post
-title: sonic art class guest talk
-permalink: /sonic-art-lecture/
+title: sonic art guest talk
+permalink: /sonic-art-guest-talk/
 categories: talk
 tags: [public, demonstration, ARU]
 author: tEdör
