@@ -1,8 +1,7 @@
 ---
 layout: post
 title: sonic art guest talk
-permalink: /sonic-art-guest-talk/
-categories: talk
+categories: public
 tags: [public, demonstration, ARU]
 author: tEdör
 comment: true

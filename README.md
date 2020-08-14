@@ -10,6 +10,10 @@ It has two main parts:
 ## logbook
 
 ### 2020 08 10
+- timetable and bcmi.khofstadter.info website adjustments;
+
+### 2020 08 10-13
+- regroup projects
 - a1 (conclusion)
 
 ### 2020 08 01-09

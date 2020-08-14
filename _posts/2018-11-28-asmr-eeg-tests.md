@@ -1,9 +1,8 @@
 ---
 layout: post
 title: asmr eeg tests
-permalink: /asmr-eeg-tests/
-categories: measurements
-tags: [project, measurements, IBVA]
+categories: project-e
+tags: [project-e, measurements, IBVA]
 author: tEdör
 comment: true
 ---

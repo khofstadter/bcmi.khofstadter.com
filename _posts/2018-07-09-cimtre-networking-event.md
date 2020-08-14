@@ -1,8 +1,7 @@
 ---
 layout: post
 title: CIMTRE networking event
-permalink: /cimtre-networking/
-categories: talk
+categories: public
 tags: [public, cimtre, ARU]
 author: tEdör
 comment: true

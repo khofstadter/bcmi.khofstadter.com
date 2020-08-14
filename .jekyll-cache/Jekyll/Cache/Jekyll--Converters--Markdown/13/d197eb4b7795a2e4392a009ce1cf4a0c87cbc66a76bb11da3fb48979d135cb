@@ -1,0 +1,19 @@
+I"å<p><br />
+Experimenting with sending musical scores from the <a href="/neurosky-supercollider-interface-and-audio-neurogame/"><kbd>NeuroSky-SuperCollider interface and audio neurogame</kbd></a> to <a href="http://inscore.sourceforge.net/">InScore</a> via Richard Hoadleyâ€™s <a href="http://rhoadley.net/software/index.php">InScore</a> class for SuperCollider.
+<br /><br />
+<img src="/assets/img/2016-02-26-inscore-experiment-sequenceToInScore.gif" alt="" /></p>
+
+<p><br /><br />
+<em>to test:</em></p>
+
+<ol>
+  <li>install <a href="http://inscore.sourceforge.net/#download">InScore package</a></li>
+  <li>install InScore class in SuperCollider (get in touch with <a href="http://rhoadley.net/">Richard Hoadley</a>) (copy content of dmg file into a folder e.g. <code class="highlighter-rouge">InScore</code> and move this folder to <code class="highlighter-rouge">Applications</code>)</li>
+  <li>run INScoreViewer</li>
+  <li>run SuperCollider <a href="https://github.com/krisztian-hofstadter-tedor/NeuroSky-SuperCollider/tree/master/sequencer/InScore">code</a></li>
+</ol>
+
+<p>(Tested with INScoreViewer-1.21, SuperCollider 3.11 on OSX 10.12.6)
+<br /><br />
+Read more about the idea on a later <a href="/poster-at-ARU-research-conference/">poster</a>.</p>
+:ET

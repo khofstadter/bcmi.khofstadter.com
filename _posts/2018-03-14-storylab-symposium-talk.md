@@ -1,8 +1,7 @@
 ---
 layout: post
 title: StoryLab symposium talk
-permalink: /storylab-symposium-talk/
-categories: talk
+categories: public
 tags: [public, storylab, aru]
 author: tEdör
 comment: true

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: MPA seminar talk
-permalink: /mpa-seminar-talk/
-categories: talk
+categories: public
 tags: [public, music therapy clinic, ARU]
 author: tEdör
 comment: true

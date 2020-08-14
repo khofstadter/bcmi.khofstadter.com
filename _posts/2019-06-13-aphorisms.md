@@ -1,9 +1,8 @@
 ---
 layout: post
 title: aphorisms
-permalink: /aphorisms/
-categories: events
-tags: [project, events, music]
+categories: public
+tags: [public, events, music]
 author: tEdör
 comment: true
 short: A piece by David Ryan where I transformed and spatialised live sound in SuperCollider.

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: musedelica symposium demo
-permalink: /musedelica-symposium-demo/
-categories: talk
+categories: public
 tags: [public, musedelica symposium, sussex]
 author: tEdör
 comment: true

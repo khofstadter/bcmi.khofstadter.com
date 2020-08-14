@@ -1,0 +1,19 @@
+I"«<p><br />
+Experimenting with Richard Hoadleyâ€™s <a href="http://rhoadley.net/software/index.php">InScore</a> class for SuperCollider. <a href="../assets/doc/code/focusToInScore08.scd">Code</a>.
+<br /><br />
+Read more about the idea on a later <a href="/poster-at-ARU-research-conference/">poster</a>.
+<br /><br /></p>
+
+<p><img src="/assets/img/2016-02-26-inscore-experiment-sequenceToInScore.gif" alt="" /></p>
+
+<p><em>Last version:</em></p>
+
+<ol>
+  <li>install <a href="http://inscore.sourceforge.net/#download">InScore package</a></li>
+  <li>install InScore class in SuperCollider (get in touch with <a href="http://rhoadley.net/">Richard Hoadley</a>) (copy content of dmg file into a folder e.g. <code class="highlighter-rouge">InScore</code> and more this folder to <code class="highlighter-rouge">Applications</code>)</li>
+  <li>run INScoreViewer;</li>
+  <li>run SuperCollider code:</li>
+</ol>
+
+<p>Tested with INScoreViewer-1.21</p>
+:ET

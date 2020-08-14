@@ -1,9 +1,8 @@
 ---
 layout: post
 title: aru talking science series 2020
-permalink: /aru-talking-science-series-2020/
-categories: test
-tags: [project, test, talk]
+categories: project-c
+tags: [project-c, test, talk]
 author: tEdör
 comment: true
 ---

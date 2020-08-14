@@ -1,13 +1,25 @@
 # Site settings
 title: "Brain-Computer Music Interfacing"
 description: "Brain-Computer Music Interfacing Blog"
+keywords:
+- tedor, tedör, krisztian hofstadter, brain-computer music interfacing
+
 baseurl: "" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
 
 # Build settings
-permalink: pretty
+permalink: /:title/
+
+## exclude
+exclude:
+- README.md
+- CNAME
 
 plugins:
   - jekyll-sitemap
+
+# Sitemap (see sitemap.xml)
+sitemap:
+  changefreq: weekly
 
 # Third-party services
 # just leave empty to disable it
@@ -22,3 +34,11 @@ exclude:
 ### include
 include:
   - .htaccess
+
+# Front Matter Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post

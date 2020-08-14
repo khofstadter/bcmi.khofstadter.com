@@ -3,35 +3,68 @@ title: BCMI
 layout: default
 ---
 
-Hello, my name is Krisztián Hofstädter. This subdomain archives my doctoral research at the [ARU](https://aru.ac.uk/), Cambridge.
-
-( More about other projects [here](https://khofstadter.info).)
+Hello, my name is Krisztián Hofstädter. This subdomain archives my doctoral research titled 'Developing a Brain-Computer Music Interface for Meditation' at the [ARU](https://aru.ac.uk/), Cambridge. Read about other projects [here](https://khofstadter.info).
 
 <br>
 
-## abstract
+**research abstract**
 
 This interdisciplinary research developed a brain-computer music interface and demonstrated its use for scientific and artistic purposes. It was developed for neurofeedback practitioners and creatives interested in the combined use of brain-computer interfacing and music for well-being and creative expressions linked to meditation. Its effectiveness is investigated in training programmes, surveys and demonstrated in presentations and performances with real-time electroencephalography (EEG).
 
 <br>
 
-## keywords
+**keywords**
 
 altered states of consciousness, brain-computer music interfacing, brainwave entrainment, EEG, generative music, immersion, interactive soundscapes, meditation, neurofeedback, OpenBCI, SuperCollider, synchronisation
 
 <br>
 
-## timeline
+**timeline**
 
 A visual representation of progress can be seen [here](timeline).
 
 <br>
 
-## ongoing
+**ongoing work**
 {% include index-cron-ongoing.html %}
+
+I am currently writing up the PhD commentary for the projects.
+
 <br>
 
-## past
-{% include index-cron.html %}
-<br><br>
-A detailed logbook can be found in the README.md file of the relevant [GitHub repository](https://github.com/krisztian-hofstadter-tedor/bcmi).
+**past work**
+
+<div class="tab">
+  organise by
+  <button class="tablinks" onclick="openCity(event, 'time')" id="defaultOpen">time</button>
+  <button class="tablinks" onclick="openCity(event, 'categories')">main category</button>
+</div>
+
+<div id="time" class="tabcontent">
+  {% include index-cron.html %}
+</div>
+
+<div id="categories" class="tabcontent">
+  {% include index-cat.html %}
+</div>
+
+<br>
+
+<script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>

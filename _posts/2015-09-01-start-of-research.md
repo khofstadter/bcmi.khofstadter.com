@@ -1,9 +1,8 @@
 ---
 layout: post
 title: start of research
-permalink: /start-of-research/
-categories: event
-tags: [stage]
+categories: admin
+tags: [admin]
 author: tEdör
 comment: true
 ---

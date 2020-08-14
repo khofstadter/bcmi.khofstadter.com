@@ -1,8 +1,7 @@
 ---
 layout: post
 title: multilingual conference demo
-permalink: /multilingual-conference-demo/
-categories: talk
+categories: public
 tags: [public, multilingual conference, essex]
 author: tEdör
 comment: true

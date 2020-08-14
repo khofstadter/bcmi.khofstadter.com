@@ -1,8 +1,7 @@
 ---
 layout: post
 title: AES York conference demo 2019
-permalink: /aes-york-conference-demo-2019/
-categories: talk
+categories: public
 tags: [public, demonstration]
 author: tEdör
 comment: true

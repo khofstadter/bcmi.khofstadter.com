@@ -1,9 +1,8 @@
 ---
 layout: post
 title: shamanic meditation audio test
-permalink: /shamanic-meditation-audio-test/
-categories: test
-tags: [project, test]
+categories: project-c
+tags: [project-c, test]
 author: tEdör
 comment: true
 ---

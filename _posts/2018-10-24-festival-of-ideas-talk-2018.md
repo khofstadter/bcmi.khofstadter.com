@@ -1,8 +1,7 @@
 ---
 layout: post
 title: festival of ideas talk 2018
-permalink: /festival-of-ideas-talk-2018/
-categories: talk
+categories: public
 tags: [public, festival of ideas, archive, contested Landscape]
 author: tEdör
 comment: true

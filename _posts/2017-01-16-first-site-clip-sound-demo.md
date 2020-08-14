@@ -1,8 +1,7 @@
 ---
 layout: post
 title: first site clip sound demonstration
-permalink: /first-site-clip-sound-demonstration/
-categories: talk
+categories: public
 tags: [public, first-site, colchester]
 author: tEdör
 comment: true
