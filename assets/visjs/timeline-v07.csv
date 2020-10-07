@@ -16,7 +16,7 @@
 {,id: 15,",",group: 3,",",content: '3rd Annual Review',",",type: 'point',",","start: new Date(2018,11,18)",",",,"},",,
 {,id: 16,",",group: 4,",",content: 'Initial',",",type: 'background',",","start: new Date(2014,9,01)",",","end: new Date(2015,3,08)","},",,
 {,id: 17,",",group: 4,",",content: 'Exploratory',",",type: 'background',",","start: new Date(2015,9,01)",",","end: new Date(2018,5,01)","},",,
-{,id: 18,",",group: 4,",",content: 'Focused',",",type: 'background',",","start: new Date(2018,6,01)",",","end: new Date(2019,7,01)","},",,
+{,id: 18,",",group: 4,",",content: 'Focused',",",type: 'background',",","start: new Date(2018,6,01)",",","end: new Date(2019,10,01)","},",,
 {,id: 19,",",group: 11,",","content: 'Introduction to BCI  <a href=""https://www.udemy.com/course/brain-computer-interface/"">&#128279</a>'",",",type: 'point',",","start: new Date(2015,9,26)",",",,,title: '@ Udemy Course.',"},"
 {,id: 20,",",group: 5,",","content: 'NeuroSky-SuperCollider Interface and Audio Neurogame <a href=""/neurosky-supercollider-interface-and-audio-neurogame/"">&#128279</a>'",",",,,"start: new Date(2015,9,01)",",","end: new Date(2018,3,08)","},",,
 {,id: 21,",",group: 6,",","content: 'OpenBCI-SuperCollider Interface <a href=""/openbci-supercollider-interface/"">&#128279</a>'",",",,,"start: new Date(2018,5,24)",",","end: new Date(2020,2,24)","},",,

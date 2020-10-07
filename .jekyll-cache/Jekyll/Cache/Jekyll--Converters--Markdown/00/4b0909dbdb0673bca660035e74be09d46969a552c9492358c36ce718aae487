@@ -1,9 +1,4 @@
----
-title: BCMI
-layout: visjs
-permalink: /timeline/
----
-<!--
+I"ù-<!--
 notes:
 - https://www.fileformat.info/index.htm for html characters;
 - cannot convert to JSON atm, will use CSV file, copy and past from there into script (does not look extactly how it should (some extra spaced_)
@@ -15,7 +10,7 @@ notes:
 * select groups:
 -->
 
-  On this page I experiment with [vis.js](https://visjs.org/) to visualise the timeline of the research.
+<p>On this page I experiment with <a href="https://visjs.org/">vis.js</a> to visualise the timeline of the research.</p>
 
 <div id="visualization"></div>
 
@@ -127,3 +122,5 @@ notes:
   timeline.setItems(items);
 
 </script>
+
+:ET

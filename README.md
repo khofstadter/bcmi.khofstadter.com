@@ -9,23 +9,75 @@ It has two main parts:
 
 ## logbook
 
-### 2020 08 10
+### 2020 10 07
+thoughts:
+## coring + thetaFZ
+### soundscape: bcmi01-shamanic-meditation-soundscape + real time drumming
+- soundscape guides like a metronome;
+- real time drumming follows guide, but also expresses emotions perhaps by bypassing thoughts using words;
+- this way, audio recording (generated + mic) can be easily synced to DataRecord;
+- maybe surround, probably 2;
+- protocol has classified data in fftplot example;
+- protocol needs mapping of these class data to sound:
+  - class1: (l-r) panning of a sound that indicates which hemishere is more active;
+    - more complex idea: all 3 ch on left and all 3 ch on right have their individual sounds somehow changing with their relevant coherence measurements.  sounds could beat at low-beta frequency (somehow synced, perhaps poly-rhytmically to the guide in the soundscape!) than the (l-r) difference could simply adjust volume of these groups;
+  - class2: (O1-FZ) if surround is used, perhaps this front-rear coherence could be represented spatially. if stereo
+
+... maybe i should not worry about making sure that feedback on class1, class2 (which is low or high beta related) is represented with high beta related tempes, as the idea here is not that these feedback should help entrain these brain rhythms - or is it?
+... perhaps the idea is simply to give some kinda gentle abstract feedback that can be access by the analytical mind if needed.  so, let's try to create something that is **very subtle, abstract.**
+
+- more plotting done: `20201007-bcmi-rec-corin-shamanic`
+
+### 2020 10 01
+- have been working on new EEG recordings, each have a separate folder.
+- refining corin shamanic NF protocol in SC.  also will add theta FZ to it;
+- perhaps later all theta should be added to see not only what is in the corin paper but also what other psychedelic papers indicate: high theta coherence;
+
+### 2020 09 24
+- recording, 8ch, no extra data, with jester (binaural): notes + some drawing (Todo: analyse)
+
+### 2020 09 15
+- can this be used new year at the Cambridge Festival?
+- create a way to use the new shamanic NF protocol with David's piece - 4 channels?;
+- need to do some EEG recording for the plotting heading in _project_b_; separated fft plot files in quark, will need to plot with all examples for writeup;
+- currently working on _project_b_;
+- discussed progress with 1st SV;
+- managed to extend the writing up stage again by 6 months, deadline is end of Feb 2021;
+- have been focusing on writing up;
+
+### 2020 08 28
+- writing b;
+- meeting with Paul:
+  - to go in commentary (a,b,c with summery of c1,c2,c3 and summery of d, e)
+  - to go in book chapter (c1,c2,c3 and their connection to psychedelic music)
+  - writing style to be less technical;
+
+### 2020 08 27
+- GitHub account for supervisory team;
+- invited kh-sv to private repo;
+
+### 2020 08 20-16
+- writing b
+- trying to find feedback for NF issue in regards to operant conditioning and info on audio programming and mental health;
+
+### 2020 08 10-18
 - timetable and bcmi.khofstadter.info website adjustments;
+- writing a
 
 ### 2020 08 10-13
 - regroup projects
-- a1 (conclusion)
+- a (conclusion)
 
 ### 2020 08 01-09
 - writing up, rewriting, etc.
 
 ### 2020 07 09-31
-- a1 writing (islet1)
+- a writing (islet1)
 - reorganise projects, think about what should go in commentary and what should go in book chapter;
 
 ### 2020 07 09-23
-- writing a1;
-- revised code for a1, testing with two headsets;
+- writing a;
+- revised code for a, testing with two headsets;
 - asked about extending again (will need supervision as I don't know what's enough)
 - reinstalled merge;
 - checking code of last focus-neurofeedback and focus-sequencer;
@@ -860,7 +912,7 @@ OpenBCI-SuperCollider update test (bcmi diary 11 video:https://youtu.be/hjnweAmf
 
 - conversations about corrosion on EEG electrodes;
 - checking forum and github issues;
-- tested impedence with openbci_gui and greentek, i expected a difference between the electrode heads with the black flap and the once which seem to look brand new with the silver part, but after having experimented for a while, they delivered similar results. now.
+- tested impedance with openbci_gui and greentek, i expected a difference between the electrode heads with the black flap and the once which seem to look brand new with the silver part, but after having experimented for a while, they delivered similar results. now.
 	- I move the reference electrode back to REF from CZ, and it seemed to reduce the impedance (WHY?);
 	- let's try brand new sponges;
 	- let's check the water, i've used normal water;
@@ -908,13 +960,19 @@ http://openbci.com/forum/index.php?p=/discussion/1663/greentek-gelfree-s-eeg-cap
 
 earlier outcomes on the [project website](https://bcmi.khofstadter.info)
 
+### 2017 09
+- Fredrik stars getting involved in the project, he is helping with firmware updates and ideas on how to send EEG from OpenBCI to SuperCollider;
+
+### 2017 07
+- bought first Greentek cap
+
 ### 2017 01
 - Mindfullness Reinvented (M-Tracker, Smith J.C. 2016)
 
 {{ to add info from notes and perhaps check book again }}
 
 ### 2016 03
-- research project objectives might chnge?: how and why?  new interest in deeper stuff than relaxation...
+- research project objectives might change?: how and why?  new interest in deeper stuff than relaxation...
 
 ![refining research project objectives](assets//assets/img//2016-03-refining-research-project-objectives.jpg)
 
@@ -926,25 +984,21 @@ preparing for young street presentation:
 - algorithmic/random (always changing). the buddhist idea of destroying/erasing the artwork.  to keep in mind that it's temporary.
 - how does 'playing' with the boundaries/limits/opposites help understanding.  what is 'understanding'
 
-
 ### 2016 02
 - how to connect Blofeld synth to EEG
-- ! "maybe there is no challenge to complet onl a timescale within to make music that can earn nf points - this would be passive BCI"
+- ! "maybe there is no challenge to complete on a timescale within to make music that can earn NF points - this would be passive BCI"
 
 ### 2016 01 29
-- how could i sonify/musify the water around the islets?  also, perhaps the top of the islet (the land) has another sound as the bottom (the one underneat the water) - why is this important?
+- how could i sonify/musify the water around the islets?  also, perhaps the top of the islet (the land) has another sound as the bottom (the one underneath the water) - why is this important?
 
 ![water around islets](assets//assets/img//2016-01-29-islet-idea02.jpg)
 
 ![islet under water](assets//assets/img//2016-01-29-islet-idea03.jpg)
 
-
-
 ### 2016 01 08
 - how to visually represent the islets?
 
 ![visual islet idea 01](assets//assets/img//2016-01-08-islet-idea01.jpg)
-
 
 ### 2016 01 01
 - how do i move sound in a 3d space that can be used to imagine 'something' moving around the human body, fast?
@@ -999,7 +1053,6 @@ Väljamäe et al: - the mapping strategy depends on the application, mapping doe
 3. ...
 
 The role of musical structures on emotions: Effect of mode and tempo (major/minor/fast/slow) - difference in frontal lobe
-
 
 **A Tutorial on EEG Signal-processing Techniques for Mental-state Recognition in Brain–Computer Interfaces** (Fabien Lotte)
 
