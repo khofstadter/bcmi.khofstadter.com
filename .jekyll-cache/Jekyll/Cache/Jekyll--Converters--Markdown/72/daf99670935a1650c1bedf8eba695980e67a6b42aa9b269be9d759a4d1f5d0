@@ -1,4 +1,4 @@
-I"±<p><br />
+I"×<p><br />
 Experimented with sending musical scores from the <a href="/neurosky-supercollider-interface-and-audio-neurogame/"><kbd>NeuroSky-SuperCollider interface and audio neurogame</kbd></a> to <a href="http://inscore.sourceforge.net/">InScore</a> via Richard Hoadleyâ€™s <a href="http://rhoadley.net/software/index.php">InScore</a> class for SuperCollider.</p>
 
 <p><br /><br /></p>
@@ -10,7 +10,7 @@ Experimented with sending musical scores from the <a href="/neurosky-supercollid
 
 <ol>
   <li>install <a href="http://inscore.sourceforge.net/#download">InScore package</a></li>
-  <li>install InScore class in SuperCollider (get in touch with <a href="http://rhoadley.net/">Richard Hoadley</a>) (copy content of dmg file into a folder e.g. <code class="highlighter-rouge">InScore</code> and move this folder to <code class="highlighter-rouge">Applications</code>)</li>
+  <li>install InScore class in SuperCollider (get in touch with <a href="http://rhoadley.net/">Richard Hoadley</a>) (copy content of dmg file into a folder e.g. <code class="language-plaintext highlighter-rouge">InScore</code> and move this folder to <code class="language-plaintext highlighter-rouge">Applications</code>)</li>
   <li>run INScoreViewer</li>
   <li>run SuperCollider <a href="https://github.com/krisztian-hofstadter-tedor/NeuroSky-SuperCollider/tree/master/sequencer/InScore">code</a></li>
 </ol>

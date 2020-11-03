@@ -8,10 +8,15 @@ comment: true
 ---
 <br>
 
-Currently being analysed with https://rawgraphs.io/.
+![](../assets/img/2019-11-22-shamanic-meditation-audio-test-poster.jpg)
+<br><br>
 
-Preview:
+Currently being analysed with [RAWGraphs](https://rawgraphs.io/).
 
-![](../assets/img//2019-11-22-shamanic-meditation-audio-test-02.jpg)
-<br>
-![](../assets/img//2019-11-22-shamanic-meditation-audio-test-01.jpg)
+Previews:
+
+![](../assets/img/temp_belief-age.jpg)
+<br><br>
+![](../assets/img/temp_collector-date-sj-clarification.jpg)
+<br><br>
+![](../assets/img/temp_focusMove-clar-musicDE_0.jpg)

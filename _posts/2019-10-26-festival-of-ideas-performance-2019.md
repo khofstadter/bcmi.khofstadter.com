@@ -20,7 +20,7 @@ Presentation, performance and drawing, Q/A
 ### Presentation
 - orientation
 
-- shamanic methods to explore for first bcmi soundscape
+- shamanic methods to explore for first BCMI soundscape
 
 - explanation of 30-minute tests
 
@@ -36,13 +36,13 @@ Presentation, performance and drawing, Q/A
 
 - to deepen the meditation, I think you should focus you listening on the static/monotone elements of the soundscape, the digital shaman drumming (speakers).
 
-- eyes closed is prefered
+- eyes closed is preferred
 
 - no intent - no journey :)
 
 - would be great if you can draw your 'visions' after the performance
 
-( video asap )
+Presentation video is being edited.
 
 <br>
 <br>

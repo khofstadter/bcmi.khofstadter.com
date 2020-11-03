@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "start": "1857-01-01",
+    "end": "1857-01-01",
+    "content": "Indian Mutiny First war of Independence",
+    "type": "point"
+  },
+  {
+    "id": 2,
+    "start": "1862-01-01",
+
+    "content": "Uganda gained independence",
+    "type": "point"
+  },
+  {
+    "id": 3,
+    "start": "1877-01-01",
+
+    "content": "Queen Vic Empress of India",
+    "type": "point"
+  },
+  {
+    "id": 4,
+    "start": "1883-01-01",
+
+    "content": "Foundation of the Indian Institute, Oxford",
+    "type": "point"
+  },
+  {
+    "id": 5,
+    "start": "1885-01-01",
+
+    "content": "Liberty�s Display of �42 Indian Villagers�",
+    "type": "point"
+  }
+]

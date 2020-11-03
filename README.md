@@ -8,6 +8,20 @@ It has two main parts:
 ---
 
 ## logbook
+### 2020 11 03
+- forms/docs sent to AR panel;
+
+### 2020 10 30
+- have been focusing on writing up project_c
+- waiting for SV send me feedback on project_a
+- need to prepare for an annual review
+  - by Tuesday:
+    - use comments from Paul (submit to TurnitIn, send to Jörg and Paul);
+    - change the form regarding TurnitIn version has been discussed by Paul - if not leave it;
+    - add dates from email to meeting list;
+    - make website better (both khofstadter and bcmi)
+- project_c
+  - write me after Tuesday;
 
 ### 2020 10 07
 thoughts:

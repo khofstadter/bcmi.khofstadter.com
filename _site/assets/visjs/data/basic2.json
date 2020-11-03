@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "group": 0,
+    "content": "first thing",
+    "start": "new Date(2014, 3, 17)",
+    "end": "new Date(2014, 3, 21)"
+  },
+  {
+    "id": 1,
+    "group": 1,
+    "content": "second thing",
+    "start": "new Date(2015, 3, 17)",
+    "end": "new Date(2015, 3, 21)"
+  },
+  {
+    "id": 2,
+    "group": 0,
+    "content": "third thing",
+    "start": "new Date(2011, 3, 17)",
+    "end": "new Date(2012, 3, 21)"
+  },
+]

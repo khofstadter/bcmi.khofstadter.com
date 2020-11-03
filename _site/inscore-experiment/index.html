@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="Brain-Computer Music Interfacing Blog">
+  <title>inScore experiment - Brain-Computer Music Interfacing</title>
+  <link rel="stylesheet" href="/css/style.css" />
+  <h1><a href="http://localhost:4000/">Brain-Computer Music Interfacing</a></h1>
+</head>
+<body>
+    <header class="post-header">
+  <h2>inScore experiment</h2>
+    Feb 26, 2016
+</header>
+<p><br />
+Experimented with sending musical scores from the <a href="/neurosky-supercollider-interface-and-audio-neurogame/"><kbd>NeuroSky-SuperCollider interface and audio neurogame</kbd></a> to <a href="http://inscore.sourceforge.net/">InScore</a> via Richard Hoadley’s <a href="http://rhoadley.net/software/index.php">InScore</a> class for SuperCollider.</p>
+
+<p><br /><br /></p>
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/PDo3J7MHPGg?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen="" scrolling="no"></iframe></div>
+
+<p><br /><br />
+<em>To test:</em></p>
+
+<ol>
+  <li>install <a href="http://inscore.sourceforge.net/#download">InScore package</a></li>
+  <li>install InScore class in SuperCollider (get in touch with <a href="http://rhoadley.net/">Richard Hoadley</a>) (copy content of dmg file into a folder e.g. <code class="language-plaintext highlighter-rouge">InScore</code> and move this folder to <code class="language-plaintext highlighter-rouge">Applications</code>)</li>
+  <li>run INScoreViewer</li>
+  <li>run SuperCollider <a href="https://github.com/krisztian-hofstadter-tedor/NeuroSky-SuperCollider/tree/master/sequencer/InScore">code</a></li>
+</ol>
+
+<p>(Tested with INScoreViewer-1.21, SuperCollider 3.11 on OSX 10.12.6)
+<br /><br />
+Read more in this <a href="/ARU-research-conference-poster/">poster</a>.</p>
+
+
+<br><br>
+  <div class="show-comments">
+    <button id="show-comments-button" onclick="disqus();return false;">show discussion</button>
+</div>
+
+<div id="disqus_thread"></div>
+
+<script>
+var disqus_loaded = false;
+var disqus_shortname  = 'bcmi-khofstadter';
+function disqus() {
+    if (!disqus_loaded)  {
+        disqus_loaded = true;
+        var e = document.createElement("script");
+        e.type = "text/javascript";
+        e.async = true;
+        e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+        (document.getElementsByTagName("head")[0] ||
+        document.getElementsByTagName("body")[0])
+        .appendChild(e);
+        //Hide the button after opening
+        document.getElementById("show-comments-button").style.display = "none";
+    }
+}
+//Opens comments when linked to directly
+var hash = window.location.hash.substr(1);
+if (hash.length > 8) {
+    if (hash.substring(0, 8) == "comment-") {
+        disqus();
+    }
+}
+//Remove this if you don't want to load comments for search engines
+if(/bot|google|baidu|bing|msn|duckduckgo|slurp|yandex/i.test(navigator.userAgent)) {
+   disqus();
+}
+</script>
+
+
+<br><br><br>
+
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-125796353-4', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+</body>
+</html>
