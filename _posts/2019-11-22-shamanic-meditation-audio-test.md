@@ -11,8 +11,8 @@ comment: true
 ![](../assets/img/2019-11-22-shamanic-meditation-audio-test-poster.jpg)
 <br><br>
 
-Currently being analysed with [RAWGraphs](https://rawgraphs.io/).
-
+The data from the shamanic meditation survey (n=83) is currently being analysed with [RAWGraphs](https://rawgraphs.io/).
+<br><br><br>
 Previews:
 
 ![](../assets/img/temp_belief-age.jpg)

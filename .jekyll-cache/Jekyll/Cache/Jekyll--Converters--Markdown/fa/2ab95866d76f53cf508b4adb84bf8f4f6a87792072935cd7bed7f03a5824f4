@@ -248,7 +248,7 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       <li>
         <input id="node2++12" name="node" class="node" type="radio" />
-        <label for="node2++12" data-idx="2++12">OpenBCI-SuperCollider interface</label>
+        <label for="node2++12" data-idx="2++12">OpenBCI-SuperCollider Interface</label>
         <ul>
           <li>
           <div class="date"> 2018-06-24</div>
@@ -657,7 +657,7 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     <li>
       <input id="node3++3++1" name="node" class="node" type="radio" />
-      <label for="node3++3++1" data-idx="3++3++1">OpenBCI-SuperCollider interface</label>
+      <label for="node3++3++1" data-idx="3++3++1">OpenBCI-SuperCollider Interface</label>
       <ul>
         <li>
         <div class="date"> 2018-06-24</div>

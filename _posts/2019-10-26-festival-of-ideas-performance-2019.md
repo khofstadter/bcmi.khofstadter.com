@@ -9,7 +9,7 @@ comment: true
 
 Title: NeuroMeditation with Music
 
-Presentation, performance and drawing, Q/A
+Presentation, surround performance and drawing, Q/A
 
 @ 2019, Cambridge Festival of Ideas
 
