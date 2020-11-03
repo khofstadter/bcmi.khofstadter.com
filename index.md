@@ -28,7 +28,7 @@ A visual representation of progress can be seen [here](timeline).
 **ongoing work**
 {% include index-cron-ongoing.html %}
 
-I am currently writing up the PhD commentary for the projects.
+I am also writing up _project_c_ for the PhD commentary. 
 
 <br>
 
