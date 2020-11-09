@@ -1,0 +1,1201 @@
+I"�<p>Hello, my name is Krisztián Hofstädter. This subdomain archives my doctoral research titled ‘Developing a Brain-Computer Music Interface for Meditation’ at the <a href="https://aru.ac.uk/">ARU</a>, Cambridge. Read about other projects <a href="https://khofstadter.info">here</a>.</p>
+
+<p><br /></p>
+
+<p><strong>research abstract</strong></p>
+
+<p>This interdisciplinary research developed a brain-computer music interface and demonstrated its use for scientific and artistic purposes. It was developed for neurofeedback practitioners and creatives interested in the combined use of brain-computer interfacing and music for well-being and creative expressions linked to meditation. Its effectiveness is investigated in training programmes, surveys and demonstrated in presentations and performances with real-time electroencephalography (EEG).</p>
+
+<p><br /></p>
+
+<p><strong>keywords</strong></p>
+
+<p>altered states of consciousness, brain-computer music interfacing, brainwave entrainment, EEG, generative music, immersion, interactive soundscapes, meditation, neurofeedback, OpenBCI, SuperCollider, synchronisation</p>
+
+<p><br /></p>
+
+<p><strong>timeline</strong></p>
+
+<p>A visual representation of progress can be seen <a href="timeline">here</a>.</p>
+
+<p><br /></p>
+
+<p><strong>ongoing work</strong>
+<br /><br />
+My current focus is writing up the research. The two sub-projects below will not be part of the PhD commentary, they will be written up as papers once more data is gathered and analysed: 
+<br />
+<!---
+code for using external links is from https://www.tjvantoll.com/2017/01/02/listing-external-articles/;
+there is also a file added in layouts: external.html and the posts amended accordingly;
+--></p>
+
+<form onsubmit="return false">
+  <ul class="lists">
+    
+    
+    
+    <li>
+      <input id="node1++1" name="node" class="node" type="radio" />
+      <label for="node1++1" data-idx="1++1">blue forest</label>
+      <ul>
+        <li>
+        <div class="date">since: 2019-03-13</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/blue-forest/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+    
+    
+    
+    <li>
+      <input id="node1++2" name="node" class="node" type="radio" />
+      <label for="node1++2" data-idx="1++2">further EEG studies</label>
+      <ul>
+        <li>
+        <div class="date">since: 2018-06-01</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/further-eeg-studies/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+    
+  </ul>
+</form>
+
+<p><br />
+<strong>past work</strong></p>
+
+<div class="tab">
+  organise by
+  <button class="tablinks" onclick="openCity(event, 'time')" id="defaultOpen">time</button>
+  <button class="tablinks" onclick="openCity(event, 'categories')">main category</button>
+</div>
+
+<div id="time" class="tabcontent">
+  <!---
+code for using external links is from https://www.tjvantoll.com/2017/01/02/listing-external-articles/;
+there is also a file added in layouts: external.html and the posts amended accordingly;
+-->
+
+
+  <form onsubmit="return false">
+    <ul class="lists">
+      
+      
+      
+      
+      <li>
+        <input id="node2++1" name="node" class="node" type="radio" />
+        <label for="node2++1" data-idx="2++1">aru talking science series 2020</label>
+        <ul>
+          <li>
+          <div class="date"> 2020-06-04</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/shamanic-meditation-listening-test-survey-2/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++2" name="node" class="node" type="radio" />
+        <label for="node2++2" data-idx="2++2">aru talking science series 2020</label>
+        <ul>
+          <li>
+          <div class="date"> 2020-06-04</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/aru-talking-science-series-2020/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++3" name="node" class="node" type="radio" />
+        <label for="node2++3" data-idx="2++3">shamanic meditation listening test - survey 2</label>
+        <ul>
+          <li>
+          <div class="date"> 2019-11-22</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/shamanic-meditation-audio-test/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++4" name="node" class="node" type="radio" />
+        <label for="node2++4" data-idx="2++4">festival of ideas performance 2019</label>
+        <ul>
+          <li>
+          <div class="date"> 2019-10-26</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/festival-of-ideas-performance-2019/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++5" name="node" class="node" type="radio" />
+        <label for="node2++5" data-idx="2++5">neuromeditation sessions</label>
+        <ul>
+          <li>
+          <div class="date"> 2019-09-24</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/neuromeditation-sessions/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++6" name="node" class="node" type="radio" />
+        <label for="node2++6" data-idx="2++6">aphorisms</label>
+        <ul>
+          <li>
+          <div class="date"> 2019-06-13</div>
+          <div class="short"> A piece by David Ryan where I transformed and spatialised live sound in SuperCollider. </div>
+          <br />
+          <a href="/aphorisms/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++7" name="node" class="node" type="radio" />
+        <label for="node2++7" data-idx="2++7">AES York conference demo 2019</label>
+        <ul>
+          <li>
+          <div class="date"> 2019-03-27</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/aes-york-conference-demo-2019/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <input id="node2++9" name="node" class="node" type="radio" />
+        <label for="node2++9" data-idx="2++9">shamanic meditation soundscape</label>
+        <ul>
+          <li>
+          <div class="date"> 2019-02-01</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/shamanic-meditation-soundscape/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++10" name="node" class="node" type="radio" />
+        <label for="node2++10" data-idx="2++10">asmr eeg tests</label>
+        <ul>
+          <li>
+          <div class="date"> 2018-11-28</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/asmr-eeg-tests/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++11" name="node" class="node" type="radio" />
+        <label for="node2++11" data-idx="2++11">tibetan singing bowls meditation with eeg</label>
+        <ul>
+          <li>
+          <div class="date"> 2018-11-21</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/tibetan-singing-bowls-meditation-with-eeg/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++12" name="node" class="node" type="radio" />
+        <label for="node2++12" data-idx="2++12">festival of ideas talk 2018</label>
+        <ul>
+          <li>
+          <div class="date"> 2018-10-24</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/festival-of-ideas-talk-2018/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++13" name="node" class="node" type="radio" />
+        <label for="node2++13" data-idx="2++13">CIMTRE networking event</label>
+        <ul>
+          <li>
+          <div class="date"> 2018-07-09</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/cimtre-networking-event/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++14" name="node" class="node" type="radio" />
+        <label for="node2++14" data-idx="2++14">OpenBCI-SuperCollider Interface</label>
+        <ul>
+          <li>
+          <div class="date"> 2018-06-24</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/openbci-supercollider-interface/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <input id="node2++16" name="node" class="node" type="radio" />
+        <label for="node2++16" data-idx="2++16">Qujing University talk</label>
+        <ul>
+          <li>
+          <div class="date"> 2018-04-18</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/qujing-university-talk/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++17" name="node" class="node" type="radio" />
+        <label for="node2++17" data-idx="2++17">StoryLab symposium talk</label>
+        <ul>
+          <li>
+          <div class="date"> 2018-03-14</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/storylab-symposium-talk/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++18" name="node" class="node" type="radio" />
+        <label for="node2++18" data-idx="2++18">IBVA-SuperCollider interface</label>
+        <ul>
+          <li>
+          <div class="date"> 2018-02-24</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/ibva-supercollider-interface/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++19" name="node" class="node" type="radio" />
+        <label for="node2++19" data-idx="2++19">multilingual conference demo</label>
+        <ul>
+          <li>
+          <div class="date"> 2018-02-14</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/multilingual-conference-demo/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++20" name="node" class="node" type="radio" />
+        <label for="node2++20" data-idx="2++20">first site clip sound demonstration</label>
+        <ul>
+          <li>
+          <div class="date"> 2017-01-16</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/first-site-clip-sound-demo/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++21" name="node" class="node" type="radio" />
+        <label for="node2++21" data-idx="2++21">musedelica symposium demo</label>
+        <ul>
+          <li>
+          <div class="date"> 2016-07-14</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/musedelica-symposium-demo/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++22" name="node" class="node" type="radio" />
+        <label for="node2++22" data-idx="2++22">MPA seminar talk</label>
+        <ul>
+          <li>
+          <div class="date"> 2016-06-21</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/MPA-seminar-talk/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++23" name="node" class="node" type="radio" />
+        <label for="node2++23" data-idx="2++23">ARU research conference poster</label>
+        <ul>
+          <li>
+          <div class="date"> 2016-06-06</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/ARU-research-conference-poster/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++24" name="node" class="node" type="radio" />
+        <label for="node2++24" data-idx="2++24">pint of science installation</label>
+        <ul>
+          <li>
+          <div class="date"> 2016-04-23</div>
+          <div class="short"> I made a music video for a Pint of Science event at Cambridge. The idea is to reflect on addiction, in this case my caffeine addiction. </div>
+          <br />
+          <a href="/pint-of-science-installation/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++25" name="node" class="node" type="radio" />
+        <label for="node2++25" data-idx="2++25">platypus standalone of sequencer</label>
+        <ul>
+          <li>
+          <div class="date"> 2016-03-04</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/platypus-standalone-of-sequencer/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++26" name="node" class="node" type="radio" />
+        <label for="node2++26" data-idx="2++26">sonic art guest talk</label>
+        <ul>
+          <li>
+          <div class="date"> 2016-03-03</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/sonic-art-guest-talk/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++27" name="node" class="node" type="radio" />
+        <label for="node2++27" data-idx="2++27">inScore experiment</label>
+        <ul>
+          <li>
+          <div class="date"> 2016-02-26</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/inscore-experiment/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++28" name="node" class="node" type="radio" />
+        <label for="node2++28" data-idx="2++28">music therapy clinic talk</label>
+        <ul>
+          <li>
+          <div class="date"> 2016-01-18</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/music-therapy-clinic-talk-2016/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++29" name="node" class="node" type="radio" />
+        <label for="node2++29" data-idx="2++29">NeuroSky-SuperCollider interface and audio neurogame</label>
+        <ul>
+          <li>
+          <div class="date"> 2015-10-01</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/neurosky-supercollider-interface-and-audio-neurogame/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++30" name="node" class="node" type="radio" />
+        <label for="node2++30" data-idx="2++30">start of research</label>
+        <ul>
+          <li>
+          <div class="date"> 2015-09-01</div>
+          <div class="short">  </div>
+          <br />
+          <a href="/start-of-research/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+    </ul>
+  </form>
+
+</div>
+
+<div id="categories" class="tabcontent">
+  
+
+
+
+<h3 id="admin">admin</h3>
+
+<form onsubmit="return false">
+  <ul class="lists">
+    
+    
+    
+    
+    <li>
+      <input id="node3++1++1" name="node" class="node" type="radio" />
+      <label for="node3++1++1" data-idx="3++1++1">start of research</label>
+      <ul>
+        <li>
+        <div class="date"> 2015-09-01</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/start-of-research/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+  </ul>
+</form>
+
+
+
+<h3 id="project-a">project-a</h3>
+
+<form onsubmit="return false">
+  <ul class="lists">
+    
+    
+    
+    
+    <li>
+      <input id="node3++2++1" name="node" class="node" type="radio" />
+      <label for="node3++2++1" data-idx="3++2++1">IBVA-SuperCollider interface</label>
+      <ul>
+        <li>
+        <div class="date"> 2018-02-24</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/ibva-supercollider-interface/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++2++2" name="node" class="node" type="radio" />
+      <label for="node3++2++2" data-idx="3++2++2">platypus standalone of sequencer</label>
+      <ul>
+        <li>
+        <div class="date"> 2016-03-04</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/platypus-standalone-of-sequencer/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++2++3" name="node" class="node" type="radio" />
+      <label for="node3++2++3" data-idx="3++2++3">inScore experiment</label>
+      <ul>
+        <li>
+        <div class="date"> 2016-02-26</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/inscore-experiment/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++2++4" name="node" class="node" type="radio" />
+      <label for="node3++2++4" data-idx="3++2++4">NeuroSky-SuperCollider interface and audio neurogame</label>
+      <ul>
+        <li>
+        <div class="date"> 2015-10-01</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/neurosky-supercollider-interface-and-audio-neurogame/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+  </ul>
+</form>
+
+
+
+<h3 id="project-b">project-b</h3>
+
+<form onsubmit="return false">
+  <ul class="lists">
+    
+    
+    
+    
+    <li>
+      <input id="node3++3++1" name="node" class="node" type="radio" />
+      <label for="node3++3++1" data-idx="3++3++1">OpenBCI-SuperCollider Interface</label>
+      <ul>
+        <li>
+        <div class="date"> 2018-06-24</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/openbci-supercollider-interface/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+  </ul>
+</form>
+
+
+
+<h3 id="project-c">project-c</h3>
+
+<form onsubmit="return false">
+  <ul class="lists">
+    
+    
+    
+    
+    <li>
+      <input id="node3++4++1" name="node" class="node" type="radio" />
+      <label for="node3++4++1" data-idx="3++4++1">aru talking science series 2020</label>
+      <ul>
+        <li>
+        <div class="date"> 2020-06-04</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/shamanic-meditation-listening-test-survey-2/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++4++2" name="node" class="node" type="radio" />
+      <label for="node3++4++2" data-idx="3++4++2">aru talking science series 2020</label>
+      <ul>
+        <li>
+        <div class="date"> 2020-06-04</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/aru-talking-science-series-2020/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++4++3" name="node" class="node" type="radio" />
+      <label for="node3++4++3" data-idx="3++4++3">shamanic meditation listening test - survey 2</label>
+      <ul>
+        <li>
+        <div class="date"> 2019-11-22</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/shamanic-meditation-audio-test/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++4++4" name="node" class="node" type="radio" />
+      <label for="node3++4++4" data-idx="3++4++4">neuromeditation sessions</label>
+      <ul>
+        <li>
+        <div class="date"> 2019-09-24</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/neuromeditation-sessions/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++4++5" name="node" class="node" type="radio" />
+      <label for="node3++4++5" data-idx="3++4++5">shamanic meditation soundscape</label>
+      <ul>
+        <li>
+        <div class="date"> 2019-02-01</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/shamanic-meditation-soundscape/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+  </ul>
+</form>
+
+
+
+<h3 id="project-c,">project-c,</h3>
+
+<form onsubmit="return false">
+  <ul class="lists">
+    
+    
+    
+    
+    <li>
+      <input id="node3++5++1" name="node" class="node" type="radio" />
+      <label for="node3++5++1" data-idx="3++5++1">festival of ideas performance 2019</label>
+      <ul>
+        <li>
+        <div class="date"> 2019-10-26</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/festival-of-ideas-performance-2019/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++5++2" name="node" class="node" type="radio" />
+      <label for="node3++5++2" data-idx="3++5++2">festival of ideas talk 2018</label>
+      <ul>
+        <li>
+        <div class="date"> 2018-10-24</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/festival-of-ideas-talk-2018/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+  </ul>
+</form>
+
+
+
+<h3 id="project-d">project-d</h3>
+
+<form onsubmit="return false">
+  <ul class="lists">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </ul>
+</form>
+
+
+
+<h3 id="project-e">project-e</h3>
+
+<form onsubmit="return false">
+  <ul class="lists">
+    
+    
+    
+    
+    <li>
+      <input id="node3++7++1" name="node" class="node" type="radio" />
+      <label for="node3++7++1" data-idx="3++7++1">asmr eeg tests</label>
+      <ul>
+        <li>
+        <div class="date"> 2018-11-28</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/asmr-eeg-tests/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++7++2" name="node" class="node" type="radio" />
+      <label for="node3++7++2" data-idx="3++7++2">tibetan singing bowls meditation with eeg</label>
+      <ul>
+        <li>
+        <div class="date"> 2018-11-21</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/tibetan-singing-bowls-meditation-with-eeg/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+  </ul>
+</form>
+
+
+
+<h3 id="public">public</h3>
+
+<form onsubmit="return false">
+  <ul class="lists">
+    
+    
+    
+    
+    <li>
+      <input id="node3++8++1" name="node" class="node" type="radio" />
+      <label for="node3++8++1" data-idx="3++8++1">festival of ideas performance 2019</label>
+      <ul>
+        <li>
+        <div class="date"> 2019-10-26</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/festival-of-ideas-performance-2019/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++8++2" name="node" class="node" type="radio" />
+      <label for="node3++8++2" data-idx="3++8++2">aphorisms</label>
+      <ul>
+        <li>
+        <div class="date"> 2019-06-13</div>
+        <div class="short"> A piece by David Ryan where I transformed and spatialised live sound in SuperCollider. </div>
+        <br />
+        <a href="/aphorisms/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++8++3" name="node" class="node" type="radio" />
+      <label for="node3++8++3" data-idx="3++8++3">AES York conference demo 2019</label>
+      <ul>
+        <li>
+        <div class="date"> 2019-03-27</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/aes-york-conference-demo-2019/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++8++4" name="node" class="node" type="radio" />
+      <label for="node3++8++4" data-idx="3++8++4">festival of ideas talk 2018</label>
+      <ul>
+        <li>
+        <div class="date"> 2018-10-24</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/festival-of-ideas-talk-2018/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++8++5" name="node" class="node" type="radio" />
+      <label for="node3++8++5" data-idx="3++8++5">CIMTRE networking event</label>
+      <ul>
+        <li>
+        <div class="date"> 2018-07-09</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/cimtre-networking-event/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++8++6" name="node" class="node" type="radio" />
+      <label for="node3++8++6" data-idx="3++8++6">Qujing University talk</label>
+      <ul>
+        <li>
+        <div class="date"> 2018-04-18</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/qujing-university-talk/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++8++7" name="node" class="node" type="radio" />
+      <label for="node3++8++7" data-idx="3++8++7">StoryLab symposium talk</label>
+      <ul>
+        <li>
+        <div class="date"> 2018-03-14</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/storylab-symposium-talk/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++8++8" name="node" class="node" type="radio" />
+      <label for="node3++8++8" data-idx="3++8++8">multilingual conference demo</label>
+      <ul>
+        <li>
+        <div class="date"> 2018-02-14</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/multilingual-conference-demo/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++8++9" name="node" class="node" type="radio" />
+      <label for="node3++8++9" data-idx="3++8++9">first site clip sound demonstration</label>
+      <ul>
+        <li>
+        <div class="date"> 2017-01-16</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/first-site-clip-sound-demo/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++8++10" name="node" class="node" type="radio" />
+      <label for="node3++8++10" data-idx="3++8++10">musedelica symposium demo</label>
+      <ul>
+        <li>
+        <div class="date"> 2016-07-14</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/musedelica-symposium-demo/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++8++11" name="node" class="node" type="radio" />
+      <label for="node3++8++11" data-idx="3++8++11">MPA seminar talk</label>
+      <ul>
+        <li>
+        <div class="date"> 2016-06-21</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/MPA-seminar-talk/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++8++12" name="node" class="node" type="radio" />
+      <label for="node3++8++12" data-idx="3++8++12">ARU research conference poster</label>
+      <ul>
+        <li>
+        <div class="date"> 2016-06-06</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/ARU-research-conference-poster/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++8++13" name="node" class="node" type="radio" />
+      <label for="node3++8++13" data-idx="3++8++13">pint of science installation</label>
+      <ul>
+        <li>
+        <div class="date"> 2016-04-23</div>
+        <div class="short"> I made a music video for a Pint of Science event at Cambridge. The idea is to reflect on addiction, in this case my caffeine addiction. </div>
+        <br />
+        <a href="/pint-of-science-installation/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++8++14" name="node" class="node" type="radio" />
+      <label for="node3++8++14" data-idx="3++8++14">sonic art guest talk</label>
+      <ul>
+        <li>
+        <div class="date"> 2016-03-03</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/sonic-art-guest-talk/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++8++15" name="node" class="node" type="radio" />
+      <label for="node3++8++15" data-idx="3++8++15">music therapy clinic talk</label>
+      <ul>
+        <li>
+        <div class="date"> 2016-01-18</div>
+        <div class="short">  </div>
+        <br />
+        <a href="/music-therapy-clinic-talk-2016/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+  </ul>
+</form>
+
+
+</div>
+
+<p><br /></p>
+
+<script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+
+:ET

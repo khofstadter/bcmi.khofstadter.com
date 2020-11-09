@@ -1,0 +1,117 @@
+I"n<!--
+- edit/upload presentation video;
+-->
+<p>@ Cambridge Festival of Ideas 2019
+<br />
+<br />
+<img src="../assets/img//20191026-cambridge-festival-of-ideas-01.jpg" alt="" />
+<br />
+<br /></p>
+<h3 id="talk">talk</h3>
+
+<ul>
+  <li>
+    <p>orientation. What is the interdisciplinary nature of the research?</p>
+  </li>
+  <li>
+    <p>why shamanic methods to explore in first BCMI soundscape?</p>
+  </li>
+  <li>
+    <p>why are neuromeditation sessions 30-minute long?</p>
+  </li>
+  <li>
+    <p>what is different between the 30 min tests and this 20 min performance?</p>
+  </li>
+  <li>
+    <p>why are the gaming elements absent in this performance?</p>
+  </li>
+  <li>
+    <p>how shall you listen to the soundscape? Shall you listen to the digital shamans (drums and chakapa), my live drumming or the other sounds?</p>
+  </li>
+  <li>
+    <p>shall you watch the screen or not?</p>
+  </li>
+  <li>
+    <p>how much would you like me to explain before the performance about the mapping between EEG and sounds? If I explain everything, would that affect the way you listen? (Perhaps it won’t help you to let go.)</p>
+  </li>
+  <li>
+    <p>to deepen the meditation, I think you should focus your listening on the static/monotone elements of the soundscape, the digital shaman drumming (speakers).</p>
+  </li>
+  <li>
+    <p>eyes closed is preferred, but you can keep it open if you’d like.</p>
+  </li>
+  <li>
+    <p>no intent - no journey :)</p>
+  </li>
+  <li>
+    <p>would be great if you can draw your ‘visions’ after the performance.
+<br />
+<br />
+<br /></p>
+    <h3 id="performance">Performance</h3>
+    <p>(in video collage)</p>
+  </li>
+</ul>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/lFVzwZtmecc?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen="" scrolling="no"></iframe></div>
+<p>The performance used the <a href="/openbci-supercollider-interface/">OpenBCI-SuperCollider Interface</a> with the <a href="http://localhost:4000/shamanic-meditation-soundscape/">Shamanic Meditation Soundscape</a> software.
+<br />
+<br />
+<br /></p>
+<h3 id="plotting-my-eeg-data">Plotting my EEG data</h3>
+<p>(in SuperCollider)
+<img src="../assets/img/20191026-cambridge-festival-of-ideas-03.jpg" alt="" />
+<br />
+<br />
+Plot meanings:</p>
+<ul>
+  <li>
+    <p>row 1: theta median FZ (grey) with threshold on 1.5 microVolts (black)</p>
+  </li>
+  <li>
+    <p>row 2: levels (blue triangles), theta median above threshold (green going down)</p>
+  </li>
+  <li>
+    <p>row 3: theta median above threshold in % (green steps)</p>
+  </li>
+  <li>
+    <p>row 4: theta median on P3 and P4 and their coherence below (green)</p>
+  </li>
+  <li>
+    <p>row 5: theta median on F4 and P4 and their coherence below (green)
+<br />
+<br />
+<br /></p>
+    <h3 id="drawings">Drawings</h3>
+    <p>Some interpretations of the journey from the group:
+<br />
+<br />
+<img src="../assets/img//20191026-cambridge-festival-of-ideas-02.jpg" alt="" />
+<br />
+<br />
+<br /></p>
+    <h3 id="release">Release</h3>
+    <h3 id="shamanic-soundscape---level-two">shamanic soundscape - level two</h3>
+    <p>February 23, 2020
+<br />
+<br />
+Some shamanic practitioners journey to nonordinary realities with fast and repetitive drumming. As an experiment, the soundscapes on this release extend on these traditional forms. They feature more diverse rhythms, tempo changes, added sound textures and surround sound. The software that generates these soundscapes uses real-time brainwave data with neuro-feedback protocols. The protocols control characteristics of prerecorded and live sounds.
+<br /><br />
+This release is an outcome of the ‘Brain-Computer Music Interfacing with Meditation’ research. The research investigates how rhythmic entrainment constructs and maintains altered states of consciousness.
+<br /><br />
+Demonstrating the soundscapes at 2019 Cambridge Festival of Ideas had two main goals. To show how music can help neuro-feedback and to trial the music in group meditation. While performing ‘jester’, the audience was encouraged to meditate with eyes closed. After the performance, some interpreted their ‘visions’ with words and drawings.
+<br /><br />
+Link to the quadraphonic files can be found in the extra downloads, along with the audience drawings and artwork files for the physical release.
+<br /><br /></p>
+  </li>
+</ul>
+<iframe style="border: 0; width: 350px; height: 555px;" src="https://bandcamp.com/EmbeddedPlayer/album=813941516/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless=""><a href="https://tedor.bandcamp.com/album/shamanic-soundscape-level-two">shamanic soundscape - level two by Krisztián | tEdör | Hofstädter</a></iframe>
+<p><br />
+<img src="../assets/img/20200318-shamanic-soundscape-cd.JPG" alt="" />
+<br />
+<br />
+<br />
+Many thanks to <a href="https://fredrikolofsson.com/">Fredrik Olofsson</a> for all his help with software development, <a href="https://aru.ac.uk/people/jorg-fachner">Jörg Fachner</a> and <a href="https://aru.ac.uk/people/paul-rhys">Paul Rhys</a> for supervising the research, Ryan Rogers for helping with the performance setup, Matty Moon for helping with mixing, <a href="https://www.stronginstitute.com/">Jeff Strong</a> for feedback on the research and insights on shamanic drumming, <a href="https://www.neuromeditationinstitute.com/">Jeff Tarrant</a> for feedback on the research and insights on neuro-feedback for meditation, <a href="http://qeeg.co.uk/">Tony Steffert</a> for helping with questions on EEG, <a href="https://nimetu.org/">Andrej Hrvatin</a> for helping me find my rhythm in journeying, <a href="https://www.shamanism.org/">The Foundation of Shamanic Studies</a> for feedback on shamanic journeying and Lucas and the blue rabbit for the journeys in the <a href="/blue-forest/">blue forest</a>.
+<br />
+<br />
+See more on <a href="https://tedor.bandcamp.com/">Bandcamp</a>.</p>
+:ET

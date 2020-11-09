@@ -1,0 +1,10 @@
+I"a<!--
+add a summery of the project
+-->
+<p><br />
+This project developed a software that interfaces NeuroSky EEG headbands with SuperCollider in the context of an audio neurogame. The goal of the project was to create a neurofeedback tool where the audio feedback (rewards) are embedded in an immersive sonic environment which can facilitate the desired mental shift.</p>
+
+<p>code: <a href="https://github.com/krisztian-hofstadter-tedor/NeuroSky-SuperCollider">GitHub</a></p>
+
+<p><img src="https://raw.githubusercontent.com/krisztian-hofstadter-tedor/NeuroSky-SuperCollider/master/screenshot.jpg" alt="" /></p>
+:ET

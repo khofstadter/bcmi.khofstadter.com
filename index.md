@@ -3,7 +3,7 @@ title: BCMI
 layout: default
 ---
 
-Hello, my name is Krisztián Hofstädter. This subdomain archives my doctoral research titled 'Developing a Brain-Computer Music Interface for Meditation' at the [ARU](https://aru.ac.uk/), Cambridge. Read about other projects [here](https://khofstadter.info).
+Hello, my name is Krisztián Hofstädter. This subdomain archives my doctoral research titled 'Developing a Brain-Computer Music Interface for Meditation' at the [ARU](https://aru.ac.uk/people/krisztian-hofstadter), Cambridge. Read about other projects [here](https://khofstadter.info).
 
 <br>
 
@@ -26,12 +26,11 @@ A visual representation of progress can be seen [here](timeline).
 <br>
 
 **ongoing work**
-{% include index-cron-ongoing.html %}
-
-I am also writing up _project_c_ for the PhD commentary. 
-
+<br><br>
+My current focus is writing up the research. The two sub-projects below will not be part of the PhD commentary, they will be written up as papers once more data is gathered and analysed (after PhD submission):
 <br>
-
+{% include index-cron-ongoing.html %}
+<br>
 **past work**
 
 <div class="tab">
