@@ -24,4 +24,4 @@ This video introduced the audio meditation study and my doctoral research in gen
 <br>
 <p>Currently analysing with
 
-<a href="https://rawgraphs.io/"> RAWGraphs</a>. Some details <a href="/listening-test-survey-2/"> here.</a>
+<a href="https://rawgraphs.io/"> RAWGraphs</a>. More info <a href="/listening-test-survey-2/"> here.</a>

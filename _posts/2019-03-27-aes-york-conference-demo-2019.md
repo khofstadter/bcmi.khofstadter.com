@@ -7,7 +7,7 @@ author: tEdör
 comment: true
 ---
 
-Demonstration of Brain-Computer Music Interfacing Soundscape - Generative Rhythmic Entrainment
+Title: Demonstration of Brain-Computer Music Interfacing Soundscape - Generative Rhythmic Entrainment
 
 @ 2019 Audio Engineering Society International Conference on Immersive and Interactive Audio, York, UK ([<kbd>programme</kbd>](http://www.aes.org/conferences/2019/immersive/program.cfm))
 
@@ -17,9 +17,11 @@ Demonstration of Brain-Computer Music Interfacing Soundscape - Generative Rhythm
 
 ## Outline
 
-- brief outline of disciplines;
-- main inspiration;
-- demo with live EEG in OpenBCI and SuperCollider;
+- brief outline of disciplines
+
+- main inspiration
+
+- demo with live EEG in OpenBCI and SuperCollider
 
 <br><br>
 
