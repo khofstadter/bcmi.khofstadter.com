@@ -8,7 +8,8 @@ It has two main parts:
 ---
 
 ## logbook
-### 2020 11 03
+### 2020 11 03 - 10 (AR date)
+- prep for AR and creating forest circles for _project_c_
 - forms/docs sent to AR panel;
 
 ### 2020 10 30
