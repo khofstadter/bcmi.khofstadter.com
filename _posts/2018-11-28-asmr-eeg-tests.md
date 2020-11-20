@@ -32,3 +32,9 @@ By simply revisiting the data in the 3D waterfall visualization of the FFT I can
 The study is part of a documentary about ASMR and hasn't been conducted with strict scientific guidelines. It has helped me to align and compare ideas behind how ASMR is thought to shift awareness with the ideas on how sound connected to meditation can help shift awareness in my BCMI research.
 <br><br>
 ![](../assets/img//2018-11-28-asmr-eeg-02.jpg)
+<br>
+<br>
+Video recordings of the study were featured in this short film:
+<br>
+<iframe src="https://player.vimeo.com/video/308468113?color=c672ff&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/308468113">TERTIARY SOUND (ASMR DOCUMENTARY)</a> from <a href="https://vimeo.com/solomia">Solomia Dzhu</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

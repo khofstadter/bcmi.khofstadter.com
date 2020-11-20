@@ -9,6 +9,7 @@ It has two main parts:
 
 ## logbook
 ### 2020 11 03 - 10 (AR date)
+- SV not attending, needs rescheduling; 
 - prep for AR and creating forest circles for _project_c_
 - forms/docs sent to AR panel;
 
