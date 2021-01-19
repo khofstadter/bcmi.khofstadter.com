@@ -8,8 +8,55 @@ It has two main parts:
 ---
 
 ## logbook
+
+### 2020 12 11 - 2021 01 19
+- finished manuscript draft (sent to editor)
+- working on projects (listening studies)
+- having a meeting (hopefully with both SVs today Tue 19 Jan)
+
+### 2020 12 11
+Writing workshop with EG:
+- easy to read is important (simplicity);
+- be a bit bold;
+- have short sentences;
+- use simple verbs in abstract and introduction;
+- OK to use ‘I’ (take ownership);
+- find out recent findings from most important articles;
+- some examples:
+
+![](/assets/img/20201211-writing-workshop-01.jpg)
+
+![](/assets/img/20201211-writing-workshop-02.jpg)
+
+
+Maybe not the best idea to use so many adjectives:
+
+![](/assets/img/20201211-writing-workshop-03.jpg)
+
+![](/assets/img/20201211-writing-workshop-04.jpg)
+
+![](/assets/img/20201211-writing-workshop-05.jpg)
+
+![](/assets/img/20201211-writing-workshop-06.jpg)
+
+![](/assets/img/20201211-writing-workshop-07.jpg)
+
+![](/assets/img/20201211-writing-workshop-08.jpg)
+
+![](/assets/img/20201211-writing-workshop-09.jpg)
+
+![](/assets/img/20201211-writing-workshop-10.jpg)
+
+![](/assets/img/20201211-writing-workshop-11.jpg)
+
+
+
+### 2020 11 10 - 12 11
+- writing up;
+- writing up book chapter
+
 ### 2020 11 03 - 10 (AR date)
-- SV not attending, needs rescheduling; 
+- SV not attending, needs rescheduling;
 - prep for AR and creating forest circles for _project_c_
 - forms/docs sent to AR panel;
 
