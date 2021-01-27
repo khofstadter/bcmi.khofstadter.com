@@ -9,6 +9,20 @@ It has two main parts:
 
 ## logbook
 
+### 2020 01 19 meeting
+- add meeting to list of meetings;
+- ask Emily about last date to apply for an extension;
+- take as much out of the chapter to thesis;
+- don't mention psychedelics in the thesis;
+- keep it under 40K;
+- move C and D to New Goals
+- move Listening Studies to New Goals
+- participants consent forms! _b_ and _m_; send email AHSS ethics person (AHSS ethics) - add participant's consent form to appendix;
+- introduction: 'digital shamanism'
+- define a new artistic practice that I have demonstrated in this PhD. If the artistic impose to do something is strong, than I don't necessarily need to demonstrate established (referenced) literature.
+- I am exploring a new artistic practiced, a new form of shamanism using all of the digital tools of the current age;
+- Thursday/Friday
+
 ### 2020 12 11 - 2021 01 19
 - finished manuscript draft (sent to editor)
 - working on projects (listening studies)
