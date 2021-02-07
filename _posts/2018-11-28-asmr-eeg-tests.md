@@ -30,6 +30,8 @@ By simply revisiting the data in the 3D waterfall visualization of the FFT I can
 <br>
 <br>
 The study is part of a documentary about ASMR and hasn't been conducted with strict scientific guidelines. It has helped me to align and compare ideas behind how ASMR is thought to shift awareness with the ideas on how sound connected to meditation can help shift awareness in my BCMI research.
+<br>
+The study helped me become more aware of how useful micro-sounds can be in audio guided meditation. Since the study I not only started listening to the micro-sounds made while doing shamanic drumming, but I also started composing music with more attention on using detailed sound textures to help immersion.
 <br><br>
 ![](../assets/img//2018-11-28-asmr-eeg-02.jpg)
 <br>
