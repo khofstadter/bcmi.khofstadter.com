@@ -1,0 +1,36 @@
+I"%<!--
+- can i find the corine protocol image with 'cancelled' on it - it is in the Facebook downloaded archive.
+-->
+
+<p><br />
+<em>BCMI_2</em> with neurofeedback is used in the following projects:</p>
+
+<ol>
+  <li>corine protocol</li>
+  <li>here and now (revisited)</li>
+  <li>berlin - colchester BCMI</li>
+</ol>
+
+<h3 id="1-corine-protocol">1. corine protocol</h3>
+<p>In this project I have been designing a neurofeedback protocol to be used with <em>BCMI_2</em> between its main two parts, the <a href="/openbci-supercollider-interface/">Open-SuperCollider-Interface</a> (Interface) and the <a href="/shamanic-soundscape-generator/">Shamanic Soundscape Generator</a> (Generator). The protocol is based on Flor-Henry et all.’s paper titled ‘<a href="https://www.researchgate.net/publication/315988926_Brain_changes_during_a_shamanic_trance_Altered_modes_of_consciousness_hemispheric_laterality_and_systemic_psychobiology">Brain changes during a shamanic trance: Altered modes of consciousness, hemispheric laterality, and systemic psychobiology</a>’, where a shamanic practitioner’s, <a href="https://www.corinesombrun.com/en/biography/">Sorine Sombrum</a>’s EEG was analysed with qEEG and LORETA methods while she was entering a Shamanic State of Consciousness (SSC). Due to the differences between the amount of channels used in their research (43) and the amount of channels currently available in the Interface (8), the neuromarkers for the <em>corine (neurofeedback) protocol</em> needed certain simplification. This simplification was also needed as the Interface currently does not support LORETA analysis.</p>
+
+<p><img src="../assets/img/20190101-corine-protocol-draft.jpg" alt="" /></p>
+
+<p>The prototype of this protocol should have been tested at the <a href="https://issuu.com/camscifest/docs/csf_2020_online">2020 Cambridge Science Festival</a>, however due to the pandemic the event was cancelled and now the demonstration needs to be rescheduled.</p>
+
+<p><img src="../assets/img/20200321-cambridge-science-festival-cancelled.jpg" alt="" /></p>
+
+<p><br />
+<br /></p>
+
+<h3 id="2-here-and-now-revisited">2. here and now (revisited)</h3>
+<p>As a member of <a href="http://david-ryan.co.uk/">David Ryan</a>’s <a href="https://operaapertaproject.com/">Opera Aperta Project</a>, I have been designing an alternative version of of ‘<a href="https://operaapertaproject.com/works/">Here and Now</a>’ (2020) in which I develop sound textures to be used as control parameters of sound in a generative soundscape. The sound textures are based on recordings prepared for the original piece (e.g. bass clarinet, percussion, Tibetan bowls, cello, piano, voices). In regard to form, the soundscape generator for ‘here and now (revisited)’ is similar to the Shamanic Soundscape Generator. It has two main groups of audio tracks. One that is more controlled (e.g. overall duration) and one in which a variety of sound textures interact with real-time EEG via a neurofeedback protocol. The goal of the experiment is to create a piece is to demonstrate the use of BCMI for audiences primarily interested in contemporary classical music.</p>
+
+<p>//<em>add some pictures or the current here and new soundcloud player?</em>//</p>
+
+<p><br />
+<br /></p>
+
+<h3 id="3-berlin---colchester-bcmi">3. berlin - colchester BCMI</h3>
+<p>This project experiments with sending BCMI data via the internet using <a href="https://tunnelblick.net/">Tunnelblick</a> between two countries. The method developed by Fredrik is primarily tested to understand how the Interface could be used for real-time BCMI performances online.</p>
+:ET

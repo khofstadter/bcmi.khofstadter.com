@@ -1,9 +1,4 @@
----
-title: BCMI
-layout: visjs
-permalink: /timeline/
----
-<!--
+I"�5<!--
 notes:
 - load in the middle (highlighting PhD)
 - https://www.fileformat.info/index.htm for html characters;
@@ -16,7 +11,7 @@ notes:
 * select groups:
 -->
 
-On this page I experiment with [vis.js](https://visjs.org/) to visualise the timeline of the research.
+<p>On this page I experiment with <a href="https://visjs.org/">vis.js</a> to visualise the timeline of the research.</p>
 
 <div id="visualization"></div>
 
@@ -78,50 +73,50 @@ On this page I experiment with [vis.js](https://visjs.org/) to visualise the tim
   {	id: 30	,	group: 8	,	content: 'NeuroMeditation Sessions'	,	type: 'point'	,	start: new Date(2019,8,20)			},		
   {	id: 31	,	group: 13	,	content: 'CMW_i  <a href="https://tedor.bandcamp.com/album/compulsive-music-waves-i">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,0,2)			},		
   {	id: 32	,	group: 13	,	content: 'CMW_ii  <a href="https://tedor.bandcamp.com/album/compulsive-music-waves-ii">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,0,3)			},		
-  {	id: 33	,	group: 13	,	content: 'Shamanic Soundscape – NeuroFeedback Sessions  <a href=”https://tedor.bandcamp.com/album/shamanic-soundscape-neurofeedback-sessions">&#9741</a>'	,	type: 'point'	,	start: new Date(2020,1,22)			},		
-  {	id: 34	,	group: 13	,	content: 'Shamanic Soundscape – Level Two  <a href="https://tedor.bandcamp.com/album/shamanic-soundscape-level-two">&#9741</a>'	,	type: 'point'	,	start: new Date(2020,2,23)			},		
-  {	id: 35	,	group: 8	,	content: 'Listening Study 1'	,	type: 'point'	,	start: new Date(2019,10,14)			},		
-  {	id: 36	,	group: 8	,	content: 'Listening Study 2'	,	type: 'point'	,	start: new Date(2020,5,4)			},		
-  {	id: 37	,	group: 9	,	content: 'Blue Forest <a href="/blue-forest/">&#9741</a>'	,			start: new Date(2019,02,13)	,	end: new Date(2023,1,1)	},		
-  {	id: 38	,	group: 10	,	content: 'with neurofeedback <a href="/bcmi-projects-with-neurofeedback/">&#9741</a>'	,			start: new Date(2020,1,1)	,	end: new Date(2021,8,1)	},		
-  {	id: 39	,	group: 10	,	content: 'without neurofeedback <a href="/bcmi-projects-without-neurofeedback/">&#9741</a>'	,			start: new Date(2019,1,1)	,	end: new Date(2021,8,1)	},		
-  {	id: 40	,	group: 11	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,0,18)	,		},		
-  {	id: 41	,	group: 7	,	content: 'InScore <a href="/inscore-experiment/">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,1,26)	,	end: new Date(2016,2,07)	},		
-  {	id: 42	,	group: 11	,	content: 'Sonic Art – demo <a href="/inscore-experiment/">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,0,18)	,		},		
-  {	id: 43	,	group: 7	,	content: 'Experimenting with Emotiv, IBVA and OpenBCI'	,	type: 'point'	,	start: new Date(2016,2,04)	,		},		
-  {	id: 44	,	group: 7	,	content: 'Platypus Standalone <a href="/platypus-standalone-of-sequencer/">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,2,04)	,			title: 'Standalone version of the sequencer in NeuroSky-SuperCollider Interface and Audio Neurogame'	},
-  {	id: 45	,	group: 14	,	content: 'Start designing BCMI_3'	,	type: 'point'	,	start: new Date(2021,9,01)	,		},		
-  {	id: 46	,	group: 11	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,2,23)	,		},		
-  {	id: 47	,	group: 11	,	content: 'Pint of Science  <a href="https://khofstadter.info/pint-of-science/">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,4,24)	,		},		
-  {	id: 48	,	group: 11	,	content: 'ARU Research Conference – poster  <a href="/aru-research-conference-poster/"&#9741</a>'	,	type: 'point'	,	start: new Date(2016,5,06)	,		},		
-  {	id: 49	,	group: 11	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,5,21)	,		},		
-  {	id: 50	,	group: 11	,	content: 'Musedelica Symposium – demo'	,	type: 'point'	,	start: new Date(2016,6,14)	,		},		
-  {	id: 51	,	group: 11	,	content: 'Serious Gaming  <a href="https://www.coursera.org/learn/serious-gaming">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,11,12)	,			title: '@ Coursera.'	},
-  {	id: 52	,	group: 11	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2017,0,17)	,		},		
-  {	id: 53	,	group: 11	,	content: 'First Sight – demo'	,	type: 'point'	,	start: new Date(2017,0,17)	,		},		
-  {	id: 54	,	group: 12	,	content: 'Music as Biology <a href="https://www.coursera.org/learn/music-as-biology">&#9741</a>'	,	type: 'point'	,	start: new Date(2017,2,13)	,			title: '@ Coursera.'	},
-  {	id: 55	,	group: 12	,	content: 'Quantitative EEG <a href="http://qeeg.co.uk/qeeg-workshop">&#9741</a>'	,	type: 'point'	,	start: new Date(2017,3,11)	,			title: 'worshop with Prof. Yury Kropotov in Cambridge.'	},
-  {	id: 56	,	group: 11	,	content: 'Multilingual Conference, Essex – presentation'	,	type: 'point'	,	start: new Date(2018,1,14)	,		},		
-  {	id: 57	,	group: 8	,	content: 'OpenBCI Firmware Update Struggles'	,	type: 'point'	,	start: new Date(2018,2,01)	,		},		
-  {	id: 58	,	group: 11	,	content: 'StoryLab Symposium <a href="/storylab-symposium-talk/">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,2,14)	,		},		
-  {	id: 59	,	group: 11	,	content: 'Qujing University, China <a href="/qujing-university-talk/">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,3,18)	,		},		
-  {	id: 60	,	group: 11	,	content: 'CIMTRE Networking Event <a href="/cimtre-networking/">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,4,18)	,		},		
-  {	id: 61	,	group: 8	,	content: 'Greentek S1'	,	type: 'point'	,	start: new Date(2018,6,19)	,		},		
-  {	id: 62	,	group: 11	,	content: 'Festival of Ideas – presentation <a href="/festival-of-ideas-talk-2018/">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,9,24)	,		},		
-  {	id: 63	,	group: 8	,	content: 'Tibetan Singing Bowl Meditation <a href="/tibetan-singing-bowls-meditation-with-eeg/">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,10,21)	,		},		
-  {	id: 64	,	group: 6	,	content: 'ASMR experiment  <a href="/asmr-eeg-tests/">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,10,28)	,		},		
-  {	id: 65	,	group: 12	,	content: 'Drum Healing Training Program <a href="https://www.stronginstitute.com">&#9741</a>'	,	type: 'point'	,	start: new Date(2019,1,11)	,			title: '@ Strong Institute (Jeff Strong).'	},
-  {	id: 66	,	group: 12	,	content: 'Commercialise Your Research'	,	type: 'point'	,	start: new Date(2019,2,25)	,			title: ' Workshop with Roger Chittock @ ARU.'	},
-  {	id: 67	,	group: 11	,	content: 'AES York Conference – demo <a href="/aes-york-conference-demo-2019/">&#9741</a>'	,	type: 'point'	,	start: new Date(2019,1,27)	,		},		
-  {	id: 68	,	group: 11	,	content: 'Aphorisms by David Ryan<a href="/aphorisms/”>&#9741</a>'	,	type: 'point'	,	start: new Date(2019,5,13)	,		},		
-  {	id: 69	,	group: 12	,	content: 'Intellectual Property'	,	type: 'point'	,	start: new Date(2019,6,03)	,			title: ' Workshop with Roger Chittock @ ARU.'	},
-  {	id: 70	,	group: 8	,	content: 'Greentek S3'	,	type: 'point'	,	start: new Date(2019,6,05)	,		},		
-  {	id: 71	,	group: 8	,	content: '3D OpenBCI enclosure'	,	type: 'point'	,	start: new Date(2019,6,17)	,		},		
-  {	id: 72	,	group: 11	,	content: 'Festival of Ideas 2019 – performance <a href="/festival-of-ideas-performance-2019/">&#9741</a>'	,	type: 'point'	,	start: new Date(2019,9,26)	,		},		
-  {	id: 73	,	group: 11	,	content: 'Talk and performance for final year music students, ARU'	,	type: 'point'	,	start: new Date(2019,9,26)	,		},		
-  {	id: 74	,	group: 11	,	content: 'Cambridge Science Festival (Cancelled)'	,	type: 'point'	,	start: new Date(2020,2,24)	,		},		
-  {	id: 75	,	group: 11	,	content: 'ARU Talking Science (Online presentation and Binaural Study)'	,	type: 'point'	,	start: new Date(2020,5,14)	,		},		
-  {	id: 76	,	group: 12	,	content: 'Psychedelic NeuroScience Course<a href="https://youtu.be/Y-KztRvRyl0”>&#9741</a>'	,	type: 'point'	,	start: new Date(2020,8,24)	,		},		
+  {	id: 31	,	group: 13	,	content: 'Shamanic Soundscape – NeuroFeedback Sessions'	,	type: 'point'	,	start: new Date(2020,1,22)			},		
+  {	id: 32	,	group: 13	,	content: 'Shamanic Soundscape – Level Two'	,	type: 'point'	,	start: new Date(2020,2,23)			},		
+  {	id: 33	,	group: 8	,	content: 'Listening Study 1'	,	type: 'point'	,	start: new Date(2019,10,14)			},		
+  {	id: 34	,	group: 8	,	content: 'Listening Study 2'	,	type: 'point'	,	start: new Date(2020,5,4)			},		
+  {	id: 35	,	group: 9	,	content: 'Blue Forest <a href="/blue-forest/">&#9741</a>'	,			start: new Date(2019,02,13)	,	end: new Date(2023,1,1)	},		
+  {	id: 36	,	group: 10	,	content: 'with neurofeedback <a href="/bcmi-projects-with-neurofeedback/">&#9741</a>'	,			start: new Date(2020,1,1)	,	end: new Date(2021,8,1)	},		
+  {	id: 37	,	group: 10	,	content: 'without neurofeedback <a href="/bcmi-projects-without-neurofeedback/">&#9741</a>'	,			start: new Date(2019,1,1)	,	end: new Date(2021,8,1)	},		
+  {	id: 38	,	group: 11	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,0,18)	,		},		
+  {	id: 39	,	group: 7	,	content: 'InScore <a href="/inscore-experiment/">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,1,26)	,	end: new Date(2016,2,07)	},		
+  {	id: 40	,	group: 11	,	content: 'Sonic Art – demo <a href="/inscore-experiment/">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,0,18)	,		},		
+  {	id: 41	,	group: 7	,	content: 'Experimenting with Emotiv, IBVA and OpenBCI'	,	type: 'point'	,	start: new Date(2016,2,04)	,		},		
+  {	id: 42	,	group: 7	,	content: 'Platypus Standalone <a href="/platypus-standalone-of-sequencer/">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,2,04)	,			title: 'Standalone version of the sequencer in NeuroSky-SuperCollider Interface and Audio Neurogame'	},
+  {	id: 43	,	group: 14	,	content: 'Start designing BCMI_3'	,	type: 'point'	,	start: new Date(2021,9,01)	,		},		
+  {	id: 44	,	group: 11	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,2,23)	,		},		
+  {	id: 45	,	group: 11	,	content: 'Pint of Science  <a href="https://khofstadter.info/pint-of-science/">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,4,24)	,		},		
+  {	id: 46	,	group: 11	,	content: 'ARU Research Conference – poster  <a href="/aru-research-conference-poster/"&#9741</a>'	,	type: 'point'	,	start: new Date(2016,5,06)	,		},		
+  {	id: 47	,	group: 11	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,5,21)	,		},		
+  {	id: 48	,	group: 11	,	content: 'Musedelica Symposium – demo'	,	type: 'point'	,	start: new Date(2016,6,14)	,		},		
+  {	id: 49	,	group: 11	,	content: 'Serious Gaming  <a href="https://www.coursera.org/learn/serious-gaming">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,11,12)	,			title: '@ Coursera.'	},
+  {	id: 50	,	group: 11	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2017,0,17)	,		},		
+  {	id: 51	,	group: 11	,	content: 'First Sight – demo'	,	type: 'point'	,	start: new Date(2017,0,17)	,		},		
+  {	id: 52	,	group: 12	,	content: 'Music as Biology <a href="https://www.coursera.org/learn/music-as-biology">&#9741</a>'	,	type: 'point'	,	start: new Date(2017,2,13)	,			title: '@ Coursera.'	},
+  {	id: 53	,	group: 12	,	content: 'Quantitative EEG <a href="http://qeeg.co.uk/qeeg-workshop">&#9741</a>'	,	type: 'point'	,	start: new Date(2017,3,11)	,			title: 'worshop with Prof. Yury Kropotov in Cambridge.'	},
+  {	id: 54	,	group: 11	,	content: 'Multilingual Conference, Essex – presentation'	,	type: 'point'	,	start: new Date(2018,1,14)	,		},		
+  {	id: 55	,	group: 8	,	content: 'OpenBCI Firmware Update Struggles'	,	type: 'point'	,	start: new Date(2018,2,01)	,		},		
+  {	id: 56	,	group: 11	,	content: 'StoryLab Symposium <a href="/storylab-symposium-talk/">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,2,14)	,		},		
+  {	id: 57	,	group: 11	,	content: 'Qujing University, China <a href="/qujing-university-talk/">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,3,18)	,		},		
+  {	id: 58	,	group: 11	,	content: 'CIMTRE Networking Event <a href="/cimtre-networking/">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,4,18)	,		},		
+  {	id: 59	,	group: 8	,	content: 'Greentek S1'	,	type: 'point'	,	start: new Date(2018,6,19)	,		},		
+  {	id: 60	,	group: 11	,	content: 'Festival of Ideas – presentation <a href="/festival-of-ideas-talk-2018/">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,9,24)	,		},		
+  {	id: 61	,	group: 8	,	content: 'Tibetan Singing Bowl Meditation <a href="/tibetan-singing-bowls-meditation-with-eeg/">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,10,21)	,		},		
+  {	id: 62	,	group: 6	,	content: 'ASMR experiment  <a href="/asmr-eeg-tests/">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,10,28)	,		},		
+  {	id: 63	,	group: 12	,	content: 'Drum Healing Training Program <a href="https://www.stronginstitute.com">&#9741</a>'	,	type: 'point'	,	start: new Date(2019,1,11)	,			title: '@ Strong Institute (Jeff Strong).'	},
+  {	id: 64	,	group: 12	,	content: 'Commercialise Your Research'	,	type: 'point'	,	start: new Date(2019,2,25)	,			title: ' Workshop with Roger Chittock @ ARU.'	},
+  {	id: 65	,	group: 11	,	content: 'AES York Conference – demo <a href="/aes-york-conference-demo-2019/">&#9741</a>'	,	type: 'point'	,	start: new Date(2019,1,27)	,		},		
+  {	id: 66	,	group: 11	,	content: 'Aphorisms by David Ryan<a href="/aphorisms/”>&#9741</a>'	,	type: 'point'	,	start: new Date(2019,5,13)	,		},		
+  {	id: 67	,	group: 12	,	content: 'Intellectual Property'	,	type: 'point'	,	start: new Date(2019,6,03)	,			title: ' Workshop with Roger Chittock @ ARU.'	},
+  {	id: 68	,	group: 8	,	content: 'Greentek S3'	,	type: 'point'	,	start: new Date(2019,6,05)	,		},		
+  {	id: 69	,	group: 8	,	content: '3D OpenBCI enclosure'	,	type: 'point'	,	start: new Date(2019,6,17)	,		},		
+  {	id: 70	,	group: 11	,	content: 'Festival of Ideas 2019 – performance <a href="/festival-of-ideas-performance-2019/">&#9741</a>'	,	type: 'point'	,	start: new Date(2019,9,26)	,		},		
+  {	id: 71	,	group: 11	,	content: 'Talk and performance for final year music students, ARU'	,	type: 'point'	,	start: new Date(2019,9,26)	,		},		
+  {	id: 72	,	group: 11	,	content: 'Cambridge Science Festival (Cancelled)'	,	type: 'point'	,	start: new Date(2020,2,24)	,		},		
+  {	id: 73	,	group: 11	,	content: 'ARU Talking Science (Online presentation and Binaural Study)'	,	type: 'point'	,	start: new Date(2020,5,14)	,		},		
+  {	id: 74	,	group: 12	,	content: 'Psychedelic NeuroScience Course<a href="https://youtu.be/Y-KztRvRyl0”>&#9741</a>'	,	type: 'point'	,	start: new Date(2020,8,24)	,		},		
 
   ]);
 
@@ -145,3 +140,5 @@ On this page I experiment with [vis.js](https://visjs.org/) to visualise the tim
   timeline.setItems(items);
 
 </script>
+
+:ET

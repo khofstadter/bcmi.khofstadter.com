@@ -1,9 +1,4 @@
----
-title: BCMI
-layout: visjs
-permalink: /timeline/
----
-<!--
+I"�5<!--
 notes:
 - load in the middle (highlighting PhD)
 - https://www.fileformat.info/index.htm for html characters;
@@ -16,7 +11,7 @@ notes:
 * select groups:
 -->
 
-On this page I experiment with [vis.js](https://visjs.org/) to visualise the timeline of the research.
+<p>On this page I experiment with <a href="https://visjs.org/">vis.js</a> to visualise the timeline of the research.</p>
 
 <div id="visualization"></div>
 
@@ -78,8 +73,8 @@ On this page I experiment with [vis.js](https://visjs.org/) to visualise the tim
   {	id: 30	,	group: 8	,	content: 'NeuroMeditation Sessions'	,	type: 'point'	,	start: new Date(2019,8,20)			},		
   {	id: 31	,	group: 13	,	content: 'CMW_i  <a href="https://tedor.bandcamp.com/album/compulsive-music-waves-i">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,0,2)			},		
   {	id: 32	,	group: 13	,	content: 'CMW_ii  <a href="https://tedor.bandcamp.com/album/compulsive-music-waves-ii">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,0,3)			},		
-  {	id: 33	,	group: 13	,	content: 'Shamanic Soundscape – NeuroFeedback Sessions  <a href=”https://tedor.bandcamp.com/album/shamanic-soundscape-neurofeedback-sessions">&#9741</a>'	,	type: 'point'	,	start: new Date(2020,1,22)			},		
-  {	id: 34	,	group: 13	,	content: 'Shamanic Soundscape – Level Two  <a href="https://tedor.bandcamp.com/album/shamanic-soundscape-level-two">&#9741</a>'	,	type: 'point'	,	start: new Date(2020,2,23)			},		
+  {	id: 33	,	group: 13	,	content: 'Shamanic Soundscape – NeuroFeedback Sessions'	,	type: 'point'	,	start: new Date(2020,1,22)			},		
+  {	id: 34	,	group: 13	,	content: 'Shamanic Soundscape – Level Two'	,	type: 'point'	,	start: new Date(2020,2,23)			},		
   {	id: 35	,	group: 8	,	content: 'Listening Study 1'	,	type: 'point'	,	start: new Date(2019,10,14)			},		
   {	id: 36	,	group: 8	,	content: 'Listening Study 2'	,	type: 'point'	,	start: new Date(2020,5,4)			},		
   {	id: 37	,	group: 9	,	content: 'Blue Forest <a href="/blue-forest/">&#9741</a>'	,			start: new Date(2019,02,13)	,	end: new Date(2023,1,1)	},		
@@ -145,3 +140,5 @@ On this page I experiment with [vis.js](https://visjs.org/) to visualise the tim
   timeline.setItems(items);
 
 </script>
+
+:ET

@@ -27,7 +27,7 @@ A visual representation of progress can be seen [here](timeline).
 
 **ongoing work**
 <br><br>
-My current focus is writing up the research. The two sub-projects below will not be part of the PhD commentary, they will be written up as papers once more data is gathered and analysed (after PhD submission):
+My current focus is on writing up the research. The ongoing projects below will not be part of the PhD commentary. Once these ongoing projects are completed, they will be written up as journal papers/academic book chapters. 
 <br>
 {% include index-cron-ongoing.html %}
 <br>
