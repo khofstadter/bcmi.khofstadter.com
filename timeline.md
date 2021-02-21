@@ -33,7 +33,7 @@ On this page I experiment with [vis.js](https://visjs.org/) to visualise the tim
     {id: 7, content: 'BCMI_1', value: 8},
     {id: 8, content: 'BCMI_2', value: 9},
     {id: 9, content: 'blue forest<br>(no EEG)', value: 12},
-    {id: 10, content: 'other EEG<br>projects', value: 11},
+    {id: 10, content: 'other (ongoing) BCMI<br>projects', value: 11},
     {id: 11, content: 'public', value:15},
     {id: 12, content: 'courses/<br>workshops', value:16},
     {id: 13, content: 'audio releases', value:13},
