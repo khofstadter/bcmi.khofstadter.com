@@ -18,4 +18,10 @@ One slide:
 ![](../assets/img//2018-10-festival-of-ideas.jpg)
 <br>
 <br>
+<audio controls>
+  <source src="../assets/audio/2018-10-24-festival-of-ideas-2018-talk.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<br>
+<br>
 All slides [here](../assets/doc/k_hofstadter_php_2018_10_presentation.pdf).

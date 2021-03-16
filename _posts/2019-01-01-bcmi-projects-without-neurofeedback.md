@@ -8,6 +8,7 @@ comment: true
 ---
 <!--
 add frame drumming photo
+add Vroju?
 -->
 
 <br>
@@ -15,7 +16,7 @@ These projects use the [OpenBCI-SuperCollider Interface](/ibva-supercollider-int
 
 1. [MONOLIT](https://nimetu.bandcamp.com/album/monolit) by [<kbd>Andrej Hrvatin</kbd>](https://nimetu.org/)
 2. binaural beats designed by Robert Monroe including [The Gateway Experience](https://www.thegatewayexperience.com/wave-i-discovery-3-cd-set/) and
-3. my own frame drumming while shamanic journeying.
+3. my own (live or prerecorded) frame drumming while shamanic journeying (meditating).
 
 After recording sessions, subconscious 'visions' are interpreted in drawings. EEG data is currently analysed in SuperCollider only, but is planned to be analysed in Matlab as well.
 
