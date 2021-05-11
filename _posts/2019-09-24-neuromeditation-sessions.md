@@ -6,6 +6,9 @@ tags: [something]
 author: tEdör
 comment: true
 ---
+<!--
+add https://www.maxlaumeister.com/pagecrypt/
+-->
 <br>
 Neurofeedback sessions with 3 participants using the [OpenBCI-SuperCollider Interface](/openbci-supercollider-interface/) linked to the [Shamanic Meditation Soundscape](/shamanic-meditation-soundscape/). The goal was to help enhance the power of theta waves at Fz with a specific audio entrainment called rhythmic entrainment. The use of rhythmic entrainment in this project was inspired by the work of [Jeff Strong](https://www.stronginstitute.com/).
 <br>

@@ -10,8 +10,8 @@ comment: true
 I exported my SuperCollider code of the sequencer part of the [<kbd>NeuroSky-SuperCollider interface and audio neurogame</kbd>](/neurosky-supercollider-interface-and-audio-neurogame/) into a standalone application with Platypus.
 <br>
 <br>
-[Download from Dropbox](https://www.dropbox.com/sh/3vuzamcn3iojdmh/AABTnpZ7IHnBYc_biUyo0jcva?dl=0).
+Download [here.](https://github.com/krisztian-hofstadter-tedor/NeuroSky-SuperCollider/tree/master/standalones)
 <br>
 <br>
-![](../assets/img//2016-03-04-standalone-with-platypus.jpg)
+![](../assets/img/2016-03-04-standalone-with-platypus.jpg)
 <br><br>
