@@ -5,6 +5,8 @@ categories: public
 tags: [public, conference, poster, aru]
 author: tEdör
 comment: true
+short: My first poster.
+
 ---
 <br>
 I presented a poster at the 10th Annual Research Conference, ARU, Chelmsford.

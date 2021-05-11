@@ -1,8 +1,8 @@
 ---
 layout: post
-title: shamanic soundscape - neuroMeditation sessions
-categories: project-c
-tags: [project-c, music]
+title: shamanic soundscape - neuromeditation sessions
+categories: release
+tags: [BCMI-2, music]
 author: tEdör
 comment: true
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: listening study 1
-categories: project-c
-tags: [project-c, test]
+categories: BCMI-2
+tags: [BCMI-2, test]
 author: tEdör
 comment: true
 ---

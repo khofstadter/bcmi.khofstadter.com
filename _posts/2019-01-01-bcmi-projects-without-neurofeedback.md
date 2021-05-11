@@ -1,8 +1,8 @@
 ---
 layout: post
 title: BCMI projects without neurofeedback
-categories: project-d
-tags: [ongoing, project-d, drumming, shamanism, synchronisation]
+categories: ongoing
+tags: [ongoing, drumming, shamanism, synchronisation]
 author: tEdör
 comment: true
 ---

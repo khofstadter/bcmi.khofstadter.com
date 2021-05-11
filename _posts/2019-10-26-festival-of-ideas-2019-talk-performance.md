@@ -1,8 +1,8 @@
 ---
 layout: post
 title: festival of ideas 2019 talk and performance
-categories: project-c
-tags: [public, performance]
+categories: BCMI-2
+tags: [BCMI-2, public, performance]
 author: tEdör
 comment: true
 ---

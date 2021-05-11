@@ -1,17 +1,17 @@
 ---
 layout: post
 title: listening studies analysis
-categories: project-b
-tags: [ongoing, project-b, analysis, no-neurofeedback]
+categories: BCMI-2
+tags: [ongoing, BCMI-2, analysis, no-neurofeedback]
 author: tEdör
 comment: true
 ---
 <br>
-This project merges the analysis of the two previous listening studies ([1](/listening-study-2/),[2](/listening-study-1/)) and uses [RAWGraphs](https://rawgraphs.io/) to produce aesthetically pleasing and meaningful visual representation of data correlations and (possible) causal relations.
+This project analyses data from two online listening studies ([1](/listening-study-2/), [2](/listening-study-1/)) and uses [RAWGraphs](https://rawgraphs.io/) to produce aesthetic and meaningful visual representations of the data. 
 
-Some insights from the first listening study will be disclosed in the PhD commentary. The completed project is planned to be published as an academic journal paper related to altered states of consciousness and music.
+A preliminary analysis of the first listening study is written up as a chapter in the submitted PhD commentary. The completed analysis is planned to be published as an academic paper.
 
-Screenshots of RAWGraphs in use:
+Some screenshots of RAWGraphs in use:
 
 ![](../assets/img/temp_belief-age.jpg)
 <br><br>

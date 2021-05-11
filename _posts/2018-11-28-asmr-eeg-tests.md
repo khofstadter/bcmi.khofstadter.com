@@ -1,8 +1,8 @@
 ---
 layout: post
 title: asmr eeg tests
-categories: project-e
-tags: [project-e, measurements, IBVA]
+categories: BCMI-2
+tags: [BCMI-2, measurements, IBVA]
 author: tEdör
 comment: true
 ---

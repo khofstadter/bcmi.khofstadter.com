@@ -1,8 +1,8 @@
 ---
 layout: post
 title: IBVA-SuperCollider interface
-categories: project-a
-tags: [project-a, SuperCollider, IBVA, GitHub]
+categories: BCMI-1
+tags: [BCMI-1, SuperCollider, IBVA, GitHub]
 author: tEdör
 comment: true
 ---

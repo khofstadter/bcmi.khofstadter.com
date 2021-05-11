@@ -1,8 +1,8 @@
 ---
 layout: post
 title: OpenBCI-SuperCollider Interface
-categories: project-b
-tags: [project-b, OpenBCI, SuperCollider, GitHub]
+categories: BCMI-2
+tags: [BCMI-2, OpenBCI, SuperCollider, GitHub]
 author: tEdör
 comment: true
 ---

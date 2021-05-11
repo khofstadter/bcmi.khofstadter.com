@@ -5,6 +5,7 @@ categories: admin
 tags: [admin]
 author: tEdör
 comment: true
+short: Research proposal and timeline.
 ---
 <br>
 In September 2015, I started my PhD in the Anglia Ruskin University with the initial title: Developing Neuro-feedback Music (NFM) Software For Academic Stress Management and Well-being

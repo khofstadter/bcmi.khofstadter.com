@@ -1,8 +1,8 @@
 ---
 layout: post
 title: blue forest
-categories: project-d
-tags: [ongoing, project-d, drumming, shamanism, syncronisation]
+categories: ongoing
+tags: [ongoing, drumming, shamanism, syncronisation]
 author: tEdör
 comment: true
 ---

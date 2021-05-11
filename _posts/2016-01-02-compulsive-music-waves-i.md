@@ -2,16 +2,18 @@
 layout: post
 title: compulsive music waves i
 categories: release
-tags: [project-a, music]
+tags: [BCMI-1, music]
 author: tEdör
 comment: true
+short: Compositions made with the sequencer developed for BCMI-1.
 ---
 
-This release contains audio recordings made with the sequencer developed for the [NeuroSky-SuperCollider Interface](/neurosky-supercollider-interface-and-audio-neurogame/). 
+This release contains music made with the sequencer developed for the [NeuroSky-SuperCollider Interface](/neurosky-supercollider-interface-and-audio-neurogame/) (BCMI-1).
 
 <br><br>
 
-<iframe style="border: 0; width: 350px; height: 720px;" src="https://bandcamp.com/EmbeddedPlayer/album=330421954/size=large/bgcol=ffffff/linkcol=e99708/transparent=true/" seamless><a href="https://tedor.bandcamp.com/album/compulsive-music-waves-i">compulsive music waves_i by Krisztián | tEdör | Hofstädter</a></iframe>
+
+ <center><iframe style="border: 0; width: 350px; height: 720px;" src="https://bandcamp.com/EmbeddedPlayer/album=330421954/size=large/bgcol=ffffff/linkcol=e99708/transparent=true/" seamless><a href="https://tedor.bandcamp.com/album/compulsive-music-waves-i">compulsive music waves_i by Krisztián | tEdör | Hofstädter</a></iframe></center>
 
 <br><br>
 

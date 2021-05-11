@@ -1,8 +1,8 @@
 ---
 layout: post
 title: tibetan singing bowls meditation with eeg
-categories: project-e
-tags: [project-e, measurements, sound healing, OpenBCI]
+categories: BCMI-2
+tags: [BCMI-2, measurements, sound healing, OpenBCI]
 author: tEdör
 comment: true
 ---

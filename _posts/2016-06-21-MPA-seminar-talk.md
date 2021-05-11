@@ -5,6 +5,7 @@ categories: public
 tags: [public, music therapy clinic, ARU]
 author: tEdör
 comment: true
+short: Presentation to update researchers in the music department about my progress.
 ---
 <br>
 I presented at the Music and Performing Arts Seminar in ARU.

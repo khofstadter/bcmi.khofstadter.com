@@ -5,6 +5,7 @@ categories: public
 tags: [public, musedelica symposium, sussex]
 author: tEdör
 comment: true
+short: Presentation linking my work to psychedelic music. 
 ---
 <br>
 I presented at the [Musedelica Symposium](http://musedelica.wixsite.com/symposium), University of Sussex.

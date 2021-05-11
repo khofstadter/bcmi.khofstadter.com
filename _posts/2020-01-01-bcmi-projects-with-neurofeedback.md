@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BCMI projects with neurofeedback
-categories: project-d
+categories: BCMI-2
 tags: [ongoing, drumming, shamanism, synchronisation]
 author: tEdör
 comment: true
@@ -12,14 +12,14 @@ comment: true
 -->
 
 <br>
-_BCMI_2_ with neurofeedback is used in the following projects:
+BCMI-2 (the second system developed in the research) is used with neurofeedback protocols in the following projects:
 
 1. corine protocol
 2. here and now (revisited)
 3. berlin - colchester BCMI
 
 ### 1. corine protocol
-In this project I have been designing a neurofeedback protocol to be used with _BCMI_2_ between its main two parts, the [Open-SuperCollider-Interface](/openbci-supercollider-interface/) (Interface) and the [Shamanic Soundscape Generator](/shamanic-soundscape-generator/) (Generator). The protocol is based on Flor-Henry et all.'s paper titled '[Brain changes during a shamanic trance: Altered modes of consciousness, hemispheric laterality, and systemic psychobiology](https://www.researchgate.net/publication/315988926_Brain_changes_during_a_shamanic_trance_Altered_modes_of_consciousness_hemispheric_laterality_and_systemic_psychobiology)', where a shamanic practitioner's, [Sorine Sombrum](https://www.corinesombrun.com/en/biography/)'s EEG was analysed with qEEG and LORETA methods while she was entering a Shamanic State of Consciousness (SSC). Due to the difference between the amount of channels used in their research (43) and the amount of channels currently available in the Interface (8), the neuromarkers for my _corine (neurofeedback) protocol_ needed certain simplification. (This simplification was also needed as the Interface does not support LORETA analysis yet.)
+In this project I have been designing a neurofeedback protocol to be used with BCMI-2 between its main two parts, the [Open-SuperCollider-Interface](/openbci-supercollider-interface/) (Interface) and the [Shamanic Soundscape Generator](/shamanic-soundscape-generator/) (Generator). The protocol is based on Flor-Henry et all.'s paper titled '[Brain changes during a shamanic trance: Altered modes of consciousness, hemispheric laterality, and systemic psychobiology](https://www.researchgate.net/publication/315988926_Brain_changes_during_a_shamanic_trance_Altered_modes_of_consciousness_hemispheric_laterality_and_systemic_psychobiology)', where a shamanic practitioner's, [Sorine Sombrum](https://www.corinesombrun.com/en/biography/)'s EEG was analysed with qEEG and LORETA methods while she was entering a Shamanic State of Consciousness (SSC). Due to the difference between the amount of channels used in their research (43) and the amount of channels currently available in the Interface (8), the neuromarkers for my _corine (neurofeedback) protocol_ needed certain simplification. (This simplification was also needed as the Interface does not support LORETA analysis yet.)
 
 ![](../assets/img/20190101-corine-protocol-draft.jpg)
 

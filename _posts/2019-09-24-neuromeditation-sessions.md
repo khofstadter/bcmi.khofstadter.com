@@ -1,8 +1,8 @@
 ---
 layout: post
 title: neuromeditation sessions
-categories: project-c
-tags: [something]
+categories: BCMI-2
+tags: [BCMI-2, neurofeedback]
 author: tEdör
 comment: true
 ---

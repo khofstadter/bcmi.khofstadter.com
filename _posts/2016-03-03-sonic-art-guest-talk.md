@@ -5,6 +5,7 @@ categories: public
 tags: [public, demonstration, ARU]
 author: tEdör
 comment: true
+short: Presentation and demonstration of work with NeuroSky.
 ---
 <br>
 Talk introducing BCI in general to sonic art (CMT/ARU) students with some examples from my work.

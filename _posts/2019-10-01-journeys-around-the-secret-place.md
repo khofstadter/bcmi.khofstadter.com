@@ -1,14 +1,15 @@
 ---
 layout: post
 title: journeys around the secret place
-categories: project-d
-tags: [ongoing, project-d, writing]
+categories: BCMI-2
+tags: [ongoing, BCMI-2, writing]
 author: tEdör
 comment: true
 ---
-### essay on my experience with art, meditation and BCMI
 
-This essay is currently under the review of the editor. The final version is proposed to be published as a chapter in the 'Edited Collection on Psychedelic Music' by Routledge.
+### book chapter on my experience with art, meditation and BCMI
+
+This chapter is currently under the review of the editor. The final version is proposed to be published as a chapter in the 'Edited Collection on Psychedelic Music' by Routledge.
 
 Current abstract: 
 

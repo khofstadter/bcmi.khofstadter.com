@@ -5,6 +5,7 @@ categories: public
 tags: [public, music therapy clinic, ARU]
 author: tEdör
 comment: true
+short: First presentation.
 ---
 <br>
 I presented at the Music and Performing Arts Seminar at the [Music Therapy Clinic](https://www.anglia.ac.uk/cambridge-institute-for-music-therapy-research/music-therapy-clinic) in ARU.

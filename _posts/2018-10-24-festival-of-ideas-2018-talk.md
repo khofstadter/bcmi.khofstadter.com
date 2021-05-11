@@ -1,7 +1,7 @@
 ---
 layout: post
 title: festival of ideas 2018 talk
-categories: project-c
+categories: BCMI-2
 tags: [public, festival of ideas, archive, contested Landscape]
 author: tEdör
 comment: true

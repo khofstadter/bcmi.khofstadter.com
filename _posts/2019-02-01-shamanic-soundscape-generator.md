@@ -1,8 +1,8 @@
 ---
 layout: post
 title: shamanic soundscape generator
-categories: project-c
-tags: [project-c, OpenBCI, SuperCollider, shamanism, music]
+categories: BCMI-2
+tags: [BCMI-2, OpenBCI, SuperCollider, shamanism, music]
 author: tEdör
 comment: true
 ---

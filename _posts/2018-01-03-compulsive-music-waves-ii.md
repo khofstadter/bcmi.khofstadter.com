@@ -2,7 +2,7 @@
 layout: post
 title: compulsive music waves ii
 categories: release
-tags: [project-a, music]
+tags: [BCMI-1, music]
 author: tEdör
 comment: true
 ---
