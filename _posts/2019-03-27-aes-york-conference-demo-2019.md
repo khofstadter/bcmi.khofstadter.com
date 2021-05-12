@@ -5,17 +5,24 @@ categories: public
 tags: [public, demonstration]
 author: tEdör
 comment: true
+short: Demonstrating the first BCMI-2 prototype.
 ---
 
-Title: Demonstration of Brain-Computer Music Interfacing Soundscape - Generative Rhythmic Entrainment
+###  Demonstration of Brain-Computer Music Interfacing Soundscape - Generative Rhythmic Entrainment
 
-@ 2019 Audio Engineering Society International Conference on Immersive and Interactive Audio, York, UK ([<kbd>programme</kbd>](http://www.aes.org/conferences/2019/immersive/program.cfm))
+@ 2019 Audio Engineering Society International Conference on Immersive and Interactive Audio, York, UK
+
+Conference programme [here](http://www.aes.org/conferences/2019/immersive/program.cfm).
+
+<br>
+
 
 ![](../assets/img//2019-03-27-aes-york-2019-khofstadter01.jpg)
 
-<br><br>
+<br>
 
-## Outline
+
+## presentation outline
 
 - brief outline of disciplines
 
@@ -23,7 +30,7 @@ Title: Demonstration of Brain-Computer Music Interfacing Soundscape - Generative
 
 - demo with live EEG in OpenBCI and SuperCollider
 
-<br><br>
+<br>
 
 ![](../assets/img//2019-03-27-aes-york-2019-khofstadter02.jpg)
 

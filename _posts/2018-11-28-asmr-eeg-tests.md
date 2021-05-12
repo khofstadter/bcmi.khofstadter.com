@@ -1,27 +1,31 @@
 ---
 layout: post
-title: asmr eeg tests
+title: ASMR eeg tests
 categories: BCMI-2
 tags: [BCMI-2, measurements, IBVA]
 author: tEdör
 comment: true
+short: Recording EEG for a short film documentary.
 ---
-<br>
 I used two [IBVA](http://ibva.co.uk/) hardware to record EEG of six participants in an ASMR study. We had three sessions, in each two people. The sessions had three main stages: normal, ASMR and active listening:
+<br>
+- 5 min normal - eyes open
+- 5 min normal - eyes closed
+- 12 min ASMR - eyes closed
+- 5 min active listening - eyes open
+- 5 min active listening - eyes closed
 <br><br>
-5 min normal - eyes open
-5 min normal - eyes closed
-12 min ASMR - eyes closed
-5 min active listening - eyes open
-5 min active listening - eyes closed
-<br><br>
+
 ![](../assets/img//2018-11-28-asmr-eeg-01.jpg)
 <br><br>
-_Objectives:_
-1) Can we see effects of the ASMR soundtrack in the EEG?
-2) Can these effects be sustained in the active listening part?
-<br><br>
-_First analysis:_
+_Objectives:_   
+<br>
+- 1) Can we see effects of the ASMR soundtrack in the EEG?
+- 2) Can these effects be sustained in the active listening part?
+<br><br><br>
+
+_Initial analysis:_ 
+<br>  
 By simply revisiting the data in the 3D waterfall visualization of the FFT I can reveal that:
 1) participants' left hemispheres were more active, especially in the normal stage;
 2) in the ASMR part, the overall activity of the EEGs were reduced compared to the first, normal stages;
@@ -30,7 +34,7 @@ By simply revisiting the data in the 3D waterfall visualization of the FFT I can
 <br>
 <br>
 The study is part of a documentary about ASMR and hasn't been conducted with strict scientific guidelines. It has helped me to align and compare ideas behind how ASMR is thought to shift awareness with the ideas on how sound connected to meditation can help shift awareness in my BCMI research.
-<br>
+<br><br>
 The study helped me become more aware of how useful micro-sounds can be in audio guided meditation. Since the study I not only started listening to the micro-sounds made while doing shamanic drumming, but I also started composing music with more attention on using detailed sound textures to help immersion.
 <br><br>
 ![](../assets/img//2018-11-28-asmr-eeg-02.jpg)

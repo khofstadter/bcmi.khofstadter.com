@@ -5,11 +5,10 @@ categories: public
 tags: [public, cimtre, ARU]
 author: tEdör
 comment: true
+short: Short presentation and networking.
 ---
-<br>
- Introduced the work at the Arts, Health & Wellbeing Research Networking event of [Cambridge Institute for Music Therapy Research](https://twitter.com/CIMTR_ARU).
+I introduced the work at the Arts, Health & Wellbeing Research Networking event of [Cambridge Institute for Music Therapy Research](https://twitter.com/CIMTR_ARU).
 <br>
 <br>
 ![](../assets/img//2018-07-cimtr.jpg)
 [Source](https://twitter.com/CIMTR_ARU/status/1016258071990013952?ref_src=twsrc%5Etfw).<br>
-<br>

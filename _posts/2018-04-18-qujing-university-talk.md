@@ -5,8 +5,8 @@ categories: public
 tags: [public, Qujing, China]
 author: tEdör
 comment: true
+short: Presentation about being a creative technologiest in Cambridge highlightign work with BCMI. 
 ---
-<br>
 Presentation on being a creative technologist, highlighting the BCMI project. China, Yunnan.
 <br>
 <br>

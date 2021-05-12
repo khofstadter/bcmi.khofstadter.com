@@ -5,8 +5,8 @@ categories: public
 tags: [public, multilingual conference, essex]
 author: tEdör
 comment: true
+short: Demonstration at the local university.
 ---
-<br>
 I demonstrated at the Multilingual Conference 2018 at the University of Essex.
 <br>
 <br>
@@ -23,4 +23,3 @@ All slides [here](../assets/doc/k_hofstadter_phd_2018_02_presentation.pdf).
 <br>
 <br>
 Full [programme](../assets/doc/k_hofstadter_phd_2018_02_multicon_programme.pdf).
-<br>

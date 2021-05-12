@@ -1,0 +1,23 @@
+I"E<!--
+add https://www.maxlaumeister.com/pagecrypt/
+-->
+<p><br />
+Neurofeedback sessions with 3 participants using the <a href="/openbci-supercollider-interface/">OpenBCI-SuperCollider Interface</a> linked to the <a href="/shamanic-meditation-soundscape/">Shamanic Meditation Soundscape</a>. The goal was to help enhance the power of theta waves at Fz with a specific audio entrainment called rhythmic entrainment. The use of rhythmic entrainment in this project was inspired by the work of <a href="https://www.stronginstitute.com/">Jeff Strong</a>.</p>
+
+<h3 id="the-room">the room</h3>
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/8W7U3mrnR_s?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen="" scrolling="no"></iframe></div>
+<p><br /></p>
+
+<h3 id="subject-b-and-m">subject b and m</h3>
+<p><img src="../assets/img/2019-09-24-b.jpg" alt="" />
+<br /></p>
+
+<p><img src="../assets/img/2019-09-24-m.jpg" alt="" />
+<br />
+<br /></p>
+<h3 id="example-of-eeg-analysis-in-supercollider">Example of EEG analysis in SuperCollider</h3>
+<p><img src="../assets/img/2019-09-24-OpenBCI-RAW-2019-09-27_10-34-40_sc_brackets_removed-last-level-ameneded-nfth2.0_levels_plot.jpg" alt="" />
+<br />
+<br /></p>
+:ET

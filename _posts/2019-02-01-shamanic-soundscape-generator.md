@@ -5,8 +5,8 @@ categories: BCMI-2
 tags: [BCMI-2, OpenBCI, SuperCollider, shamanism, music]
 author: tEdör
 comment: true
+short: The second part of BCMI-2, using classified data from the OpenBCI-SuperCollider Interface to control sound in a generative soundscape.
 ---
-<br>
 code: [GitHub](https://github.com/krisztian-hofstadter-tedor/bcmi-sc01-shamanic-soundscape-generator)
 <br>
 <br>
@@ -14,10 +14,10 @@ An interactive soundscape generator for brain-computer music interfacing with rh
 <br>
 
 ### sub-projects testing
-- [neuromeditation sessions](/neuromeditation-sessions/)
+1. [neuromeditation sessions](/neuromeditation-sessions/)
 
-- [performance](/festival-of-ideas-2019-talk-performance/)
+2. [performance](/festival-of-ideas-2019-talk-performance/)
 
-- listening studies testing auditory entrainment
+3. listening studies testing auditory entrainment
   - [survey-1](/listening-test-survey-1/)
   - [survey-2](/listening-test-survey-2/)

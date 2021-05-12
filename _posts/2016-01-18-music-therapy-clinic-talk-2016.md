@@ -7,11 +7,10 @@ author: tEdör
 comment: true
 short: First presentation.
 ---
+My first presentation on my research ideas was at the yearly Music and Performing Arts Seminar at the [Music Therapy Clinic](https://www.anglia.ac.uk/cambridge-institute-for-music-therapy-research/music-therapy-clinic) in ARU.
 <br>
-I presented at the Music and Performing Arts Seminar at the [Music Therapy Clinic](https://www.anglia.ac.uk/cambridge-institute-for-music-therapy-research/music-therapy-clinic) in ARU.
 <br>
-<br>
-One slide:
+One slide from the presentation:
 <br>
 <br>
 ![](../assets/img//2016-01-presentation-slide5.jpg)

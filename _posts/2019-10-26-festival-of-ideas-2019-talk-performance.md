@@ -5,17 +5,21 @@ categories: BCMI-2
 tags: [BCMI-2, public, performance]
 author: tEdör
 comment: true
+short: First public demonstration of the BCMI-2 used in performance.
 ---
 <!--
 - edit/upload presentation video;
 -->
-@ [Cambridge Festival of Ideas](https://www.festivalofideas.cam.ac.uk/) 2019
+@ [2019 Cambridge Festival of Ideas](https://www.festivalofideas.cam.ac.uk/)
 <br>
 <br>
 ![](../assets/img//20191026-cambridge-festival-of-ideas-01.jpg)
 <br>
 <br>
-### talk
+
+### talk 
+
+The talk addressed the following questions:
 
 - orientation. What is the interdisciplinary nature of the research?
 
@@ -43,14 +47,16 @@ comment: true
 <br>
 <br>
 <br>
-### Performance
-(in video collage)
+
+### performance
+(video collage)
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/lFVzwZtmecc?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
 The performance used the [OpenBCI-SuperCollider Interface](/openbci-supercollider-interface/) with the [Shamanic Meditation Soundscape](http://localhost:4000/shamanic-meditation-soundscape/) software. Audio release featuring the stereo and surround files can be access through [shamanic soundscape - level two](/shamanic-soundscape-level-two/).
 <br>
 <br>
 <br>
-### Plotting my EEG data
+
+### plotting my EEG data
 (in SuperCollider)
 ![](../assets/img/20191026-cambridge-festival-of-ideas-03.jpg)
 <br>
@@ -68,11 +74,9 @@ Plot meanings:
 <br>
 <br>
 <br>
-### Drawings
+
+### drawings
 Some visual interpretations of the journeys from the group:
 <br>
 <br>
 ![](../assets/img//20191026-cambridge-festival-of-ideas-02.jpg)
-<br>
-<br>
-<br>

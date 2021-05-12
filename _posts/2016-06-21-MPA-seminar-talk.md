@@ -7,11 +7,8 @@ author: tEdör
 comment: true
 short: Presentation to update researchers in the music department about my progress.
 ---
-<br>
-I presented at the Music and Performing Arts Seminar in ARU.
-
-<br>
-<br>
+I presented at the Music and Performing Arts (MPA) Seminar in ARU.
+<br><br>
 One slide:
 <br>
 <br>

@@ -7,11 +7,10 @@ author: tEdör
 comment: true
 short: Standalone version of the BCMI-1 sequencer for others to test.
 ---
+I made a standalone application of the sequencer in BCMI-1 with [Platypus](https://sveinbjorn.org/platypus). The application is simply a merge of the SuperCollider software and my sequencer code. 
 <br>
-I exported my SuperCollider code of the sequencer part of the [<kbd>NeuroSky-SuperCollider interface and audio neurogame</kbd>](/neurosky-supercollider-interface-and-audio-neurogame/) into a standalone application with [Platypus](https://sveinbjorn.org/platypus).
 <br>
-<br>
-Download [here.](https://github.com/krisztian-hofstadter-tedor/NeuroSky-SuperCollider/tree/master/standalones)
+Download latest (2018) version from [here.](https://github.com/krisztian-hofstadter-tedor/NeuroSky-SuperCollider/tree/master/standalones/2016/)
 <br>
 <br>
 ![](../assets/img/2016-03-04-standalone-with-platypus.jpg)
