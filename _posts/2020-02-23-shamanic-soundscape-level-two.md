@@ -5,6 +5,7 @@ categories: release
 tags: [BCMI-2, music]
 author: tEdör
 comment: true
+short: An album with three pieces in different formats including surround sound.
 ---
 > Some shamanic practitioners journey to nonordinary realities with fast and repetitive drumming. As an experiment, the soundscapes on this release extend on these traditional forms. They feature more diverse rhythms, tempo changes, added sound textures and surround sound. The software that generates these soundscapes uses real-time brainwave data with neuro-feedback protocols. The protocols control characteristics of prerecorded and live sounds.
 

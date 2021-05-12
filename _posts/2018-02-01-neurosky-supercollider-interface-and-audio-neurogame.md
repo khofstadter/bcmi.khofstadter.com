@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NeuroSky-SuperCollider interface and audio neurogame
+title: NeuroSky-SuperCollider interface
 categories: BCMI-1
 tags: [BCMI-1, openbci, greentek EEG cap]
 author: tEdör
