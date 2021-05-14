@@ -1,0 +1,15 @@
+I"><p><img src="/../assets/img/2009_09_05_HCI2009_05.jpg" alt="Richard, Tom, Krisztian" /></p>
+
+<p>The Digital Performance Laboratory was at the <a href="https://www.cl.cam.ac.uk/events/hci2009/open-house.html"><kd>HCI2009</kd></a>, Open House Festival of Interactive Technology. My demonstration used brainwaves (EEG) with neuro-feedack (NF) in connection with an Arduino installation. The goal was to have an effect on a rhythmically evolving composition and a physical installation with servo motors relaxing the mind and thereby producing more alpha waves.</p>
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.6669%;"><iframe src="https://player.vimeo.com/video/9717200?title=0&amp;byline=0&amp;portrait=0" style="order: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen="" scrolling="no"></iframe></div>
+
+<p>tools: IVA, Arduino, Max/MSP, SuperCollider, Logic, f0.limit_counter (Max external)
+<br /><br /></p>
+
+<h2 id="related-writing">related writing</h2>
+
+<ul>
+  <li>An investigation of the use of EEG data for the purposes of sonification and visualisation in a creative environment (<a href="/../assets/doc/K_Hofstadter_2009_an investigation_of_the_use_of EEG_data_for_the_purposes_of_sonification_and visualisation_in_a_creative environment.pdf">pdf</a>)</li>
+</ul>
+:ET
