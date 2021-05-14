@@ -26,7 +26,7 @@ time, mark, audio, video {
   Web safe fonts: https://www.cssfontstack.com/
   Thin about readility and fallbacks.
   */
-  font-family: Lora; 
+  font-family: monospace; 
   /* vertical-align: baseline; */
 }
 
