@@ -4,7 +4,7 @@ title: compulsive music waves ii
 categories: release
 tags: [BCMI-1, music]
 author: tEdör
-comment: true
+comment: false
 short: Audio release consisting of eight sustained minimal pieces.
 ---
 This release contains audio recordings made with the sequencer developed for the [NeuroSky-SuperCollider Interface](/neurosky-supercollider-interface-and-audio-neurogame/) (BCMI-1).

@@ -37,7 +37,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 ul {
-  list-style: none;
+  list-style: circle;
   padding-left: 20px;
   margin: 3px 0;
   overflow: hidden;

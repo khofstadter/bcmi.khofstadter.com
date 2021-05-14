@@ -4,7 +4,7 @@ title: music therapy clinic talk
 categories: public
 tags: [public, music therapy clinic, ARU]
 author: tEdör
-comment: true
+comment: false
 short: First presentation.
 ---
 My first presentation on my research ideas was at the yearly Music and Performing Arts Seminar at the [Music Therapy Clinic](https://www.anglia.ac.uk/cambridge-institute-for-music-therapy-research/music-therapy-clinic) in ARU.

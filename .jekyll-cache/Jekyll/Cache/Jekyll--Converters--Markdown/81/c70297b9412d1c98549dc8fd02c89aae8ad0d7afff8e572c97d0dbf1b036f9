@@ -1,4 +1,4 @@
-I"8
+I"K
 <p>Hello, my name is Krisztián Hofstädter. This subdomain archives my doctoral research titled ‘Developing a Brain-Computer Music Interface for Meditation’ at the <a href="https://aru.ac.uk/people/krisztian-hofstadter">Anglia Ruskin University</a>, Cambridge. You can read about my other projects <a href="https://khofstadter.info">here</a>.</p>
 
 <h2 id="research-abstract">research abstract</h2>
@@ -104,7 +104,7 @@ there is also a file added in layouts: external.html and the posts amended accor
 <div class="tab">
   organise by
   <button class="tablinks" onclick="openCity(event, 'time')" id="defaultOpen">time</button>
-  <button class="tablinks" onclick="openCity(event, 'categories')">first category</button>
+  <button class="tablinks" onclick="openCity(event, 'categories')">categories</button>
 </div>
 
 <div id="time" class="tabcontent">
@@ -686,7 +686,7 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       <li>
         <input id="node2++38" name="node" class="node" type="radio" />
-        <label for="node2++38" data-idx="2++38">hci2009</label>
+        <label for="node2++38" data-idx="2++38">hci2009 (pre PhD)</label>
         <ul>
           <li>
           <div class="date"> 2009-09-05</div>
@@ -891,9 +891,13 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     
+    
+    
+    
+    
     <li>
-      <input id="node3++2++9" name="node" class="node" type="radio" />
-      <label for="node3++2++9" data-idx="3++2++9">shamanic soundscape generator</label>
+      <input id="node3++2++10" name="node" class="node" type="radio" />
+      <label for="node3++2++10" data-idx="3++2++10">shamanic soundscape generator</label>
       <ul>
         <li>
         <div class="date"> 2019-02-01</div>
@@ -909,8 +913,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++2++10" name="node" class="node" type="radio" />
-      <label for="node3++2++10" data-idx="3++2++10">ASMR eeg tests</label>
+      <input id="node3++2++11" name="node" class="node" type="radio" />
+      <label for="node3++2++11" data-idx="3++2++11">ASMR eeg tests</label>
       <ul>
         <li>
         <div class="date"> 2018-11-28</div>
@@ -926,8 +930,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++2++11" name="node" class="node" type="radio" />
-      <label for="node3++2++11" data-idx="3++2++11">tibetan singing bowls meditation with eeg</label>
+      <input id="node3++2++12" name="node" class="node" type="radio" />
+      <label for="node3++2++12" data-idx="3++2++12">tibetan singing bowls meditation with eeg</label>
       <ul>
         <li>
         <div class="date"> 2018-11-21</div>
@@ -943,8 +947,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++2++12" name="node" class="node" type="radio" />
-      <label for="node3++2++12" data-idx="3++2++12">festival of ideas 2018 talk</label>
+      <input id="node3++2++13" name="node" class="node" type="radio" />
+      <label for="node3++2++13" data-idx="3++2++13">festival of ideas 2018 talk</label>
       <ul>
         <li>
         <div class="date"> 2018-10-24</div>
@@ -960,8 +964,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++2++13" name="node" class="node" type="radio" />
-      <label for="node3++2++13" data-idx="3++2++13">OpenBCI-SuperCollider Interface</label>
+      <input id="node3++2++14" name="node" class="node" type="radio" />
+      <label for="node3++2++14" data-idx="3++2++14">OpenBCI-SuperCollider Interface</label>
       <ul>
         <li>
         <div class="date"> 2018-06-24</div>
@@ -1015,7 +1019,7 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     <li>
       <input id="node3++4++1" name="node" class="node" type="radio" />
-      <label for="node3++4++1" data-idx="3++4++1">hci2009</label>
+      <label for="node3++4++1" data-idx="3++4++1">hci2009 (pre PhD)</label>
       <ul>
         <li>
         <div class="date"> 2009-09-05</div>
@@ -1036,10 +1040,6 @@ there is also a file added in layouts: external.html and the posts amended accor
 
 <form onsubmit="return false">
   <ul class="lists">
-    
-    
-    
-    
     
     
     

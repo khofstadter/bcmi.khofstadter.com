@@ -1,13 +1,14 @@
 ---
 layout: post
 title: blue forest
-categories: ongoing
+categories: BCMI-2
 tags: [ongoing, drumming, shamanism, syncronisation]
 author: tEdör
-comment: true
+comment: false
 short: Project based learning linking music, drawing, writing and meditation. 
 ---
 <!--
+change category once not ongoing
 TODO: add forest drawing;
 TODO: add better drum in window picture;
 -->

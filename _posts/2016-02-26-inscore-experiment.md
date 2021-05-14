@@ -4,7 +4,7 @@ title: inScore experiment
 categories: BCMI-1
 tags: [BCMI-1, code, inScore, supercollider]
 author: tEdör
-comment: true
+comment: false
 short: Experimenting with visualising notation for live acoustic performers.
 ---
 Experimented with sending musical scores from the [<kbd>NeuroSky-SuperCollider interface and audio neurogame</kbd>](/neurosky-supercollider-interface-and-audio-neurogame/) to [InScore](http://inscore.sourceforge.net/) via Richard Hoadley's [InScore](http://rhoadley.net/software/index.php) class for SuperCollider.

@@ -4,7 +4,7 @@ title: shamanic soundscape - neuromeditation sessions
 categories: release
 tags: [BCMI-2, music]
 author: tEdör
-comment: true
+comment: false
 short: An album with three pieces recorded while neurofeedback sessions with participants. 
 ---
 ### audio release

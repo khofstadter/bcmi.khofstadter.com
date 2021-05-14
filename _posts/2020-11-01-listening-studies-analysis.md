@@ -4,7 +4,7 @@ title: listening studies analysis
 categories: BCMI-2
 tags: [ongoing, BCMI-2, analysis, no-neurofeedback]
 author: tEdör
-comment: true
+comment: false
 short: Analysing the two listening studies with RawGraphs.
 ---
 This project analyses data from the two online listening studies ([1](/listening-study-2/), [2](/listening-study-1/)) and uses [RAWGraphs](https://rawgraphs.io/) to produce aesthetic and meaningful visual representations of the data. 

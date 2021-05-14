@@ -4,7 +4,7 @@ title: OpenBCI-SuperCollider Interface
 categories: BCMI-2
 tags: [BCMI-2, OpenBCI, SuperCollider, GitHub]
 author: tEdör
-comment: true
+comment: false
 short: One half of the BCMI-2 interface, the OpenBCI-SuperCollider Interface is published on GitHub.
 ---
 code: [Github](https://github.com/krisztian-hofstadter-tedor/OpenBCI-SuperCollider)

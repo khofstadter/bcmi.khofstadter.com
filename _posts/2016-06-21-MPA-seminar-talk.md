@@ -4,7 +4,7 @@ title: MPA seminar talk
 categories: public
 tags: [public, music therapy clinic, ARU]
 author: tEdör
-comment: true
+comment: false
 short: Presentation to update researchers in the music department about my progress.
 ---
 I presented at the Music and Performing Arts (MPA) Seminar in ARU.

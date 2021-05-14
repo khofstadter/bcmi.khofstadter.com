@@ -2,7 +2,7 @@
 title: pint of science installation
 categories: public
 tags: [public, installation, music, video]
-comment: true
+comment: false
 short: I made a music video for a Cambridge Pint of Science event. The idea was to reflect on my 'caffeine and music addiction'.
 ---
 ![](../assets/img/2016-04-23-pint-of-science-cambridge-2016.jpg)

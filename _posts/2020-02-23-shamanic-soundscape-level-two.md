@@ -4,10 +4,10 @@ title: shamanic soundscape - level two
 categories: release
 tags: [BCMI-2, music]
 author: tEdör
-comment: true
+comment: false
 short: An album with three pieces in different formats including surround sound.
 ---
-> Some shamanic practitioners journey to nonordinary realities with fast and repetitive drumming. As an experiment, the soundscapes on this release extend on these traditional forms. They feature more diverse rhythms, tempo changes, added sound textures and surround sound. The software that generates these soundscapes uses real-time brainwave data with neuro-feedback protocols. The protocols control characteristics of prerecorded and live sounds.
+> Some shamanic practitioners journey to nonordinary realities with fast and repetitive drumming. As an experiment, the soundscapes on this release extend on these traditional forms. They feature more diverse rhythms, tempo changes, added sound textures and surround sound. The software that generates these soundscapes uses real-time brainwave data with neurofeedback protocols. The protocols control characteristics of prerecorded and live sounds.
 
 This release contains audio recordings from the [2019 Cambridge Festival of Ideas](/festival-of-ideas-2019-talk-performance/). More info and surround files can be found on the [Bandcamp page](https://tedor.bandcamp.com/album/shamanic-soundscape-level-two).
 <br><br>

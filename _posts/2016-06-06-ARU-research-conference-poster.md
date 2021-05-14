@@ -4,7 +4,7 @@ title: ARU research conference poster
 categories: public
 tags: [public, conference, poster, aru]
 author: tEdör
-comment: true
+comment: false
 short: My first poster.
 ---
 

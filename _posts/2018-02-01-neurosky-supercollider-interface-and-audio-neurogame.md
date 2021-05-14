@@ -4,7 +4,7 @@ title: NeuroSky-SuperCollider interface
 categories: BCMI-1
 tags: [BCMI-1, openbci, greentek EEG cap]
 author: tEdör
-comment: true
+comment: false
 short: Updated version of the interface (BCMI-1).
 ---
 code: [GitHub](https://github.com/krisztian-hofstadter-tedor/NeuroSky-SuperCollider)

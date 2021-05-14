@@ -4,7 +4,7 @@ title: platypus standalone of sequencer
 categories: BCMI-1
 tags: [BCMI-1 code, supercollider, sequencer, platypus]
 author: tEdör
-comment: true
+comment: false
 short: Standalone version of the BCMI-1 sequencer for others to test.
 ---
 I made a standalone application of the sequencer in BCMI-1 with [Platypus](https://sveinbjorn.org/platypus). The application is simply a merge of the SuperCollider software and my sequencer code. 

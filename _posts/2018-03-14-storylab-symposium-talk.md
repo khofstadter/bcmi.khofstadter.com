@@ -4,7 +4,7 @@ title: StoryLab symposium talk
 categories: public
 tags: [public, storylab, aru]
 author: tEdör
-comment: true
+comment: false
 short: Presentation outlining the research progress.
 ---
 Presentation at the 'interpret' StoryLab symposium (ARU).

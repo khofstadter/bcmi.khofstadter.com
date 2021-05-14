@@ -4,7 +4,7 @@ title: ASMR eeg tests
 categories: BCMI-2
 tags: [BCMI-2, measurements, IBVA]
 author: tEdör
-comment: true
+comment: false
 short: Recording EEG for a short film documentary.
 ---
 I used two [IBVA](http://ibva.co.uk/) hardware to record EEG of six participants in an ASMR study. We had three sessions, in each two people. The sessions had three main stages: normal, ASMR and active listening:

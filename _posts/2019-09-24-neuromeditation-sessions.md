@@ -4,7 +4,7 @@ title: neuromeditation sessions
 categories: BCMI-2
 tags: [BCMI-2, neurofeedback]
 author: tEdör
-comment: true
+comment: false
 short: Project testing the BCMI-2 with two participants. 
 ---
 <!--

@@ -4,7 +4,7 @@ title: multilingual conference demo
 categories: public
 tags: [public, multilingual conference, essex]
 author: tEdör
-comment: true
+comment: false
 short: Demonstration at the local university.
 ---
 I demonstrated at the Multilingual Conference 2018 at the University of Essex.

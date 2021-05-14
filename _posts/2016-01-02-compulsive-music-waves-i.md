@@ -4,7 +4,7 @@ title: compulsive music waves i
 categories: release
 tags: [BCMI-1, music]
 author: tEdör
-comment: true
+comment: false
 short: Compositions made with the sequencer developed for BCMI-1.
 ---
 

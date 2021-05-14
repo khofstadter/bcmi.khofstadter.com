@@ -4,7 +4,7 @@ title: tibetan singing bowls meditation with eeg
 categories: BCMI-2
 tags: [BCMI-2, measurements, sound healing, OpenBCI]
 author: tEdör
-comment: true
+comment: false
 short: Recording EEG during a sound healing session.
 ---
 I used the [OpenBCI](https://openbci.com/) with a gelfree [Greentek](http://www.greenteksensor.com/) cap to record EEG at F1, F2, T5 and T6 at a sound healing session. In the session [Farah Mulla](http://farahmulla.wixsite.com/farah-mulla-) used her Tibetan singing bowls for around an hour next to and on a participant. The measurements are of interest to my research as sometime in the future I plan to test how [extremely low frequencies](https://bestsingingbowls.com/singing-bowl-frequency/) (ELF) can help shift the awareness of the listener.

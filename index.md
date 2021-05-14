@@ -23,7 +23,7 @@ I submitted the thesis at the end of April 2021. While waiting for the viva, I a
 <div class="tab">
   organise by
   <button class="tablinks" onclick="openCity(event, 'time')" id="defaultOpen">time</button>
-  <button class="tablinks" onclick="openCity(event, 'categories')">first category</button>
+  <button class="tablinks" onclick="openCity(event, 'categories')">categories</button>
 </div>
 
 <div id="time" class="tabcontent">
@@ -35,6 +35,11 @@ I submitted the thesis at the end of April 2021. While waiting for the viva, I a
 </div>
 
 <br>
+
+For feedback and questions please use email me at kris[at]khofstadter[dot]info.
+
+<br>
+
 
 <script>
 function openCity(evt, cityName) {

@@ -4,8 +4,8 @@ title: Qujing University talk
 categories: public
 tags: [public, Qujing, China]
 author: tEdör
-comment: true
-short: Presentation about being a creative technologiest in Cambridge highlightign work with BCMI. 
+comment: false
+short: Presentation about being a creative technologist in Cambridge highlighting work with BCMI. 
 ---
 Presentation on being a creative technologist, highlighting the BCMI project. China, Yunnan.
 <br>

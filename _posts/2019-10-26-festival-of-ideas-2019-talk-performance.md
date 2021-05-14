@@ -4,7 +4,7 @@ title: festival of ideas 2019 talk and performance
 categories: BCMI-2
 tags: [BCMI-2, public, performance]
 author: tEdör
-comment: true
+comment: false
 short: First public demonstration of the BCMI-2 used in performance.
 ---
 <!--
@@ -31,7 +31,7 @@ The talk addressed the following questions:
 
 - why are the gaming elements absent in this performance?
 
-- how shall you listen to the soundscape? Shall you listen to the digital shamans (drums and chakapa), my live drumming or the other sounds?
+- how shall you listen to the soundscape? Shall you listen to the digital shamans (drums and shaker), my live drumming or the other sounds?
 
 - shall you watch the screen or not?
 

@@ -4,7 +4,7 @@ title: aphorisms
 categories: public
 tags: [public, events, music]
 author: tEdör
-comment: true
+comment: false
 short: A performance piece by David Ryan for which I transformed and spatialised live sound in SuperCollider.
 ---
 My part in this performance was to create abstract textures by using six dynamic microphones and signal processing in SuperCollider. Spatialisation used quad speaker setup. 

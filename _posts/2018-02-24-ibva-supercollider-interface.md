@@ -1,13 +1,14 @@
 ---
 layout: post
 title: IBVA-SuperCollider interface
-categories: BCMI-1
+categories: BCMI-2
 tags: [BCMI-1, SuperCollider, IBVA, GitHub]
 author: tEdör
-comment: true
-short: First interface aquiring EEG from IVBA hardwave in SuperCollider software.
+comment: false
+short: First interface acquiring EEG from IVBA hardware in SuperCollider software.
 ---
 <!--
+change category once not ongoing
 make a video demo;
 -->
 GitHub repository [here](https://github.com/krisztian-hofstadter-tedor/IBVA-BlueVAS-SuperCollider).

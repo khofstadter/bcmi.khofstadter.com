@@ -4,7 +4,7 @@ title: journeys around the secret place
 categories: BCMI-2
 tags: [ongoing, BCMI-2, writing]
 author: tEdör
-comment: true
+comment: false
 short: Writing a book chapter.
 ---
 

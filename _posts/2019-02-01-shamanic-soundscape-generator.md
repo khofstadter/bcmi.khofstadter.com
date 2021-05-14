@@ -4,7 +4,7 @@ title: shamanic soundscape generator
 categories: BCMI-2
 tags: [BCMI-2, OpenBCI, SuperCollider, shamanism, music]
 author: tEdör
-comment: true
+comment: false
 short: The second part of BCMI-2, using classified data from the OpenBCI-SuperCollider Interface to control sound in a generative soundscape.
 ---
 code: [GitHub](https://github.com/krisztian-hofstadter-tedor/bcmi-sc01-shamanic-soundscape-generator)

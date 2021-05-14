@@ -4,14 +4,14 @@ title: listening study 1
 categories: BCMI-2
 tags: [BCMI-2, test]
 author: tEdör
-comment: true
-short: First onling survey testing a shamanic soundscape with auditory entrainment.
+comment: false
+short: First online survey testing a shamanic soundscape with auditory entrainment.
 ---
 > This survey attempts to collect effects of a soundscape for meditation supported by sonic driving. The sonic driving derives from the shamanic journey tradition, but is not specifically a shamanic journey. The estimated completion time is 30 minutes, including a 20 minute meditation.
 
 <div style="text-align: right"> (from the survey's introduction) </div>
 <br>
-The soundscape tested the piece'jester', which can be found on the ['shamanic soundscape - level two' release](/shamanic-soundscape-level-two/).
+The soundscape tested the piece 'jester', which can be found on the ['shamanic soundscape - level two' release](/shamanic-soundscape-level-two/).
 <br>
 <br>
 A short overview of the analysis is presented as part of the PhD commentary. More detailed analysis will be presented later in a separate publication.

@@ -4,7 +4,7 @@ title: festival of ideas 2018 talk
 categories: BCMI-2
 tags: [public, festival of ideas, archive, contested Landscape]
 author: tEdör
-comment: true
+comment: false
 short: Presentation linking my research to other artists work. 
 ---
 Gave a presentation at [Kelcy Davenport](http://www.kelcydavenport.com/)'s ‘[The Archive and the Contested Landscape](https://thearchiveandthecontestedlandscape.wordpress.com/)' symposium, which was part of the 2018 [Festival of Ideas](https://www.festivalofideas.cam.ac.uk/), Cambridge. My presentation focused on making connections between the key ideas of the symposium and my BCMI research.

@@ -4,7 +4,7 @@ title: AES York conference demo 2019
 categories: public
 tags: [public, demonstration]
 author: tEdör
-comment: true
+comment: false
 short: Demonstrating the first BCMI-2 prototype.
 ---
 

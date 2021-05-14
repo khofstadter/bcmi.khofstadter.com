@@ -1,10 +1,10 @@
 ---
 layout: post
-title: BCMI projects without neurofeedback
-categories: ongoing
+title: bcmi projects without neurofeedback
+categories: BCMI-2
 tags: [ongoing, drumming, shamanism, synchronisation]
 author: tEdör
-comment: true
+comment: false
 short: A few ongoing experiments with the OpenBCI-SuperCollider Interface, where music is only used as an input for the brain i.e. there is no neurofeedback circle involved.
 ---
 <!--

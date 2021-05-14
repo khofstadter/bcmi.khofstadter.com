@@ -4,8 +4,8 @@ title: bcmi projects with neurofeedback
 categories: BCMI-2
 tags: [ongoing, drumming, shamanism, synchronisation]
 author: tEdör
-comment: true
-short: A few onloing projects using BCMI-2 with music as an input and output of the brain in real-time. 
+comment: false
+short: A few ongoing projects using BCMI-2 with music as an input and output of the brain in real-time. 
 ---
 <!--
 - can i find the corine protocol image with 'cancelled' on it - it is in the Facebook downloaded archive.

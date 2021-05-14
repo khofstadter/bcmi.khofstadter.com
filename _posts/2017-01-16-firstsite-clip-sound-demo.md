@@ -4,7 +4,7 @@ title: firstsite clip sound demonstration
 categories: public
 tags: [public, first-site, colchester]
 author: tEdör
-comment: true
+comment: false
 short: Demonstrating the NeuroSky-SuperCollider interface (BCMI-1) to a group of sound artists in Colchester. 
 ---
 I demonstrated the [_focus-neurogame_](https://github.com/krisztian-hofstadter-tedor/focus-neurogame-neurosky-supercollider) as a part of a [Clip Sound](http://www.clipsoundandmusic.uk/) event at [Firstsite](https://firstsite.uk/), Colchester. Members of the group tested and gave feedback on the interface as well as improvised a performance with one of the soundscapes in the interface.
