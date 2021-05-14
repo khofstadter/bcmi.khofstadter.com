@@ -36,7 +36,7 @@ I submitted the thesis at the end of April 2021. While waiting for the viva, I a
 
 <br>
 
-For feedback and questions please use email me at kris[at]khofstadter[dot]info.
+For feedback and questions please email me at kris[at]khofstadter[dot]info.
 
 <br>
 
