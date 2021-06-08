@@ -1,7 +1,0 @@
-I"<!--
-make a video demo;
--->
-<p>GitHub repository <a href="https://github.com/krisztian-hofstadter-tedor/IBVA-BlueVAS-SuperCollider">here</a>.
-<br /><br />
-In 2018 <a href="https://fredrikolofsson.com/">Fredik Olofsson</a> was added as an external advisor to the supervisory team. He introduced me to <a href="https://github.com/">GitHub</a> while making a SuperCollider class that acquires raw EEG signals from the 2 channel IBVA (BlueVAS) EEG hardware. I have tested this interface, and other devices e.g. NeuroSky and Emotiv to find the most suitable EEG for the research. This year I decided to pause the development of this interface to be able to focus on developing the <a href="/openbci-supercollider-interface/"><kbd>OpenBCI-SuperCollider</kbd></a> interface with Fredik.</p>
-:ET

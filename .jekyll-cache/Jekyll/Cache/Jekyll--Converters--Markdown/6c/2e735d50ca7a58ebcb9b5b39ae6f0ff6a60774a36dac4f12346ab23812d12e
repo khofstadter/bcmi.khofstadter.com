@@ -1,4 +1,4 @@
-I"K
+I"F
 <p>Hello, my name is Krisztián Hofstädter. This subdomain archives my doctoral research titled ‘Developing a Brain-Computer Music Interface for Meditation’ at the <a href="https://aru.ac.uk/people/krisztian-hofstadter">Anglia Ruskin University</a>, Cambridge. You can read about my other projects <a href="https://khofstadter.info">here</a>.</p>
 
 <h2 id="research-abstract">research abstract</h2>
@@ -44,7 +44,7 @@ there is also a file added in layouts: external.html and the posts amended accor
       <ul>
         <li>
         <div class="date">since: 2020-01-01</div>
-        <div class="short"> A few onloing projects using BCMI-2 with music as an input and output of the brain in real-time. </div>
+        <div class="short"> A few ongoing projects using BCMI-2 with music as an input and output of the brain in real-time. </div>
         <br />
         <a href="/bcmi-projects-with-neurofeedback/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
       </li>
@@ -85,7 +85,7 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     <li>
       <input id="node1++5" name="node" class="node" type="radio" />
-      <label for="node1++5" data-idx="1++5">BCMI projects without neurofeedback</label>
+      <label for="node1++5" data-idx="1++5">bcmi projects without neurofeedback</label>
       <ul>
         <li>
         <div class="date">since: 2019-01-01</div>
@@ -147,7 +147,7 @@ there is also a file added in layouts: external.html and the posts amended accor
         <ul>
           <li>
           <div class="date"> 2020-06-04</div>
-          <div class="short"> Prerecorded online presentation inroducting the research and asking people to participate in the second listening study using binaural beats. </div>
+          <div class="short"> Prerecorded online presentation introducing the research and asking people to participate in the second listening study using binaural beats. </div>
           <br />
           <a href="/aru-talking-science-series-2020/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
         </li>
@@ -202,7 +202,7 @@ there is also a file added in layouts: external.html and the posts amended accor
         <ul>
           <li>
           <div class="date"> 2019-11-22</div>
-          <div class="short"> First onling survey testing a shamanic soundscape with auditory entrainment. </div>
+          <div class="short"> First online survey testing a shamanic soundscape with auditory entrainment. </div>
           <br />
           <a href="/listening-study-1/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
         </li>
@@ -401,7 +401,7 @@ there is also a file added in layouts: external.html and the posts amended accor
         <ul>
           <li>
           <div class="date"> 2018-04-18</div>
-          <div class="short"> Presentation about being a creative technologiest in Cambridge highlightign work with BCMI. </div>
+          <div class="short"> Presentation about being a creative technologist in Cambridge highlighting work with BCMI. </div>
           <br />
           <a href="/qujing-university-talk/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
         </li>
@@ -435,7 +435,7 @@ there is also a file added in layouts: external.html and the posts amended accor
         <ul>
           <li>
           <div class="date"> 2018-02-24</div>
-          <div class="short"> First interface aquiring EEG from IVBA hardwave in SuperCollider software. </div>
+          <div class="short"> First interface acquiring EEG from IVBA hardware in SuperCollider software. </div>
           <br />
           <a href="/ibva-supercollider-interface/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
         </li>
@@ -718,24 +718,7 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     <li>
       <input id="node3++1++1" name="node" class="node" type="radio" />
-      <label for="node3++1++1" data-idx="3++1++1">IBVA-SuperCollider interface</label>
-      <ul>
-        <li>
-        <div class="date"> 2018-02-24</div>
-        <div class="short"> First interface aquiring EEG from IVBA hardwave in SuperCollider software. </div>
-        <br />
-        <a href="/ibva-supercollider-interface/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
-      </li>
-      </ul>
-    </li>
-      
-    
-    
-    
-    
-    <li>
-      <input id="node3++1++2" name="node" class="node" type="radio" />
-      <label for="node3++1++2" data-idx="3++1++2">NeuroSky-SuperCollider interface</label>
+      <label for="node3++1++1" data-idx="3++1++1">NeuroSky-SuperCollider interface</label>
       <ul>
         <li>
         <div class="date"> 2018-02-01</div>
@@ -751,8 +734,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++1++3" name="node" class="node" type="radio" />
-      <label for="node3++1++3" data-idx="3++1++3">platypus standalone of sequencer</label>
+      <input id="node3++1++2" name="node" class="node" type="radio" />
+      <label for="node3++1++2" data-idx="3++1++2">platypus standalone of sequencer</label>
       <ul>
         <li>
         <div class="date"> 2016-03-04</div>
@@ -768,8 +751,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++1++4" name="node" class="node" type="radio" />
-      <label for="node3++1++4" data-idx="3++1++4">inScore experiment</label>
+      <input id="node3++1++3" name="node" class="node" type="radio" />
+      <label for="node3++1++3" data-idx="3++1++3">inScore experiment</label>
       <ul>
         <li>
         <div class="date"> 2016-02-26</div>
@@ -821,7 +804,7 @@ there is also a file added in layouts: external.html and the posts amended accor
       <ul>
         <li>
         <div class="date"> 2020-06-04</div>
-        <div class="short"> Prerecorded online presentation inroducting the research and asking people to participate in the second listening study using binaural beats. </div>
+        <div class="short"> Prerecorded online presentation introducing the research and asking people to participate in the second listening study using binaural beats. </div>
         <br />
         <a href="/aru-talking-science-series-2020/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
       </li>
@@ -842,7 +825,7 @@ there is also a file added in layouts: external.html and the posts amended accor
       <ul>
         <li>
         <div class="date"> 2019-11-22</div>
-        <div class="short"> First onling survey testing a shamanic soundscape with auditory entrainment. </div>
+        <div class="short"> First online survey testing a shamanic soundscape with auditory entrainment. </div>
         <br />
         <a href="/listening-study-1/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
       </li>
@@ -912,9 +895,13 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     
+    
+    
+    
+    
     <li>
-      <input id="node3++2++11" name="node" class="node" type="radio" />
-      <label for="node3++2++11" data-idx="3++2++11">ASMR eeg tests</label>
+      <input id="node3++2++12" name="node" class="node" type="radio" />
+      <label for="node3++2++12" data-idx="3++2++12">ASMR eeg tests</label>
       <ul>
         <li>
         <div class="date"> 2018-11-28</div>
@@ -930,8 +917,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++2++12" name="node" class="node" type="radio" />
-      <label for="node3++2++12" data-idx="3++2++12">tibetan singing bowls meditation with eeg</label>
+      <input id="node3++2++13" name="node" class="node" type="radio" />
+      <label for="node3++2++13" data-idx="3++2++13">tibetan singing bowls meditation with eeg</label>
       <ul>
         <li>
         <div class="date"> 2018-11-21</div>
@@ -947,8 +934,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++2++13" name="node" class="node" type="radio" />
-      <label for="node3++2++13" data-idx="3++2++13">festival of ideas 2018 talk</label>
+      <input id="node3++2++14" name="node" class="node" type="radio" />
+      <label for="node3++2++14" data-idx="3++2++14">festival of ideas 2018 talk</label>
       <ul>
         <li>
         <div class="date"> 2018-10-24</div>
@@ -964,14 +951,31 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++2++14" name="node" class="node" type="radio" />
-      <label for="node3++2++14" data-idx="3++2++14">OpenBCI-SuperCollider Interface</label>
+      <input id="node3++2++15" name="node" class="node" type="radio" />
+      <label for="node3++2++15" data-idx="3++2++15">OpenBCI-SuperCollider Interface</label>
       <ul>
         <li>
         <div class="date"> 2018-06-24</div>
         <div class="short"> One half of the BCMI-2 interface, the OpenBCI-SuperCollider Interface is published on GitHub. </div>
         <br />
         <a href="/openbci-supercollider-interface/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+      
+    
+    
+    
+    
+    <li>
+      <input id="node3++2++16" name="node" class="node" type="radio" />
+      <label for="node3++2++16" data-idx="3++2++16">IBVA-SuperCollider interface</label>
+      <ul>
+        <li>
+        <div class="date"> 2018-02-24</div>
+        <div class="short"> First interface acquiring EEG from IVBA hardware in SuperCollider software. </div>
+        <br />
+        <a href="/ibva-supercollider-interface/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
       </li>
       </ul>
     </li>
@@ -1036,20 +1040,6 @@ there is also a file added in layouts: external.html and the posts amended accor
 
 
 
-<h3 id="ongoing">ongoing</h3>
-
-<form onsubmit="return false">
-  <ul class="lists">
-    
-    
-    
-    
-    
-  </ul>
-</form>
-
-
-
 <h3 id="public">public</h3>
 
 <form onsubmit="return false">
@@ -1059,8 +1049,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++6++1" name="node" class="node" type="radio" />
-      <label for="node3++6++1" data-idx="3++6++1">aphorisms</label>
+      <input id="node3++5++1" name="node" class="node" type="radio" />
+      <label for="node3++5++1" data-idx="3++5++1">aphorisms</label>
       <ul>
         <li>
         <div class="date"> 2019-06-13</div>
@@ -1076,8 +1066,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++6++2" name="node" class="node" type="radio" />
-      <label for="node3++6++2" data-idx="3++6++2">AES York conference demo 2019</label>
+      <input id="node3++5++2" name="node" class="node" type="radio" />
+      <label for="node3++5++2" data-idx="3++5++2">AES York conference demo 2019</label>
       <ul>
         <li>
         <div class="date"> 2019-03-27</div>
@@ -1093,8 +1083,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++6++3" name="node" class="node" type="radio" />
-      <label for="node3++6++3" data-idx="3++6++3">CIMTR networking event</label>
+      <input id="node3++5++3" name="node" class="node" type="radio" />
+      <label for="node3++5++3" data-idx="3++5++3">CIMTR networking event</label>
       <ul>
         <li>
         <div class="date"> 2018-07-09</div>
@@ -1110,12 +1100,12 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++6++4" name="node" class="node" type="radio" />
-      <label for="node3++6++4" data-idx="3++6++4">Qujing University talk</label>
+      <input id="node3++5++4" name="node" class="node" type="radio" />
+      <label for="node3++5++4" data-idx="3++5++4">Qujing University talk</label>
       <ul>
         <li>
         <div class="date"> 2018-04-18</div>
-        <div class="short"> Presentation about being a creative technologiest in Cambridge highlightign work with BCMI. </div>
+        <div class="short"> Presentation about being a creative technologist in Cambridge highlighting work with BCMI. </div>
         <br />
         <a href="/qujing-university-talk/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
       </li>
@@ -1127,8 +1117,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++6++5" name="node" class="node" type="radio" />
-      <label for="node3++6++5" data-idx="3++6++5">StoryLab symposium talk</label>
+      <input id="node3++5++5" name="node" class="node" type="radio" />
+      <label for="node3++5++5" data-idx="3++5++5">StoryLab symposium talk</label>
       <ul>
         <li>
         <div class="date"> 2018-03-14</div>
@@ -1144,8 +1134,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++6++6" name="node" class="node" type="radio" />
-      <label for="node3++6++6" data-idx="3++6++6">multilingual conference demo</label>
+      <input id="node3++5++6" name="node" class="node" type="radio" />
+      <label for="node3++5++6" data-idx="3++5++6">multilingual conference demo</label>
       <ul>
         <li>
         <div class="date"> 2018-02-14</div>
@@ -1161,8 +1151,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++6++7" name="node" class="node" type="radio" />
-      <label for="node3++6++7" data-idx="3++6++7">firstsite clip sound demonstration</label>
+      <input id="node3++5++7" name="node" class="node" type="radio" />
+      <label for="node3++5++7" data-idx="3++5++7">firstsite clip sound demonstration</label>
       <ul>
         <li>
         <div class="date"> 2017-01-16</div>
@@ -1178,8 +1168,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++6++8" name="node" class="node" type="radio" />
-      <label for="node3++6++8" data-idx="3++6++8">musedelica symposium demo</label>
+      <input id="node3++5++8" name="node" class="node" type="radio" />
+      <label for="node3++5++8" data-idx="3++5++8">musedelica symposium demo</label>
       <ul>
         <li>
         <div class="date"> 2016-07-14</div>
@@ -1195,8 +1185,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++6++9" name="node" class="node" type="radio" />
-      <label for="node3++6++9" data-idx="3++6++9">MPA seminar talk</label>
+      <input id="node3++5++9" name="node" class="node" type="radio" />
+      <label for="node3++5++9" data-idx="3++5++9">MPA seminar talk</label>
       <ul>
         <li>
         <div class="date"> 2016-06-21</div>
@@ -1212,8 +1202,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++6++10" name="node" class="node" type="radio" />
-      <label for="node3++6++10" data-idx="3++6++10">ARU research conference poster</label>
+      <input id="node3++5++10" name="node" class="node" type="radio" />
+      <label for="node3++5++10" data-idx="3++5++10">ARU research conference poster</label>
       <ul>
         <li>
         <div class="date"> 2016-06-06</div>
@@ -1229,8 +1219,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++6++11" name="node" class="node" type="radio" />
-      <label for="node3++6++11" data-idx="3++6++11">pint of science installation</label>
+      <input id="node3++5++11" name="node" class="node" type="radio" />
+      <label for="node3++5++11" data-idx="3++5++11">pint of science installation</label>
       <ul>
         <li>
         <div class="date"> 2016-04-23</div>
@@ -1246,8 +1236,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++6++12" name="node" class="node" type="radio" />
-      <label for="node3++6++12" data-idx="3++6++12">sonic art guest talk</label>
+      <input id="node3++5++12" name="node" class="node" type="radio" />
+      <label for="node3++5++12" data-idx="3++5++12">sonic art guest talk</label>
       <ul>
         <li>
         <div class="date"> 2016-03-03</div>
@@ -1263,8 +1253,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++6++13" name="node" class="node" type="radio" />
-      <label for="node3++6++13" data-idx="3++6++13">music therapy clinic talk</label>
+      <input id="node3++5++13" name="node" class="node" type="radio" />
+      <label for="node3++5++13" data-idx="3++5++13">music therapy clinic talk</label>
       <ul>
         <li>
         <div class="date"> 2016-01-18</div>
@@ -1290,8 +1280,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++7++1" name="node" class="node" type="radio" />
-      <label for="node3++7++1" data-idx="3++7++1">shamanic soundscape - level two</label>
+      <input id="node3++6++1" name="node" class="node" type="radio" />
+      <label for="node3++6++1" data-idx="3++6++1">shamanic soundscape - level two</label>
       <ul>
         <li>
         <div class="date"> 2020-02-23</div>
@@ -1307,8 +1297,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++7++2" name="node" class="node" type="radio" />
-      <label for="node3++7++2" data-idx="3++7++2">shamanic soundscape - neuromeditation sessions</label>
+      <input id="node3++6++2" name="node" class="node" type="radio" />
+      <label for="node3++6++2" data-idx="3++6++2">shamanic soundscape - neuromeditation sessions</label>
       <ul>
         <li>
         <div class="date"> 2020-02-22</div>
@@ -1324,8 +1314,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++7++3" name="node" class="node" type="radio" />
-      <label for="node3++7++3" data-idx="3++7++3">compulsive music waves ii</label>
+      <input id="node3++6++3" name="node" class="node" type="radio" />
+      <label for="node3++6++3" data-idx="3++6++3">compulsive music waves ii</label>
       <ul>
         <li>
         <div class="date"> 2018-01-03</div>
@@ -1341,8 +1331,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++7++4" name="node" class="node" type="radio" />
-      <label for="node3++7++4" data-idx="3++7++4">compulsive music waves i</label>
+      <input id="node3++6++4" name="node" class="node" type="radio" />
+      <label for="node3++6++4" data-idx="3++6++4">compulsive music waves i</label>
       <ul>
         <li>
         <div class="date"> 2016-01-02</div>
@@ -1359,6 +1349,10 @@ there is also a file added in layouts: external.html and the posts amended accor
 
 
 </div>
+
+<p><br /></p>
+
+<p>For feedback and questions please email me at kris[at]khofstadter[dot]info.</p>
 
 <p><br /></p>
 
