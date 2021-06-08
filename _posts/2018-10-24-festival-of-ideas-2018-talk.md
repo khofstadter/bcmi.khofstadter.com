@@ -10,18 +10,18 @@ short: Presentation linking my research to other artists work.
 Gave a presentation at [Kelcy Davenport](http://www.kelcydavenport.com/)'s ‘[The Archive and the Contested Landscape](https://thearchiveandthecontestedlandscape.wordpress.com/)' symposium, which was part of the 2018 [Festival of Ideas](https://www.festivalofideas.cam.ac.uk/), Cambridge. My presentation focused on making connections between the key ideas of the symposium and my BCMI research.
 <br>
 <br>
-![](../assets/img//2018-10-festival-of-ideas-1.jpg)
+![](../assets/img/2018-10-festival-of-ideas-1.jpg)
 <br>
 <br>
-![](../assets/img//2018-10-festival-of-ideas-2.jpg)
+![](../assets/img/2018-10-festival-of-ideas-2.jpg)
 <br>
 <br>
-![](../assets/img//2018-10-festival-of-ideas-3.jpg)
+![](../assets/img/2018-10-festival-of-ideas-3.jpg)
 <br>
 <br>
 One slide:
 <br>
-![](../assets/img//2018-10-festival-of-ideas.jpg)
+![](../assets/img/2018-10-festival-of-ideas.jpg)
 <br>
 
 Audio archive:
@@ -35,6 +35,6 @@ Your browser does not support the audio element.
 All slides [here](../assets/doc/k_hofstadter_php_2018_10_presentation.pdf).
 <br>
 <br>
-![](../assets/img//2018-10-festival-of-ideas-4.jpg)
+![](../assets/img/2018-10-festival-of-ideas-4.jpg)
 <br>
 <br>
