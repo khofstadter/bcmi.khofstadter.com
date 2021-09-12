@@ -14,7 +14,7 @@ altered states of consciousness, brain-computer music interfacing, auditory brai
 A visual representation of progress can be seen [here](timeline).
 
 ## ongoing work
-I submitted the thesis at the end of April 2021. While waiting for the viva, I am (1) preparing a funding application to further the research; (2) writing a book chapter that links the research to psychedelic music and (3) working on the projects that were started in this research but have not been completed yet. Once I get the award, I will reconstruct this website and add the majority of the chapters in the submitted commentary as webpages here. 
+After the viva I was asked to make amendments to my thesis. I am currently working on these amendments.
 <br>
 {% include index-cron-ongoing.html %}
 
