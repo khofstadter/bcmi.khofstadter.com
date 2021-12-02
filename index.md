@@ -36,7 +36,7 @@ After the viva I was asked to make amendments to my thesis. I am currently worki
 
 <br>
 
-For feedback and questions please email me at kris[at]khofstadter[dot]info.
+For feedback and questions please email me at kris[at]khofstadter[dot]com.
 
 <br>
 
