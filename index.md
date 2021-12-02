@@ -2,7 +2,7 @@
 title: BCMI
 layout: default
 ---
-Hello, my name is Krisztián Hofstädter. This subdomain archives my doctoral research titled 'Developing a Brain-Computer Music Interface for Meditation' at the [Anglia Ruskin University](https://aru.ac.uk/people/krisztian-hofstadter), Cambridge. You can read about my other projects [here](https://khofstadter.info).
+Hello, my name is Krisztián Hofstädter. This subdomain archives my doctoral research titled 'Developing a Brain-Computer Music Interface for Meditation' at the [Anglia Ruskin University](https://aru.ac.uk/people/krisztian-hofstadter), Cambridge. You can read about my other projects [here](https://khofstadter.com).
 
 ## research abstract
 This interdisciplinary research developed a brain-computer music interface (BCMI) and demonstrated its use for scientific and artistic purposes. It was developed for neurofeedback practitioners and creatives interested in the combined use of brain-computer interfacing and music for well-being and creative expressions linked to meditation. Its effectiveness is investigated in training programmes, surveys and demonstrated in presentations and performances with real-time electroencephalography (EEG).
