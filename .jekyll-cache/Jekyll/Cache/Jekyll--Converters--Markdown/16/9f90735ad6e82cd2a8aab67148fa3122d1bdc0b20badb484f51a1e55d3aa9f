@@ -1,0 +1,145 @@
+I"P8<!--
+notes:
+- load in the middle (highlighting PhD)
+- https://www.fileformat.info/index.htm for html characters;
+- cannot convert to JSON atm, will use CSV file, copy and past from there into script (does not look extactly how it should (some extra spaced_)
+
+- have managed to include vis.js (only html, not md) in jekyll website bcmi.khofstadter.info/timeline.html (todo: use some styling from default css in the vis.js so that they look similar a bit) BUT only working locally: https://github.com/visjs/vis-timeline/issues/179
+
+* link: https://visjs.github.io/vis-timeline/examples/timeline/items/htmlContents.html
+* tooltip when hover: https://visjs.github.io/vis-timeline/examples/timeline/items/tooltip.html (might not work when using phone)
+* select groups:
+-->
+
+<p>On this page I experiment with <a href="https://visjs.org/">vis.js</a> to visualise the timeline of the research.</p>
+
+<div id="visualization"></div>
+
+<script>
+  var groups = new vis.DataSet([
+
+    {id: 0, content: 'studies', value: 1},
+    {id: 1, content: '1st supervisor', value: 2},
+    {id: 2, content: '2nd supervisor', value:3},
+    {id: 3, content: 'external advisor', value: 4},
+    {id: 4, content: 'admin', value: 5},
+    {id: 5, content: 'literature<br>review', value: 6},
+    {id: 6, content: 'BCMI_0', value: 7},
+    {id: 7, content: 'BCMI_1', value: 8},
+    {id: 8, content: 'BCMI_2', value: 9},
+    {id: 9, content: 'blue forest<br>(no EEG)', value: 12},
+    {id: 10, content: 'other (ongoing) BCMI<br>projects', value: 11},
+    {id: 11, content: 'public', value:15},
+    {id: 12, content: 'courses/<br>workshops', value:16},
+    {id: 13, content: 'audio releases', value:13},
+    {id: 14, content: 'BCMI_3', value:10},
+    {id: 15, content: 'publishing', value:14},
+
+  ]);
+
+  // create a dataset with items
+  // note that months are zero-based in the JavaScript Date object, so month 3 is April
+  var items = new vis.DataSet([
+   {	id:	0	,	group:	0	,	content:	BA'	,	type:	background'	,	start: new Date(2006,9,01)	,	end: new Date(2009,05,01)	},												
+{	id:	1	,	group:	0	,	content:	MA'	,	type:	background'	,	start: new Date(2009,9,01)	,	end: new Date(2013,05,01)	},												
+{	id:	2	,	group:	0	,	content:	PhD'	,	type:	background'	,	start: new Date(2015,9,01)	,	end: new Date(2021,4,01)	},												
+{	id:	3	,	group:	1	,	content:	T	Hall'	,	type:	background'	,	start: new Date(2015,9,01)	,	end: new Date(2017,1,01)	},											
+{	id:	4	,	group:	1	,	content:	R	Hoadley'	,	type:	background'	,	start: new Date(2017,10,20)	,	end: new Date(2018,3,01)	},											
+{	id:	5	,	group:	1	,	content:	P	Rhys'	,	type:	background'	,	start: new Date(2018,8,02)	,	end: new Date(2021,4,01)	},											
+{	id:	6	,	group:	2	,	content:	J	Fachner'	,	type:	background'	,	start: new Date(2015,9,01)	,	end: new Date(2021,4,01)	},											
+{	id:	7	,	group:	3	,	content:	F	Olofsson'	,	type:	background'	,	start: new Date(2017,11,24)	,	end: new Date(2021,4,01)	},											
+{	id:	8	,	group:	4	,	content:	Intermission'	,	type: 'background', className: 'negative'	,	start: new Date(2018,3,01)	,	end: new Date(2018,8,01)	},													
+{	id:	9	,	group:	4	,	content:	Intermission'	,	type: 'background', className: 'negative'	,	start: new Date(2020,0,01)	,	end: new Date(2020,7,01)	},													
+{	id:	10	,	group:	4	,	content:	Write-up'	,	type:	background'	,	start: new Date(2019,1,01)	,	end: new Date(2019,11,31)	},												
+{	id:	11	,	group:	4	,	content:	Write-up'	,	type:	background'	,	start: new Date(2020,7,02)	,	end: new Date(2021,4,01)	},												
+{	id:	12	,	group:	4	,	content:	Initial	Research	Proposal'	,	type:	point'	,	start: new Date(2015,2,08)	,		},										
+{	id:	13	,	group:	4	,	content:	Approval	of	Research	Proposal'	,	type:	point'	,	start: new Date(2015,8,20)	,		},									
+{	id:	14	,	group:	4	,	content:	1st	Annual	Review'	,	type:	point'	,	start: new Date(2016,4,19)	,		},										
+{	id:	15	,	group:	4	,	content:	Change	of	title	and	type	of	research'	,	type:	point'	,	start: new Date(2016,10,30)	,	end: new Date(2017,0,07)	},						
+{	id:	16	,	group:	4	,	content:	2nd	Annual	Review'	,	type:	point'	,	start: new Date(2017,6,26)	,			title: 'Panel concerns about supervision, advisor suggested.'	},								
+{	id:	17	,	group:	4	,	content:	Confirmation	of	Candidature'	,	type:	point'	,	start: new Date(2017,2,07)	,		},										
+{	id:	18	,	group:	4	,	content:	3rd	Annual	Review'	,	type:	point'	,	start: new Date(2018,11,18)	,		},										
+{	id:	19	,	group:	4	,	content:	4th	Annual	Review'	,	type:	point'	,	start: new Date(2020,09,18)	,		},										
+{	id:	20	,	group:	5	,	content:	Initial'	,	type:	background'	,	start: new Date(2014,9,01)	,	end: new Date(2015,3,08)	},												
+{	id:	21	,	group:	5	,	content:	Exploratory'	,	type:	background'	,	start: new Date(2015,9,01)	,	end: new Date(2018,5,01)	},												
+{	id:	22	,	group:	5	,	content:	Focused'	,	type:	background'	,	start: new Date(2018,6,01)	,	end: new Date(2019,10,01)	},												
+{	id:	23	,	group:	12	,	content: 'Introduction to BCI  <a href="https://www.udemy.com/course/brain-computer-interface/">&#9741</a>'	,	type:	point'	,	start: new Date(2015,9,26)	,			title:	@	Udemy	Course.'	},								
+{	id:	24	,	group:	6	,	content:	IBVA-Max	Interface'	,			start: new Date(2008,08,05)	,	end: new Date(2010,5,08)	},												
+{	id:	25	,	group:	6	,	content: 'IBVA-SuperCollider interface <a href="/ibva-supercollider-interface/">&#9741</a>'	,	type:	point'	,	start: new Date(2018,1,24)	,		},													
+{	id:	26	,	group:	7	,	content: 'NeuroSky-SuperCollider Interface Prototype<a href="/neurosky-supercollider-interface-and-audio-neurogame/">&#9741</a>'	,			start: new Date(2012,9,01)	,	end: new Date(2014,5,08)	},														
+{	id:	27	,	group:	7	,	content: 'NeuroSky-SuperCollider Interface and Audio Neurogame <a href="/neurosky-supercollider-interface-and-audio-neurogame/">&#9741</a>'	,			start: new Date(2015,9,01)	,	end: new Date(2018,3,08)	},														
+{	id:	28	,	group:	8	,	content: 'OpenBCI-SuperCollider Interface <a href="/openbci-supercollider-interface/">&#9741</a>'	,			start: new Date(2018,5,24)	,	end: new Date(2020,2,24)	},														
+{	id:	29	,	group:	8	,	content: 'Shamanic Soundscape Generator <a href="/bcmi-sc01-shamanic-meditation/">&#9741</a>'	,			start: new Date(2019,1,01)	,	end: new Date(2020,2,24)	,	title:	some	tex'	},										
+{	id:	30	,	group:	8	,	content:	NeuroMeditation	Sessions'	,	type:	point'	,	start: new Date(2019,8,20)			},											
+{	id:	31	,	group:	13	,	content: 'CMW_i  <a href="https://tedor.bandcamp.com/album/compulsive-music-waves-i">&#9741</a>'	,	type:	point'	,	start: new Date(2016,0,2)			},													
+{	id:	32	,	group:	13	,	content: 'CMW_ii  <a href="https://tedor.bandcamp.com/album/compulsive-music-waves-ii">&#9741</a>'	,	type:	point'	,	start: new Date(2018,0,3)			},													
+{	id:	33	,	group:	13	,	content: 'Shamanic Soundscape – NeuroFeedback Sessions  <a href=”https://tedor.bandcamp.com/album/shamanic-soundscape-neurofeedback-sessions">&#9741</a>'	,	type:	point'	,	start: new Date(2020,1,22)			},													
+{	id:	34	,	group:	13	,	content: 'Shamanic Soundscape – Level Two  <a href="https://tedor.bandcamp.com/album/shamanic-soundscape-level-two">&#9741</a>'	,	type:	point'	,	start: new Date(2020,2,23)			},													
+{	id:	35	,	group:	8	,	content:	Listening	Study	1'	,	type:	point'	,	start: new Date(2019,10,14)			},										
+{	id:	36	,	group:	8	,	content:	Listening	Study	2'	,	type:	point'	,	start: new Date(2020,5,4)			},										
+{	id:	37	,	group:	9	,	content: 'Blue Forest <a href="/blue-forest/">&#9741</a>'	,			start: new Date(2019,02,13)	,	end: new Date(2023,1,1)	},														
+{	id:	38	,	group:	10	,	content: 'with neurofeedback <a href="/bcmi-projects-with-neurofeedback/">&#9741</a>'	,			start: new Date(2020,1,1)	,	end: new Date(2021,8,1)	},														
+{	id:	39	,	group:	10	,	content: 'without neurofeedback <a href="/bcmi-projects-without-neurofeedback/">&#9741</a>'	,			start: new Date(2019,1,1)	,	end: new Date(2021,8,1)	},														
+{	id:	40	,	group:	11	,	content:	MPA	PhD	Seminar	–	presentation'	,	type:	point'	,	start: new Date(2016,0,18)	,		},								
+{	id:	41	,	group:	7	,	content: 'InScore <a href="/inscore-experiment/">&#9741</a>'	,	type:	point'	,	start: new Date(2016,1,26)	,	end: new Date(2016,2,07)	},													
+{	id:	42	,	group:	11	,	content: 'Sonic Art – demo <a href="/inscore-experiment/">&#9741</a>'	,	type:	point'	,	start: new Date(2016,0,18)	,		},													
+{	id:	43	,	group:	7	,	content: 'Experimenting with Emotiv, IBVA and OpenBCI'	,	type:	point'	,	start: new Date(2016,2,04)	,		},													
+{	id:	44	,	group:	7	,	content: 'Platypus Standalone <a href="/platypus-standalone-of-sequencer/">&#9741</a>'	,	type:	point'	,	start: new Date(2016,2,04)	,			title:	Standalone	version	of	the	sequencer	in	NeuroSky-SuperCollider	Interface	and	Audio	Neurogame'	},
+{	id:	45	,	group:	14	,	content:	Start	designing	BCMI_3'	,	type:	point'	,	start: new Date(2021,9,01)	,		},										
+{	id:	46	,	group:	11	,	content:	MPA	PhD	Seminar	–	presentation'	,	type:	point'	,	start: new Date(2016,2,23)	,		},								
+{	id:	47	,	group:	11	,	content: 'Pint of Science  <a href="https://khofstadter.info/pint-of-science/">&#9741</a>'	,	type:	point'	,	start: new Date(2016,4,24)	,		},													
+{	id:	48	,	group:	11	,	content: 'ARU Research Conference – poster  <a href="/aru-research-conference-poster/"&#9741</a>'	,	type:	point'	,	start: new Date(2016,5,06)	,		},													
+{	id:	49	,	group:	11	,	content:	MPA	PhD	Seminar	–	presentation'	,	type:	point'	,	start: new Date(2016,5,21)	,		},								
+{	id:	50	,	group:	11	,	content:	Musedelica	Symposium	–	demo'	,	type:	point'	,	start: new Date(2016,6,14)	,		},									
+{	id:	51	,	group:	11	,	content: 'Serious Gaming  <a href="https://www.coursera.org/learn/serious-gaming">&#9741</a>'	,	type:	point'	,	start: new Date(2016,11,12)	,			title:	@	Coursera.'	},									
+{	id:	52	,	group:	11	,	content:	MPA	PhD	Seminar	–	presentation'	,	type:	point'	,	start: new Date(2017,0,17)	,		},								
+{	id:	53	,	group:	11	,	content:	First	Sight	–	demo'	,	type:	point'	,	start: new Date(2017,0,17)	,		},									
+{	id:	54	,	group:	12	,	content: 'Music as Biology <a href="https://www.coursera.org/learn/music-as-biology">&#9741</a>'	,	type:	point'	,	start: new Date(2017,2,13)	,			title:	@	Coursera.'	},									
+{	id:	55	,	group:	12	,	content: 'Quantitative EEG <a href="http://qeeg.co.uk/qeeg-workshop">&#9741</a>'	,	type:	point'	,	start: new Date(2017,3,11)	,			title:	worshop	with	Prof.	Yury	Kropotov	in	Cambridge.'	},				
+{	id:	56	,	group:	11	,	content: 'Multilingual Conference, Essex – presentation'	,	type:	point'	,	start: new Date(2018,1,14)	,		},													
+{	id:	57	,	group:	8	,	content:	OpenBCI	Firmware	Update	Struggles'	,	type:	point'	,	start: new Date(2018,2,01)	,		},									
+{	id:	58	,	group:	11	,	content: 'StoryLab Symposium <a href="/storylab-symposium-talk/">&#9741</a>'	,	type:	point'	,	start: new Date(2018,2,14)	,		},													
+{	id:	59	,	group:	11	,	content: 'Qujing University, China <a href="/qujing-university-talk/">&#9741</a>'	,	type:	point'	,	start: new Date(2018,3,18)	,		},													
+{	id:	60	,	group:	11	,	content: 'CIMTRE Networking Event <a href="/cimtre-networking/">&#9741</a>'	,	type:	point'	,	start: new Date(2018,4,18)	,		},													
+{	id:	61	,	group:	8	,	content:	Greentek	S1'	,	type:	point'	,	start: new Date(2018,6,19)	,		},											
+{	id:	62	,	group:	11	,	content: 'Festival of Ideas – presentation <a href="/festival-of-ideas-talk-2018/">&#9741</a>'	,	type:	point'	,	start: new Date(2018,9,24)	,		},													
+{	id:	63	,	group:	8	,	content: 'Tibetan Singing Bowl Meditation <a href="/tibetan-singing-bowls-meditation-with-eeg/">&#9741</a>'	,	type:	point'	,	start: new Date(2018,10,21)	,		},													
+{	id:	64	,	group:	6	,	content: 'ASMR experiment  <a href="/asmr-eeg-tests/">&#9741</a>'	,	type:	point'	,	start: new Date(2018,10,28)	,		},													
+{	id:	65	,	group:	12	,	content: 'Drum Healing Training Program <a href="https://www.stronginstitute.com">&#9741</a>'	,	type:	point'	,	start: new Date(2019,1,11)	,			title:	@	Strong	Institute	(Jeff	Strong).'	},						
+{	id:	66	,	group:	12	,	content:	Commercialise	Your	Research'	,	type:	point'	,	start: new Date(2019,2,25)	,			title:		Workshop	with	Roger	Chittock	@	ARU.'	},	
+{	id:	67	,	group:	11	,	content: 'AES York Conference – demo <a href="/aes-york-conference-demo-2019/">&#9741</a>'	,	type:	point'	,	start: new Date(2019,1,27)	,		},													
+{	id:	68	,	group:	11	,	content: 'Aphorisms by David Ryan<a href="/aphorisms/”>&#9741</a>'	,	type:	point'	,	start: new Date(2019,5,13)	,		},													
+{	id:	69	,	group:	12	,	content:	Intellectual	Property'	,	type:	point'	,	start: new Date(2019,6,03)	,			title:		Workshop	with	Roger	Chittock	@	ARU.'	},		
+{	id:	70	,	group:	8	,	content:	Greentek	S3'	,	type:	point'	,	start: new Date(2019,6,05)	,		},											
+{	id:	71	,	group:	8	,	content:	3D	OpenBCI	enclosure'	,	type:	point'	,	start: new Date(2019,6,17)	,		},										
+{	id:	72	,	group:	11	,	content: 'Festival of Ideas 2019 – performance <a href="/festival-of-ideas-performance-2019/">&#9741</a>'	,	type:	point'	,	start: new Date(2019,9,26)	,		},													
+{	id:	73	,	group:	11	,	content: 'Talk and performance for final year music students, ARU'	,	type:	point'	,	start: new Date(2019,9,26)	,		},													
+{	id:	74	,	group:	11	,	content:	Cambridge	Science	Festival	(Cancelled)'	,	type:	point'	,	start: new Date(2020,2,24)	,		},									
+{	id:	75	,	group:	11	,	content:	ARU	Talking	Science	(Online	presentation	and	Binaural	Study)'	,	type:	point'	,	start: new Date(2020,5,14)	,		},					
+{	id:	76	,	group:	12	,	content: 'Psychedelic NeuroScience Course<a href="https://youtu.be/Y-KztRvRyl0”>&#9741</a>'	,	type:	point'	,	start: new Date(2020,8,24)	,		},													
+,		
+
+  ]);
+
+  // create visualization
+  var container = document.getElementById('visualization');
+  var options = {
+    // option groupOrder can be a property name or a sort function
+    // the sort function must compare two groups and return a value
+    //     > 0 when a > b
+    //     < 0 when a < b
+    //       0 when a == b
+    groupOrder: function (a, b) {
+      return a.value - b.value;
+    },
+    editable: false
+  };
+
+  var timeline = new vis.Timeline(container);
+  timeline.setOptions(options);
+  timeline.setGroups(groups);
+  timeline.setItems(items);
+
+</script>
+
+:ET

@@ -1,9 +1,4 @@
----
-title: BCMI
-layout: visjs
-permalink: /timeline/
----
-<!--
+I"�6<!--
 notes:
 - load in the middle (highlighting PhD)
 - https://www.fileformat.info/index.htm for html characters;
@@ -16,7 +11,7 @@ notes:
 * select groups:
 -->
 
-On this page I experiment with [vis.js](https://visjs.org/) to visualise the timeline of the research.
+<p>On this page I experiment with <a href="https://visjs.org/">vis.js</a> to visualise the timeline of the research.</p>
 
 <div id="visualization"></div>
 
@@ -37,15 +32,15 @@ On this page I experiment with [vis.js](https://visjs.org/) to visualise the tim
     {id: 11, content: 'public', value:15},
     {id: 12, content: 'courses/<br>workshops', value:16},
     {id: 13, content: 'audio releases', value:13},
-    {id: 14, content: 'publishing', value:14},
+    {id: 14, content: 'BCMI_3', value:10},
+    {id: 15, content: 'publishing', value:14},
 
   ]);
 
   // create a dataset with items
   // note that months are zero-based in the JavaScript Date object, so month 3 is April
   var items = new vis.DataSet([
-
-{	id: 0	,	group: 0	,	content: 'BA'	,	type: 'background'	,	start: new Date(2006,9,01)	,	end: new Date(2009,05,01)	},		
+    {	id: 0	,	group: 0	,	content: 'BA'	,	type: 'background'	,	start: new Date(2006,9,01)	,	end: new Date(2009,05,01)	},		
 {	id: 1	,	group: 0	,	content: 'MA'	,	type: 'background'	,	start: new Date(2009,9,01)	,	end: new Date(2013,05,01)	},		
 {	id: 2	,	group: 0	,	content: 'PhD'	,	type: 'background'	,	start: new Date(2015,9,01)	,	end: new Date(2022,7,04)	},		
 {	id: 3	,	group: 1	,	content: 'T Hall'	,	type: 'background'	,	start: new Date(2015,9,01)	,	end: new Date(2017,1,01)	},		
@@ -57,42 +52,42 @@ On this page I experiment with [vis.js](https://visjs.org/) to visualise the tim
 {	id: 9	,	group: 4	,	content: 'Intermission'	,	type: 'background', className: 'negative'	,	start: new Date(2020,0,01)	,	end: new Date(2020,7,01)	},		
 {	id: 10	,	group: 4	,	content: 'Write-up'	,	type: 'background'	,	start: new Date(2019,1,01)	,	end: new Date(2019,11,31)	},		
 {	id: 11	,	group: 4	,	content: 'Write-up'	,	type: 'background'	,	start: new Date(2020,7,02)	,	end: new Date(2021,4,01)	},		
-{	id: 12	,	group: 4	,	content: 'Resubmission'	,	type: 'background'	,	start: new Date(2021,7,04)	,	end: new Date(2022,7,04)	},		
-{	id: 13	,	group: 4	,	content: 'Initial Research Proposal'	,	type: 'point'	,	start: new Date(2015,2,08)	,		},		
-{	id: 14	,	group: 4	,	content: 'Approval of Research Proposal'	,	type: 'point'	,	start: new Date(2015,8,20)	,		},		
-{	id: 15	,	group: 4	,	content: '1st Annual Review'	,	type: 'point'	,	start: new Date(2016,4,19)	,		},		
-{	id: 16	,	group: 4	,	content: 'Change of title and type of research'	,	type: 'point'	,	start: new Date(2016,10,30)	,	end: new Date(2017,0,07)	},		
-{	id: 17	,	group: 4	,	content: '2nd Annual Review'	,	type: 'point'	,	start: new Date(2017,6,26)	,			title: 'Panel concerns about supervision, advisor suggested.'	},
-{	id: 18	,	group: 4	,	content: 'Confirmation of Candidature'	,	type: 'point'	,	start: new Date(2017,2,07)	,		},		
-{	id: 19	,	group: 4	,	content: '3rd Annual Review'	,	type: 'point'	,	start: new Date(2018,11,18)	,		},		
-{	id: 20	,	group: 4	,	content: '4th Annual Review'	,	type: 'point'	,	start: new Date(2020,09,18)	,		},		
-{	id: 21	,	group: 4	,	content: 'VIVA'	,	type: 'point'	,	start: new Date(2021,07,14)	,		},		
-{	id: 22	,	group: 5	,	content: 'Initial'	,	type: 'background'	,	start: new Date(2014,9,01)	,	end: new Date(2015,3,08)	},		
-{	id: 23	,	group: 5	,	content: 'Exploratory'	,	type: 'background'	,	start: new Date(2015,9,01)	,	end: new Date(2018,5,01)	},		
-{	id: 24	,	group: 5	,	content: 'Focused'	,	type: 'background'	,	start: new Date(2018,6,01)	,	end: new Date(2019,10,01)	},		
-{	id: 25	,	group: 5	,	content: 'Refined'	,	type: 'background'	,	start: new Date(2021,8,04)	,	end: new Date(2021,11,20)	},		
-{	id: 26	,	group: 12	,	content: 'Introduction to BCI  <a href="https://www.udemy.com/course/brain-computer-interface/">&#9741</a>'	,	type: 'point'	,	start: new Date(2015,9,26)	,			title: '@ Udemy Course.'	},
-{	id: 27	,	group: 6	,	content: 'IBVA-Max Interface'	,			start: new Date(2008,08,05)	,	end: new Date(2010,5,08)	},		
-{	id: 28	,	group: 6	,	content: 'IBVA-SuperCollider interface <a href="/ibva-supercollider-interface/">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,1,24)	,		},		
-{	id: 29	,	group: 7	,	content: 'NeuroSky-SuperCollider Interface Prototype<a href="/neurosky-supercollider-interface-and-audio-neurogame/">&#9741</a>'	,			start: new Date(2012,9,01)	,	end: new Date(2014,5,08)	},		
-{	id: 30	,	group: 7	,	content: 'NeuroSky-SuperCollider Interface and Audio Neurogame <a href="/neurosky-supercollider-interface-and-audio-neurogame/">&#9741</a>'	,			start: new Date(2015,9,01)	,	end: new Date(2018,3,08)	},		
-{	id: 31	,	group: 8	,	content: 'OpenBCI-SuperCollider Interface <a href="/openbci-supercollider-interface/">&#9741</a>'	,			start: new Date(2018,5,24)	,	end: new Date(2020,2,24)	},		
-{	id: 32	,	group: 8	,	content: 'Shamanic Soundscape Generator <a href="/bcmi-sc01-shamanic-meditation/">&#9741</a>'	,			start: new Date(2019,1,01)	,	end: new Date(2020,2,24)	,	title: 'some tex'	},
-{	id: 33	,	group: 8	,	content: 'NeuroMeditation Sessions'	,	type: 'point'	,	start: new Date(2019,8,20)			},		
-{	id: 34	,	group: 13	,	content: 'CMW_i  <a href="https://tedor.bandcamp.com/album/compulsive-music-waves-i">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,0,2)			},		
-{	id: 35	,	group: 13	,	content: 'CMW_ii  <a href="https://tedor.bandcamp.com/album/compulsive-music-waves-ii">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,0,3)			},		
-{	id: 36	,	group: 13	,	content: 'Shamanic Soundscape – NeuroFeedback Sessions  <a href=”https://tedor.bandcamp.com/album/shamanic-soundscape-neurofeedback-sessions">&#9741</a>'	,	type: 'point'	,	start: new Date(2020,1,22)			},		
-{	id: 37	,	group: 13	,	content: 'Shamanic Soundscape – Level Two  <a href="https://tedor.bandcamp.com/album/shamanic-soundscape-level-two">&#9741</a>'	,	type: 'point'	,	start: new Date(2020,2,23)			},		
-{	id: 38	,	group: 8	,	content: 'Listening Study 1'	,	type: 'point'	,	start: new Date(2019,10,14)			},		
-{	id: 39	,	group: 8	,	content: 'Listening Study 2'	,	type: 'point'	,	start: new Date(2020,5,4)			},		
-{	id: 40	,	group: 9	,	content: 'Blue Forest <a href="/blue-forest/">&#9741</a>'	,			start: new Date(2019,02,13)	,	end: new Date(2025,1,1)	},		
-{	id: 41	,	group: 10	,	content: 'with neurofeedback <a href="/bcmi-projects-with-neurofeedback/">&#9741</a>'	,			start: new Date(2020,1,1)	,	end: new Date(2023,8,1)	},		
-{	id: 42	,	group: 10	,	content: 'without neurofeedback <a href="/bcmi-projects-without-neurofeedback/">&#9741</a>'	,			start: new Date(2019,1,1)	,	end: new Date(2023,8,1)	},		
-{	id: 43	,	group: 11	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,0,18)	,		},		
-{	id: 44	,	group: 7	,	content: 'InScore <a href="/inscore-experiment/">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,1,26)	,	end: new Date(2016,2,07)	},		
-{	id: 45	,	group: 11	,	content: 'Sonic Art – demo <a href="/inscore-experiment/">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,0,18)	,		},		
-{	id: 46	,	group: 7	,	content: 'Experimenting with Emotiv, IBVA and OpenBCI'	,	type: 'point'	,	start: new Date(2016,2,04)	,		},		
-{	id: 47	,	group: 7	,	content: 'Platypus Standalone <a href="/platypus-standalone-of-sequencer/">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,2,04)	,			title: 'Standalone version of the sequencer in NeuroSky-SuperCollider Interface and Audio Neurogame'	},
+{	id: 12	,	group: 4	,	content: 'Initial Research Proposal'	,	type: 'point'	,	start: new Date(2015,2,08)	,		},		
+{	id: 13	,	group: 4	,	content: 'Approval of Research Proposal'	,	type: 'point'	,	start: new Date(2015,8,20)	,		},		
+{	id: 14	,	group: 4	,	content: '1st Annual Review'	,	type: 'point'	,	start: new Date(2016,4,19)	,		},		
+{	id: 15	,	group: 4	,	content: 'Change of title and type of research'	,	type: 'point'	,	start: new Date(2016,10,30)	,	end: new Date(2017,0,07)	},		
+{	id: 16	,	group: 4	,	content: '2nd Annual Review'	,	type: 'point'	,	start: new Date(2017,6,26)	,			title: 'Panel concerns about supervision, advisor suggested.'	},
+{	id: 17	,	group: 4	,	content: 'Confirmation of Candidature'	,	type: 'point'	,	start: new Date(2017,2,07)	,		},		
+{	id: 18	,	group: 4	,	content: '3rd Annual Review'	,	type: 'point'	,	start: new Date(2018,11,18)	,		},		
+{	id: 19	,	group: 4	,	content: '4th Annual Review'	,	type: 'point'	,	start: new Date(2020,09,18)	,		},		
+{	id: 20	,	group: 4	,	content: 'VIVA'	,	type: 'point'	,	start: new Date(2021,07,5)	,		},		
+{	id: 21	,	group: 5	,	content: 'Initial'	,	type: 'background'	,	start: new Date(2014,9,01)	,	end: new Date(2015,3,08)	},		
+{	id: 22	,	group: 5	,	content: 'Exploratory'	,	type: 'background'	,	start: new Date(2015,9,01)	,	end: new Date(2018,5,01)	},		
+{	id: 23	,	group: 5	,	content: 'Focused'	,	type: 'background'	,	start: new Date(2018,6,01)	,	end: new Date(2019,10,01)	},		
+{	id: 24	,	group: 5	,	content: 'Refined'	,	type: 'background'	,	start: new Date(2021,8,01)	,	end: new Date(2019,11,20)	},		
+{	id: 25	,	group: 12	,	content: 'Introduction to BCI  <a href="https://www.udemy.com/course/brain-computer-interface/">&#9741</a>'	,	type: 'point'	,	start: new Date(2015,9,26)	,			title: '@ Udemy Course.'	},
+{	id: 26	,	group: 6	,	content: 'IBVA-Max Interface'	,			start: new Date(2008,08,05)	,	end: new Date(2010,5,08)	},		
+{	id: 27	,	group: 6	,	content: 'IBVA-SuperCollider interface <a href="/ibva-supercollider-interface/">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,1,24)	,		},		
+{	id: 28	,	group: 7	,	content: 'NeuroSky-SuperCollider Interface Prototype<a href="/neurosky-supercollider-interface-and-audio-neurogame/">&#9741</a>'	,			start: new Date(2012,9,01)	,	end: new Date(2014,5,08)	},		
+{	id: 29	,	group: 7	,	content: 'NeuroSky-SuperCollider Interface and Audio Neurogame <a href="/neurosky-supercollider-interface-and-audio-neurogame/">&#9741</a>'	,			start: new Date(2015,9,01)	,	end: new Date(2018,3,08)	},		
+{	id: 30	,	group: 8	,	content: 'OpenBCI-SuperCollider Interface <a href="/openbci-supercollider-interface/">&#9741</a>'	,			start: new Date(2018,5,24)	,	end: new Date(2020,2,24)	},		
+{	id: 31	,	group: 8	,	content: 'Shamanic Soundscape Generator <a href="/bcmi-sc01-shamanic-meditation/">&#9741</a>'	,			start: new Date(2019,1,01)	,	end: new Date(2020,2,24)	,	title: 'some tex'	},
+{	id: 32	,	group: 8	,	content: 'NeuroMeditation Sessions'	,	type: 'point'	,	start: new Date(2019,8,20)			},		
+{	id: 33	,	group: 13	,	content: 'CMW_i  <a href="https://tedor.bandcamp.com/album/compulsive-music-waves-i">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,0,2)			},		
+{	id: 34	,	group: 13	,	content: 'CMW_ii  <a href="https://tedor.bandcamp.com/album/compulsive-music-waves-ii">&#9741</a>'	,	type: 'point'	,	start: new Date(2018,0,3)			},		
+{	id: 35	,	group: 13	,	content: 'Shamanic Soundscape – NeuroFeedback Sessions  <a href=”https://tedor.bandcamp.com/album/shamanic-soundscape-neurofeedback-sessions">&#9741</a>'	,	type: 'point'	,	start: new Date(2020,1,22)			},		
+{	id: 36	,	group: 13	,	content: 'Shamanic Soundscape – Level Two  <a href="https://tedor.bandcamp.com/album/shamanic-soundscape-level-two">&#9741</a>'	,	type: 'point'	,	start: new Date(2020,2,23)			},		
+{	id: 37	,	group: 8	,	content: 'Listening Study 1'	,	type: 'point'	,	start: new Date(2019,10,14)			},		
+{	id: 38	,	group: 8	,	content: 'Listening Study 2'	,	type: 'point'	,	start: new Date(2020,5,4)			},		
+{	id: 39	,	group: 9	,	content: 'Blue Forest <a href="/blue-forest/">&#9741</a>'	,			start: new Date(2019,02,13)	,	end: new Date(2023,1,1)	},		
+{	id: 40	,	group: 10	,	content: 'with neurofeedback <a href="/bcmi-projects-with-neurofeedback/">&#9741</a>'	,			start: new Date(2020,1,1)	,	end: new Date(2021,8,1)	},		
+{	id: 41	,	group: 10	,	content: 'without neurofeedback <a href="/bcmi-projects-without-neurofeedback/">&#9741</a>'	,			start: new Date(2019,1,1)	,	end: new Date(2021,8,1)	},		
+{	id: 42	,	group: 11	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,0,18)	,		},		
+{	id: 43	,	group: 7	,	content: 'InScore <a href="/inscore-experiment/">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,1,26)	,	end: new Date(2016,2,07)	},		
+{	id: 44	,	group: 11	,	content: 'Sonic Art – demo <a href="/inscore-experiment/">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,0,18)	,		},		
+{	id: 45	,	group: 7	,	content: 'Experimenting with Emotiv, IBVA and OpenBCI'	,	type: 'point'	,	start: new Date(2016,2,04)	,		},		
+{	id: 46	,	group: 7	,	content: 'Platypus Standalone <a href="/platypus-standalone-of-sequencer/">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,2,04)	,			title: 'Standalone version of the sequencer in NeuroSky-SuperCollider Interface and Audio Neurogame'	},
+{	id: 47	,	group: 14	,	content: 'Start designing BCMI_3'	,	type: 'point'	,	start: new Date(2021,9,01)	,		},		
 {	id: 48	,	group: 11	,	content: 'MPA PhD Seminar – presentation'	,	type: 'point'	,	start: new Date(2016,2,23)	,		},		
 {	id: 49	,	group: 11	,	content: 'Pint of Science  <a href="https://khofstadter.info/pint-of-science/">&#9741</a>'	,	type: 'point'	,	start: new Date(2016,4,24)	,		},		
 {	id: 50	,	group: 11	,	content: 'ARU Research Conference – poster  <a href="/aru-research-conference-poster/"&#9741</a>'	,	type: 'point'	,	start: new Date(2016,5,06)	,		},		
@@ -125,7 +120,6 @@ On this page I experiment with [vis.js](https://visjs.org/) to visualise the tim
 {	id: 77	,	group: 11	,	content: 'ARU Talking Science (Online presentation and Binaural Study)'	,	type: 'point'	,	start: new Date(2020,5,14)	,		},		
 {	id: 78	,	group: 12	,	content: 'Psychedelic NeuroScience Course<a href="https://youtu.be/Y-KztRvRyl0”>&#9741</a>'	,	type: 'point'	,	start: new Date(2020,8,24)	,		},		
 
-    
   ]);
 
   // create visualization
@@ -148,3 +142,5 @@ On this page I experiment with [vis.js](https://visjs.org/) to visualise the tim
   timeline.setItems(items);
 
 </script>
+
+:ET

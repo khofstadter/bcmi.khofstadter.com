@@ -1,9 +1,4 @@
----
-title: BCMI
-layout: visjs
-permalink: /timeline/
----
-<!--
+I"Ï6<!--
 notes:
 - load in the middle (highlighting PhD)
 - https://www.fileformat.info/index.htm for html characters;
@@ -16,7 +11,7 @@ notes:
 * select groups:
 -->
 
-On this page I experiment with [vis.js](https://visjs.org/) to visualise the timeline of the research.
+<p>On this page I experiment with <a href="https://visjs.org/">vis.js</a> to visualise the timeline of the research.</p>
 
 <div id="visualization"></div>
 
@@ -148,3 +143,5 @@ On this page I experiment with [vis.js](https://visjs.org/) to visualise the tim
   timeline.setItems(items);
 
 </script>
+
+:ET
