@@ -14,7 +14,7 @@ altered states of consciousness, brain-computer music interfacing, auditory brai
 A visual representation of progress can be seen [here](timeline).
 
 ## ongoing work
-After the viva I was asked to make amendments to my thesis. I am currently working on these amendments.
+Hurray! My resubmission was accepted. Now I am making the file more accessible so it can be submitted to the universities repository. 
 <br>
 {% include index-cron-ongoing.html %}
 
